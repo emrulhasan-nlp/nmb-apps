@@ -13,14 +13,19 @@ contents=os.listdir(data_directory+folder_dir[0])
 images=os.listdir(data_directory+folder_dir[1])
 
 
-for image, content in zip(images,contents):
+for img, cont in zip(images,contents):
     
-    image_path=data_directory+f'/{folder_dir[1]}/{image}'
-    content_path=data_directory+f'/{folder_dir[0]}/{content}'
-
+    image_path=data_directory+f'/{folder_dir[1]}/{img}'
+    
     image=Image.open(image_path)
-    st.image(image, caption=image_path)
+    st.image(image, caption=img)
+
+
+    content_path=data_directory+f'/{folder_dir[0]}/{cont}'
     with open(content_path, 'rb') as f:
         text=f.read()
 
-        st.text_area(label=content_path, value=text, height=200)
+        st.text_area(label=cont, value=text, height=200)
+
+# if __name__ == '__main__':
+#     st.run()
