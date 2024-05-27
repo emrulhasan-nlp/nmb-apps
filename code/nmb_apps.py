@@ -26,7 +26,7 @@ for datafolder in folder_dir:
         st.image(image, caption=img)
 
         clean_text=read_and_print_cleaned_file(content_path)
-        st.text_area(label=cont, value=clean_text, height=200)
+        st.text_area(label=cont, value=clean_text, height=400)
 
         if i==40:
             st.title("Next batch started")
