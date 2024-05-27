@@ -10,8 +10,8 @@ data_directory=parent_dir+'/data/'
 folder_dir=os.listdir(data_directory)
 
 for datafolder in folder_dir:
-    # #st.title(f"The source is {datafolder}")
-    print(f"The source is {datafolder}")
+    st.title(f"The source is {datafolder}")
+    #print(f"The source is {datafolder}")
 
     contents=os.listdir(data_directory+f"{datafolder}"+ '/content')
     images=os.listdir(data_directory+ f"{datafolder}"+'/images')
@@ -31,7 +31,9 @@ for datafolder in folder_dir:
 
             st.text_area(label=cont, value=text, height=200)
         if i==40:
-            print("Next batch started")
+            st.title("Next batch started")
+            #print("Next batch started")
         if i==200:
-            print("200 ends here")
+            #print("200 ends here")
+            st.title("200 ends here")
             break
