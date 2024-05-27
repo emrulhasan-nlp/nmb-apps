@@ -1,0 +1,67 @@
+CNN —
+
+As prescriptions for Ozempic soar, the drug and others like it are still reaching only a fraction of the population who could benefit from taking them — and the limited supply is disproportionately reaching White patients.
+
+The US Food and Drug Administration has approved two injectable semaglutide medications, which mimic the body’s GLP-1 hormone to help with insulin production and signal the brain to reduce appetite. Ozempic was approved in 2017 for treatment of type 2 diabetes, and Wegovy was approved in 2021 for treatment of obesity.
+
+About 1.7% of people in the US have been prescribed a semaglutide medication in 2023, up 40-fold over the past five years, according to data shared exclusively with CNN by Epic Research that was based on an analysis of millions of electronic health records.
+
+Despite the blockbuster popularity, the treatments are reaching only a fraction of people who could benefit from them. About 15% of adults in the United States have diabetes, and more than 40% have obesity, according to age-adjusted estimates from the US Centers for Disease Control and Prevention, leaving millions more potentially eligible for the much-heralded treatments.
+
+And certain groups who are disproportionately affected by diabetes and obesity have particularly low rates of use — disparities that have not improved amid the surge of prescribing.
+
+More than 70% of semaglutide prescriptions have gone to White patients, a share that that has held steady since 2018, the Epic Research data shows. White people are about four times more likely than Black people to have a prescription for a semaglutide medication, despite having nearly a 40% lower prevalence of diabetes and a 17% lower prevalence of obesity.
+
+“There is a major equity issue in terms of access to semaglutide that I certainly see in my practice on a day-to-day basis, largely because public insurance doesn’t cover medication for weight loss — full stop,” said Dr. Jody Dushay, an endocrinologist at Beth Israel Deaconess Medical Center and assistant professor of medicine at Harvard Medical School.
+
+It could take years to fulfill the demand for Ozempic and Wegovy, the CEO of drug manufacturer Novo Nordisk told CNN. The company has restricted the supply of starter doses of Wegovy, the semaglutide medication specifically approved for weight loss, as it struggles to meet skyrocketing demand.
+
+A stalemate created by surging demand for weight-loss drugs and recurrent shortages of Wegovy has driven more providers to prescribe Ozempic “off-label,” as a weight-loss treatment instead of a diabetes treatment.
+
+More than a third of people taking Ozempic – the drug approved to treat type 2 diabetes — had no history of the disease, according to an analysis by Trilliant Health, a health care analytics firm. The data captures the average prescribing rates in 50 major US cities, based on insurance claims.
+
+This off-label prescribing of Ozempic become more than twice as common over two years, up from 16% in 2021.
+
+Data on prescribing trends in 50 major cities shows that there’s been an undeniable spike in off-label prescribing of Ozempic nationwide, according to an analysis provided exclusively to CNN by Trilliant Health. The rates of off-label prescribing vary widely, as do the scale of the increases.
+
+In 38 of 50 markets, rates of off-label prescriptions more than doubled over the past two years. In some cities — including Boston and Hartford, Connecticut — about half of Ozempic prescriptions in the first quarter of 2023 went to people who did not have a history of diabetes.
+
+Some providers have found that some of their patients taking Ozempic to treat diabetes have struggled to access their medications recently, presumably boxed out by patients using the medication for other reasons.
+
+“At the start of this year, and definitely in the last two quarters of last year, we were running into a lot of shortages of Ozempic for our patients with type 2 diabetes,” said Dr. Disha Narang, an endocrinologist and director of obesity medicine at Northwestern Medicine, Lake Forest Hospital. “So our patients with type 2 diabetes were unable to reliably get their medication, and that became a problem.”
+
+Novo Nordisk has emphasized that Ozempic and Wegovy are not interchangeable treatments.
+
+“We are aware that the demand is high for both Ozempic and Wegovy. As we work to increase the supply of our treatments to meet patient demand, we will distribute our existing supply across markets in a responsible manner consistent with our focus on continuity of care and access to innovative medicines,” the company said in a statement.
+
+“In the US, we cannot control which specific pharmacies or patients receive Ozempic as we distribute our products to wholesalers who in turn supply retail pharmacies nationwide. While we respect every healthcare provider’s clinical expertise and their right to prescribe treatment based on their own medical judgment, we ask that healthcare professionals prescribe our medicines consistent with their FDA-approved indications.”
+
+Still, disproportionate access and increasingly common off-label use don’t mean that semaglutide medications are being misused, health care providers say.
+
+“Off-label prescribing happens all the time in medicine, so it’s not necessarily a malicious or negligent type of thing,” Narang said. “If someone does not have diabetes but has severe heart failure and class III obesity, that patient needs long-term medical weight management. I don’t care if they have diabetes or not. They need long-term support to get weight off, because that’s going to help their heart.”
+
+Weight-related problems — including cardiovascular disease, sleep apnea, polycystic ovary syndrome, hypertension and hyperlipidemia — are all important conditions that would benefit from the weight loss that comes with semaglutide treatments.
+
+And data from Epic Research suggests that trends in semaglutide prescriptions generally fall within appropriate guidelines. Obesity prevalence among people who have been prescribed semaglutide medications has held steady over the past five years.
+
+More than 80% of patients with a semaglutide prescription this year have obesity, according to the data from Epic Research — including nearly a third who have a BMI of 40 or higher, which is considered severe. Only 3% of prescriptions have gone to people who are considered to have a healthy weight, a slightly lower share than most previous years.
+
+“GLP1 agonists, like Semaglutide, has been linked not only to improved diabetes management and weight loss, but also to reductions in serious heart disease. Overall, we want to ensure that all people with medical conditions who could benefit from these medications have access to them,” Dr. Robert Gabbay, chief scientific and medical officer of the American Diabetes Association, said in an email.
+
+But the rapidly evolving landscape for these treatments has raised a new set of ethical considerations among health care providers, who have to weigh a complex set of factors when making prescribing decisions.
+
+“There’s a lot to factor in — and I think there should be — every time you prescribe Ozempic off-label,” Dushay said.
+
+Organizations like the American Diabetes Association and the Obesity Society have shared guidelines to help determine when it’s appropriate for patients to start treatments like this, but there isn’t a playbook for managing limited supply, she said.
+
+Get CNN Health's weekly newsletter Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+“There isn’t a clinical answer to ‘for whom is this medication more important?’ ” Dushay said. “All those decision trees are just left to individual physicians, and it’s all over the map for me.”
+
+Still, experts say that more can be done to help prioritize who has access to the limited supply of the medications.
+
+The American Association of Clinical Endocrinology is developing an “obesity algorithm” to help stratify the risk of obesity and guide treatment decisions based on a holistic assessment of an individual’s clinical risk factors, which should be finalized in the next few months, according to Dr. Sethu Reddy, president of the professional community of physicians specializing in endocrinology, diabetes and metabolism.
+
+“Ideally, those that are at the highest risk and with the greatest likelihood of benefiting should be at the head of the line,” he said.
+
+CNN’s Meg Tirrell contributed to this report.
