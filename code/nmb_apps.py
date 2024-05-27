@@ -20,7 +20,7 @@ for i, (img, cont) in enumerate(zip(images,contents)):
     image=Image.open(image_path)
     st.image(image, caption=img)
 
-    with open(content_path, 'rb') as f:
+    with open(content_path, 'r') as f:
         text=f.read()
 
         st.text_area(label=cont, value=text, height=200)
