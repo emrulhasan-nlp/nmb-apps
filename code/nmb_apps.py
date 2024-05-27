@@ -20,9 +20,9 @@ for i, (img, cont) in enumerate(zip(images,contents)):
         
         image=Image.open(image_path)
         st.image(image, caption=img)
-        
+
         content_path=data_directory+f'/{folder_dir[0]}/{cont}'
-        with open(content_path, 'rb') as f:
+        with open(content_path, 'r') as f:
             text=f.read()
 
             st.text_area(label=cont, value=text, height=200)
