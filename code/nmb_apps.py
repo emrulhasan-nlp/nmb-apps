@@ -24,7 +24,7 @@ for i, (img, cont) in enumerate(zip(images,contents)):
     content_path=data_directory+f'/{folder_dir[0]}/{cont}'
     with open(content_path, 'r') as f:
         text=f.read()
-        st.text_area(label=cont, value=text, height=120)
+        st.text_area(label=cont, value=text, height=200)
 
 # if __name__ == '__main__':
 #     st.run()
