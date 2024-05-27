@@ -1,1 +1,1 @@
-# nmb-apps
+# This tis the apps to read image and text from files
