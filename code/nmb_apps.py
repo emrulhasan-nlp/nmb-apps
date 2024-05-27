@@ -5,22 +5,33 @@ current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentfra
 parent_dir = os.path.dirname(current_dir)
 
 st.title('Image and Text Reader App')
-data_directory=parent_dir+'/data/CNN/'
+data_directory=parent_dir+'/data/'
+
 folder_dir=os.listdir(data_directory)
 
-contents=os.listdir(data_directory+folder_dir[0])
-images=os.listdir(data_directory+folder_dir[1])
+for datafolder in folder_dir:
+    # #st.title(f"The source is {datafolder}")
+    print(f"The source is {datafolder}")
 
+    contents=os.listdir(data_directory+f"{datafolder}"+ '/content')
+    images=os.listdir(data_directory+ f"{datafolder}"+'/images')
 
-for i, (img, cont) in enumerate(zip(images,contents)):
+    for i, (img, cont) in enumerate(zip(images,contents)):
 
-    image_path=data_directory+f'/{folder_dir[1]}/{img}'
-    content_path=data_directory+f'/{folder_dir[0]}/{cont}'
+        image_path=data_directory+f'{datafolder}/images/{img}'
+        content_path=data_directory+f'{datafolder}/content/{cont}'
 
-    image=Image.open(image_path)
-    st.image(image, caption=img)
+        image=Image.open(image_path)
+        st.image(image, caption=img)
 
-    with open(content_path, 'rb') as f:
-        text=f.read()
+        #print(content_path)
 
-        st.text_area(label=cont, value=text, height=200)
+        with open(content_path, 'rb') as fp:
+            text=fp.read()
+
+            st.text_area(label=cont, value=text, height=200)
+        if i==40:
+            print("Next batch started")
+        if i==200:
+            print("200 ends here")
+            break
