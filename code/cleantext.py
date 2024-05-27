@@ -32,6 +32,3 @@ def read_and_print_cleaned_file(file_path):
     except Exception as e:
         print(f"An error occurred: {e}")
 
-# Example usage:
-file_path = './data/ABC News/content/3ef152d2bd.txt'  # Replace with the path to your input file
-read_and_print_cleaned_file(file_path)
