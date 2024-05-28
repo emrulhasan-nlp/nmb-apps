@@ -14,15 +14,15 @@ data_directory=parent_dir+'/data/'
 
 folder_dir=os.listdir(data_directory)
 
-if name=="Shaina":
+if name=="Shaina" or "shaina":
     source=folder_dir[0]
-if name=="Veronica":
+if name=="Veronica" or "veronica":
     source=folder_dir[1]
-if name=="Ananya":
+if name=="Ananya" or "ananya":
     source=folder_dir[2]
-if name=="Mark":
+if name=="Mark" or "mark":
     source=folder_dir[3]
-if name=="Emrul":
+if name=="Emrul" or "emrul":
     source=folder_dir[4]
 
 st.title(f"You are reading article from {source}")
