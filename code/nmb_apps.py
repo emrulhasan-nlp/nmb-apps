@@ -14,37 +14,51 @@ data_directory=parent_dir+'/data/'
 
 folder_dir=os.listdir(data_directory)
 
-if name=="Shaina" or "shaina":
+#print(folder_dir)
+def main(source, data_directory):
+    st.title(f"You are reading article from {source}")
+    contents=os.listdir(data_directory+f"{source}"+ '/content')
+    images=os.listdir(data_directory+ f"{source}"+'/images')
+
+    for i, (img, cont) in enumerate(zip(images,contents)):
+
+        image_path=data_directory+f'{source}/images/{img}'
+        content_path=data_directory+f'{source}/content/{cont}'
+
+        image=Image.open(image_path)
+        st.image(image, caption=img)
+
+        clean_text=read_and_print_cleaned_file(content_path)
+        st.text_area(label=cont, value=clean_text, height=400)
+
+        if i==40:
+            st.title("Congratulations! You have read first 40 articles")
+            break
+    return 
+
+if name=="shaina":
     source=folder_dir[0]
-if name=="Veronica" or "veronica":
+    main(source, data_directory)
+elif name=="veronica":
     source=folder_dir[1]
-if name=="Ananya" or "ananya":
+
+    main(source, data_directory)
+elif name=="ananya":
     source=folder_dir[2]
-if name=="Mark" or "mark":
+
+    main(source, data_directory)
+elif name=="mark":
     source=folder_dir[3]
-if name=="Emrul" or "emrul":
+
+    main(source, data_directory)
+elif name=="emrul":
     source=folder_dir[4]
+    main(source, data_directory)
+else:
+    print('Please Enter correct name')
 
-st.title(f"You are reading article from {source}")
-contents=os.listdir(data_directory+f"{source}"+ '/content')
-images=os.listdir(data_directory+ f"{source}"+'/images')
 
-for i, (img, cont) in enumerate(zip(images,contents)):
 
-    #st.title("Shaina's Portion")
-
-    image_path=data_directory+f'{source}/images/{img}'
-    content_path=data_directory+f'{source}/content/{cont}'
-
-    image=Image.open(image_path)
-    st.image(image, caption=img)
-
-    clean_text=read_and_print_cleaned_file(content_path)
-    st.text_area(label=cont, value=clean_text, height=400)
-
-    if i==40:
-        st.title("Congratulations! You have read first 40 articles")
-        break
 
 
 
