@@ -1,6 +1,6 @@
-# This apps allow you to read the news articles from files
+# This app allows you to read the news articles from files
 
-Instructions to run the file.
+Instructions to run the app.
 
 #Step 0: Clone the repo
 #Step 1: pip install requirements.txt
