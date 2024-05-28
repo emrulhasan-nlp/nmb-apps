@@ -1,4 +1,4 @@
-# This tis the apps to read image and text from files
+# This apps allow you to read the news articles from files
 
 Instructions to run the file.
 
