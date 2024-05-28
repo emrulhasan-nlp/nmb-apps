@@ -1,0 +1,699 @@
+This transcript was created using speech recognition software. While it has been reviewed by human transcribers, it may contain errors. Please review the episode audio before quoting from this transcript and email transcripts@nytimes.com with any questions.
+
+carlos lozada
+
+I think of myself as the designated survivor of MOO. Like, if all else goes wrong, we can ask that guy to do something. Yeah.
+
+lydia polgreen
+
+Wow.
+
+ross douthat
+
+Deputy Undersecretary.
+
+lydia polgreen
+
+You do have a striking resemblance to Kiefer Sutherland.
+
+carlos lozada
+
+Totally.
+
+michelle cottle
+
+Perfect.
+
+lydia polgreen
+
+You’re like the Latin Kiefer.
+
+carlos lozada
+
+Oh my god.
+
+ross douthat
+
+From New York Times Opinion, I’m Ross Douthat.
+
+michelle cottle
+
+I’m Michelle Cottle.
+
+carlos lozada
+
+I’m Carlos Lozada.
+
+lydia polgreen
+
+And I’m Lydia Polgreen.
+
+ross douthat
+
+And this is “Matter of Opinion.” [MUSIC PLAYING] So this week, whether America likes it or not, has been something of an inflection point, kicking us off for the real start of the general election campaign.
+
+lydia polgreen
+
+[SIGHS]:
+
+ross douthat
+
+Come on now!
+
+carlos lozada
+
+Is this really the kickoff? Haven’t we been in the kickoff for a long time? Yeah.
+
+michelle cottle
+
+Chin up.
+
+ross douthat
+
+The pageantry of democracy is at work. President Biden is essentially beginning his campaign this week with his State of the Union address. And by the way, we are taping this before his speech. So if he announces the colonization of Mars, we apologize for not covering it.
+
+lydia polgreen
+
+It’s always about the aliens.
+
+ross douthat
+
+Also this week, the Supreme Court, to no sensible person’s surprise, ruled unanimously that states can’t keep — did you how I slipped that in? 9 to 0 — I’m going to say that again — 9 to 0, ruled that states can’t keep Donald Trump off their ballots. And then Super Tuesday’s results made it unambiguous, Donald Trump is going to be the Republican nominee. And then we have a lot of polling, including from our own New York Times-Siena College poll that shows Donald Trump consistently ahead of Biden, to the point where if the election were being held today, and I know it’s not — save your voicemails — there’s a very good chance that Donald Trump could be returned, Grover Cleveland-style, to the White House.
+
+michelle cottle
+
+Oh, sweet Jesus.
+
+ross douthat
+
+So that’s what we’re going to talk about today. I’m hyping it up. Donald Trump’s second term — what would it look like? And fortunately, the one of us who reads, Carlos Lozada, has been doing some deep reading to try and answer this question. Because it’s not the case that there is a plan for a Trump second term. There are many plans. But there is one particularly detailed plan — 887 pages, I think. So Carlos, start us off. What is this plan, and how could it help illuminate Trump round two?
+
+carlos lozada
+
+You know, you all could read it also. Like, it’s there.
+
+lydia polgreen
+
+Yeah, but that’s what we keep you around for, Carlos.
+
+ross douthat
+
+Maybe I have read it, Carlos. Maybe I ghost-wrote it, who knows?
+
+carlos lozada
+
+There are definitely, like, moments where I get a whiff of Douthat in the pages.
+
+ross douthat
+
+A stench? The Douthatian stench?
+
+carlos lozada
+
+You said “stench.” I said “whiff.” Mine was kinder. So OK, it’s not “the” plan for a second Trump term. As you say, it is “a” plan. The Heritage Foundation, which is a longtime conservative think tank in Washington, has partnered with a multitude of other conservative activists and thinkers to put together something called Project 2025, which is a plan to recruit and train an army, in their words, of conservatives to staff the federal government in a next conservative administration. Part of that project is this 887-page book called Mandate for Leadership, which basically runs through the executive branch, one department agency and office at a time, very methodically, and explains how they want to remake it all. The Trump campaign has not endorsed it, nor has Project 2025 officially endorsed Trump. The book emphasizes that it supports the next conservative president, whoever that may be.
+
+lydia polgreen
+
+Whoever he or she may be.
+
+carlos lozada
+
+Whoever he or she may be, exactly. And in fact, Trump is mentioned about 300 times in the book — Nikki Haley, but once.
+
+lydia polgreen
+
+And we should note that Nikki Haley dropped out this week. She suspended her campaign. So yeah.
+
+carlos lozada
+
+Yes, she did. Maybe because she saw that one mention in Project 2025. But there’s two things that stand out for me. First, the document’s very existence is an admission that the first Trump administration was not really prepared to govern on day one. And they don’t want to repeat that. The book says up front, it is a, quote, “unified effort to be ready for the next conservative administration to govern at 12:00 noon, January 2025.” And the people who are writing it are people who hope to staff that new administration. Second, despite all the rhetoric in this book and on the right about the need to dismantle the administrative state and downsize the out-of-control federal bureaucracy, judging from this particular plan, I really don’t think that’s the burning ambition here. They don’t want to kill the administrative state. They want to seize it. You know, one of the big tasks at hand is to flood the zone with political appointees, who will oversee, manage, and in some cases, push out the sort of longtime career civil servants. So that kind of overt politicizing of all sorts of functions of government, even functions that you would think require sort of more substantive expertise, is a big part of this initiative.
+
+ross douthat
+
+And so what then are those newly appointed civil servants going to do?
+
+carlos lozada
+
+Mm-hmm.
+
+ross douthat
+
+I mean, I know it’s 887 pages, but what jumped out at you as, like, two or three things that would be possible through this new GOP-led bureaucracy that weren’t possible before for Republicans?
+
+carlos lozada
+
+Mm-hmm. One that you see scattered throughout the whole document is the manipulation and politicizing of government data collection. Right? That sounds super wonky, but I think it’s really important. For instance, they want HHS, the Department of Health and Human Services, which they’re kind of rebranding as the Department of Life, to gather detailed state-level data on abortion, including exactly how many abortions take place in each state, at what stage of pregnancy, for what reason, what method is used. At the same time, they want to prohibit collection of employment statistics based on race and ethnicity. They also don’t want the CDC to collect any data on gender identity. The last one I’ll mention is, the political appointees in the Department of Justice are an especially important part of this story. They want to flood DOJ with political appointments beyond the traditional place where that happens, which is the Office of the Attorney General and the Deputy Attorney General. They keep emphasizing that the Department of Justice is under the direction and control of the president and that litigation decisions need to be consistent with the president’s agenda. So those are some ways in which the political appointments can have a very tangible effect on the workings of the federal government — again, according to this particular effort, Project 2025, which I suspect may have some influence, if only as kind of an off-the-shelf governing plan for a potential president who does not have a lot of interest in developing one on his own.
+
+lydia polgreen
+
+Yeah, it’s sort of hard to get that excited about this document as a blueprint for a future Trump administration in some ways, just because I think one of the most important things that we know about Trump is that he hates the idea that someone else is in charge, like the notion that he is a marionette who’s being controlled by unseen powers. And I don’t — I don’t get the sense that Trump really cares a whole lot about governing or policy. He’s definitely interested in vengeance, and he certainly sees a second term as a way to escape his many and manifold legal troubles. But I just — I have a significant amount of skepticism that this document will end up having a great deal of influence in the Trump administration.
+
+michelle cottle
+
+See, what makes me nervous, though, is that this document isn’t telling him what to do. It’s telling him how to do what he already wants to do. And the fact that it is so eye-glazingly detailed and technical and wonky, that only Carlos will sit down and read it in its entirety, perhaps in the entire United States —
+
+carlos lozada
+
+Now, I know one other person — I know one other person who read it.
+
+michelle cottle
+
+Yes?
+
+carlos lozada
+
+Harold Meyerson at “The American Prospect” read this —
+
+michelle cottle
+
+So you and Harold —
+
+carlos lozada
+
+— as well.
+
+michelle cottle
+
+— have suffered through this together. But that’s what makes me nervous, though — is that it’s not telling him what to do. It’s how — Trump has said to his loyalists, I am your retribution, so maybe we should just look at this as a blueprint for retribution.
+
+carlos lozada
+
+And I think that point speaks to Lydia’s skepticism about the document, which I think is warranted. I mean, the greatest obstacle to a coherent vision of Trumpism has always been the first —
+
+lydia polgreen
+
+Trump himself?
+
+carlos lozada
+
+— the first five letters of Trumpism. Right? It’s always been Trump. And there’s even moments in this document when you think that they’re really carving out a very sort of extreme position, and then Trump says something the next day that makes it seem tame. But precisely because of what you’re talking about, Lydia, about Trump’s interest in exacting vengeance on behalf of the people, is why the politicizing of the Justice Department is especially significant.
+
+lydia polgreen
+
+Oh, yeah, that part’s definitely going to happen.
+
+carlos lozada
+
+Yeah. Yeah.
+
+michelle cottle
+
+You’re comfortable with that.
+
+ross douthat
+
+I wanted to pull us up a little bit. It’s notable, right, that we have now been talking for 10 or 15 minutes about what Trump is going to do in his second term. And we haven’t talked about any of the actual major policy issues that normally are the most important part of what a president does. So I wanted to ask each of you guys to talk about whether you think there’s a particular policy area — the economy, foreign policy, domestic policy, and so on — where you want to make a prediction about what you think the second Trump administration will actually bring. Like, Trump is not going to run for president, exclusively saying, I will deliver some politicized prosecutions, right? He’s going to end up — when he gives his big convention speech, he’s going to end up making promises on economic policy, domestic policy, and so on. What do you guys actually foresee on those big fronts? Lydia.
+
+lydia polgreen
+
+No, let’s let Michelle start. I don’t want to —
+
+ross douthat
+
+Michelle. And it can just be what you’re most afraid of.
+
+michelle cottle
+
+Oh, those are two different things.
+
+carlos lozada
+
+Or most looking forward to?
+
+michelle cottle
+
+So the problem with trying to figure out Trump’s policies — and actually, I think you’re wrong. I think his first run for president was all about Lock Her Up, which was promising to prosecute Hillary Clinton once he got in office. Now —
+
+ross douthat
+
+Which didn’t happen.
+
+michelle cottle
+
+— this speaks to the problem with Trump. Did he lock her up? No. The guy’s a raver. He says whatever pops into his mind at the time, like, say, we should have COVID patients drink disinfectant or whatever tickles his fancy at the moment.
+
+lydia polgreen
+
+Get Mexico to pay for the wall.
+
+michelle cottle
+
+Mexico’s going to pay for that wall or — what was the book that was suggesting he wanted moats on the border? I don’t know.
+
+carlos lozada
+
+That was Mike Shear and Julie Davis’s book, “Border Wars.”
+
+ross douthat
+
+He asked.
+
+michelle cottle
+
+Once you get down — So like the problem is, he says all this crazy stuff, but you never know what he’s going to latch on to. What’s going to strike his chaotic brain and become a fixation, like actually trying to build that border wall? But so one of the things that I find particularly noteworthy is that if he does follow through on this talk of making liberal use of the Insurrection Act to dispatch the military against Americans, say, frequently and unilaterally calling out the National Guard to go into whatever cities he sees fit, that’s going to be something special.
+
+carlos lozada
+
+Michelle, you mean, like to try to stand down protest movements? Is that what you’re talking about?
+
+michelle cottle
+
+Well, there’s so many ways that this could actually be used. Fighting crime in cities, without being asked to get involved by the local authorities in question, is one of the things that has specifically been flagged. And you can say, oh, well, he’s all talk or whatever. But at the same time, he then does stuff that no president would have ever dreamed of before, you know, like just firing inspectors general whenever he felt like it or fomenting an insurrection. So you can’t rule it out. And it’s always best to take him both literally and seriously when you’re thinking through worst-case scenarios.
+
+ross douthat
+
+But so the concrete — I just want to bring this to a concrete prediction, right? So you’re — so —
+
+michelle cottle
+
+No, no, I’m not predicting that he’ll — you asked, what do I worry about.
+
+ross douthat
+
+Well, I was starting — I was asking for predictions, then I left you the out of “something you’re afraid of,” and you took it.
+
+michelle cottle
+
+I’m taking it.
+
+ross douthat
+
+But I’m trying to bring it to a scenario, right? So what you were worried about is a world where Trump is re-elected. There are, let’s say, around his inauguration, huge George Floyd-era-level protests in major American cities, and Trump orders the National Guard federalized to bring order to those cities. Right?
+
+michelle cottle
+
+I’m not — no, you cannot bully me into being that specific. Yes, that would be bad, but it’s also going to be bad if he decides to wake up one morning and say, you know what? San Francisco is a pit. Let me just send the military in there to sweep whatever I don’t like out, even if the local authorities have no desire for that. Or this week, you know, Chicago’s irritating me. Maybe I’m going to decide to send troops in there. And if you want to know what I think he’s going to do, I think the easiest thing is he’s going to reinstate his Muslim ban and start making plans for all these kind of crackdown on immigration stuff.
+
+lydia polgreen
+
+Mm-hmm.
+
+ross douthat
+
+All right. Lydia.
+
+lydia polgreen
+
+Yeah, I’m very concerned about personal liberty and bodily autonomy and privacy. I feel like those are areas where Trump, because he has this reputation as a libertine who doesn’t really care that much about abortion or birth control or things like that, and I think that people assume that means that he’ll be a kind of moderating influence, and of course, he said, you know, according to reporting by our colleagues, he favors, like, a 16-week abortion ban as a nice national compromise. But I think that he is extremely inattentive to the ways in which, really, kind of extreme policy can end up coming as a result of things like this.
+
+ross douthat
+
+So what are you — what’s the follow on from that that you’re worried about?
+
+lydia polgreen
+
+I am worried about massive intrusions into people’s personal lives and personal choices and ways that they choose to live. I’m —
+
+ross douthat
+
+So what is the intrusion? What’s the intrusion?
+
+lydia polgreen
+
+I mean, I’m worried that hormonal birth control is — it will become inaccessible or regulated in onerous ways that make it very difficult to access. I’m worried —
+
+michelle cottle
+
+16-week federal ban he’s said to support quietly.
+
+lydia polgreen
+
+I’m worried about protections for same-sex couples and all — that whole sort of realm of things that were not supposed to be in the mix when we talked about things like the fall of Dobbs but, I think, very much are in the mix.
+
+ross douthat
+
+Carlos?
+
+carlos lozada
+
+So I think that what we’ve heard from Trump’s allies, the excellent reporting by our newsroom colleagues on immigration-related objectives, is probably one of the easier, quote unquote, “predictions” that we could make. Efforts at mass deportations, severe restriction of refugee admissions, loosening up the kind of norms and rules by which immigration enforcement can enter churches, schools, workplaces — I mean, I think those kinds of things will be the things that we will likely see and we may see, or at least efforts at them, early on. Now, if you ask me more broadly, what am I most concerned about, it’s less a single policy arena and more the kind of impulsiveness and unpredictability that Trump brings to an array of different arenas. He makes major decisions, often on a whim, often with his own personal interests in mind, more than those of the nation. This would loom even larger in a second term. So you know, so that is a concern to me, because that involves unpredictability in foreign policy, for instance, where the stakes are absolutely existential.
+
+ross douthat
+
+So do we — I think it’s interesting that having canvassed all of you, no one has made an economic policy prediction.
+
+michelle cottle
+
+Does he even care about economic policy?
+
+carlos lozada
+
+Well, he talks about tariffs.
+
+michelle cottle
+
+Aside from a trade war with China?
+
+carlos lozada
+
+Yeah.
+
+ross douthat
+
+Well, I think that is actually one of the areas where Trump has consistently cared about it, in a very particular way that views the global economy as a kind of competition zero-sum game and so on.
+
+carlos lozada
+
+He’s been saying that since the ‘80s.
+
+ross douthat
+
+Right, and he’s returned to those ideas in 2024. And to me, you know, having demanded that you all make specific predictions, now, I’ll take moderator’s privilege and say I struggle to make a specific prediction on economic policy, because —
+
+carlos lozada
+
+Boo.
+
+ross douthat
+
+Well, the simplest prediction would be, Trump comes in and does what he is promising to do, which is implement some big tariff, and he mixes that up with some kind of conventional Republican tax cut. The issue is, in a climate where inflation is still a big issue, it’s not at all clear that economic policy makes any sense as a prescription for the American situation. But I think this is a point that some liberal commentators have made. Matt Iglesias keeps making it over and over, right? That we’re in a situation where Trump could get elected based on economic discontents. And so there should be much more attention paid to what specifically he’s promising to do on the economy.
+
+michelle cottle
+
+Well, he wants his 10 percent tariff on all imported goods, right? That’ll be great for — that’ll be great for people dealing with inflation.
+
+carlos lozada
+
+One thing that’s interesting about Project 2025 is that there’s a lot of uniformity in views. Like, there’s one view on almost all of the issues. But there’s a few places where they kind of bracket in disagreements. And one of those is on trade policy. You have Peter Navarro, who was one of Trump’s trade gurus in the first term, making the sort of very protectionist case for Trump’s trade policy. And then, you had some conservatives think the opposite and that actually, open trade is a useful economic policy. So there is at least a glimmer of some debate, even in this kind of supposed blueprint for a second term.
+
+michelle cottle
+
+Yeah. But in that case then, it just depends on what Trump is feeling that morning. That’s one of those places where Lydia is correct. He’s not going to take anybody’s advice as to what he can do. He’s just going to figure out who has a plan for doing what he’s feeling that morning.
+
+ross douthat
+
+Well, or it depends on which cabinet secretary can swipe a plan that Trump wants to do off his desk, so that it doesn’t actually get done.
+
+michelle cottle
+
+But there’ll be none of those, right? There’ll be none.
+
+lydia polgreen
+
+There’ll be no grownups this time around.
+
+ross douthat
+
+All right, let’s take a break there. And when we come back, we’re going to talk about what would count as Trumpian success. So stay with us. [MUSIC PLAYING] So let’s go back to some of the specific worries that all of you have raised. Because I think there’s a sense that a second Trump term, whatever it brings on economic or foreign policy, will inevitably usher in some kind of, let’s say, constitutional crisis in some form, that Trump’s desire to consolidate power — whether he reads the 887 pages or not, he clearly has some version of that desire. And I just want — I just thought we should talk about that a bit more and sort of —
+
+michelle cottle
+
+Just for lightning things up?
+
+ross douthat
+
+Well, just to — again, but trying to be specific about how you guys — if you imagine something like that as sort of a semi-inevitability, how you imagine it happening — or if you don’t. What do we think an attempted Trumpian consolidation of power-slash-attack on democracy looks like in a second term?
+
+carlos lozada
+
+Ross, I want to know what you mean by “constitutional crisis.” Because so many times, we hear that thrown around. It’s like it’s a very cable TV-friendly thing. You know, like, well, if that happens, there’s a constitutional crisis, right? And it sounds super, super sage and scary. But I’m more concerned by just steady, quiet erosion of adherence to law, right? Like, so here’s an example from the Project 2025 thing that just struck me, because it was so just subtle, the way it was explained. For instance, it says that if the Secretary of Homeland Security decides that there is an actual or anticipated sort of mass migration headed to US borders and that it presents urgent circumstances, then the secretary may issue whatever rules and regulations are deemed necessary for as long as necessary. And then it added this sentence at the end, saying, “Such rules and regulations shall not be subject to the requirement of the Administrative Procedure Act.”
+
+michelle cottle
+
+Which sounds really boring and unsexy, right?
+
+carlos lozada
+
+Yeah. So I —
+
+lydia polgreen
+
+Couldn’t possibly be important.
+
+carlos lozada
+
+So I found the Administrative Procedure Act and read it. It was only nine pages. And I realized that it governs the process by which agency rules are subject to public comment and are also subject to review by courts. So by simply saying, you know, in this emergency situation, as declared by the President and the Secretary of Homeland Security, what we do is unreviewable —
+
+michelle cottle
+
+So much for checks and balances.
+
+carlos lozada
+
+— that is, to me — that’s more what I’m concerned about than these big dramatic moments — even though I am concerned about the dramatic moments, like, say, January 6, the unwillingness to accept the results of a legitimate election. You know, like, that’s — but I’m more concerned about —
+
+michelle cottle
+
+The nibbling away?
+
+carlos lozada
+
+Yes, yes, that is, to me, far more, far more significant than the moments of high drama when there actually are mechanisms in place. You have the Supreme Court. You have the military itself that won’t perhaps let itself be used in certain ways. I always worry a little bit when I hear “constitutional crisis,” because I think it focuses so much on the highest-hanging fruit, and not on the low-hanging fruit.
+
+lydia polgreen
+
+I think that one of the things that’s most troubling about the Heritage document overall is the elevation of the executive, that removing things from reviewability essentially elevates the presidency above the other branches of government. To me, that’s the kind of mega-constitutional crisis — is, like, our Constitution envisions a set of quite tensely held checks and balances. And this document, in some ways, by 1,000 cuts, erodes at those checks and balances in ways that lead to a kind of slowrolling constitutional crisis.
+
+ross douthat
+
+So here’s why I’m sort of — Carlos, especially to your point — like, trying to focus us on the sharpest possible conflicts. We lived through four years of Donald Trump in office. And what you saw again and again in those first four years was — this did not actually happen, but things like this happen. Some Trump aide or flunky or cabinet secretary might do something related to border policy, say, we’re doing this, and they’d say — and you know, and by the way, we think this falls under the president’s prerogatives, and it shouldn’t be reviewable by the courts. But then, someone would sue them. And the thing that they had done would be immediately tied down in litigation. And there were a number of cases, including, I think, DACA, the rules governing illegal aliens brought here as children, where, basically, John Roberts ended up joining the Democrats to say, the Trump administration can’t do X, or it can’t do Y. And it would be the equivalent of saying, sorry, Donald Trump, you have fallen afoul of the Administrative Procedure Act, whether you like it or not. And again and again, Trump’s policy forays were sort of snared in this stuff, because Trump was not good at running the government. So I’m interested in whether that changes in a second term. And for it to change, I do think you would have to have some sort of moment where the administration says, guess what? We’re doing this, and it’s not reviewable, and the Supreme Court says, oh, I’m sorry, it is reviewable, and the Trump administration says, fine, we’re ignoring you.
+
+carlos lozada
+
+That may be true, but we can’t assume that one term in the White House hasn’t given Trump a much better sense for his second time around on how to manipulate the levers of government. If there’s one thing we learn in all the big books on the Trump presidency, like Peter Baker and Susan Glasser’s book, “The Divider,” Maggie Haberman’s book, “Confidence Man,” it’s that pretty much by the second half of the first term, he was much better at manipulating the tools at his disposal. In fact, this was super weird. But both of those books, separately, invoke the same sort of Hollywood metaphor to explain Trump’s growing ability to use the federal government. They both compare him to the Velociraptor in “Jurassic Park” who learned to open the door and hunt his prey. I won’t say that the best metaphor to understand Trump is that of a carnivorous beast that terrifies children. But —
+
+michelle cottle
+
+I might.
+
+carlos lozada
+
+But I will say that both in the way he staffs up and in the way he understands his own power, I don’t think it’s conspiratorial to imagine that a second-term Trump would be far better equipped to get his way than a first-term Trump.
+
+michelle cottle
+
+He can open that door.
+
+ross douthat
+
+Right. I guess all I would say is just that for him to get his way, he needs to be able to, let’s say, win a fight with the Supreme Court about —
+
+michelle cottle
+
+Beat the Supreme Court.
+
+ross douthat
+
+— about the Administrative Procedure Act.
+
+carlos lozada
+
+Right. And —
+
+ross douthat
+
+Do we think he’s read the Administrative Procedure Act?
+
+carlos lozada
+
+It doesn’t matter. He’ll have people — he’ll have people who have.
+
+michelle cottle
+
+But I’m kind of with Carlos in that it’s not the big breaking points. It’s — the federal government, obviously, is this huge, sprawling, bureaucratic machinery, and you can make a lot of mischief at lower levels before it reaches something that the Supreme Court would have to review or that the Supreme Court just gets overwhelmed trying to review, if you’re saying that there are going to be several of these moments. Like, you can do a lot of damage before it hits one of those breaking points.
+
+lydia polgreen
+
+I definitely understand that. And I think that there’s something to that. There was a very, very wise piece in “Politico” by the great Turkish journalist Asli Aydintasbas. And she’s someone whose work I followed very closely over the years, because over 20 years, she’s been chronicling what has happened in Turkey and what it took to really kind of bring Turkish democracy to its knees. And I felt, like, a little bit reassured. I mean, she argues that it would take more than four years of Trump in order to do fatal damage to American democracy. And you know, she points out a couple of forces that will just elude Trump’s control. And based on her experience in Turkey, it took a decade to dismantle, for example, the independent media. And you know, I think that her conclusion, which was that even in an imperfect democracy like Turkey, it took more than a decade to dismantle the rule of law, and Donald Trump might try, but he will find that it takes a long time to become a dictator — there’s a lot of space between dictator and authoritarian-leaning, democratically elected president. But I don’t know. I don’t know if any of you saw that piece, but I found it somewhat reassuring. And it also sort of jived with my experience in other democracies that have found themselves becoming more autocratic.
+
+michelle cottle
+
+Well, this brings me to what Ross was asking about earlier, as your worst-case scenario. My worst-case scenario is that Trump somehow convinces everyone that he deserves a third term, because that first one got so messed up because of all the cheating, that we wind up looking down the barrel of, like, another eight years of this nonsense. Now, do I think that’s likely God? I hope not.
+
+ross douthat
+
+But wait, wait, no, no, but how — I want to push you, Michelle, towards a fear that’s — I think if Trump convinces America that he should have a third term, which would require, presumably, an Amendment to the United States Constitution or the complete replacement of the entire Supreme Court somehow, right? Like, you’re imagining — to me at least — a kind of a level of power far exceeding the power that Viktor Orbán has or something. So I’m curious. Like, what’s something in between, right? I mean, to me, listening to what Lydia was saying, the big difference between Trump and a lot of strongman figures in other countries is that Trump has never been that popular. He didn’t win a majority of the popular vote in 2016. He’s lost lots of times at the ballot box. Now, we are at a weird moment where he’s doing better in the polls against Joe Biden than he’s ever done before. So if we just run with that, like, Trump is re-elected and then it’s 2026, what do you think a concrete sign that he is actually transforming the country in his image would be? What would a successful Trump second term look like?
+
+michelle cottle
+
+Well, we’ve just kind of looked the other way while he does go after his political enemies with the Justice Department or liberally employs the military against American citizens. How’s that? Does that — is that specific?
+
+ross douthat
+
+That’s good. That’s good. Carlos?
+
+carlos lozada
+
+I guess for me, the question is, success on whose terms? The success according to the policy wonks and ideologues who put together dense plans for governance? Or success according to the president’s own sort of political and legal interests? I mean, like, I take as a sort of given, as a sort of benchmark for any functional democracy, that we should have fierce battles in the policy arena. And a good bit of polarization doesn’t bother me. Like, I think it’s important that we have sharply conflicting lines on policy debates. But if most of the country’s political and emotional energy is instead focused on Trump himself, rather than real, actual debates, then I think Trump is winning, period, and the country is losing.
+
+ross douthat
+
+Lydia?
+
+lydia polgreen
+
+I think the thing that really scares me is the thing that Michelle pointed out — that there will be enormous amounts of dissent and anger about the Trump administration and various policies that they try to implement. There will be people who come out and try to protest them. There will be people who try to exercise their First Amendment rights in other ways. And I’m very worried about violent reprisals by various military forces within the government that may or may not refuse to take orders from Trump. So that concerns me.
+
+ross douthat
+
+OK, I’m going to give myself the last word here and just pick up on your analogy to other countries, Lydia. Because I think if you’re worried about some kind of Trumpian takeover, then — a sort of longer-run phenomenon that changes American democracy in ways that at least liberals would not like, the worst-case scenario is much more, I think, a scenario where we get two years into the Trump second term. He’s quite popular, has a clear successor — this is where I think his vice presidential pick is actually quite important — isn’t doing crazy things like demanding a third term, but has sort of done a lot of the behind-the-scenes stuff that you guys are all very concerned about. it’s been sort of politically accepted. and you’re just looking at a future where it seems like another leader in the mold of Trump could win presidential elections many times over going forward. I think if you’re worried about Trumpism changing democracy, you have to worry most about a scenario where Trumpism becomes really popular, which has not yet happened but, I suppose, could. So —
+
+carlos lozada
+
+Does it need to be popular to win?
+
+ross douthat
+
+I think — I think Trumpism needs to be popular to change American democracy for the long term in the ways that liberal analogies to other sort of populist governments around the world — for those analogies to make sense, yeah, it has to be popular, I think. So fear Trump’s popularity.
+
+michelle cottle
+
+Well, on that cheery note.
+
+ross douthat
+
+All right. Let’s leave it there. And when we come back, we’ll be hot or cold on something maybe less significant than a constitutional crisis. Stay with us. [MUSIC PLAYING] Finally, it’s time for Hot/Cold, where every week, one of us shares something we’re into or over or somewhere in between. And who has it this week?
+
+michelle cottle
+
+Me. Me, please.
+
+ross douthat
+
+Go.
+
+michelle cottle
+
+I am so hot on the fact that big hair is having a moment. OK. Bear with me. Nope, nope —
+
+ross douthat
+
+This is the real horror of a Trump second term.
+
+michelle cottle
+
+Right? Right? It’s back to the ‘80s.
+
+carlos lozada
+
+Like metal band? Metal band big hair?
+
+michelle cottle
+
+No, Carlos. No. Look. I grew up in the South in the ‘80s, so the higher it was, the better. But you notice Miley Cyrus at the Grammys with her massive mane teased up high. You’ve got runways, models with these big bouffant hairdos, and a lot of it apparently was some kind of tribute to this fantastic, fun “Season of Feud,” the miniseries in which it’s Truman Capote versus the Swans. And by the Swans, it was these Upper East Side ladies whose hair is just so magisterial. So it’ll pass. It’s not going to take over the world. But my God, it’s just fun. It’s silly. It’s glamorous. I’m so tired of everybody being so earnest. Take off your hoodie and tease your hair, just for the weekend, for God’s sakes. Have a little fun.
+
+lydia polgreen
+
+I love this, because I’ve actually been growing my hair out for the first time since my early 20s, which has been sort of —
+
+michelle cottle
+
+This makes me happy.
+
+lydia polgreen
+
+There’s some volume there. But now, I have to figure out how to cut it to make it into a shape. And among — I mean, I now live in Manhattan, but among Brooklyn lesbians, there’s a haircut that my wife likes to call the Bilbo Baggins, which is — I mean, it’s exactly what you would imagine. It is —
+
+ross douthat
+
+Cascading curls?
+
+lydia polgreen
+
+Cascading curls, in a sort of, like, generous-at-the-front, mullet type of configuration.
+
+carlos lozada
+
+Give me the Martin Freeman!
+
+lydia polgreen
+
+So big hair is big among my people, too.
+
+michelle cottle
+
+Love it.
+
+ross douthat
+
+I was just in the heartland of America. I was giving a talk at Northwest Missouri State University, the dead center of the country. And my academic host was walking me around campus. And the first student we saw had a huge, glorious mullet. And my host said, oh, yeah, that’s back.
+
+lydia polgreen
+
+It’s back, baby.
+
+ross douthat
+
+So from the heartland to Brooklyn, Bilbo Baggins rides.
+
+michelle cottle
+
+Big hair.
+
+carlos lozada
+
+I just cut my hair! I’m always late.
+
+michelle cottle
+
+Carlos!
+
+ross douthat
+
+Carlos, I have no — I have no hair to grow out.
+
+carlos lozada
+
+Yeah.
+
+ross douthat
+
+So —
+
+carlos lozada
+
+I just got a big haircut.
+
+ross douthat
+
+Pity those of us who —
+
+lydia polgreen
+
+Who can’t rock the Bilbo Baggins?
+
+ross douthat
+
+— can’t participate. I could grow a mullet. I mean, I could, you know.
+
+michelle cottle
+
+I’m trying to picture that, and it is chilling.
+
+carlos lozada
+
+Business in the front, party in the back.
+
+ross douthat
+
+All right. We’ve ended all parts of the show on chilling notes, but that’s our show for the week. Thank you guys so much for bearing with my Trumpian-style, dictatorial moderation.
+
+michelle cottle
+
+Take a strong hand.
+
+carlos lozada
+
+You’re just dictator for a day, Ross. Just dictator for a day.
+
+lydia polgreen
+
+Just like Trump, you’re no match for the opposition.
+
+ross douthat
+
+That is — once again, I’ve been undermined. All right. We’ll be back next week. Thanks for listening.
+
+carlos lozada
+
+See you guys.
+
+michelle cottle
+
+Bye, guys.
+
+lydia polgreen
+
+Bye.
+
+ross douthat

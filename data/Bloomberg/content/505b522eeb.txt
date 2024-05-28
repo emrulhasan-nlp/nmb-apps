@@ -1,0 +1,1373 @@
+00:02 30 minutes into the US trading day on this Tuesday, March 5th.
+
+00:06 Here are the top stories we're following.
+
+00:07 China worries rattled big tech companies from Apple to AMD.
+
+00:11 Country is front and center for global investors this morning after setting a
+
+00:15 5% growth target for the year. Worth the hype.
+
+00:19 Our markets guest this morning says that is still the hottest thing in town and
+
+00:23 for good reason. We're going to discuss what that means
+
+00:25 for nvidia and everyone else. And in offer, you can't ignore our
+
+00:30 calls. CEO Gabriel Kahane joins to talk about
+
+00:32 his group's boosted bid for Macy's, as well as his thoughts on the company's
+
+00:36 plan to close 150 stores. All that and more coming up.
+
+00:53 I'm Katie Greifeld in New York. Welcome to Bloomberg Markets.
+
+00:56 And it's a down day for markets, at least if you're looking at equities
+
+01:00 right now, because the S&P 500 off by about half a percent, which doesn't seem
+
+01:04 too bad. But then you take a look at big tech, of
+
+01:06 course, the Nasdaq 100 currently down by over 1%.
+
+01:10 But there is some green to be found and no surprise it's in the cryptocurrency
+
+01:14 space. You take a look at Bitcoin right now
+
+01:16 continuing to surge higher and higher, up about 2% at the moment.
+
+01:21 Of course, we are on watch for that all time high.
+
+01:24 Maybe today's the day, but we do have some breaking ISM data.
+
+01:27 So let's head right over now to Bloomberg's Michael McKee.
+
+01:31 Well, this is not particularly good news for those looking for a growth scenario
+
+01:35 in the US. The ISO services index falls more than
+
+01:38 anticipated. It's still positive, but at 52 six,
+
+01:42 after 53.4, the consensus was for 53. But what's really interesting is the sub
+
+01:48 indexes are almost all better. In this case, new orders are up to 56,
+
+01:54 one from 55, production is up to 57, two from 55.8.
+
+02:00 Employment, one of the few that goes down 48 from 50.5.
+
+02:05 So that's something to keep in mind for Friday and it may have an impact on the
+
+02:10 market's forecast for what we get on Friday.
+
+02:13 And prices paid 58 six down from 64. That also good news in the sense of it
+
+02:20 tells the Fed that maybe inflation is not going to be a major issue.
+
+02:24 Yesterday we had Raphael Bostic talking about companies being sort of
+
+02:28 enthusiastic about what's going on in the US economy.
+
+02:32 And one of the things he pointed out, inventories were lower and that's what
+
+02:37 we're seeing here. Inventories 47 forward from 49.
+
+02:40 While it suggests that maybe companies are going to have to rebuild stocks and
+
+02:44 that could boost the economy going forward.
+
+02:47 So a lot of crosscurrents in this number.
+
+02:49 Katy will also mention that factory orders come in down 3.6% after a
+
+02:55 negative three tenths in the month of December.
+
+02:58 Factory orders ex transportation down 8/10 of a percent.
+
+03:02 So this is still the hangover from Boeing not getting really any orders in
+
+03:06 January. Capital goods orders, non-defense X air
+
+03:09 flat. That's better than we had seen before, a
+
+03:12 slight decline. So businesses at least not pulling back.
+
+03:16 And before we get to Friday, of course, and those jobs numbers, we have to get
+
+03:20 through Pell's testimony in front of Congress.
+
+03:23 I believe that kicks off tomorrow. Just quickly, what are we expecting to
+
+03:26 hear from the Fed chair? Well, Wall Street and Washington are
+
+03:30 going to want to know when the Fed's going to cut rates and by how much,
+
+03:33 because it will affect both what you can earn and whether you get elected.
+
+03:38 But the Fed chair is probably not going to talk about that too much.
+
+03:41 He'll probably reiterate that the Fed is got more work to do on inflation.
+
+03:46 They're going to be watching the data and that their decision will have
+
+03:49 nothing to do with politics. But plenty of other political topics
+
+03:53 could come up, including bank regulation, the Fed's balance sheet of
+
+03:57 which they lose money and other things like that.
+
+04:00 So it could be an interesting hearing, but nobody will get what they really
+
+04:05 want, which is a date certain for a rate cut.
+
+04:08 All right. Bloomberg's Mike McKay, thank you so
+
+04:10 much. I know that you'll be paying close
+
+04:11 attention as well as, of course, markets as well.
+
+04:14 But let's get now to the market implications now with Shana Cecile.
+
+04:18 She is founder and CEO of Banyan Capital Management.
+
+04:21 And Shannon, let's start with the broader macro economic environment and
+
+04:25 how that's informing risk assets right now.
+
+04:27 You can see that the S&P 500, it's still down on the day, but it is recouping
+
+04:31 some of those losses. What do you make of the setup right now
+
+04:34 is we still hover near these all time highs?
+
+04:37 Well, we've had some very strong economic data, notwithstanding what we
+
+04:40 just heard. And that has led people to believe that
+
+04:44 even with higher rates, we can still have strong economic growth.
+
+04:48 Now, that said, the data that just came out I think is favorable for the folks
+
+04:54 who want the Fed to cut rates. Anything that can show potential
+
+04:59 softening in the economy would be a good thing because we've had very strong GDP
+
+05:04 growth. The job market remains tight, inflation
+
+05:08 remains elevated. And so the Fed is going to be looking at
+
+05:12 data points that indicate that the economy is starting to soften to justify
+
+05:17 a rate cut, which I think is exactly what they want to do.
+
+05:20 And up until now, there hadn't been a lot that they could point to to say
+
+05:26 that. So overall, I think the markets are
+
+05:28 really looking at the overall trend. There was this feeling that higher for
+
+05:33 longer was bad, but higher for longer is not so bad if the economic growth is 3
+
+05:38 to 4%. Well, Shayna, I'm glad to have you with
+
+05:41 me because let's talk about the ultimate risk asset, and that is Bitcoin, of
+
+05:44 course, the red headline crossing the terminal right now that Bitcoin surging
+
+05:48 to its first record high since November. For 2021.
+
+05:53 It has been quite a journey to get us there, to say the least.
+
+05:57 And I mean, talk to me about that because you think about the difference
+
+06:00 between November 2021 when Fed funds were at zero effectively, and where we
+
+06:06 are now, you know, well above 5%. What do you make of those types of moves
+
+06:10 in this market? Well, obviously, risk is on.
+
+06:14 People want to be in risk assets. And so Bitcoin is the ultimate risk
+
+06:18 asset asset. I think the launch of the 11 Bitcoin
+
+06:23 spot ETF has a lot to do with driving market demand.
+
+06:27 You know, if you look at the actual available liquidity in Bitcoin, like
+
+06:31 something like 85 to 90% of bitcoin is not liquid.
+
+06:34 So that's that 10% that those spot ETFs are playing with and that flows into
+
+06:39 those funds are tremendous. You know, I believe there's four that
+
+06:43 are over $1,000,000,000 and the BlackRock one is at like nine.
+
+06:48 So, you know, if you think about it, the flows into these products are very
+
+06:52 strong. So I think those two things are part of
+
+06:56 the story. And then you have the having that's
+
+06:59 coming up in April, which will also push the price up.
+
+07:02 So a lot of tailwinds for Bitcoin right now, not the least of which is that
+
+07:08 people are more like likely to take a chance on risk assets.
+
+07:12 All right. Really appreciate that.
+
+07:13 And of course, you mentioned those spot Bitcoin ETFs, those launched in
+
+07:17 mid-January, like you said, upwards of ten or so that actually launched as new
+
+07:23 ETFs. As an investor, how do you do due
+
+07:26 diligence on that? Those products, given that they all hold
+
+07:29 the same thing, what does that process look like from your shoes?
+
+07:33 For me, I, I look at who the issuer is. So obviously the big winners are
+
+07:38 Fidelity and BlackRock. They have overall trust.
+
+07:40 They have a lot of experience just running ETFs.
+
+07:44 For me, I prefer bitwise as big B because this is a firm that has been
+
+07:49 dedicated to the crypto space for years now.
+
+07:53 I first met Matt Hogan in 2017 when they were just getting up and running and he
+
+07:59 has really been able to help with the advisor market.
+
+08:03 They're very good with education, they're very dedicated to the space, so
+
+08:06 I'm encouraged that people see that for me it's all about the issuer.
+
+08:09 I want to be with an issuer that knows what they're doing and that is dedicated
+
+08:14 to the space. So I tend to prefer something like Be
+
+08:17 versus I Bid or Fidelity products, which have obviously been the two biggest
+
+08:22 winners because just the large scale of the the firms behind them.
+
+08:27 But for me, the due diligence becomes about the issuer and not necessarily the
+
+08:32 underlying fair point there. And you take a look at B2B, it is one of
+
+08:35 those ETFs that has over $1,000,000,000 in assets already.
+
+08:39 Total market cap looks like 1.8 billion at this moment for B2B.
+
+08:43 But talk to me about the risk of the risk asset universe, because obviously
+
+08:46 you have Bitcoin ripping to record highs.
+
+08:49 But let you take a look at some of these riskier parts of the equity market.
+
+08:52 For example, you have small caps and it feels like even though they had a great
+
+08:56 end to 2023, they just haven't been able to keep up that momentum in 2024.
+
+09:01 Just quickly, what are your thoughts on that space?
+
+09:04 Well, here's an interesting stat from strategics that kind of blew my mind.
+
+09:07 75% of the return of the Russell 2000 is from Super Microcomputer, which is now
+
+09:15 going to be added to the S&P 500. So this should be interesting to see how
+
+09:18 that impacts small caps. 75% of the returns of the Russell 2000
+
+09:23 are attributed entirely to super microcomputer.
+
+09:26 So it's not necessarily a great thing for small caps.
+
+09:30 But if if you believe that we're going to have some softening in the U.S.
+
+09:34 economy, you know, and you think about what happens as we get into later stages
+
+09:39 of the economic cycle and then start a new economic cycle and you get back in
+
+09:43 early stages, that's actually typically favorable for small caps.
+
+09:46 That said, small caps have not behaved at all like they would historically
+
+09:51 based on, you know, things like new bull markets and just watching market trends.
+
+09:56 But I think it's because they're not as exposed to the bigger trends other than
+
+10:00 super microcomputer and AI and cloud computing and things of that nature.
+
+10:05 There's not a lot in that space that has exposure there.
+
+10:09 And I think that is one of the greatest headwinds in the space.
+
+10:12 All right, Shayna, stick with us. We haven't even talked about air yet,
+
+10:15 but you're just going to sit tight for a couple of minutes because we're going to
+
+10:18 take a quick look at what's moving underneath the markets now with
+
+10:21 Bloomberg's Emily Griffith sitting to my left here.
+
+10:24 Tell me about Target. So they had a pretty good quarter, Their
+
+10:27 fourth quarter adjusted EPS beat estimates coming in at 298 versus
+
+10:31 estimates of 240. Their are comparable sales declined
+
+10:35 4.4%, which slightly beat estimates, but it did fall for the third consecutive
+
+10:40 quarter. Like a lot of retailers, Target has
+
+10:43 really struggled here with their profit. As inflation is higher, consumers are
+
+10:48 spending less on items when they go to these retailers.
+
+10:51 So that's. Really been an area of focus for Target,
+
+10:53 but they are seeing the biggest jump since November in the stock price.
+
+10:57 And another area of focus for a lot of the retailers is the inventory.
+
+11:01 So are they able to kind of clear the inventory so they don't have to see as
+
+11:06 much of a loss when they can't sell all of it because people don't want to pay
+
+11:09 for it. And Target said this quarter they
+
+11:11 reduced inventory by about 12%, which was better than expected.
+
+11:15 And you can see that being rewarded in the shares up over 11%.
+
+11:19 It's a different story for Stitch Fix. It is this is a much smaller company,
+
+11:24 kind of like a small cap like Seana was talking about.
+
+11:26 But this is down as much as 20% biggest intraday decline since June 2022.
+
+11:32 And Katie, it's not looking good for this retail company.
+
+11:37 This is a company where consumers can get a personalized stylist.
+
+11:41 And so they go online, they take a style quiz and then Stitch Fix will send you a
+
+11:45 box with like five or six different clothing items that are tailored to you.
+
+11:49 And then you can choose whether you want to buy it or not.
+
+11:52 But they reported a heavier than expected loss per share.
+
+11:55 Their full year forecast also missed estimates.
+
+11:58 The Street is pretty bearish on this stock.
+
+12:01 Piper Sandler has an underweight and they said that this decline in revenue
+
+12:04 underscores the difficulties externally and within the business.
+
+12:08 A lot of those clothing rental companies were really big during the pandemic and
+
+12:11 now they're falling. This one's down over 80% since its IPO.
+
+12:15 A couple of yeah, definitely. The world has changed for a lot of these
+
+12:18 companies. And just quickly, tell me about so far,
+
+12:20 because that's another stock really feeling pressure today.
+
+12:23 Yeah. Plunging the most since January.
+
+12:25 This is an online personal finance company.
+
+12:28 They announced a proposed convertible senior note offering.
+
+12:32 So a bond offering due in 2029, according to a Bloomberg article which
+
+12:36 cites people familiar with the situation, they're offering a 1% to 1.5%
+
+12:41 coupon for this $750 million convertible bond.
+
+12:45 It doesn't seem like the Street is liking it, though, because, like you
+
+12:47 said, that stock is plunging today. Yeah, big time.
+
+12:50 Emily, really appreciate that, of course, is Bloomberg's Emily Profile.
+
+12:53 Thank you so much. Now coming up, China setting an
+
+12:55 aggressive GDP goal of 5%. Analyst questioning just how the country
+
+13:00 is going to get there. Details next.
+
+13:02 This is Bloomberg.
+
+13:17 Well, China said a GDP goal of 5% at the 2024 National People's Conference
+
+13:22 earlier. And that target is putting pressure now
+
+13:24 on the nation's top leaders to release more stimulus.
+
+13:27 Joining us with more now is Tom or like a Bloomberg economics.
+
+13:31 So 5%, that's the goal. How exactly are they going to get there?
+
+13:36 So at first sight, Katy, 5% doesn't look like a particularly stretching target in
+
+13:43 2023. China grew 5.2%, so why can't they do
+
+13:47 another 5% this year? Well, remember, growth last year was
+
+13:51 flattened by a very low base from COVID lockdowns in 2022, and that boosted the
+
+13:57 growth number this year. Getting to 5% is going to be much more
+
+14:01 challenging. Still, Lee Chang said, that's the
+
+14:04 aspiration. The question the markets have is, well,
+
+14:08 where's the stimulus going to come from to get us there?
+
+14:11 The growth target was in his speech, but there wasn't much details on what was
+
+14:16 going to back it up in terms of more fiscal spending, more monetary stimulus
+
+14:20 or more support for the ailing real estate sector.
+
+14:23 And talk to us about this growth target in the context of geopolitical tensions,
+
+14:28 because, of course, when it comes to the US-China relationship, it feels like a
+
+14:32 lot of that is playing out in the semiconductor industry.
+
+14:35 And one of the most read stories on the Bloomberg this morning is about AMD
+
+14:38 hitting a US roadblock and selling its AI chip that's tailored for China.
+
+14:43 How are you thinking about that over at Bloomberg Economics?
+
+14:47 So it's really interesting, Katie. I think Wall Street is looking at
+
+14:52 Premier Li Chang's work report and saying, well, where's the details?
+
+14:58 And it's certainly true. The details on stimulus are not there.
+
+15:02 But if you think about the priorities for Xi Jinping and China's leadership,
+
+15:07 boosting defence capacity, boosting spending on science and technology to
+
+15:12 try and ensure reliance or independence from US tech.
+
+15:18 That's actually where the detail is in this National People's Congress.
+
+15:22 And that speaks to a shift in priorities in Beijing from a dash for growth to the
+
+15:28 crucial importance, in his mind of securing the nation in a more hostile
+
+15:33 world. Now, of course, the mood on China has
+
+15:36 also changed here in the United States. One of the key initiatives from the
+
+15:41 Biden administration has been a move to block semiconductor sales to China.
+
+15:47 AMD thought they'd produced an AI chip, which was kind of regulation consistent
+
+15:52 and which they could sell into the Chinese market.
+
+15:55 They've just heard from the US government that's not actually going to
+
+15:58 be the case and they will need regulatory approvals.
+
+16:01 All right, Tom, really appreciate your insight there.
+
+16:04 That, of course, is Tom or a Bloomberg economics.
+
+16:07 And let's welcome back now Shana Cecil. She is founder and CEO of band Organic
+
+16:10 Capital Management. And Shayna, we were just talking about
+
+16:13 Andy there and I want to keep the conversation going on the chip sector
+
+16:17 because of course, Nvidia is just stealing headlines, stealing eyeballs,
+
+16:21 really carrying this market forward. Of course, we did get Nvidia earnings a
+
+16:25 couple of weeks ago. How are you thinking about this?
+
+16:28 Just Megacap company now and the fact that so much of the market's gains and
+
+16:33 euphoria really seems to depend on it? Well, full disclosure, I own the stock,
+
+16:38 so I'm happy about this. I think that Nvidia is uniquely
+
+16:44 positioned. They don't have a lot of competition.
+
+16:46 There's there's too much demand for their chips there.
+
+16:49 They are not able to keep up with the demand for their chips there in a lot of
+
+16:53 really core markets. You know, we talk about NVIDIA with AI
+
+16:57 of time, but data centers and autonomous vehicles are a huge part, not to mention
+
+17:02 the foundational business that kind of started the company, which is the
+
+17:05 graphic, the GPU chips. So they have a lot of opportunity here.
+
+17:09 There's a lot of demand. They don't have a lot of competition.
+
+17:12 And so all those reasons are really positive.
+
+17:15 I heard someone say recently like, this is 1999, this is the tech bubble all
+
+17:20 over again. And I want to really point out that that
+
+17:22 is not the case. This is a cash rich company that is
+
+17:25 growing revenues at triple digits, and that is very different from what we saw
+
+17:31 in 99 where we had, you know, companies that were going up and up and up with no
+
+17:34 earnings, no cash flow, no real business.
+
+17:37 This is a real business making real money, and that's cash flow rich.
+
+17:41 And for those reasons, I think that it's going to continue to benefit from the
+
+17:45 tailwind that comes with this revolution, which we're really only in
+
+17:49 the second inning of. And they are such an important component
+
+17:52 of that. And it's also a mature business as well,
+
+17:55 of course, and Nvidia has been around for decades.
+
+17:58 It's not like it's a totally new kid on the block, but to your point that it
+
+18:01 doesn't have a lot of true competition. Let's bring it back to AMD.
+
+18:05 You know, AMD is trying to develop the chip that will rival Nvidia's lineup in
+
+18:11 some senses. How long will that Headstart truly last
+
+18:14 for in video? I think it lasts pretty long because as
+
+18:18 people are developing new technologies related to AI,
+
+18:24 they're going to be using NVIDIA as a default chip.
+
+18:27 And once that technology becomes dependent on their chips, it's really
+
+18:32 hard for somebody new to break in unless their trip is substantially better.
+
+18:36 And I don't know much about what AMD is working on and how much better it is
+
+18:41 than the Nvidia chips. But also NVIDIA has a great like market
+
+18:46 share of all different types of semiconductor chips for all different
+
+18:51 areas of the market. So again, I think that it's a
+
+18:54 well-rounded business. It has, as you point out, been around
+
+18:57 for a long time. I have been following it since 2000 and
+
+19:01 watched it get included in the S&P 500. I think it was like 2002.
+
+19:06 So it's it's a long, long tailwind here. And I think that, you know, there will
+
+19:11 be people who obviously want to come into the space.
+
+19:13 Obviously there's demand. Nvidia can't keep up with demand.
+
+19:16 So there's going to be an opportunity for somebody who can kind of fill in the
+
+19:20 gaps. So Nvidia needs to really focus on being
+
+19:23 able to increase their production and make sure that they can meet demand.
+
+19:28 So somebody like AMD can't sneak in there to take advantage of that.
+
+19:31 Absolutely. There's a lot of rivals that would love
+
+19:33 to just chip away at that market share. But let's shift gears a little bit here
+
+19:37 because in addition to the chips and NVIDIA, etc., I know you're also
+
+19:41 favorable on some of these energy names as well.
+
+19:44 Diamondback energy and. Particular.
+
+19:46 What's the opportunity set in that name? I think Diamondback is interesting
+
+19:50 because it's one of the few independent producers that actually can make good
+
+19:56 money and have strong margins on oil and lower numbers.
+
+20:02 So their break even is like $50 a barrel, which is different than some of
+
+20:06 the larger producers which need a higher energy, higher oil prices in order to
+
+20:11 really have good profits, good revenues, good margins.
+
+20:14 And they're they're very much executing well.
+
+20:17 Financials are very strong, management is strong.
+
+20:20 And the company has the opportunity to either be in acquirer or be acquired.
+
+20:26 And these things give it a lot of flexibility.
+
+20:28 It's one of the reasons why I really like the stock.
+
+20:30 It's also trading, you know, relatively at a reasonable multiple.
+
+20:35 And so, you know, these are things I look for and there's not a lot in the
+
+20:39 energy sector I love, but that is a stock that I do like that actually has
+
+20:42 done quite well. And it has a great ticker.
+
+20:45 Yeah, the ticker there, of course, is Fang Shane.
+
+20:48 I really enjoyed this conversation. Come back soon.
+
+20:50 That is Sina Sissel. She is founder and CEO of Banyan Capital
+
+20:53 Management. Now still ahead, we're going to take a
+
+20:56 look at the companies that making the most social buzz today, that is social
+
+20:59 climbers. Up next, this is Bloomberg.
+
+21:17 All right. Time now for social climbers.
+
+21:18 A look at the stocks making waves on social media this morning.
+
+21:21 And first up, the software development platform.
+
+21:24 GitLab out with a weaker than anticipated forecast.
+
+21:27 Bloomberg Intelligence writes that the outlook may be reflecting uncertain
+
+21:30 demand from small to medium sized businesses.
+
+21:33 Next up, we have Tesla shares on the skids after news that its China
+
+21:36 shipments plunged to the lowest levels in over a year.
+
+21:39 Figures point to a slowing EV market in the country.
+
+21:42 And finally, we have some not so good news for Novo Nordisk, the pharma
+
+21:46 giant's famed drug Ozempic not as effective in cutting kidney disease risk
+
+21:51 as analysts had hoped. And of course, you can follow all the
+
+21:53 company buzz on t r e and go on your Bloomberg terminal.
+
+21:57 Now coming up, our calcium brigade capital increase there offer to buy
+
+22:00 Macy's by 14%. We speak to Gabrielle Kahana, Arc House
+
+22:05 CEO, managing partner and co-founder, next.
+
+22:08 This is bloomberg. And.
+
+22:28 We now welcome in our TV and radio audiences our calls and Brigade Capital
+
+22:32 Management raising their offer to buy Macy's by 14%.
+
+22:37 Now, Macy's has responded to the offer, saying, quote, The Macy's board will
+
+22:40 carefully review and evaluate the latest proposal consistent with the board's
+
+22:44 fiduciary duties and in consultation with its financial and legal advisers.
+
+22:49 Macy's shareholders do not need to take any action at this time.
+
+22:53 Joining us now, I'm thrilled to say, is one of the minds behind the offer.
+
+22:56 Sitting next to me is Gabrielle Kahana, Art House CEO, managing partner and
+
+23:01 co-founder. Gabrielle, great to have you in person.
+
+23:04 Let's talk about this raised to offer the bid going from $21 a share to $24 a
+
+23:09 share. Are you prepared to raise it again if
+
+23:11 Macy's rejects this? We certainly hope they don't reject it.
+
+23:17 And, you know, they said that they will carefully review this offer and that
+
+23:21 statement you just read. We sincerely hope that they really do
+
+23:24 carefully review it in good faith, as they should have almost, you know, I
+
+23:29 guess, more than three months ago at this point, our initial offer.
+
+23:33 And we we also think that Macy's shareholders, you know, in that in that
+
+23:37 statement, the you know, Macy's executives are telling shareholders they
+
+23:41 don't need to do anything right now. Our view is that Macy's shareholders own
+
+23:45 this company and they should do something which is reach out to their
+
+23:48 directors, reach out to their executives and urge them to engage sincerely and in
+
+23:53 good faith with our credible buyer group.
+
+23:55 And I want to bring you a line from the press release that you put out in
+
+23:58 relation to this offer. I thought this line was interesting.
+
+24:01 We may remain frustrated by the delay tactics adopted by Macy's board of
+
+24:05 directors and its continued refusal to engage with our credible buyer group.
+
+24:10 How communications changed or opened up since this latest raised offer.
+
+24:15 It's hard to say. There's certainly been dialogue, and
+
+24:19 dialogue continues, but what we're asking for is that dialogue progress
+
+24:23 from. Communications and dialogue to action
+
+24:28 and to a substantial substantive conversation and engagement where in we
+
+24:32 can contract and give shareholders a really significant premium in cash
+
+24:38 today. And you're probably aware, but there's a
+
+24:41 train of thought out there that our calls and your partners in this bidder
+
+24:46 chiefly invested in Macy's real estate portfolio.
+
+24:48 I know you've said publicly that that's not the case, but what do you make of
+
+24:52 Macy's plans to close 150 stores? I think it's a shame we are not focused
+
+24:59 on store closures and in fact hope that we get to close on the company before
+
+25:03 they close any stores. Our view is that the real estate is
+
+25:06 incredibly valuable in large part because of its tenant bases.
+
+25:11 And I mean, hypothetically, should they actually go ahead and offload those 150
+
+25:16 stores, closes 150 stores before you close on any bid?
+
+25:19 Would that lessen the appeal of Macy's for you?
+
+25:23 It's hard to say. Without the diligence that we're
+
+25:26 requesting, we're sort of taking an outside view in.
+
+25:29 So I can't speak to that. And let's say, hypothetically that you
+
+25:33 do acquire Macy's before they were to shut those stores in your plans that
+
+25:37 you've been thinking about for Macy's, is it's possible that you could actually
+
+25:40 close more than 150 stores or what would you actually do with the real estate?
+
+25:45 That would be very surprising. For us, it's really much more of a a
+
+25:49 capital markets rejiggering and a capitalizing on the awesome asset
+
+25:56 base that they have as opposed to let's close stores and redevelop them into
+
+26:01 something else. Certainly, I'm sure it's the case that
+
+26:03 there is redevelopment opportunities in this portfolio, probably largely not
+
+26:08 through demolition and redevelopment, but,
+
+26:13 you know, in out parcels and malls and other interesting development
+
+26:17 opportunities that I'm sure will be available to us
+
+26:20 when we get that diligence. But right now, we're not underwriting
+
+26:22 that at all. Our base case assumption is that all
+
+26:25 Macy's malls stay open, all Macy's locations stay open, and that we enhance
+
+26:30 the credit worthiness of the tenant inside the store.
+
+26:33 And I promise we're going to talk about something other than real estate in just
+
+26:36 a couple of minutes. But I do have another question, because
+
+26:39 your big I like real estate stuff, so I guess we all do.
+
+26:42 So your bid, this bid values Macy's at 8.7 billion, the entire company.
+
+26:47 And there's an interesting analysis out from Bloomberg Intelligence that
+
+26:49 estimates that the real estate alone is worth upwards of $8 billion.
+
+26:54 So from that perspective, $24 a share, it could be seen still as a lowball
+
+26:59 offer. Are you worried about other bidders
+
+27:02 coming in here to this process? I am.
+
+27:05 I'm really hopeful and pretty optimistic that we've put together the right buyer
+
+27:10 group to be incredibly competitive in any process that starts.
+
+27:15 And I have a high degree of confidence that we'll win a high degree of
+
+27:17 confidence there. Let's talk about if you win, of course,
+
+27:20 you would take Macy's private. What can you accomplish by taking Macy's
+
+27:25 private versus keeping it as a public company?
+
+27:27 A lot a lot. As a public company, it's hard to
+
+27:33 blame existing management for focusing on the quarter because that's how
+
+27:38 they're judged. The judge, day to day, their share price
+
+27:41 changes, their cost of capital changes instantaneously.
+
+27:44 As a private company, you can focus on long term prosperity, growth and a
+
+27:50 stabilization of this business that's otherwise seemingly headed in a pretty
+
+27:54 scary direction. And what info do you still need from
+
+27:58 Macy's when it comes to your due diligence that you're doing on this
+
+28:01 company that you're doing and potentially raising another bid if they
+
+28:05 do reject this one? What do you still need from Macy's?
+
+28:08 Really confirmatory diligence. It's not complicated, but it's a lot of
+
+28:12 work. Mm hmm.
+
+28:14 And you've also, of course, as part of this nominated nine people to Macy's
+
+28:18 board, how confident are you that you actually have the votes there to do
+
+28:23 that? So, you know, the nine director
+
+28:27 nomination is really a function of the board size.
+
+28:32 They are 14 directors. So to ensure that we are speaking to
+
+28:37 shareholders directly and really to ensure that shareholders can exercise
+
+28:42 their their desires, their wants and see to in
+
+28:48 effectuated change, we need to nominate nine.
+
+28:52 So yeah, And how is that communication with shareholders happening?
+
+28:57 Is that you reaching out proactively to shareholders?
+
+28:59 Are you seeing inbound requests? What's the mix there?
+
+29:02 I would say it's a combination. We've not formally
+
+29:08 submitted any proxy materials. We're not soliciting votes at this time,
+
+29:12 but we have received inbounds from shareholders, you know, on an
+
+29:15 unsolicited basis and are very happy to speak with anyone.
+
+29:19 We are a significant shareholder in this company and have very strong views about
+
+29:22 it. And let's talk a little bit more about
+
+29:24 financing here, because that has been one of the questions, of course, how
+
+29:28 would you pay for this? And you have also said that you've
+
+29:31 identified large global institutional financing sources that represent 100% of
+
+29:36 the capital required to buy the shares in Macy's that we do not already own.
+
+29:41 Can you give us some detail about who those large global institutional
+
+29:44 financing sources could be? Yeah.
+
+29:46 So they are, like you said, large global money center banks.
+
+29:52 And the company shouldn't be surprised that there's so much interest in.
+
+29:56 Participating in this capitalization. They have a really great asset base.
+
+29:59 And, you know, hearing some of their responses that it's a tough capital
+
+30:03 markets environment, it's a tough financing environment.
+
+30:06 All of that's true. And notwithstanding that, there is
+
+30:08 robust interest in participating in this privatization.
+
+30:13 All right, Gabrielle, it's going to be really interesting to watch this one
+
+30:16 play out. Hope to continue this conversation soon.
+
+30:18 That, of course, is Gabrielle Kahana, the CEO of Arc House.
+
+30:24 And now let's get a quick check on these equity markets.
+
+30:27 Of course, we're over an hour into the US trading day.
+
+30:30 We're going to do that with Bloomberg's Abigail Doolittle.
+
+30:32 Well, we are looking at some bearish action for markets today, Katy.
+
+30:35 But before we take a look at what's happening for markets more broadly,
+
+30:38 let's start out with a bright spot. Not exactly macy's, but it is.
+
+30:41 Target shares are surging on the day, up more than 10%, heading to the best day
+
+30:46 of the year. And this, of course, after they beat
+
+30:48 adjusted earnings by 27%, putting up nearly $3 and adjusted earnings on
+
+30:53 better gross margins as inventories are have gotten a little bit under control.
+
+30:58 So investors really liking that for the shares of Target.
+
+31:00 As for the bearish market outlook, let's take a look at the S&P 500 down 9/10 of
+
+31:04 1%. Overall, we are looking at session lows.
+
+31:08 You can see the Nasdaq 100 underperforming down for a second day in
+
+31:11 a row, down 1.8%, really being dragged on by Apple and Tesla.
+
+31:15 And of course, weakness for both of these companies coming out of news from
+
+31:19 China. Apple, the first six weeks for the
+
+31:21 iPhone of this year, down 24% on a year over year basis as Apple's popularity
+
+31:27 for the iPhone slides into fourth place for smartphones in China.
+
+31:30 Tesla down 5% on the news yesterday that their activity for February the
+
+31:35 shipments out of the China factory the lowest in more than a year.
+
+31:40 Turning this into bitcoin, though, this is a bright spot so we have negative
+
+31:44 spots and bright spots and of course bitcoin today hitting an all time high.
+
+31:48 You can see this five year chart, not a picture of stability, a parabolic
+
+31:53 uptrend. So like those last two then record
+
+31:56 highs, we may see somewhat of a reversal, but for the crypto gold bugs,
+
+32:00 certainly they are probably enjoying this rally, as are the physical gold
+
+32:04 bugs gold spot hitting an all time high on the day, up 8/10 of 1%.
+
+32:09 When you put that together with the ten year yield down seven basis points on
+
+32:13 the day, Katie and then stocks lower, it really creates a bit of a risk off
+
+32:18 picture as investors are looking for havens and getting out of stocks.
+
+32:21 Yeah, there's definitely something poetic about the fact that you had gold
+
+32:24 and bitcoin hit their all time highs on the same day.
+
+32:27 Bloomberg's Abigail Doolittle. Thank you so much.
+
+32:30 Now coming up, we're going to hear from John Kramer, Harvard lecturer.
+
+32:33 But the rule of borrowing costs and inflation.
+
+32:35 That conversation coming up next. This is Bloomberg.
+
+32:54 All right. Well, it's time now for Wall Street
+
+32:56 Week. And today we're looking at how the high
+
+32:58 cost of borrowing is impacting how Americans feel about the economy.
+
+33:02 Bloomberg's David Westin sat down with Judd Cramer, a Harvard lecturer who
+
+33:05 penned an article with Larry Summers about the trends.
+
+33:08 David asked him why consumers aren't buying the story of a strong economy
+
+33:12 despite some of the data. Traditionally, economists have been able
+
+33:18 to look at GDP growth, inflation and unemployment, and from that really get a
+
+33:22 good measure of where consumers will have been.
+
+33:26 But this time around, something seems to have broken.
+
+33:29 And so that's what led us to really try to dig in to the inflation measures and
+
+33:34 see what might have been different now versus how we were measuring things in
+
+33:38 the 1970s. So how is it different now than the way
+
+33:42 we're measuring in the 1970s? Yeah.
+
+33:44 So before 1983, housing prices and crucially for our research, mortgage
+
+33:50 rates were included in the CPI. So when we saw mortgage rates jump last
+
+33:55 year from 3% to 7%, if we had been measuring inflation the way we did in
+
+33:59 the 1970s, instead of seeing inflation peak around 10% last year, we would have
+
+34:05 seen it jump all the way to 18%. So when we take that new that old
+
+34:11 methodology and apply it to current data, it kind of makes more sense to us
+
+34:15 why consumers are still in the dumps. Not only did prices rise, but after that
+
+34:20 interest rates rose so much. And that's something that has really
+
+34:24 been weighing on their finances. For those was old to remember, there was
+
+34:27 something called the misery index that I guess came actually from Arthur Oke.
+
+34:30 And I'm not sure I knew that before I read your paper.
+
+34:33 But. But why did we move away from that
+
+34:35 misery index? Why did we take out some of those
+
+34:37 borrowing costs that affect consumers? Yeah.
+
+34:40 What's interesting is Arthur Okun and the Misery index was so pivotal in
+
+34:44 explaining the way people were feeling about Jimmy Carter that we sort of kept
+
+34:48 using it going forward. And folks are still looking at CPI,
+
+34:52 inflation and the unemployment rate. But what they don't necessarily realize
+
+34:56 is that the way we've measured inflation has really changed.
+
+34:59 So what we did is we reconstructed the original misery index from Arthur Okun,
+
+35:04 and what we show in the paper is actually that's much more powerful than
+
+35:08 the simplified outlook and misery index that we look at today.
+
+35:12 And if we use the old measure, we can actually explain about 70% of the
+
+35:17 so-called vide session that we are currently experiencing in the United
+
+35:20 States. And from your paper, I take it that you
+
+35:23 basically use as a consumer sentiment indicator, the University of Michigan,
+
+35:27 my old alma mater, University of Michigan Consumer Sentiment Index.
+
+35:31 Does that track with your new inflation index?
+
+35:35 We think that the Michigan sentiment is the best measure, and that is what
+
+35:38 people have been citing because it's really been lagging other economic
+
+35:42 indicators. But as we say, when we sort of broaden
+
+35:45 the scope a little bit on some of those indicators, it does a much better job of
+
+35:49 explaining what's going on in the University of Michigan index.
+
+35:53 We haven't explained all of it. There's certainly some room for
+
+35:57 partisanship or inequality or some other American specific factors.
+
+36:01 But we do think that thinking about borrowing costs and the cost of money
+
+36:05 that everyday Americans are paying goes a long way to experience, to explaining
+
+36:10 why they feel the way they do about this economy.
+
+36:13 So a big issue in financial markets right now is what is the Fed going to do
+
+36:17 with interest rates? When are they going to cut?
+
+36:18 How much are they going to cut or even some people even suggest they might
+
+36:21 conceivably raise? Take your analysis.
+
+36:24 Let's assume the Fed decided today we're going to use your measurement of
+
+36:28 inflation. How might it affect monetary policy?
+
+36:32 Certainly, there would have been no impetus for the idea of rate cuts
+
+36:36 starting at the end of last year. By our own measure, inflation would
+
+36:40 still be 8% in November of last year. So certainly they would not have been
+
+36:44 thinking about using the rate policy to try to
+
+36:50 stimulate the economy so the inflation rate would be higher under your
+
+36:53 measurement than what we're seeing right now.
+
+36:55 On the other hand, part of the inflation on your measurement would include the
+
+36:59 cost of borrowing with which the Fed affects.
+
+37:02 I mean, if its job is price stability and one of the prices is actually the
+
+37:05 price of borrowing money, they could actually bring down, if you will, your
+
+37:10 inflation measurement by cutting rates. Could they not?
+
+37:12 Yeah. So partially and that's one thing that
+
+37:15 we we looked at when we went back to the Volcker era.
+
+37:18 We actually think that by Volcker raising rates a lot at the beginning, he
+
+37:22 made the inflation that he eventually slayed look a lot harder than it
+
+37:25 actually was. And that's why the two things were more
+
+37:28 comparable. But yeah, you could get into this
+
+37:30 circular issue where the cost of money is part of the cost of living.
+
+37:34 So if we raise interest rates, we're raising the cost of living.
+
+37:37 But actually that's the antithesis of what we're trying to do.
+
+37:40 So that's one of the other reasons why I think sort of punting on the issue of
+
+37:45 the cost of money and excluding it from the CPI is is where we landed.
+
+37:50 But yes, it's a very interesting argument because when you ask people on
+
+37:54 the street, they certainly consider the cost of borrowing, the cost of their
+
+37:58 credit card debt, the cost of car financing or the cost of mortgage part
+
+38:03 of their consumption basket. But putting that in the measure that the
+
+38:07 Fed targeted could get us in in an odd directions.
+
+38:14 And that was Harvard lecturer Judd Kramer and Wall Street Week host David
+
+38:17 Westin, who joins me now. To my left.
+
+38:19 And David, I'm glad you asked that because at a certain point it does feel
+
+38:22 a little bit circular, except the Fed do it that if they did actually count
+
+38:27 inflation. That was interesting.
+
+38:28 When I talked to Mary Daly last week, remember from San Francisco Fed, I ask
+
+38:31 you this question. She said, actually, they do take into
+
+38:34 account the effects of borrowing costs on individuals, although she didn't say
+
+38:37 how they're taking effect. But I'm not exactly sure if they want to
+
+38:40 get it down, then they should cut rates. Right.
+
+38:42 I mean, they can fix that slight inflation by cutting rates.
+
+38:45 It just it feels wrong to even say it. But I mean, I think it's an important
+
+38:49 point when you think about the actual costs and price pressures that Americans
+
+38:54 feel, a lot of that does come from higher interest rates.
+
+38:56 And the fact that that's taking up a larger part of their spends.
+
+39:00 Exactly. And of course, this is particularly
+
+39:01 important for President Biden as he tries to seek reelection.
+
+39:04 As we look at that State of the Union address coming up, because that man in
+
+39:07 the street that Judd referred to is the voter on the street as well.
+
+39:11 And right now, I'm not sure how it works for President Biden and say, okay,
+
+39:14 you're really feeling the pain of those increased borrowing costs, but it's not
+
+39:16 my fault. It's the Fed's fault.
+
+39:18 So don't blame me. Yeah, exactly.
+
+39:20 Of course, that relationship, it's a little bit tenuous at this point.
+
+39:23 I'm sure that Biden, the candidate, would certainly like for them to cut
+
+39:27 rates, but he can't say that, you know. Exactly.
+
+39:29 But I thought it was an interesting explanation.
+
+39:30 It makes some sense, as you say, that we should take into account borrowing costs
+
+39:34 in assessing exactly what's going on with the economy.
+
+39:37 So great conversation with Judd Cramer there.
+
+39:40 Who else do we have coming up? Well, you know, Friday we're going to
+
+39:42 have Larry Summers, the co-author of Judd Cramer, to talk about that paper,
+
+39:46 but more importantly, talk about the jobs numbers that come out on Friday.
+
+39:49 And also, we have the State of the Union, remember, on Thursday.
+
+39:52 So we can ask Larry what he thought about that.
+
+39:53 Said, you just so have a very full discussion with Larry Summers coming up
+
+39:57 Friday at 6 p.m. Eastern Time.
+
+39:59 Yeah, busy week. Great conversations coming up, David
+
+40:02 Westin. Thank you so much.
+
+40:03 This is Bloomberg.
+
+40:20 Well, voters from 15 states are heading to the polls today for the Super Tuesday
+
+40:23 primaries, and 13 of those 15 states are winner take all states, meaning the
+
+40:28 former president, Donald Trump. He could secure the Republican
+
+40:31 nomination tonight. Joining us now is Bloomberg's Kelly
+
+40:34 lines for more. And Kelly, it sounds like tonight could
+
+40:37 easily turn into a victory lap for Donald Trump.
+
+40:41 Absolutely. And frankly, Katy, that is the
+
+40:43 expectation. He very well could sweep all 15 of these
+
+40:46 Super Tuesday states after winning almost every single primary thus far.
+
+40:50 The one exception was here in Washington over this past weekend.
+
+40:53 Nikki Haley did win the primary here, although only 2000 people voted.
+
+40:57 But as you say, really, a lot of this comes down to the delegate math.
+
+41:00 1215 delegates is the actual number Trump needs to secure the nomination.
+
+41:05 Mathematically, he can't quite get there tonight, but he could get very close and
+
+41:09 theoretically have the nomination completely locked up by the end of
+
+41:13 March. So then it becomes a question of whether
+
+41:15 or not this will still be a competitive Republican contest.
+
+41:18 Nikki Haley is still on the ballot today.
+
+41:20 She is committed to staying in through Super Tuesday, but it's not exactly
+
+41:22 clear what will happen to her campaign after tonight.
+
+41:25 Well, that's exactly where I wanted to go, because, of course, one of the big
+
+41:28 questions is whether or not this is the last hurrah for Nikki Haley.
+
+41:32 But like you said, it's up in the air. Yes, it is.
+
+41:36 She has indicated that she will stay in this race if she remains competitive,
+
+41:40 but she hasn't really put a definition on what exactly competitive means.
+
+41:43 I even asked one of her most powerful surrogates, New Hampshire Governor Chris
+
+41:47 Sununu, about that yesterday. He, too, didn't want to put any specific
+
+41:49 numbers around that, but did point to the idea that Nikki Haley has gotten
+
+41:53 more than 40% of the vote in places like New Hampshire, more than 20% in other
+
+41:58 states as well. And he said those kind of numbers do
+
+42:00 show that there is an appetite out there for someone who isn't Trump.
+
+42:03 Of course, the other thing to consider here is just financing.
+
+42:06 Nikki Haley is still raising millions of dollars.
+
+42:09 She pulled in $12 million in the month of February.
+
+42:11 Her campaign has said another $1 million has come in so far in March.
+
+42:15 And if she still has the money to go forward, she very well could.
+
+42:18 It just becomes a question of why exactly she would be doing that, knowing
+
+42:21 that the math, especially if Trump wins all the states tonight, will mean that
+
+42:24 she can't actually get the number of delegates needed to secure the
+
+42:27 nomination. It could be that she just wants to be
+
+42:30 there as a backup should something happen with Donald Trump.
+
+42:32 Like say he's convicted of a felony. And that changes actually what could
+
+42:35 happen at the convention in July. Yes, some big questions out there, of
+
+42:39 course, hoping to get some clarity tonight.
+
+42:41 Bloomberg's Kailey Leinz. Thank you so much.
+
+42:44 Of course, Bloomberg and kelly will have special coverage of Super Tuesday
+
+42:47 beginning tonight at 8 p.m. new york time.
+
+42:51 And now let's quickly take a look now at some of the stocks hitting highs and
+
+42:54 lows this morning because first up, we have Disney hitting highs after Morgan
+
+42:58 Stanley raises the price target on the stock to $135.
+
+43:03 Actually, we're toggling around a little bit now.
+
+43:05 Disney basically unchanged, not too far away from that price target, though.
+
+43:09 But Synchrony, of course, having a great day, up about 2.6% to hit a 52 week high
+
+43:15 after it revises its 2024 outlook. You can see that shareholders clearly
+
+43:20 like what they saw. Synchrony Financial again, up about two
+
+43:23 and a half percent. Now that's the good news.
+
+43:26 On the other side, we do have some bad news and that's for Warner Brothers
+
+43:29 hitting a 52 week low, down over 5% over the past two days.
+
+43:33 And that's despite the box office win that it got with the movie Dune two.
+
+43:38 The sci fi blockbuster took in over $82 million in sales this past weekend.
+
+43:43 I thought it was a little bit long, you know, close to 3 hours, but no one asked
+
+43:47 me anyway. Warner Brothers Discovery down today.
+
+43:51 Coming up, we do have the founder of Future Perfect Ventures joining
+
+43:54 Bloomberg Technology with Caroline Hyde and Ed Ludlow next.
+
+43:58 Don't go anywhere, but that does it for us.

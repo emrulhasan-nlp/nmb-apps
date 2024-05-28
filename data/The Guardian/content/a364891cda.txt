@@ -1,0 +1,61 @@
+Government agencies and police forces are using hyper-targeted social media adverts to push messages about migration, jobs and crime to minority groups.
+
+Many of the ads are targeted using data linked to protected characteristics including race, religious beliefs and sexual orientation. Stereotypes about interests and traits such as music taste and hair type are also widely used.
+
+In one case, a government campaign aimed at helping young people off benefits was targeted at Facebook users with interests including “afro-textured hair” and the “West Indies cricket team”.
+
+Other campaigns have targeted LGBTQ+ content at people interested in “genderqueer” issues and the TV show RuPaul’s Drag Race; council support services at people interested in “hijabs” and “Islamic dietary requirements”; and an appeal for witnesses to a murder in Manchester aimed at people interested in “hip-hop”, “rapping”, Kim Kardashian and Usain Bolt.
+
+The “microtargeting” is revealed in analysis of more than 12,000 ads which ran on Facebook and Instagram between late 2020 and 2023. Supplied to UK academics by Facebook’s parent company Meta, and shared with the Observer, the data gives an insight into the use of targeted advertising by the state based on profiling by the world’s biggest social media company.
+
+In 2021, Facebook announced a ban on targeting based on race, religion and sexual orientation amid concerns about discrimination, which led to the removal of several interest categories that had been used by advertisers to reach and exclude minority groups.
+
+But the latest analysis suggests interest labels assigned by Facebook based on web browsing and social media activity are routinely used as a proxy.
+
+View image in fullscreen An interest in Usain Bolt, along with hip-hop, rapping and Kim Kardashian, was used as a tool to target murder witnesses in Manchester. Photograph: Martin Rickett/PA
+
+These labels, ranging from food tastes to which religious festivals a person celebrates, are often combined with age, gender, education level and postcode for more precise targeting.
+
+In one campaign in summer 2022, the Home Office ran hundreds of ads aimed at deterring asylum seekers from coming to the UK targeted at people from countries including Afghanistan, Syria and Iraq. While Facebook doesn’t allow advertisers to target people directly based on nationality, interests including “Afghanistan national cricket team”, “football in Iraq” and “Syrian cuisine” appear to have been used as a proxy.
+
+In another case, ads for the government’s Kickstart scheme to create jobs for young people on universal credit were targeted at those from black and Asian backgrounds using interests including “afro-textured hair”, West Indies cricket, the Afrobeats musician Wizkid, and the Pakistani, Bangladeshi and Indian cricket teams.
+
+The 2022 campaign also targeted people using religious labels including “Eid al-Fitr” and “Hinduism”. Facebook said options for targeting using “afro-textured hair” and religious labels were no longer available.
+
+Other campaigns refined their targeting using location data. Ads from Crimestoppers, which receives Home Office funding, encouraged people to get in touch if they had “spotted something suspicious” in their community. The March 2023 campaign was targeted at people living in two Leicester postcode areas, using interest labels including “Mogadishu”, “Somali language” and “Somalia national football team”.
+
+The researchers who studied the data, from Edinburgh, Cambridge, Napier and Strathclyde universities, said the ad targeting raised concerns about “invasive” profiling, including “some particularly troubling” targeting of minority groups.
+
+Many of the campaigns appear to have been intended to improve diversity or public health and safety, such as promoting Covid vaccine uptake and the reporting of crime.
+
+View image in fullscreen An intelligence services recruitment campaign from 2021. The ads were targeted at people at certain universities living in areas of cities with a large Black community.
+
+The government and police forces said targeting was a useful tool for ensuring messages reached key audiences and ensuring value for money for the taxpayer.
+
+But Ben Collier, a lecturer in digital methods at the University of Edinburgh, who co-authored an upcoming report about the targeting, said that in some cases it appeared that “people have really not cared about the ethics. They’re using these absolutely mad proxies which are based on very intimate aspects of behaviour, interests and identity,” he said.
+
+skip past newsletter promotion Sign up to First Edition Free daily newsletter Our morning email breaks down the key stories of the day, telling you what’s happening and why it matters Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+He added that some of the targeting relied on “strikingly old-fashioned” assumptions about social groups and had led to the use of “ridiculous stereotypes”. “If you are targeting a jobseekers scheme based on people who like Wizkid, then if you’re a young, Black businessperson who’s into Pink Floyd you’re not going to see that ad,” Collier said. “You don’t conform to the cultural stereotype that the government is using to access that category, so you won’t get that ad or the support.”
+
+The government must be transparent about its intrusive surveillance advertising techniques Jake Hurfurt, Big Brother Watch
+
+Sandra Wachter, a professor of technology and regulation at the Oxford Internet Institute, said the research was a “powerful example” of how seemingly trivial data could be used to glean sensitive personal details about people. She said the use of targeting for law enforcement purposes raised particular concerns, adding: “We [already] have massive systemic discrimination, with police arresting people of colour at a much higher rate than white people.”
+
+Big Brother Watch, a privacy advocacy group, described the targeting as “hugely inappropriate”. Jake Hurfurt, head of research, said: “The government must be transparent about its use of these intrusive surveillance advertising techniques and halt any targeting of people based on ethnicity, religion or sexual orientation by proxy.”
+
+Campaigns have also targeted people based on generalisations about gender. A 2022 police domestic abuse campaign was aimed at men aged 18-40 in Cheshire with interests including “LADbible” and “Marvel entertainment”. A campaign to get young people out of the far right by targeting their mothers with content about deradicalisation used interests including EastEnders and Hollyoaks.
+
+Some targeting raised potential concerns about national security and the handling of sensitive data. In one case, the security services ran recruitment ads that were “extremely finely targeted” at young Black British people in certain areas. The 2021 campaign used partial postcodes to reach people living in “small areas of cities with a large Black community” who attended universities such as Aston in Birmingham and the University of East London.
+
+Collier and his co-authors say their research shows the potential for abuse of microtargeting. They are calling for regulation and greater transparency, including an open register of digital campaigns by public sector bodies with details of targeting approaches. Currently “there appears to be little central oversight … and the legal and political position of these approaches is unclear. Campaigns are often visible but the targeting is hidden.”
+
+Meta said the research would not have been possible without its commitment to transparency, which included sharing data with academics and publishing an ad library.
+
+It said the company had made “significant progress” to reduce the potential for abuse of its targeted ads system, including “routinely reviewing, updating and removing targeting options”. Several categories clearly relating to protected characteristics, such as “afro-textured hair” and “hijab”, were removed in 2022.
+
+Greater Manchester Police said targeted ads were a “valuable tool” for solving crimes and supporting victims. It said its ads complied with regulations and did “not target protected characteristics”. Past campaigns –aimed at people with interests including “RuPaul’s Drag Race” and “rapping” – ran before Facebook’s ban on targeting using protected characteristics.
+
+Crimestoppers, which ran ads aimed at the Somali community in Leicester, said campaigns often focused on areas most affected by crime, sometimes at the request of local police. “It is not about characteristics – it is about the individuals who we know are at high risk,” a spokesperson said.
+
+The government said: “Campaigns are always designed to effectively reach key audiences and ensure value for money for the taxpayer. The advertising channels are selected based on their ability to engage with audiences at a national, regional and local level.”

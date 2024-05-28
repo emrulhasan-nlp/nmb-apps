@@ -1,0 +1,2821 @@
+00:02 Giovanni from London. This is Bloomberg Markets today.
+
+00:05 I'm on Edward's alongside Guy Johnson and Chris.
+
+00:07 He goes up with the gas trade just less than an hour away.
+
+00:10 Here's what you need to know. Fed Fairfax stocks pressured after a
+
+00:14 sharp sell off on Wall Street as markets brace for a hawkish pivot from Powell.
+
+00:18 Most European markets are shut for May 1st Labor Day holidays, Amazon's air
+
+00:23 boost shares and the e-commerce giant's jump.
+
+00:25 Ports are reporting strong cloud unit sales on rising air demand.
+
+00:29 We will bring you earnings from UK corporates, including GSK and next.
+
+00:33 Plus, BBVA tell Sabadell is interested in exploring an acquisition in what
+
+00:38 could be one of the largest European banking deals in years.
+
+00:42 In the meantime, quick check on these markets here.
+
+00:44 As you look at the futures picture, you're seeing footsie 100 futures
+
+00:46 unchanged at the moment. Here's some of that.
+
+00:48 Your stock, 50 futures are trading. The futures contracts are trading even
+
+00:51 though the rest of the markets are indeed closed.
+
+00:53 It looks worse than yesterday's pricing on that.
+
+00:55 Those who keep in keep watching will bring you the update.
+
+00:57 Pricing there, too, yield sustainably above 5%.
+
+01:00 503 We're going to dive into some of the mechanics there and cable weaker this
+
+01:04 morning as well. One 2474 Marcus today starts right now.
+
+01:19 Wednesday, the 1st of May. Awful.
+
+01:21 April is finally over. Stock markets didn't enjoy April.
+
+01:25 Will they enjoy May to May the first? For most of Europe, that means Labor
+
+01:30 Day. That means that most European markets
+
+01:32 are today closed. The UK is open.
+
+01:34 I think Denmark is open as well. We'll look forward to those markets
+
+01:37 opening a little bit later on. But it is a day, of course, that is
+
+01:40 going to be dominated by the Federal Reserve.
+
+01:42 That meeting comes up a little bit later on or the results from that meeting
+
+01:46 comes up a little bit later on with markets very much on tenterhooks to hear
+
+01:50 exactly what Jay Powell has to say. In the meantime, though, we have lots to
+
+01:53 deal with. We've got JOLTS data coming out a little
+
+01:56 bit later on, ISA manufacturing. But before we get all that, we need to
+
+01:59 digest the earnings which start here in Europe this morning with GSK.
+
+02:03 Yeah, absolutely. Some better news out of GSK.
+
+02:05 It seems an upgrade to guidance coming through this morning from the pharma
+
+02:08 giant. They see full year adjusted operating
+
+02:10 profit 9 to 11% higher. That's the guidance.
+
+02:13 Now, they had seen the range of 7 to 10 and on adjusted EPS, they're also
+
+02:17 guiding a little higher this morning. And this matters because there had not
+
+02:20 been an expectation that we get a guidance upgrade.
+
+02:22 I guess that's a sort of weird thing to to to expect anyway, because if you were
+
+02:27 expecting it, maybe you would have priced in it already.
+
+02:29 But anyway, we had heard from analysts that it's too early in the year to
+
+02:33 upgrade guidance. And we also heard from analysts that
+
+02:36 this is a business that trades at a discount to other EU large cap pharma.
+
+02:39 So when you see that kind of business with that kind of pricing upgrading its
+
+02:42 guidance, you wonder where the stock goes.
+
+02:43 Yeah, we should mention that, Holly, and actually also, which I believe is their
+
+02:46 consumer spin out of GSK as well, coming out with their numbers in tandem as
+
+02:50 well. They're just an operating margin,
+
+02:52 though, coming in quite hot as well, 24.2% there.
+
+02:54 The estimate was about 22.9%. But their revenue is actually coming
+
+02:59 back in line with estimates. So the operating margin seeing a little
+
+03:01 bit of a boost this morning. Yeah, there's some interesting what they
+
+03:03 say about their China business that Harley on because there's going to be a
+
+03:06 renegotiation this year of their deals of their of their terms of trade, if you
+
+03:10 like, in China. And so they have big concern from some
+
+03:13 analysts that that could be an area to watch.
+
+03:15 We're also watching next. But maybe all the good news is in the
+
+03:18 price around next will see. But guidance for the full year remaining
+
+03:20 on change. But this is after a recent very positive
+
+03:24 statement coming through from the retailer that talking about real wages
+
+03:27 on the rise in the UK. That said, that's the positive story and
+
+03:31 the management's made quite a lot of that.
+
+03:33 That said, just yesterday we had that deflation story in the UK, at least in
+
+03:36 the non-food side of things. We're seeing deflation not disinflation,
+
+03:40 but actual deflation for the first time in more than two and a half years.
+
+03:43 That's certainly something a dynamic to watch when you're dealing with a
+
+03:45 business like this. I love this headline.
+
+03:47 Q1 retail sales plus 0%. Is it plus is that plus I guess it's
+
+03:52 never around is maybe something that maybe maybe trading at full price is
+
+03:57 plus 5.7, which doesn't apply some discounting.
+
+04:01 And the EPS the EPS, the fully EPS still kind of 606 estimate 614 there.
+
+04:08 So maybe some disappointment, I suspect maybe in the next numbers a little bit
+
+04:11 here. Well, speaking of disappointment, look
+
+04:12 at these Aston Martin numbers as well. A pretty big miss on their revenue
+
+04:15 numbers, 267 million. The estimate there was 290 million as
+
+04:19 well. Their wholesale volume units, 945.
+
+04:22 The estimate was just about 1200. So a pretty big miss for Aston Martin as
+
+04:25 well. This morning.
+
+04:26 Upper end cars are beginning to struggle a little bit, which I think is
+
+04:28 interesting, is that in Mercedes is important as well.
+
+04:31 So Friday we saw poor, Monday we get Mercedes, Monday, Tuesday we get
+
+04:34 Mercedes and now Aston Martin maybe confirming that trend as well.
+
+04:38 So that upper end of the market, which we thought was very secure, maybe
+
+04:42 feeling a little less secure, it's kind of fits with the broader narrative of
+
+04:45 what's happening in the luxury space. It was nice to show some nice Aston
+
+04:48 Martin any excuse to show you the fast cars.
+
+04:50 And talking of cars, maybe that takes us nicely on to what we heard from U.S.
+
+04:54 corporates overnight. We've got some earnings stories.
+
+04:55 We'll get to those. But we also had some news from Tesla.
+
+04:58 And I think this is interesting, given the the number of times we certainly
+
+05:01 talked in years past on this channel about the lack of charging
+
+05:04 infrastructure in various places. Well, this is the US story
+
+05:06 predominantly, but the Superchargers that Tesla has been putting in place
+
+05:10 that a lot of other automakers have been tapping into.
+
+05:13 They they then announced, it seems quite out of the blue perhaps that all of the
+
+05:18 staff from the supercharger unit are going.
+
+05:20 That is in addition to the 10% of staff that they announced were already going
+
+05:24 from Tesla. So this is a business taking it across
+
+05:26 country very seriously, of course. But they are still talking about, you
+
+05:30 know, increasing that supercharger business is not quite as quickly.
+
+05:33 Well, the EV space in the United States is really interesting because in some
+
+05:35 ways they're obviously competing with each other, but they're also partnering
+
+05:38 to your point on this infrastructure story at a time, because Tesla actually
+
+05:41 has or did have, I should say, past tense the money to actually put forward
+
+05:45 towards the infrastructure. They were getting a lot of government
+
+05:47 subsidies to expand that charging infrastructure, largely in California,
+
+05:50 for example, that was kind of their big hub to actually be able to do that as
+
+05:53 opposed to the rest of the United States.
+
+05:54 And it was still very much experimental because, again, it was driven so largely
+
+05:58 by, of course, Tesla's personal funding, but also that government subsidy story.
+
+06:01 What does this then do to Biden's kind of political agenda as well in terms of
+
+06:04 that EV transition? They've established the standard over
+
+06:07 there as well, which is interesting that others are now going with their
+
+06:09 standard, the North American standard of the American standard.
+
+06:11 I come with exactly what they call it, but others like GM have been using that.
+
+06:14 So this is a blow to them in some place. Rivian I have to say the first thing.
+
+06:18 When I saw this headline first thing this morning, and this tells you how old
+
+06:21 I am, I looked at him. Why does a Tesla need a supercharger?
+
+06:24 Oh, and then I worked out.
+
+06:27 Obviously, that's to do with electrics, not air.
+
+06:31 Well, we'll see how that one plays out, but I think it's bad news for the rest
+
+06:33 of the sector. But it just I think it speaks to the
+
+06:35 stress that Tesla is under at the moment in order to need to cut costs.
+
+06:39 This is where it's cutting costs, despite the fact that this is where its
+
+06:42 audience in so many ways. Once the improvements, if range anxiety
+
+06:46 still exists and it really exists in the United States, I get this here, but it's
+
+06:50 a massive problem in the US. Yet talking about these standards
+
+06:52 charging Sanders North American standards and the others, you know, it
+
+06:55 takes you back to all kinds of other iterations of that drama through
+
+06:58 technology history. You're going to bring up the Betamax.
+
+07:00 I mean, I would think that was not going to age myself
+
+07:05 so, so much guy. But yes, we can do that together.
+
+07:08 And Amazon also in Focus, a very different story.
+
+07:10 The stock up more than 6% after hours, really accelerating sales growth, a
+
+07:14 contributing significantly to that accelerating cloud sales growth.
+
+07:19 So a positive story coming out of Andy. That's on the retail story.
+
+07:22 So it was interesting, the stock initially climbed quite strongly and
+
+07:26 then fell. And I think it's going to open a little
+
+07:29 versus the close of 75 yesterday. It looks like it's going to open
+
+07:31 positive for the market, but it's a real roller coaster ride with this stock as
+
+07:34 it tried to kind of factor in all the various elements.
+
+07:37 Yes, the story is strong. Spending is going to have to be quite
+
+07:40 aggressive in that space. But the consumer actually looks
+
+07:43 relatively weak judging by this data. And that fits with the Starbucks story,
+
+07:47 too. It does.
+
+07:48 Two thoughts. The first is on Amazon.
+
+07:51 Amazon Web services only makes like a third of their their revenue.
+
+07:53 They are still largely e-commerce business.
+
+07:55 Exactly. A lot of profit.
+
+07:57 We know that Andy Jassy was formerly the head of us before he took the helm as
+
+08:00 CEO as well. So it's very clear that investors are
+
+08:03 viewing this company as a tech trade, as an A trade more than a consumer trade,
+
+08:08 given even though they do have a larger consumer business and a logistics
+
+08:12 business, by the way, and an advertising business and an advertising business,
+
+08:15 they do a lot of different things, and yet it's still that cloud.
+
+08:18 I still worry that investors are kind of harping on to the Starbucks story I
+
+08:21 thought was really interesting for a variety of reasons, because they go
+
+08:26 ahead. I know they've got a few words to say on
+
+08:28 Starbucks, but you got first caramel latte are the two words that come to my
+
+08:31 mind. Like I think I think what's important
+
+08:33 about Starbucks as well is that they actively talked about the losing kind of
+
+08:37 China piece of the equation. Luckin Coffee, for example, talked about
+
+08:40 competition hurting their business, which seems normal.
+
+08:44 But isn't this something we're hearing from CEOs a lot?
+
+08:46 Erickson For example, saying that the idea of protecting competition in
+
+08:49 various markets is actually hurting them.
+
+08:51 Yeah. I mean, is it helping their pricing?
+
+08:53 You talk about $6 lattes, then maybe it's hurting.
+
+08:55 The pricing is what is what's happening here.
+
+08:57 So the you went with caramel latte. What's your lavender latte?
+
+09:01 I saw that this morning. Well, I'll look into gin and tonic
+
+09:04 maybe. Physical reaction.
+
+09:05 Yeah, that was when I was like, why would you put lavender into a coffee?
+
+09:09 I don't know. There's something I don't know.
+
+09:11 Little kind of sprigs in a gin and tonic.
+
+09:12 So maybe something else is happening. But anyway, caramel I have issues with
+
+09:16 as well. Coffee should be smaller, not large yet.
+
+09:18 Smaller, better, larger, worse. Well, we'll see if the Fed has been
+
+09:22 drinking any lavender. That's a little bit later.
+
+09:24 We'll see how that seems to as they're thinking.
+
+09:26 We get, of course, the Fed decision later on today that's going to dominate
+
+09:29 things. And I think the day when a lot of
+
+09:31 European markets are closed, as we've already discussed, the Asian markets are
+
+09:34 closed. You know, it's even more going to be
+
+09:36 about the Fed, as if that was even worth saying this in the wake of what we saw
+
+09:39 yesterday on the Europe, the employment cost index gauges hotter than expected
+
+09:44 in the U.S., which is surprising, right, because we were expected that number to
+
+09:47 come in hot anyway, though a lot of minimum wage increases, I think around
+
+09:49 25 states out of the entire 50 had that. So there was an expectation it would
+
+09:53 come in a bit hotter anyway, just as kind of a first quarter seasonality
+
+09:56 thing, it came in even hotter than that, which is a suddenly a problem when we're
+
+10:01 talking about inflation and kind of tackling inflation.
+
+10:03 A big piece of that concern is affordability and whether wages can keep
+
+10:06 up. Not only are wages keeping up, they're
+
+10:08 actually kind of almost outpacing inflation itself and therefore driving
+
+10:12 it. It jolts today, 10 a.m.
+
+10:14 Eastern, you get, I say, manufacturing at 10 a.m.
+
+10:17 Eastern as well. So I think those are two really
+
+10:19 important pieces of data. Might be interested to see whether the
+
+10:21 manufacturing story is continuing, its rebound off the trough out of the trough
+
+10:26 that it's been in. That would be, I think, interesting.
+
+10:27 But certainly the ECI would appear to have given the Fed reason to harden its
+
+10:32 language when Powell speaks a little bit later on.
+
+10:35 But the market feels like it's very positioned for a hawkish sort of
+
+10:39 statement coming out of Powell. And I do wonder how kind of can he match
+
+10:42 the hawkish expectations? We have reversed an awfully long way
+
+10:46 very quickly. Yes.
+
+10:47 I mean, the market is now expecting something that, you know, December was a
+
+10:51 long time ago. So the market expects that the messaging
+
+10:53 is is is different. But it is it going to be materially
+
+10:55 different to the last couple of weeks from Powell?
+
+10:58 I suppose that's the question. We've got a number of guests coming up
+
+11:00 on the program this morning who give us their thoughts on whether we need to see
+
+11:03 any change in direction from Powell or is he already done justice to the.
+
+11:07 Yes, we didn't get any comfort from the inflation prints in January, February
+
+11:11 and March either. Yeah.
+
+11:12 Which is what we've had or any well, it's kind of almost back themselves into
+
+11:15 a corner. Right.
+
+11:16 What what they can't they can't claim it's a one off and.
+
+11:18 Anymore. You've had three different data prints
+
+11:20 with three significant months of beat in the CPI, the CPI, the PC deflator, and
+
+11:26 now the employment cost index, among other as well.
+
+11:28 You have a two year yield that is still sticking above 5% and still climbing, by
+
+11:32 the way, now. So the question is then, could you even
+
+11:35 consider higher long term yields that cross 5% and stay above 5% for for
+
+11:41 longer term? What are the ripple effects across that
+
+11:43 around the world? The other piece of the equation as well
+
+11:45 is what the Treasury does, because we have that refunding announcement 30
+
+11:48 minutes before the FOMC decision. What is the bond market more reactive to
+
+11:52 it? Well, there's an interesting kind of pat
+
+11:54 there. Isn't that because you've got that
+
+11:56 funding announcement, but you've also got the potential for Kuty to be dialed
+
+11:59 back so that Powell basically signals we're going to continue to do q t but at
+
+12:02 a lower level for longer. So we don't upset the overnight lending
+
+12:06 market and cause all kinds of problems. But I think it's going to be I think
+
+12:11 does he take out does he keep the language in there?
+
+12:13 Is the same to keep the language in there that says we are we still see the
+
+12:16 next move as a cuts. If that disappears, I think that would
+
+12:19 be a hawkish surprise maybe. And we get no dots today, do we?
+
+12:21 Is that right? I don't get no.
+
+12:23 So he could be could still be asked, where do you think members of the FOMC
+
+12:28 would put their doubts or words around that or is that or the dots out of date?
+
+12:32 Yes, I think maybe it's better that way. So.
+
+12:35 And how will he respond to that? That's going to be crucial.
+
+12:37 Yeah. And I I'm going to bring it right back
+
+12:39 to the bond market question as well, because we had a guest on yesterday
+
+12:43 visiting from Athens, actually, who was talking about this, that perhaps when it
+
+12:46 comes to whose responsibility it is to make sure that the bond market actually
+
+12:49 functions normally, it's not the Federal Reserve's responsibility any more.
+
+12:52 It felt like it was, say, third quarter 2023.
+
+12:55 A lot of that focus was on making sure financial markets are smooth and easy.
+
+12:59 And now that kind of onus, that responsibility has put on the Treasury.
+
+13:02 And I'm curious if Jay Powell is asked about that and what he says in terms of
+
+13:06 coordinating with the fiscal response at a time when they're trying to be
+
+13:09 separate from the fiscal story. Of course, all of that in our special
+
+13:11 coverage of the Fed decision at about 6:30 p.m.
+
+13:14 one the time, 1:30 p.m. if you are in New York and of course if
+
+13:17 you if you are in Asia as well, that's 1:30 a.m.
+
+13:19 for you. I'm sure you're going to be staying
+
+13:20 awake for this one. In addition to the Fed decision, there's
+
+13:23 a couple other things to watch out as well.
+
+13:25 We mentioned that U.S. Treasury quarterly refunding that's
+
+13:27 coming 30 minutes ahead of that Treasury decision, 1:30 a.m.
+
+13:31 London time as well. Excuse me.
+
+13:33 That's wrong. 1:30 p.m.
+
+13:34 Eastern Time. That's important to keep in mind.
+
+13:36 30 minutes before the the FOMC decision as well.
+
+13:39 3 p.m. UK time, though, you get that US JOLTS
+
+13:42 data and the iPhone manufacturing report as well.
+
+13:45 So again, more data points. Do they all suggest the same trend?
+
+13:48 And of course it is Labor Day. We've also mentioned that many markets
+
+13:50 are indeed closed. Doesn't create a light liquidity story,
+
+13:53 especially when it comes to those bond markets.
+
+13:54 We're going to keep you posted right here on BTV.
+
+13:56 And then, of course, it really has come down to the Fed.
+
+13:58 What happens after the Fed, though, Is this kind of a we've already priced this
+
+14:01 and this is a big nothing burger in 24 hours time.
+
+14:04 Markets anticipating some quite big moves.
+
+14:06 So buckle up. Could be an interesting afternoon,
+
+14:09 evening and interesting evening European time.
+
+14:12 Absolutely right as ever. Let's get back to the European stories
+
+14:14 and tell you what's coming up on the program.
+
+14:16 Coming up, we'll be talking about Spain once again.
+
+14:18 We did a lot of this yesterday, but the banking news takes us there again.
+
+14:21 BBVA tells SABADELL that it's interested in exploring an acquisition in what
+
+14:25 could be one of the largest European banking deals in years.
+
+14:28 We will get you the details. Plus, we'll look ahead to the UK local
+
+14:31 elections. They're taking place tomorrow.
+
+14:33 They could prove critical for Rishi Sunak's premiership.
+
+14:36 We'll find out why that conversation shortly.
+
+14:38 If you have any questions, if you want to get involved in any of the
+
+14:41 conversations, there's a lot to talk about this morning in terms of the Fed
+
+14:43 and earnings. I've got to go.
+
+14:45 That is the function you need on the Bloomberg temple.
+
+14:48 This is big day.
+
+15:09 On inflation. I mean, I think, of course, the Fed's
+
+15:12 heart is in the right place, but it's hard to be a eiland technocratic
+
+15:18 tranquility in the middle of a sea of political turmoil.
+
+15:22 The Fed is independent, but, you know, the governors get appointed, the Fed
+
+15:28 chair gets appointed. An island of technocratic tranquillity.
+
+15:34 Do you think he thought about that for a long time?
+
+15:36 It certainly sounds like it. Ken Rogoff, that, of course, Harvard
+
+15:40 University professor of economics and chair of international economics, the
+
+15:44 Fed is the story today. In so many ways it is the story.
+
+15:48 But we also get, as Curt has been pointing out today, the the funding
+
+15:52 requirements coming out of the US government, which are likely to be
+
+15:54 substantial. And it speaks to the interplay that that
+
+15:58 Ken is hinting at in terms of what is happening here with the US economy and
+
+16:02 how that fiscal impulse is impacting the economy, which is impacting what is
+
+16:06 happening with the with the Fed decisions for a Bush.
+
+16:10 Tess Lombard, chief economist, joins us now.
+
+16:12 Morning. Nice to see you in the studio, by the
+
+16:14 way. First of all, what do you expect from
+
+16:17 from the Fed? You obviously from the Fed.
+
+16:20 I think it's unlikely that we see it. It's unlikely we see any kind of major
+
+16:26 shifts on on on on rates at this stage. I think June is probably still too soon,
+
+16:31 given the run off of upside still in the recovery mode.
+
+16:34 Yeah, I do. I think that I think they're not we're
+
+16:37 not going to hear anything necessarily to that in that direction today just
+
+16:43 because we've had that run of upside surprises and you get three in a row and
+
+16:46 you can't really continue to use the word idiosyncratic.
+
+16:49 You have to have a very you have to have a very kind of strong reason as to as to
+
+16:52 why you think there's some underlying risk of of of inflation
+
+16:56 coming coming back down again and the trend actually being lower, which which
+
+17:00 I happen to have. But I think it's the Fed can't really
+
+17:03 come out today and kind of speak along along those lines.
+
+17:06 So so today is too soon to say that. And June is probably too soon for for
+
+17:10 the first for the first cut. But when I look at the the write downs
+
+17:15 of January, February and March, I can still use the word idiosyncratic.
+
+17:19 And I do still think that the supply is responding to demand.
+
+17:24 So when I when I look at the breakdowns from from those three three months of
+
+17:29 upside surprises, I see shelter, but I see a lot of of the kind of the more
+
+17:33 volatile aspects of shelter jumping up. So it's it's it's not the the stuff
+
+17:37 that's that's that's banked on on on primary rents which continues to look
+
+17:41 like it's on a disinflationary trend. I see a lot of energy filtering through
+
+17:45 into core through transportation services, which is a sector that has has
+
+17:50 has been very badly affected by the pandemic.
+
+17:52 They're trying to rebuild themselves. And so whenever they get the chance to
+
+17:55 push up prices again, they do that, but they can't necessarily do that unless
+
+17:59 oil continues to rise. So so that kind of energy spillover into
+
+18:04 core is there. And I see I see a lot of of of of of
+
+18:10 kind of in the details that you can sort of explain away.
+
+18:13 Now, you can't do that continuously. And I'm almost getting a little bit
+
+18:17 uncomfortable about doing it three months in a row.
+
+18:19 But I do see what not so much supply led demand, but I see I see not so much
+
+18:25 supply led growth, but I see demand leading supply back on.
+
+18:30 So we see immigration recovering and we see very strong productivity growth.
+
+18:34 And that's actually quite a positive story kind of from it from a bigger
+
+18:38 picture perspective. So.
+
+18:40 So you think so productivity is going to deliver.
+
+18:42 I mean, so so what is the trajectory, big picture then phrase, stepping away
+
+18:45 from the detail, three months inflation reports.
+
+18:48 What is the trajectory for the economy? Does it does it continue to impress, as
+
+18:53 it has done so within a 12 month period? I have kind of two types of analysis
+
+18:58 that I like to do. One is, is the sort of the the bigger
+
+19:01 picture liquidity type of analysis and one is the shorter term leading into
+
+19:05 leading indicators and coincident indicators.
+
+19:07 And those two things are actually telling me separate things at the
+
+19:10 moment. So that means a lot of volatility for
+
+19:12 one thing. But the bigger picture analysis is
+
+19:15 telling me this is a very resilient economy.
+
+19:17 There's still a lot of going back to the fiscal the fiscal story, going back to
+
+19:21 there being continued liquidity in the system that still has to be absorbed
+
+19:26 into real growth, still has to be absorbed into into prices.
+
+19:29 Money still having the capability of turning over more rapidly.
+
+19:33 That all speaks to a resilient economy. But what I think is perhaps
+
+19:37 underappreciated at the moment is, is the leading indicators pointing to a
+
+19:41 wobble in the labour market. Okay.
+
+19:43 Actually, when you put together what I'm saying, for the short term, I'm saying
+
+19:47 kind of 3% inflation, not 4% inflation as we had in in Q1.
+
+19:51 And I'm also saying some of the leading indicators in the next three months or
+
+19:56 so are pointing to downside surprises in the jobs market as well, which okay, so
+
+20:00 we look for some wobbles on the labour market and you think inflation becomes
+
+20:03 lower in the second quarter. So that sounds as if the Fed could move
+
+20:06 towards cutting. Exactly.
+
+20:07 And to your view. And so what will Powell say, do you
+
+20:11 think, today when he's asked whether the dots are still valid?
+
+20:14 As I was saying in the last part of the programme, I think at this stage when
+
+20:17 you've had when you're sitting in the position of being the chair, you can't
+
+20:21 really look at three back to back prints of, of, of upside surprises and sound
+
+20:26 too sanguine. I don't think he's going to want to
+
+20:28 scare markets. I think markets are already.
+
+20:30 Of a little bit kind of looking in that direction.
+
+20:33 There's a sort of alliance of people that believe in this kind of higher
+
+20:37 pressure economy that could actually be quite a good thing for productivity
+
+20:41 growth, and that means higher average inflation.
+
+20:43 And those people are sort of lining up with with the people that are worried
+
+20:47 about inflation moving into a second wave.
+
+20:49 And I think that markets are being dictated by that, that alliance at the
+
+20:55 moment. And Powell can let that run for a little
+
+20:58 bit. But I think if we do get inflation, kind
+
+21:01 of surprising on the downside over over kind of Q2, especially if we then start
+
+21:05 to get this different this array of of of leading indicators now on the jobs
+
+21:10 market coming through into the hard data, then then that will be a time for
+
+21:14 them to say, okay, well, inflation is coming down.
+
+21:16 It's not it's not coming down to 2%. I want to make that clear.
+
+21:19 I think it could come down to 2 to 3%, but it's coming in the right direction
+
+21:24 and jobs are wobbling around. Should the folks at the FOMC be worried
+
+21:29 about a two year yield and potentially even a ten year yield that a sustainably
+
+21:33 above 5%? Is that a line in the sand that might
+
+21:36 freak them out? I think that's where it's going over the
+
+21:40 over the longer term. I think on a on a secular basis, there
+
+21:43 are good reasons to believe that a 5% bond yield is sustainable.
+
+21:47 And perhaps even at that rate, it wouldn't be a fair compensation to
+
+21:52 people over over the period of of the ten years.
+
+21:56 I think we've got higher higher risks hitting the economy.
+
+21:59 We've got a greater likelihood of supply side shocks.
+
+22:02 That means there should be higher time premium because bonds are yeah, are less
+
+22:05 of a good hedge against equities. I think we've probably got higher wage
+
+22:09 growth on a secular basis, which I don't think is necessarily a negative thing.
+
+22:13 I think that can be if it's if it's contained and there's no kind of
+
+22:16 spiraling property, which I don't see. So what is then the ripple effect of
+
+22:20 basically what the markets are doing, which is front running the Federal
+
+22:23 Reserve, what is the ripple effect to the real economy?
+
+22:26 I think into the real economy at the moment.
+
+22:28 There's still there's still a portion of the economy that is running on the
+
+22:32 previous stimulus that is is is the 40 to 60% part of the income distribution.
+
+22:38 When I look at them and I look at the money they have in their bank account,
+
+22:41 it looks like they still have enough money.
+
+22:43 So I'm not so much a fan of the idea of the excess savings and how much savings
+
+22:47 are left over, but I can look at how much money they've got left compared
+
+22:50 with how much money they used to having in their bank account compared with with
+
+22:54 their income and expenditure. And that still looks quite strong.
+
+22:57 Where I'm more worried is in the lower income parts of the of the of the
+
+23:01 distribution. And in the smaller business sector,
+
+23:04 which is not so much picked up by markets where where we're starting to
+
+23:08 see signs perhaps again going back to those survey data that there are is a
+
+23:13 response finally to high interest rates. And that's where the wobble is coming
+
+23:16 from. All right.
+
+23:18 For Beamish to Lombards chief economist walking us through how she's viewing the
+
+23:22 US economic story ahead of that federal decision later today.
+
+23:24 Coming up on the programme, we switch over to the UK Prime Minister Rishi
+
+23:27 Sunak facing another major test as England prepares for local elections.
+
+23:31 We're going have a preview of Thursday's vote next.
+
+23:34 What this means, why we should care for some of the data that we are watching on
+
+23:38 the UK front as well. We will have full market pricing as
+
+23:40 those European markets remain closed as well.
+
+23:43 There's plenty more to digest. We got to talk about the corporate
+
+23:45 stories I want to talk about, of course, more on the Federal Reserve.
+
+23:48 That seems to be the hot topic today. And of course, the Treasury, there is a
+
+23:50 lot. Don't tune out.
+
+23:52 Stick with us. This is Bloomberg.
+
+24:11 Rishi Sunak is facing another major test just months before an expected general
+
+24:16 election. Right wing critics from within his own
+
+24:19 Conservative party are gearing up to use Thursday's local votes as their final
+
+24:23 chance to oust him, as if dire poll ratings translate to heavy losses.
+
+24:27 Voting will take place for more than 2600 seats in over 100 local authorities
+
+24:32 in England. That's in addition to ten mayoral races,
+
+24:35 including in the capital and a parliamentary byelection in Blackpool's
+
+24:39 south. Conservative allies here in Westminster
+
+24:42 are going to be fixed on two results, in particular as the outcome of the mayoral
+
+24:46 race in the West Midlands, and that in Tees Valley, those areas are emblematic
+
+24:50 of the party's ability to perform in labour facing regions.
+
+24:53 Lose them both and she soon could face a leadership challenge from within his own
+
+24:57 party. I think the best that the Conservatives
+
+24:59 can hope for is damage limitation. But certainly in recent polls that we've
+
+25:04 seen from the public's perspective, it was just polling shows that this
+
+25:09 actually quite little appetite for another conservative leadership change
+
+25:13 at this point. Labour will be keen to show that they
+
+25:15 can match sky high expectations with results at the ballot box.
+
+25:20 The Prime Minister will want to emphasize that local elections are a
+
+25:23 very different beast to a general election.
+
+25:25 Whether that will be enough to convince rebels within his own party.
+
+25:28 We'll find out once the votes are counted.
+
+25:33 That's Bloomberg's Alex Morgan there. On how the UK's local elections on
+
+25:37 Thursday could impact the general election later this year could impact
+
+25:41 the timing of it. Let's talk about that with Bloomberg UK
+
+25:44 correspondent Lizzie Burton, who's here with us in studio.
+
+25:47 Lizzie, good morning. So we've got council elections, mayoral
+
+25:50 elections, all of that adds up to a lot of testing of the currents of the
+
+25:54 current leadership. Can the Conservatives hold on to
+
+25:56 councils that they control then in some of these key battlegrounds?
+
+26:01 Well, the kind of bar for success that the Conservatives have set rests on two
+
+26:04 elements. First of all, can they hold on to about
+
+26:07 half of the roughly 4000 seats that they want in the 2021 council elections?
+
+26:12 And secondly, as Alex put it, well, can they hold on to those two key mayoral
+
+26:17 seats? Andy Street in the West Midlands and Ben
+
+26:20 Houchen in Tees Valley, because they represent the Tories ability to fight in
+
+26:24 labour facing areas. Actually, YouGov polling suggests that.
+
+26:28 How much an industry are going to cling on in these elections, but it could
+
+26:31 still be a bloodbath on point one. Okay, so.
+
+26:34 So we get point one not working in their favour.
+
+26:36 What does it mean for the Labour Party? Is this confirmation of current polling
+
+26:41 that they are on track for a significant win when the general election comes?
+
+26:45 Well, I reckon if they manage to do well, the message will still be from
+
+26:49 Labour. We cannot be complacent when it comes to
+
+26:52 the general election, but it's going to put wind in their sails, no doubt.
+
+26:56 So you knock hasn't been able to dent that poll lead 20 points.
+
+26:59 It is at the moment. And the truth is, you know, it hasn't
+
+27:02 been able to sustain a positive news cycle since he got into number ten, even
+
+27:07 if his advisers telling us last week was his best week in office.
+
+27:11 It's just not something he's been able to keep up.
+
+27:14 And Keir Starmer is just had another boost from the SNP, from Humza Yousaf,
+
+27:19 the first Minister of Scotland, resigning, leaving the SNP rudderless
+
+27:24 and opening the door to much more of a victory for Labour.
+
+27:29 North of the border when it does come to that general election.
+
+27:32 Is there a catalyst here or a potential catalyst here for the Tories in terms of
+
+27:35 some sort of vote of no confidence? Well, you'd have to have 50 votes from
+
+27:40 Tory rebels to get that confidence vote in Rishi Sunak.
+
+27:44 So it's dangerous territory for him. The critics have been eyeing this moment
+
+27:48 after the local elections as the point at which they could say there's no
+
+27:53 choice but to change leader if we want to avoid wipeout at the general.
+
+27:57 But look, as Alex put it there, they've already had three leaders since Boris
+
+28:02 Johnson in the 2019 general election. It's tricky to have yet another one
+
+28:06 before they go to the national polls. And will they have time for that?
+
+28:10 Will Thursday determine when Sunak decides to go for the general election?
+
+28:15 Is it later in the year? There's some talk of July.
+
+28:17 There's talk of July, but so you're not wouldn't confirm it when he was on the
+
+28:20 broadcast round on Sunday. At the moment, the working assumption is
+
+28:25 autumn, Why on earth would you want to go with the summer when Brits are going
+
+28:28 on their holidays? Lizzie, thanks very much.
+
+28:31 Lizzie Borden with the latest on UK politics.
+
+28:33 Certainly something we'll be watching closely tomorrow when voters in much of
+
+28:38 England go to the polls for these local elections.
+
+28:40 Let's get a UK stocks to watch then. It is UK focus, of course, because a lot
+
+28:44 of Europe is closed today. Joe Easton from our equities team has a
+
+28:46 briefing. Good morning, Joe.
+
+28:48 Morning. And we're starting with a bit of a
+
+28:50 bellwether out of the UK High Street. We've got an update from next today and
+
+28:53 they are giving a little bit of a warning on some of their sales outlooks.
+
+28:57 They do actually say that while their full price sales did rise over the past
+
+29:02 quarter, they do expect a decline in the second half of the year.
+
+29:05 They actually say that this will be weather driven as they think that the
+
+29:08 weather last year was much better than it is currently and that will impact
+
+29:12 their sales according to the company. So a bit of a weather forecast from them
+
+29:17 as well. If we look at their stock, though, up
+
+29:19 11% yesterday outperforming the broader UK retail market, one of the better
+
+29:23 performers. We can see it gaining more than the
+
+29:26 likes of Abbey Foods, the owner of Primark.
+
+29:28 And we could see ammunition phrases continue to be weighed down by the cost
+
+29:32 of living concerns. And that's what we've seen over the past
+
+29:34 couple of years. If we look at a longer term chart, we
+
+29:37 can see that retailers still have a long way to go in terms of making up the
+
+29:41 ground they've lost since the interest rates started going up.
+
+29:45 But that is also a European problem as well.
+
+29:47 This is a stocks retail index and the Footsie retail index together both
+
+29:51 underperforming that broader market. Then in terms of healthcare, we're going
+
+29:56 to look at GlaxoSmithKline and also, Helen, the consumer health business that
+
+30:00 they spun out a couple of years ago. In terms of GSK, they are raising their
+
+30:04 profit view very slightly. This is due to strength in HIV, oncology
+
+30:09 and infectious diseases. Sales could grow as much as 10%,
+
+30:13 according to the company, and they already raised their forecast back in
+
+30:16 January. So that's another piece of that.
+
+30:18 Hey, Leon. Meanwhile, a little bit of a sales
+
+30:20 decline for that one. So the maker of Panadol and other
+
+30:23 paracetamol drug things you get in the chemist.
+
+30:25 But as we can see, analysts still like this 111 buys only one sell and expect
+
+30:30 it to regain some of the ground since that IPO a few years.
+
+30:33 Back then in terms of flashy cars, we got Aston Martin.
+
+30:37 It's not a great one from these guys. It does look like revenue looks a little
+
+30:41 bit weak in the latest quarter. They are saying that the new roll outs
+
+30:45 of some of their models will help them rebound in the second half of the year.
+
+30:49 According to the company, here's a few of the pillars on the screen.
+
+30:52 Their revenue down 9.5%. The pre-tax loss, a massive increase,
+
+30:56 140 million almost in pre-tax loss for the quarter for those four new models
+
+31:01 could potentially drive growth. If we look at their stock, it's having
+
+31:04 another rough year. It is down 34% already year to date.
+
+31:09 And a reminder for any of those long suffering long term shareholders since
+
+31:14 the IPO back in 2019, it's a nasty looking chart that when it's down 94%,
+
+31:19 another week results from them. But potentially those new models might
+
+31:23 give some relief today. Brutal, brutal carnage in that stock.
+
+31:27 Our equities reporter Joe Ethan there walking us through some of the stocks to
+
+31:30 watch. We thank you so much.
+
+31:31 Coming up on the program, another major stock we're watching out of the states
+
+31:34 and volunteers jumping after the bell yesterday reporting strong cloud unit
+
+31:38 sales on rising air demand. The consumer unit, though, significantly
+
+31:42 weaker. We'll have that story for you next.
+
+31:44 This is Bloomberg.
+
+31:59 The Fed decides. Jay Powell pumping the brakes on rate
+
+32:02 hikes are off the table. No cuts.
+
+32:04 Looking perhaps a little bit more likely.
+
+32:06 You can't say there's a whole lot wrong with the U.S.
+
+32:09 economy. Trust Bloomberg to bring you the fastest
+
+32:11 coverage and exclusive analysis, including Powell's press conference.
+
+32:15 Policy rate is likely at its peak threshold to cut rates is a little
+
+32:19 higher. Redefining Patience Bloomberg
+
+32:22 Surveillance. The Fed decides starting at 1:30 p.m.
+
+32:25 Eastern, context changes everything.
+
+32:35 Welcome back to markets today. We have 19 minutes until the start of
+
+32:38 equities trading and the futures picture.
+
+32:40 Well, it's just the footsie features the showing this morning.
+
+32:42 Fairly flat, entirely flat. Nothing to see here, really.
+
+32:45 US futures are flat to negative. Nasdaq futures down half a percent.
+
+32:49 And this is where the action is really today because a lot of Europe is closed,
+
+32:52 a lot of the Asian markets closed as well.
+
+32:54 But it is fed day. So is plenty to talk about.
+
+32:56 Joining us now is be back market lives Van Ram here with us to talk about the
+
+33:00 markets in a couple of minutes. Ben, let's start with the Fed then.
+
+33:04 We've been having some interesting conversations.
+
+33:06 You know, do we need to hear new messaging from Jerome Powell today
+
+33:10 around how much comfort or lack of comfort they got from the inflation
+
+33:13 prints earlier on this year with regards to rate cuts?
+
+33:16 We already heard that from the Fed over the last couple of weeks.
+
+33:20 Yes. So we are going to get a reiteration of
+
+33:22 that message. So it's mayday and it's mayday, mayday,
+
+33:26 mayday for the Fed, because it's they are quite involved in a fair bit of
+
+33:30 distress here in in actually, inexplicably, in December last year, the
+
+33:36 Fed turn to uber dovish and pencilled in three rate cuts for 2024.
+
+33:41 They had an opportunity to redeem themselves in March.
+
+33:44 But what did they do? They said that inflation was going to be
+
+33:47 higher. The economy is going to be performing a
+
+33:49 lot stronger, and yet they pencilled in three rate cuts for 2024.
+
+33:54 Now, since then, inflation hasn't quite gone to script.
+
+33:58 The core PC is averaging almost 3% this year.
+
+34:02 That is much higher than the Fed's 2.6% that they've pencilled in.
+
+34:06 So inflation is clearly not cooperating, which means that Powell really doesn't
+
+34:11 have any choice today. But to sound hawkish,
+
+34:14 Mind you, we do not get any summary of economic projections today, nor do we
+
+34:19 get a plot. So it will come down to Powell signaling
+
+34:23 solely from his press conference today. Okay, so you say it's mayday.
+
+34:28 I mean, I just would argue it's a nice problem to have when the economy's doing
+
+34:30 better than you had anticipated. But I know that's not the whole story
+
+34:33 than we've seen as a result of this higher for longer expectation than
+
+34:37 investors perhaps growing bearish on Treasurys yields on the rise.
+
+34:41 You think that's set to continue. Yeah, that is likely to continue.
+
+34:46 If you look at bearish positioning on treasuries.
+
+34:49 It's the highest we have seen in in a long while.
+
+34:53 And that may continue, what with Paul's messaging expected today.
+
+34:57 I mean, two year yields, we have done a lot on two areas in the past month, but
+
+35:01 we are likely to see the yield go up to 5.22% on the two year maturity.
+
+35:06 If the markets price out the one rate cut that they are now expecting.
+
+35:11 I think that is possible. That is likely perhaps, but not
+
+35:15 immediately today. So there may be some profit taking on
+
+35:18 the back of that today. Ben.
+
+35:21 Thanks so much. Ben from our markets line saying thank
+
+35:23 you very much for joining us with thoughts on the markets.
+
+35:26 You can get more insight and analysis from the markets live crew.
+
+35:29 Emily go is the functions used on the Boeing back channel to find thoughts
+
+35:32 from Ben and Mark and the team. Let's go to the corporate news now.
+
+35:36 Let's talk a little bit about Amazon. Its cloud unit has seen its strongest
+
+35:40 sales growth in a year. Velocity was good.
+
+35:42 This year was certainly bouncing back. So we are certainly seeing a turnaround
+
+35:46 there. That's the most profitable division.
+
+35:49 However, other things not looking quite so clever.
+
+35:52 On an earnings call last night, Andy Jassy, the CEO, said Amazon's A.I.
+
+35:56 capabilities are behind the reacceleration in growth.
+
+36:01 We see considerable momentum on the front where we've accumulated a
+
+36:05 multibillion dollar revenue run rate already.
+
+36:08 You heard me talk about our approach before, and we continue to add
+
+36:11 capabilities to all three layers of the stack.
+
+36:16 Tell you what, it's just a sound. So we've got to walk us through what
+
+36:19 we've seen. Kind of a split story here.
+
+36:21 So let's start with the air. The air I saw it was always going to be
+
+36:24 a big focus. We were looking for its impact into the
+
+36:27 cloud business. We are seeing evidence of that cloud is
+
+36:29 coming back. How much of the cloud come back is high
+
+36:32 and how much of it is just cloud is coming back?
+
+36:34 Yeah, So a huge part of this was what was AI and what Wall Street wanted was
+
+36:39 for Amazon to be able to talk about the future, not just what they did in cloud,
+
+36:43 not just what they did in AI in Q1, but what they were going to do going
+
+36:47 forward, how are they going to monetize this?
+
+36:49 And what was really striking was that executives for the first time publicly
+
+36:53 put a revenue run rate to that AI franchise.
+
+36:56 So Brian Olsavsky yesterday said this was ,000,000 run rate business.
+
+37:01 So I'm sorry, multibillion dollar is not enough multibillion dollar run rate
+
+37:05 business. And that is something that Wall Street
+
+37:07 wanted. What they've really been doing with
+
+37:08 these mega-cap mega tech companies is they've been punishing companies that
+
+37:13 tell a kind of muddled story something about matter.
+
+37:15 And they have been boosting companies that can tell that positive future
+
+37:18 story. So I crucial here except it was their
+
+37:22 cloud unit. It's only like a third of their
+
+37:24 business. And it's so interesting to me that the
+
+37:26 stock is trading as if it's a tech stock when it's really a consumer stock.
+
+37:30 Yeah. I mean, let's talk about some of the
+
+37:32 softness that we saw as far as e-commerce sales.
+
+37:35 And so this was really interesting and this was almost kind of more of an
+
+37:37 inflation story. So also, Olsavsky was saying yesterday
+
+37:41 that consumers seem to be trading down, so they're spending less on some of
+
+37:44 these products. They're buying more consumables.
+
+37:47 So those are more expensive for Amazon to deliver.
+
+37:50 So there was softness there. But it was interesting, you know, this
+
+37:52 was the first earnings report where we also saw ads in Amazon Prime reflected,
+
+37:57 and that was striking. So that was sort of a positive story.
+
+37:59 Ad revenue up 24%. So softness on the consumer side, but
+
+38:03 some diversity as well in this huge conglomerate.
+
+38:05 Yeah, it is. It is huge.
+
+38:07 The consumer side important, as you say, back to the the tech side of things and
+
+38:10 the eye race. I mean, all of these big tech giants are
+
+38:13 trying to find their place within the story.
+
+38:14 I was drawn to the the lines around this being a Swiss Army knife strategy.
+
+38:18 So they argue that customers can run all kinds of A.I.
+
+38:21 models with one cloud provider. So that's the sort of player that they
+
+38:24 want to be. What are the earnings that in big tech
+
+38:26 tell us about the state of this A.I. race, then?
+
+38:29 Charlie Fiercely competitive, but as you say, it's kind of diversifying, right?
+
+38:33 So they don't have that kind of Microsoft whiz bang chat bot that
+
+38:36 everybody is talking about. They have been doing more of a corporate
+
+38:39 play here. They're saying that they're going to be
+
+38:41 investing 50 billion, not million billion dollars in data centers that
+
+38:47 would support AI, and they were able to support that investment thesis and that
+
+38:53 decision with this story about the future and that future oriented
+
+38:56 narrative was so crucial. And it seems like Wall Street's going to
+
+39:00 like this. In extended trading yesterday, Amazon
+
+39:02 shares were up 2%. But let's see what happens when that
+
+39:05 market opens. Charlie, great to see you.
+
+39:07 Thanks for stopping by. Gerri Willis joining us on what's
+
+39:09 happening with Amazon. We also got AMD yesterday.
+
+39:12 Yeah, well, what I thought was interesting about AMD is the market
+
+39:14 didn't look at the AI stuff, which was actually all right.
+
+39:16 It actually looked at everything else, which wasn't all right.
+
+39:18 And mark the stock down on the back about Supermicro Also really high
+
+39:21 expectations didn't deliver on those. So it's not it's not across the board.
+
+39:25 But the story is interesting. Charlie was rightly pointing to the more
+
+39:29 clarity we've got on the revenue side of things and what delivers that.
+
+39:32 But it wasn't a huge amount of clarity on the amount of CapEx they're going to
+
+39:35 do. And in other times we other tech names,
+
+39:37 that's been something that's really speak to investors when there's big
+
+39:39 CapEx numbers being talked about without, you know,
+
+39:43 the necessary detail. They just talked about increasing CapEx
+
+39:46 meaningfully with growth, which could mean anything.
+
+39:49 Well, this is why I think the momentum trade kind of comes to to falter a
+
+39:52 little bit. Right, because people are starting to
+
+39:54 have a little bit more of a nuanced approach of which companies specifically
+
+39:57 in the chip space can actually capitalize on.
+
+39:59 Remember when Andy rallied just because met us, said it was powering the
+
+40:02 metaverse and chips and that itself made up the bulk of Andy's rally, pre Nvidia
+
+40:08 rally. And I think that's really interesting
+
+40:09 when it comes to the momentum story because now you really have to look at
+
+40:12 the nuances of how each company is built, what their supply chain looks
+
+40:14 like, how exposed they are to the different types of markets.
+
+40:17 It gets very nerdy very quickly. I'm obsessed with the chip war at the
+
+40:21 buck. Can I can I just say as well that.
+
+40:23 Yeah, no dividend buyback act?
+
+40:27 Exactly. This is a company that has consistently
+
+40:29 over the years reinvested all of its money back into the business and and
+
+40:33 there was some expectation and I wonder whether this this is part of the share
+
+40:36 price story we're going to see later on today.
+
+40:38 There was some expectation that maybe, just maybe there was a there was a
+
+40:40 possibility that that would happen this time around.
+
+40:42 Yeah, a lot of cold water poured on that.
+
+40:44 But there is a when you when tech companies in particular invest in R&D,
+
+40:48 there is a tax break that comes with that.
+
+40:50 Apple is famous for doing this where they reinvest in their R&D division and
+
+40:54 are don't have to pay taxes on that because it's kind of an innovative
+
+40:57 credit. I'm curious how much of the geopolitical
+
+40:59 and the chip situation from the Biden administration helps out with that In
+
+41:02 other one of my good years, taking us back to the days before I get I get so I
+
+41:07 get so nerdy. I only have so much memory to rely on
+
+41:09 what's sort look more creative ways can help people get
+
+41:13 a more creative obsession. Let's talk about the Spanish banking
+
+41:15 giant. That seems to be the trend this morning.
+
+41:17 BBVA has proposed a takeover of lender Sabadell in what could be one of the
+
+41:21 largest European banking deals in years. When we get more on the story,
+
+41:25 Bloomberg's Tom Metcalf has it all. Tom, whatever the largest European
+
+41:29 banking deal in years, I don't think Spanish banking is not the first thing
+
+41:32 that comes to mind. Walk us through why this deal might even
+
+41:35 be coming to the forefront. Yeah, well, in terms of in Spain, part
+
+41:39 of the reason is BBVA have a lot of cash and they actually came and tried to buy
+
+41:43 Sabadell back in 2020. And effectively, you know, the rationale
+
+41:47 for that is this push for scale, especially as this interest rate margin
+
+41:51 sort of starts to decline. It's a real sort of generator of, I
+
+41:55 guess, steel demand. So where we're seeing this is maybe a
+
+41:57 sign that, you know, those animal spirits around deal making is perhaps
+
+42:01 coming back and the Spanish market is indeed, it's maybe not people's first
+
+42:04 thoughts, but there is a huge consolidation opportunity within the
+
+42:07 market because, you know, in the global financial crisis, I think it was
+
+42:10 something like 60 banks. Now it's down to around ten and there's
+
+42:14 still scope for more. Yeah, we've seen a lot of consolidation
+
+42:17 within Spain already, as you say, and you do some nice maths and you add up
+
+42:21 BBVA and Sabadell and you get to something about the same size as
+
+42:24 Santander. So you can you can see the rationale.
+
+42:26 Is that enough to bring shareholders on board, Antonio?
+
+42:29 Well, it's really interesting. You look at the shares yesterday, right?
+
+42:32 You had Sabadell shares shoot up and up by about seven, 8% at one point and BBVA
+
+42:37 shares fall by about the same amount. So you kind of say see which side of the
+
+42:40 shareholders are taken. And I'll go back to I think one of
+
+42:43 Christie's favorite points of buybacks is probably does throw up.
+
+42:46 You know, can BBVA continue to sort of really focus on capital distribution?
+
+42:50 Certainly not if they pursue a deal like this.
+
+42:52 So, yeah, I'll be interested to see what happens over the next few days.
+
+42:54 Can they raise the price without making it problematic?
+
+42:57 Is that going to be something they're going to have to watch out for?
+
+42:59 This is it? How big a cost cutting story could this
+
+43:03 ultimately be? Is the government going to be
+
+43:05 comfortable with this or are we going to see a significant amount of branch
+
+43:08 closures, lots of layoffs? Kind of what are the what are the
+
+43:10 fallout effects of this? And is the price about as far as we can
+
+43:14 go? So the price is the most interesting
+
+43:16 thing here for me, because back in 2020 when BBVA went to Sabadell, we
+
+43:19 understand they were probably bidding, you know, in the low billions.
+
+43:22 So, you know, I think they initially came with €2.5 billion.
+
+43:25 Now of share price or market value is ten.
+
+43:28 So, you know, if you're sort of worried about penny pinching as a chairman of
+
+43:32 BBVA, you're pretty like, wow, we're just going to pay another 7,000,000,003
+
+43:35 years on. Obviously somebody else, you know,
+
+43:36 transformed since then. So there is a case for it.
+
+43:39 And then I think as ever with these big mergers, that's absolutely the thing.
+
+43:42 You know, kind of the risks to this deal.
+
+43:44 Right. If it does go through, they get there.
+
+43:46 But then will Madrid really want to sort of see it through, as you say, two big,
+
+43:50 big names in the domestic banking scene. And we've seen it before.
+
+43:53 Lots of job cuts, branch closures, big top political issue wherever you go.
+
+43:57 And that will be a massive hurdle as well.
+
+43:59 The street commentary was interesting on this one because even though I think it
+
+44:02 came out, it the actual pricing of it or potential price, it came out at like 10
+
+44:06 a.m. or.
+
+44:07 Or something like that yesterday. And then the Wall Street commentary off
+
+44:09 the back of it was that this is significantly lower when they expect so
+
+44:13 or significantly lower in terms of share price.
+
+44:15 And then the markets are closed today. So we don't actually see an immediate
+
+44:18 reaction to these takeover talks until tomorrow, I guess.
+
+44:21 No, not even more of a delay. Spain's also closed tomorrow.
+
+44:23 Oh, amazing. So which is getting ready for the crazy.
+
+44:26 So basically, kiddies going on holiday. Spain is getting ready for Chris.
+
+44:29 These around where we go. Excellent.
+
+44:30 And this news will break when I'm on holiday and I'd be so annoyed I won't be
+
+44:34 sending emails from my vacation anyway. One time, Metcalf will be filling in on
+
+44:38 the Spanish obsession when I am gone. We thank you so much for joining the
+
+44:41 program. It's fascinating, though, because it's
+
+44:43 coming at a time we talked to Santander and Kyra Bank yesterday about this
+
+44:45 outperformance. Consolidation happens at the best of
+
+44:48 times in the worst of times. Right.
+
+44:50 Which is it for? Well, it's pretty good times, I suppose,
+
+44:52 in terms of how the U.S. economy is doing.
+
+44:54 But it also happens maybe domestically when you can't do it cross-border.
+
+44:58 So I think that's the point here, which is you can still see domestic deals
+
+45:01 being done in Europe. You just can't see cross-border deals.
+
+45:03 But domestic deals are getting harder because you've got to take out a lot of
+
+45:05 costs there for a lot of people. And we've done a lot of them already,
+
+45:08 too, so. Precisely.
+
+45:09 So Spain had loads of them during the crisis, if you remember the kind of the
+
+45:12 crisis that happened in in the case of banks and what happened there was also
+
+45:16 hugely significant and it had a lasting effect.
+
+45:18 But but hey, we still with talk about Capital markets union.
+
+45:20 This is a domestic deal. This is not the kind of deal ultimately,
+
+45:24 I think kind of regulators, politicians are hoping will happen.
+
+45:27 You get bigger banks in Europe, they have greater scale, they have greater
+
+45:30 capacity. This is not one of those transactions.
+
+45:32 And we should mention Pedro Sanchez has already been very tough on the corporate
+
+45:35 space. He's not exactly the most business
+
+45:37 friendly leader at the moment. There's some kind of regional politics
+
+45:40 to be kept in mind, especially with a Banco Bilbao.
+
+45:42 We're seeing being kind of a different part of the country.
+
+45:44 There's plenty more to digest that of the Spanish story.
+
+45:46 But of course, we're going to go right back to those U.K.
+
+45:48 earnings and how they are received at that market.
+
+45:50 Open 14 100 futures doing a whole lot of nothing at them all.
+
+45:53 We're hoping things will be a little bit more exciting in about 5 minutes time.
+
+45:56 We are going to break it down for you. The UK market open coming up next.
+
+46:00 This is Bloomberg.
+
+46:21 Wednesday, the 1st of May. It is May Day.
+
+46:23 Most of Europe is closed. Some of Europe is closed tomorrow as
+
+46:25 well. As we just learned, Spain has having a
+
+46:27 two day holiday, which is very nice for them.
+
+46:29 We should be off on Monday here in the UK, but we are open today.
+
+46:31 And when I say we're open, we're opening at about one minute, 40 seconds.
+
+46:35 The Danes are going to be joining us as well, I understand.
+
+46:36 So you may see a price en masse. You may see our investors and of course,
+
+46:40 on Novo Nordisk. But here in the UK, we're looking at
+
+46:44 pharma stocks in a different way. GSK is out with numbers this morning
+
+46:47 raising its guidance and expect to see a pop of the get go of trade this morning.
+
+46:50 Right. Yep.
+
+46:51 GSK story is very interesting, raising the guidance, as you say.
+
+46:54 I was just looking at the info from Bloomberg Intelligence, though.
+
+46:57 They're calling it a minor guidance increase, which looks conservatives.
+
+47:00 So still gives it the ability to raise later in the year.
+
+47:03 We'll see how much the market goes along with the sort of pricing things in in
+
+47:06 the short term. For me, it's Aston Martin.
+
+47:08 I'm putting my my Guy Johnson hat flush tie on.
+
+47:11 When it comes to Aston Martin, the weakness is really interesting in the
+
+47:13 car makers. I know we kind of talk about that a lot,
+
+47:15 but this this pricing difference is almost more acute
+
+47:21 when you look at the stock market. So so the cars have actually done
+
+47:23 reasonably well so far this year. If you take a look at the performance
+
+47:26 recently, it's been okay. I think I do find it fascinating.
+
+47:28 We now start to see some cracks starting to appear at the top end of the market
+
+47:31 and that premium pricing, it tells me that's the portion of the consumer that
+
+47:37 we thought was strong is starting to have second thoughts.
+
+47:40 And and I think that is something that you want to pay attention to because the
+
+47:43 lower income quartiles are starting to show weakness.
+
+47:46 If that creeps up the income scale, you want to pay attention to that.
+
+47:49 Now, Aston Martin is kind of right at the top of the income scale, but
+
+47:52 nevertheless. So there's that trouble there.
+
+47:53 Trouble at the at the place where people buy 6.0 as well.
+
+47:57 I'm not sure if they might take that. That's a heart.
+
+48:00 That is a very challenging part of my. Would you would you drink a lavender
+
+48:04 latte? No, because I don't like lavender, but I
+
+48:07 love the concept of it. Sounds lovely.
+
+48:09 There's there's no way anyone should consume it.
+
+48:11 And the weekly if you missed the top of the programme, that'll make no sense.
+
+48:13 That was a reference to the numbers out of Starbucks.
+
+48:16 But European equity markets are open, I should just say UK and Danish markets.
+
+48:20 And that's that. That's the major markets that are going
+
+48:23 to be open in Europe. Actually, the Danish market is open then
+
+48:26 and moving lower this morning. It seems it actually really outperformed
+
+48:30 yesterday, which I hadn't noticed until this point, and that was Eli Lilly is
+
+48:34 very up the Footsie 100 is up a 10th of a percent this morning.
+
+48:39 So a little bit of movement at the start of trade, looking for some movement in
+
+48:42 GSK. We do have a little bit of a move
+
+48:44 higher, just up 2/10 of 1%. We talked about that one in the numbers
+
+48:47 we got there. We're also looking for what we get out
+
+48:50 of next. This often seen as a bellwether of the
+
+48:52 UK consumer. And they talked about and talked quite
+
+48:55 positively, but they left that guidance unchanged.
+
+48:58 They previously given us some quite positive lines around what real wages,
+
+49:02 higher real wages in the UK will do to that customer base.
+
+49:04 Well, speaking of GSK, Holly, and one of your worst really saw me.
+
+49:08 Yeah, coming in about 2%. A couple of things here.
+
+49:10 It looks like we are seeing the first quarter volume, as we pointed out there,
+
+49:13 operating margin when you would actually got these numbers because that did come
+
+49:16 in hot 24.2%. The estimate, 23%.
+
+49:18 Looks like you're seeing some of the analyst commentary here saying there was
+
+49:20 a volume mis selling specifically specifically saying could spur some
+
+49:24 directing, those talking about a pre-tax profit rise, which is positive but
+
+49:29 ultimately coming off of a revenue drop. So, again, questions about
+
+49:31 sustainability there. Right now, one of your high volume
+
+49:34 movers and down about will call about 2% is kind of moving quite a bit.
+
+49:37 But when your biggest index weights this morning on the footsie 101.
+
+49:41 To see what Wicks is doing a bring up this is not a company I talk about on a
+
+49:44 regular basis if you don't know it does kind of bathrooms and kitchens and
+
+49:47 things like that but it looks soft this morning and I and I bring this up in the
+
+49:51 context of the fact that we've got house price data out this morning as well that
+
+49:54 is showing some weakness to in the UK. The rate story keeps repricing in its
+
+49:59 bright, repricing upwards at the moment. So people are really kind of yeah, I
+
+50:03 think people are really struggling to figure out what's happening with the
+
+50:05 mortgage. Absolutely.
+
+50:05 We spoke to the Barclays CEO just last week, didn't wait.
+
+50:08 He said we've been on a sort of round trip with 90 basis points down and 90
+
+50:12 basis points up in terms of gilt pricing.
+
+50:14 And that reflects that that same story. And we have seen some mortgage providers
+
+50:18 in the UK, to your point guy actually increasing that evidence for mortgages
+
+50:22 in recent in recent weeks. The kitchens know we're getting an
+
+50:26 insight into the way Guy Johnson spends his weekends I think well when you said
+
+50:29 Wickes, I was like, is this Whitcombe like the web creator, which I don't
+
+50:34 think I've ever been in a way, No, I don't know.
+
+50:37 But even if I did, I don't cook, so I can't like I have no no use for it.
+
+50:42 But anyway, that's, that's what we're learning.
+
+50:43 What credit. Say someone else talk.
+
+50:45 Okay, let's go back to the macro stories.
+
+50:47 We the overall story this morning is, of course, we're waiting for the Fed.
+
+50:51 We're waiting for the Fed's Powell to speak a little bit later and tell us
+
+50:54 perhaps how relevant those DOT plots are still to market expectations around how
+
+50:58 many rate cuts we get in 2024. We had an interesting conversation there
+
+51:02 yesterday with one guest who was with us on set.
+
+51:05 He was saying that actually it's Janet Yellen you need to listen to a lot.
+
+51:07 Such has been the role of fiscal policy in the US economic outperformance rather
+
+51:11 than the Fed. With that in mind, we thought we'd dig
+
+51:14 into a little bit of what Janet Yellen is concerned about right now when it
+
+51:17 comes to the deficit. I do have concern about where we're
+
+51:23 going unless we undertake some significant steps to reduce the budget
+
+51:30 deficit. US Treasury Secretary Janet Yellen
+
+51:34 there. Joining us now, Maria Minetti, who is
+
+51:37 fund manager at Energy Investments, really gets to see this morning.
+
+51:40 Maria, thank you for joining us. And what is a quiet day for much of
+
+51:43 Europe, but the UK markets still open and we're still here and we're waiting
+
+51:46 for the Fed, of course, later on today. So we talked a little bit about what the
+
+51:50 Fed's messaging is going to be today. We've already heard from Powell that the
+
+51:54 inflation data at the beginning of the year did not give the comfort that they
+
+51:57 were looking for in terms of being able to start rate cutting.
+
+52:00 So what do you think the messaging will look like today from the Fed?
+
+52:03 I think what we're still seeing is a central bank that is a very, very data
+
+52:06 dependent. And the data is not necessarily
+
+52:09 following some of the predictions that were put in place 12 or 18 months ago.
+
+52:14 So they have to do a lot of balancing act to try and fit what the data is
+
+52:19 telling them with how the market is behaving.
+
+52:21 And this has led to quite a lot of change in not so much the trajectory of
+
+52:26 the policy, but actually the words and how this was communicated.
+
+52:31 So I think today the market is expecting, again, kind of a change in
+
+52:34 tone, something that might become a little bit more hawkish.
+
+52:36 This is what we're seeing in what has been priced across fixed income markets,
+
+52:41 where the weakness really today taking the yields, for example, on the short
+
+52:46 end of the curve and the two years us, you know, from a real yield perspective,
+
+52:50 a very, very high level at the moment. So I think what we will see it's yes, a
+
+52:56 shift in tone, something that will highlight more the recent data that we
+
+53:00 have seen. So still pressure from an inflation and,
+
+53:04 yes, wage growth standpoint.
+
+53:07 But at the same time, I believe that we want to have a clear direction of what
+
+53:11 things will look like between now and the end of the year because data will
+
+53:14 still be okay. What do stocks do if we don't have a
+
+53:17 clear direction on the rate cut trajectory?
+
+53:20 That's the big question because obviously we have seen a positive
+
+53:25 inclination towards equities over risk assets since the beginning of the year.
+
+53:29 And this has been because investors have been able to focus a lot more on
+
+53:35 positive growth data and a benign earnings environment, despite the slight
+
+53:41 more pressure from inflation not coming down as fast as expected because the
+
+53:46 expectation on rate cuts has remained again quite benign now.
+
+53:51 So we get more pressure coming in from the rate environment.
+
+53:54 This might start to affect some of the equity markets as well and put some
+
+53:59 pressure in this space, which again, we haven't seen so far this year.
+
+54:02 We have a slight hint of it at the beginning of April when we started to
+
+54:06 see positive correlations across equities and bonds kicking in again.
+
+54:11 But there is a risk and a vulnerability there, especially as valuations are not
+
+54:16 particularly expensive, but they are relying on a stronger economic
+
+54:19 background. It seems to be a lot of uncertainty at
+
+54:21 the moment. What's the argument for coming out of
+
+54:23 cash? It's a very good observation and in
+
+54:27 fact, our position is still to have a relatively elevated level, of course,
+
+54:31 where real ales are still quite attractive and where we continue to see
+
+54:35 a market that, yes, has shown signs of the correlation across asset classes,
+
+54:39 but where positive correlations and has a risk of coming back and as multiasset
+
+54:44 investor that diversification across asset classes and the correlation is
+
+54:47 very, very important. So having a slightly higher level of
+
+54:50 liquidity provides us with some level of, of interest in real and real
+
+54:56 returns. But at the same time the additional
+
+54:58 flexibility to react to markets. So we have some interesting
+
+55:02 opportunities. Does Europe keep.
+
+55:06 Doing well in the environment we're talking about here, because there's
+
+55:08 there's uncertainty surrounding the Fed. Maybe the ECB can't go as far as maybe
+
+55:12 we anticipated. European growth is probably slowing
+
+55:14 significantly more than we're seeing over in the United States.
+
+55:16 It is slowing or has slowed more. We've seen in the United States that
+
+55:20 some signs of a pickup. But is the current appetite for European
+
+55:24 stocks based on that economic pick up or is it just a diversifier from the United
+
+55:29 States? If it's the former, if we don't see
+
+55:32 significant rate cuts, does it does it run out of steam?
+
+55:34 Well, I think where you started in European markets was an environment
+
+55:38 where valuations were much cheaper than you've seen in the U.S.
+
+55:41 And so the starting point was much more favorable and investors believed were
+
+55:46 much more negative on Europe than they were in the U.S.
+
+55:49 So this also justified some of the strong returns that we've seen year to
+
+55:53 date in European markets. The growth picture is somehow slightly
+
+55:58 better than potentially anticipated. And so earnings the big question is, you
+
+56:02 know, if the Fed does not push to cut rates in the short term, what is the
+
+56:06 central bank in Europe is going to be? Obviously, the mandate is still very
+
+56:10 much focused on inflation. Inflation is getting closer to the
+
+56:12 target, but is still not yet there yet. And there is the question of, you know,
+
+56:17 relative currency values between the dollar and euro and what does it mean
+
+56:20 for the overall economy in Europe with a very strong dollar as we've seen
+
+56:25 in the past few months? Well, what what does that mean?
+
+56:28 I mean, how much of a hit does that take, then, if you start to see the
+
+56:31 dollar climb? I mean, since post COVID, it's just been
+
+56:34 on a downward trajectory. So in the broader scheme of things,
+
+56:36 actually not that strong, but it could be in the next 12 months.
+
+56:40 How does that factor into to your positioning?
+
+56:42 Well, if you have strong divergences in monetary policies coming up, you're
+
+56:47 probably going to have some more dislocation in currency markets and
+
+56:51 slightly pick up in volatility. And however, I think you know that
+
+56:55 you're still working very much with the global economy, with the majors are, you
+
+56:59 know, heading in similar directions. They're not exactly in the same place if
+
+57:04 you look at us versus zero versus UK. But overall, they in a way influence
+
+57:09 each other. So I think, you know, currency plays an
+
+57:11 important role. But in a portfolio, I think, you know,
+
+57:14 you want to think about what are you in clients, currency base and metals before
+
+57:21 you accordingly and taking risks where it makes sense.
+
+57:23 For example, an area that we still like is actually emerging market currencies
+
+57:28 through emerging markets. Yeah, local government bonds where, you
+
+57:32 know, real yields are still elevated, currencies still offer quite interesting
+
+57:37 carry. But even in this space we find that
+
+57:39 compared to the past we like to be more diversified.
+
+57:42 So not taking strong bets in one particular conference at the moment.
+
+57:46 Yeah, that's been a topic that we've been discussing quite a bit on the show
+
+57:48 in terms of dollar earners. Is that the play when it comes to
+
+57:51 stocks, which principally, by the way, Starbucks is an example, she's wearing
+
+57:53 lavender. Can I just point out we've been talking
+
+57:56 on that on message, but we've been talking a lot about lavender lattes this
+
+57:58 morning. I mean, Starbucks.
+
+57:59 But to kind of hit on that theme, when you talk about the dollar earnings
+
+58:02 story, so much of that is based on China exposure as well.
+
+58:06 How much are you factoring the China growth story, the Chinese consumption
+
+58:10 story in the shadow perhaps of that US economic resilience?
+
+58:14 But I think what we've seen is that China has actually lagged a lot in terms
+
+58:18 of expectations for what content consumption and, you know, in terms of
+
+58:22 fueling returns for an earnings for four years.
+
+58:24 So so actually what we've seen is, you know, a more widespread exposure.
+
+58:28 I think what's interesting about China from an equity standpoint is that
+
+58:32 actually it has been a market that is very much loved by investors.
+
+58:37 And, you know, we entered the year in January where valuations were extremely,
+
+58:41 extremely low. We had earnings yield of 16 times in
+
+58:44 Chinese equities after a very strong period among the performance.
+
+58:48 And that actually for us presented opportunities to start investing on some
+
+58:52 of these Chinese equity names. And since then, actually what we've seen
+
+58:57 is that is a very strong rerating in these markets specifically in the last
+
+59:01 few weeks and is one of the best performing market within emerging
+
+59:05 markets equities at the moment. So we have seen sentiment turning very
+
+59:09 significant from a peak pessimism in January on Chinese equities and now a
+
+59:14 slightly better view. So from a tactical asset allocation
+
+59:17 standpoint, this has been a very interesting opportunity for us,
+
+59:20 something we've leaning within the portfolios and we're now starting to
+
+59:23 take some profits in this position, although I think from a valuation
+
+59:27 standpoint, in a long term perspective, Chinese equities still represent an
+
+59:31 opportunity for investors. Okay.
+
+59:32 And that's interesting. And certainly in the short term, in the
+
+59:34 context of the lines we got in the Politburo yesterday around monetary
+
+59:37 policy. And thanks very much, Maria, for joining
+
+59:39 us. Good to speak to you.
+
+59:39 Thanks for coming in. Maria Meenakshi, a fund manager at Maggi
+
+59:43 Investments. Let's get to some of the individual
+
+59:45 stocks on the move. Joe Easton has the list this morning.
+
+59:48 Joe, good morning. So we got a big drop out of Aston Martin
+
+59:51 out. The guys here in London were down 11% at
+
+59:54 the moment. We were down 14% at the open of trading.
+
+59:57 The company reporting a 26% decline in their vehicle sales in the last quarter.
+
+01:00:02 They do say that the roll out of the new vantage in the new.
+
+01:00:05 They will help them recover in the second half of the year.
+
+01:00:08 But the rollout of those vehicles not coming quick enough for the turnaround
+
+01:00:12 to accelerate under Lawrence Stroll. They do have a new CEO, but their stock
+
+01:00:16 now down 40% this year alone. And adding to the massive losses since
+
+01:00:21 the IPO five years ago, 4 a.m. out this morning.
+
+01:00:24 We'll take a look at the U.K. retailers as well.
+
+01:00:26 We have those number two next. They did report sales up around 6% in
+
+01:00:30 the last quarter, but it's the commentary around the year ahead.
+
+01:00:34 The second half will be weaker than expected, partly due to the weather, not
+
+01:00:37 as good as about 18 degrees today, is that potentially people will start
+
+01:00:41 getting out to next. And are the retailers buying their
+
+01:00:43 summer wear? But we are saying if they threw in to
+
+01:00:46 some of the other peers today as well, like Marks and Spencers, Frasers, ABF,
+
+01:00:50 the owner of Prime, are all of those getting a bit of a dip this morning in
+
+01:00:53 lighter UK trading this morning? Then in terms of the U.K.
+
+01:00:57 health care stocks, we had GlaxoSmithKline, that one saying some
+
+01:01:00 small gains at the open today, some of their shingrix vaccines doing well.
+
+01:01:05 Also HIV oncology pretty strong, but the weak one is Highland.
+
+01:01:09 Now, according to them, their pain relief sales are down around 9% in the
+
+01:01:14 last quarter. That sounds pretty good, but not if you
+
+01:01:16 a maker of paracetamol, which is what they do and their sales are coming down,
+
+01:01:21 according to that report today. So that went down 1.7%.
+
+01:01:24 GSK still among the largest shareholders in Highland as well.
+
+01:01:28 Worth noting that then in terms of medical tech, we got names out of Smith
+
+01:01:32 and Nephew, a very solid earnings report from them this morning.
+
+01:01:36 14 analysts with a buy rating is not a single sell on that one today.
+
+01:01:40 And their sales once again holding up pretty decent for Smith and Nephew, only
+
+01:01:43 gaining 1.9 almost 2%. Now for that one.
+
+01:01:47 Then a quick look at the homebuilders. We did have that data out of nationwide
+
+01:01:51 that you mentioned earlier in the show. We are seeing a drop in house prices.
+
+01:01:55 According to them, it was the biggest drop in around eight months.
+
+01:01:58 Those homebuilder shares pretty much holding up well this morning.
+
+01:02:01 Pair cement down 0.7%, but all of the others pretty much in the green.
+
+01:02:05 The interesting thing for me is people say that they aren't holding off from
+
+01:02:08 home purchases because of mortgage rates.
+
+01:02:10 It's the house prices being too high is what nationwide is saying today.
+
+01:02:14 Finally, on that same one morning call for us today, we have got an update for
+
+01:02:18 Travis Perkins. Guy mentioned Wickes earnings today, but
+
+01:02:22 Exane reckons he should be buying Travis Perkins shares.
+
+01:02:25 They predict a rebound in the UK construction sector.
+
+01:02:28 That's the building merchant firm here in London and it's up 3.2% this morning.
+
+01:02:33 The argument that it's house prices that are too high rather than the mortgage
+
+01:02:36 rates, I find that's that's an interesting way of approaching it.
+
+01:02:40 You've got to borrow. And the mortgage rate therefore
+
+01:02:42 determines how high house prices are. But anyway, we'll plug that one.
+
+01:02:45 Thoughts about thought for the moment. Joe, thank you very much indeed.
+
+01:02:48 Coming up, we're going to talk more about those retailers next year.
+
+01:02:52 Off to a mixed start. First quarter sales are rising, but the
+
+01:02:56 outlook has just been pointing out is really where the problem seems to lie
+
+01:02:59 and that's rippling through the sector this morning.
+
+01:03:01 We'll find out why in more detail next. This is Bloomberg.
+
+01:03:25 This is markets today, 818 here in London, and the first 100 is open.
+
+01:03:30 Some other European markets. But most European markets are closed, of
+
+01:03:33 course, because it is a Labor Day holiday, 1st of May.
+
+01:03:36 But we do have trading here in London, for what it's worth, by a 10th of a
+
+01:03:39 percent. U.S.
+
+01:03:40 futures actually pointing down 2/10 of a percent, only minutes or half a percent
+
+01:03:43 on Nasdaq futures. This also we saw some significant
+
+01:03:46 weakness in yesterday's session as well around Fed expectations.
+
+01:03:49 We're waiting for the Fed later. That's the big picture.
+
+01:03:51 Back to the micro stories we're covering next this morning.
+
+01:03:53 Next, shares are trading lower this morning after the British retailer saw
+
+01:03:57 sales climb in the first quarter, but pointed to a slightly weaker second
+
+01:04:01 quarter affected by colder than expected weather.
+
+01:04:05 Just yesterday, it was warm, but before that it was very cold today and it's
+
+01:04:08 cold again today. So that was it.
+
+01:04:09 That was spring. But in fact, Jennifer Kramer joins us
+
+01:04:12 this morning to talk us through the numbers.
+
+01:04:14 Jennifer, very nice to see you. So what are the results and tell us
+
+01:04:17 about consumer confidence. Let's start there, shall we?
+
+01:04:20 Is consumer confidence coming back? Yeah, I mean, well, next is off to a
+
+01:04:23 pretty good start, right? So sales are up 5.7% and beat its own
+
+01:04:27 estimates of 5% for the first quarter. So it's a pretty good start for next.
+
+01:04:32 I think a lot of people will be looking at next, as some people call, you know,
+
+01:04:36 a bellwether for the industry. I think more broadly, it's just kind of
+
+01:04:39 it's it's kind of leading the markets at the moment.
+
+01:04:43 So what it tells us, you know, everyone's looking for signs that
+
+01:04:46 inflation is easing and that that's translating into growing consumer
+
+01:04:50 confidence. And so it shows us that, you know, the
+
+01:04:52 consumer is coming back, but, you know, it's not roaring back.
+
+01:04:56 Shoppers are still, you know, pinching that pennies.
+
+01:04:58 I'm just so about the forecasts. This sounds like a weather forecast to
+
+01:05:02 me rather than a sales forecast. It does seem it's very weather dependent
+
+01:05:05 at the moment. As Anna points out,
+
+01:05:07 they're keeping their full year guidance intact, but they are kind of warning
+
+01:05:10 that the colder weather is having an impact on people's shopping habits.
+
+01:05:14 Yeah, exactly. So it's forecasting that sales sales
+
+01:05:17 will be down 1.3% for the second quarter, and that's because it's got a
+
+01:05:21 pretty tough comparable to last year. Right.
+
+01:05:23 So last year, pretty warm weather at the moment is pretty cold.
+
+01:05:25 You know, I'm still wearing my coat. It's May so that it just means that, you
+
+01:05:29 know, people will be still holding onto their winter weather.
+
+01:05:32 Not quite looking for a spring weather yet.
+
+01:05:34 So that's why it's that's why it hasn't given a pretty, you know, bullish
+
+01:05:38 forecast for the coming quarter. Obviously on the car ride this morning
+
+01:05:41 to work, I actually asked the Uber driver to turn up the temperature and he
+
+01:05:46 actively rolled his eyes at me. So that was fun.
+
+01:05:48 Talk to us about why this is a next story or if this is a broader retailer
+
+01:05:51 story. Are other retailers able to capitalize
+
+01:05:54 here? Yeah.
+
+01:05:55 So, you know, as I said, you know, next is considered to be, you know, one of
+
+01:05:59 the best if not the best retailer on the high street at the moment.
+
+01:06:02 It's got, you know, very well-run stores.
+
+01:06:03 It's got very impressive online operations.
+
+01:06:06 So much so that's able to, you know, share its know how its I.T., know how
+
+01:06:11 warehouse warehousing logistics with other
+
+01:06:15 smaller rivals. So so it's very much what works for next
+
+01:06:20 might not work for other retailers. You know it's very much a leader in the
+
+01:06:24 markets. So we're seeing kind of this bifurcation
+
+01:06:27 between, you know, companies are able to do very well like next and kind of the
+
+01:06:32 weaker rivals that are falling behind. So what works for next might not work
+
+01:06:37 for others. All right.
+
+01:06:38 Bloomberg's Jennifer Curry walking us through that retail story, her first
+
+01:06:41 time on TV, by the way. I think she did great.
+
+01:06:42 Thank you so much for bringing that up for us.
+
+01:06:44 And we're talking about the consumer story in the UK.
+
+01:06:46 We've got to talk about the consumer story, perhaps globally with one of the
+
+01:06:48 biggest players, Amazon, of course, top of mind, but not necessarily for their
+
+01:06:52 ecommerce business, their cloud unit, seeing the strongest sales growth in
+
+01:06:55 over a year. It signals a turnaround for the
+
+01:06:57 retailer's most profitable division. On an earnings call, CEO Andy Jassy said
+
+01:07:01 Amazon's A.I. capabilities are behind the acceleration
+
+01:07:05 in the business's growth. We see considerable momentum on the air
+
+01:07:10 front where we've accumulated a multi-billion dollar revenue run rate
+
+01:07:13 already. You've heard me talk about our approach
+
+01:07:16 before, and we continue to add capabilities to all three layers of the
+
+01:07:20 Jenn-air stack. All right.
+
+01:07:23 We're joined now by Bloomberg's Charlie Wells.
+
+01:07:25 He's back. You again.
+
+01:07:26 Hello. Talk to us a little bit about this
+
+01:07:29 story. I mean, I think of Amazon as a consumer
+
+01:07:30 company. What how is their business doing?
+
+01:07:33 Yes, it's actually doing pretty well. Looks like in the first quarter revenue
+
+01:07:36 for us where that franchise is, house revenue was up 17%.
+
+01:07:40 So that's really positive. That's backward looking.
+
+01:07:43 What investors have really wanted was that forward looking story.
+
+01:07:46 They liked the story about the revenue run rate of this being a multibillion
+
+01:07:50 dollar business. So that's positive.
+
+01:07:51 And overall, we've just been hearing so much about AI.
+
+01:07:55 And what investors really want to know is can you actually make money off of
+
+01:07:59 this? And it's looking like Amazon's able to
+
+01:08:01 do this. And it's also looking like cloud is
+
+01:08:03 back. Businesses are willing to spend on that
+
+01:08:06 cloud infrastructure and that all ties into this narrative.
+
+01:08:09 Okay. So strong narrative coming through.
+
+01:08:11 Then on the cloud side and within that, the AI, the AI activity that customers
+
+01:08:16 do on the cloud. Let's go back to the retail side of
+
+01:08:19 things. I mean, this is an area, Charlie, that
+
+01:08:21 during the pandemic really expanded and in many people's view over expanded they
+
+01:08:25 had to retreat from. So how is the rest of Amazon's business
+
+01:08:27 performing now? Yeah.
+
+01:08:29 So Jassy has really been focusing a lot on profitability, right?
+
+01:08:31 He's been trying to make this a you know, at first it was a lot about speed,
+
+01:08:34 and now it's really focusing more on efficiency and profitability.
+
+01:08:38 And what was striking is a lot of people think about Amazon as an e-commerce
+
+01:08:41 company. E-commerce revenue actually missed
+
+01:08:44 expectations and yesterday's earnings call.
+
+01:08:46 And it's looking like consumers are starting to feel pressure or continuing
+
+01:08:49 to feel pressure from inflation on their buying more consumables.
+
+01:08:54 And so that was not great from this earnings call.
+
+01:08:56 But what was a little bit better, this was the first call where we saw ads in
+
+01:09:01 Amazon Prime reflected in the earnings and ad revenue, at least on that front,
+
+01:09:04 was up 24%. No dividend, no buyback.
+
+01:09:07 This is a company that is investing money back into its business.
+
+01:09:09 It's always done that traditionally. Does the bulk of the investment go into
+
+01:09:15 the A.I. story or as it go into the wider
+
+01:09:18 business, you talk about kind of cost cuts.
+
+01:09:21 Are we going to see all of the investment, therefore going into AI to
+
+01:09:23 the cost cuts continue? Although it's funny that you bring up
+
+01:09:26 dividends because that actually came up on the earnings call yesterday and the
+
+01:09:30 CFO was actually asked, you know, where's your dividend?
+
+01:09:32 And other tech companies have been for the first time saying they're going to
+
+01:09:36 do dividends. Thinking about matter here, I'm thinking
+
+01:09:39 about Alphabet. Amazon is the only big tech company that
+
+01:09:43 hasn't done a dividend. They haven't done share buybacks since
+
+01:09:45 2022. The other tech mega caps have been doing
+
+01:09:49 buybacks, billions of dollars of buybacks.
+
+01:09:51 But also, as you say, Guy, Amazon says that it's really focused on investing in
+
+01:09:56 its business. And yesterday the CFO was talking about
+
+01:09:59 how they don't have news on buybacks, but they are sticking to their
+
+01:10:04 philosophy, which, as you say, is investing in that business to the tune
+
+01:10:07 of 50 billion in data centers, which we know are crucial for that.
+
+01:10:12 So at least right now, it's the folks reinvesting that cash, which could total
+
+01:10:16 00 billion, according to some estimates this year, reinvesting a lot
+
+01:10:20 of cash in the business. Yeah, it's interesting when when markets
+
+01:10:23 and investors choose to give these tech giants a break and say, sure, go spend
+
+01:10:26 that CapEx. And other times when they look at that
+
+01:10:29 and say, you know, we don't like the amount you're spending.
+
+01:10:30 You mentioned some things there, which is interesting because I was reading
+
+01:10:32 that they said that they were going to increase CapEx just meaningfully on AI,
+
+01:10:36 which didn't necessarily give the details.
+
+01:10:39 Yeah, I think there's a little bit of vagueness here.
+
+01:10:41 And I think the concern is that you get the meta style story where in their
+
+01:10:45 earnings call they talked about how they were going to spend more than expected
+
+01:10:49 investing in some of this infrastructure.
+
+01:10:50 And investors didn't like that. But what's really striking about Amazon
+
+01:10:54 is even without buybacks, even without that dividend, their stock has been
+
+01:10:58 performing really well. And just thinking even more short term,
+
+01:11:01 yesterday in extended trading, Amazon was up 2%.
+
+01:11:04 So it's going to be really interesting to see what happens when the market
+
+01:11:07 opens in New York. Does that narrative continue the
+
+01:11:10 positive narrative? Because with a lot of these big tech
+
+01:11:12 companies, when they've been able to tell a positive, future oriented story,
+
+01:11:16 the markets have supported them when it's been cloudier.
+
+01:11:19 Thinking about matter. Last week, you got a you had a nosedive
+
+01:11:22 out every day stock. You were in a bad way, not cloudy or in
+
+01:11:24 a good rate. Yes, it was cloudy in a good way, but I
+
+01:11:27 think Charlie very much Charlie Wells getting to grips with the Amazon story
+
+01:11:31 for us and to bring is all the important stuff you need to know.
+
+01:11:34 Coming up, we'll be back to the big macro story of the day.
+
+01:11:36 It is, of course, Fed day. Not many changes are perhaps expected,
+
+01:11:39 certainly not a change in rates. But what are markets going to be looking
+
+01:11:42 out for when we hear from Jerome Powell a little bit later on?
+
+01:11:45 We don't get any don't plot today. We don't get their expectations around
+
+01:11:49 rates, but we will get to hear from Jerome Powell.
+
+01:11:51 So how will he talk about the number of cuts that are still expected, the
+
+01:11:55 validity of the most recent part? What is that?
+
+01:11:58 We'll certainly talk about all of that when we come back.
+
+01:12:00 We'll get some expert US analysis. This is going back.
+
+01:12:20 It's unlikely we see any kind of major shifts on on on on rates at this stage.
+
+01:12:26 I think June is probably still too soon. What I think is perhaps underappreciated
+
+01:12:30 at the moment is is the leading indicators pointing to a wobble in the
+
+01:12:34 labour market. Okay.
+
+01:12:35 Actually, when you put together what I'm saying, for the short term, I'm saying
+
+01:12:39 kind of 3% inflation, not 4% inflation as we had in in Q1.
+
+01:12:44 And I'm also saying some of the leading indicators in the next kind of three
+
+01:12:48 months or so are pointing to downside surprises in the jobs market as well,
+
+01:12:52 which. A potential wobble in the labour market
+
+01:12:56 for Beamish. Their Lombard chief economist walking us
+
+01:12:59 through what she's watching. Let's get another view here.
+
+01:13:01 Abigail, what U.S. economist over at UBS Investment Bank
+
+01:13:03 joins us right here on set. So we heard from Fred there on what
+
+01:13:06 she's watching. What are you.
+
+01:13:08 Yes. So I think obviously we're expecting no
+
+01:13:10 change in the stance of monetary policy at today's Fed meeting.
+
+01:13:15 And I think we're expecting the statement to be kind of little changed
+
+01:13:18 as well. I think in the statement, the language
+
+01:13:20 around the stance of the economy still holds true.
+
+01:13:24 The kind of strength that the labour market, the the idea that you've seen
+
+01:13:28 kind of quite robust growth, I think that still holds true.
+
+01:13:31 So we don't expect a huge amount change there.
+
+01:13:33 And I just think that adds a little bit more emphasis on to Chatham House press
+
+01:13:37 conference and the prepared remarks, that chap, how well we'll give it at the
+
+01:13:42 beginning of the press conference. So I think that's the kind of area of
+
+01:13:46 focus for today's Fed meeting. Obviously we don't have any updated
+
+01:13:50 summary of the current projections at this meeting as well.
+
+01:13:52 So I think that just adds the emphasis to the communications from Chapple.
+
+01:13:56 I think that's going to be key today. Such a big part of why tackling
+
+01:14:00 inflation in the first place is so important.
+
+01:14:02 Economics 1.1 is that affordability remains a question.
+
+01:14:06 If inflation is so high and wages don't catch up, then we have an issue.
+
+01:14:09 But wages are catching up. They might even be feeding the
+
+01:14:12 inflation. How big of a problem is inflation if
+
+01:14:15 wages are keeping the American consumer insulated to some extent?
+
+01:14:20 Well, as you as you as you say that, you know, wages there's kind of a push pull
+
+01:14:25 here between wages and inflation. But I think the the job of the FOMC is
+
+01:14:31 to try and, you know, keep the that dual mandate.
+
+01:14:34 So they want to keep the labour market strong, but they also want to make sure
+
+01:14:38 that inflation returns sustainably back to that 2% target.
+
+01:14:41 And obviously yesterday we had the employment cost index out and it came in
+
+01:14:45 a little bit stronger than we had expected and consensus had expected.
+
+01:14:50 And I think what you're seeing is kind of some stalling in the progress on
+
+01:14:54 inflation and some stalling perhaps in the progress there on the kind of wage
+
+01:14:58 data. And I think from the Fed's perspective,
+
+01:15:01 they'll be looking at that and thinking about that carefully in terms of their
+
+01:15:04 expectations for being able to kind of change monetary policy later this year,
+
+01:15:08 whether they can deliver the three cuts that are in that kind of March, ACP.
+
+01:15:13 If Bloomberg wasn't sending Mike McKee to the press conference and instead was
+
+01:15:17 sending Abigail, what what question would Abigail was ask in the press
+
+01:15:20 conference? I think I would actually ask a question
+
+01:15:23 around that March ACP. We are in our preview for today's
+
+01:15:28 meeting. We noted that we think that if he was
+
+01:15:31 asked about this, it's something that the chairman may comment on that perhaps
+
+01:15:35 the kind of FOMC no longer see these three cuts as consistent this year.
+
+01:15:41 It's possible, though, that he continues to tiptoe that the data dependent line
+
+01:15:46 instead, we'll see if the data evolves, as we said in March.
+
+01:15:50 And if the data does evolve, as we said in March, then that's still consistent.
+
+01:15:54 So I think it's going to be an interesting one to see his language
+
+01:15:57 around around that three base case that was in the median.
+
+01:16:01 And for what it's worth, our expectations are that we see two cuts
+
+01:16:05 from the Fed this year. We have the first cut pencilled in for
+
+01:16:09 September, though, rather than than June, as we hear expected.
+
+01:16:13 If he wants to sound hawkish, how does he do it?
+
+01:16:16 So there's a couple of places that we think in terms of if we look at the
+
+01:16:19 prepared remarks that Chair Powell had in the March FOMC press conference, and
+
+01:16:25 there's the seventh paragraph in those prepared remarks very specifically.
+
+01:16:31 We listen, we have got think some language around this idea that they can
+
+01:16:35 keep, you know, they'll keep rates on hold for longer if they need to, given
+
+01:16:39 inflation. And I think that language will likely
+
+01:16:41 remain. But the kind of language around the idea
+
+01:16:44 that the policy rate, etc., is at its peak for this tightening cycle.
+
+01:16:48 I think any changes, if that was to be removed or or changes around that
+
+01:16:52 language, I think that would be a fairly hawkish signal from from Powell.
+
+01:16:57 But ultimately we think that his language in the in the press conference
+
+01:17:00 and his prepared remarks will likely kind of stay very close to the language
+
+01:17:05 that we heard from him a couple of weeks ago around the kind of disappointment on
+
+01:17:09 the inflation data, the need to wait to have more confidence before being able
+
+01:17:13 to adjust monetary policy. Abigail, do we get anything on the
+
+01:17:16 balance sheets if this is a sort of watch and wait in other areas, do we get
+
+01:17:20 anything on the balance sheet this time? Yeah.
+
+01:17:23 So in the March press conference, Chair Powell said the the the was discussions
+
+01:17:27 at the march me saying and that there should be some changes coming fairly
+
+01:17:31 soon. That was the language that he used.
+
+01:17:33 And our interpretation of that was that we could see an announcement at the June
+
+01:17:37 meeting followed by an implementation at the July meeting.
+
+01:17:40 And we you know, we could see some announcement of that today.
+
+01:17:44 You know, that's not our base case, but that could be some announcement of
+
+01:17:47 changes in their balance sheet policy today.
+
+01:17:50 Our base case is that the changes would be the runoff.
+
+01:17:53 Rate of Treasurys is reduced to around 25 billion a month and we're not
+
+01:17:58 expecting any changes on the NBS run off rate.
+
+01:18:01 But as I said, it's not our base case that we hit that.
+
+01:18:03 But that could be could be something that is announced at today's Christmas
+
+01:18:07 Point earlier about wages. And we got that employment index just
+
+01:18:10 yesterday. What is the 2024 real wages story in the
+
+01:18:13 US, do you think, Abigail? Because we've talked about that in the
+
+01:18:16 British context actually a little bit with certain retailers talking about how
+
+01:18:19 that's going to be a boost for them. What's the story going to be around real
+
+01:18:23 wages in the US? Yeah, So I think I think if you if you
+
+01:18:27 see a you know, a stalling on inflation, I think that's a kind of a last positive
+
+01:18:31 story. We have seen kind of obviously we have I
+
+01:18:35 think there's something that is maybe missed here in the kind of upside
+
+01:18:37 surprise we had on the wages data yes

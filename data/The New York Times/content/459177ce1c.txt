@@ -1,0 +1,23 @@
+Methodology
+
+To measure top colleges’ efforts on economic diversity, The New York Times worked with experts at Ithaka S+R, a higher-education research group, to analyze data reported by schools to the Education Department’s National Center for Education Statistics. The data shown includes any Title IV-granting, nonmilitary institution — with at least 250 total undergraduate students in the 2020-21 school year — that was rated in the top four Barron’s selectivity categories in 2009 or 2016. The data also includes all state flagships.
+
+Freshmen Pell share: Percent of first-year first-time students enrolled in each college who received Pell grants — subsidies from the federal government for low-income students to pay for college — in the 2020-21 school year.
+
+Pell change since 2011: Percentage point change of freshmen Pell share in each college between the 2010-11 and the 2020-21 school year.
+
+Total undergrads: A school’s total undergraduate student population in the 2020-21 school year. Data is rounded to the nearest 100.
+
+Endowment per student: A school’s total endowment as of June 2021 divided by the number of undergraduate students (a common measure of how wealthy the school is). A school is considered highly endowed if its endowment per student is at least $1 million. Data is rounded to the nearest 1,000.
+
+Net price, mid-income: The net price of a school is the total cost of attendance — sum of published tuition, room and board, books and supplies and other fees — minus the average amount per entering student of federal, state or local government or institutional grant and scholarship aid. Mid-income describes a family income of between $48,001 and $75,000 per year. Data for the 2020-21 school year is shown, and is rounded to the nearest 100.
+
+Other notes:
+
+The most recent comparable data for Pennsylvania State University is as of the 2017-18 school year.
+
+The University of Colorado reports endowment data only for the system as a whole. Data for Boulder alone is not available.
+
+Ramapo reports endowment data through 2015, but no recent endowment data is available through IPEDS.
+
+Houghton College became Houghton University in 2022.

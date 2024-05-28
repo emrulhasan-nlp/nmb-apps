@@ -1,0 +1,3 @@
+The Israel Defense Forces have started using artificial intelligence to select targets for air strikes and organize wartime logistics as tensions escalate in the occupied territories and with arch-rival Iran.
+
+Though the military won’t comment on specific operations, officials say that it now uses an AI recommendation system that can crunch huge amounts of data to select targets for air strikes. Ensuing raids can then be rapidly assembled with another artificial intelligence model called Fire Factory, which uses data about military-approved targets to calculate munition loads, prioritize and assign thousands of targets to aircraft and drones, and propose a schedule.

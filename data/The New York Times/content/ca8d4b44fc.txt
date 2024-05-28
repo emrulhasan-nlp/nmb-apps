@@ -1,0 +1,55 @@
+Explore How Income Influences Attendance at 139 Top Colleges
+
+At many selective private colleges, being very rich is a door to entry — students with parents earning in the top 1 percent attend at much higher rates than other similarly qualified students, new data shows. At most flagship public colleges, on the other hand, there is no such difference, and in-state students from across the income spectrum attend at roughly similar rates.
+
+The data comes from an expansive new research project on college admissions. It combines college attendance records with federal income tax data to show the share of all college-bound students who attend a given college, by parental income. And it shows the chances that similarly qualified students — those with the same standardized test scores — have at attending a college based on their parents’ income. The data is available for 139 colleges, including the top private colleges according to Barron’s and many of the top public and private colleges in U.S. News & World Report. (It leaves out some large public universities, as the researchers did not have separate attendance data for individual campuses.)
+
+Look up colleges here:
+
+The new data comes from Opportunity Insights, a group of economists led by Raj Chetty of Harvard. It was behind a large study, published in July, that combined tax and attendance data for nearly all college students from 1999 to 2015 with applicants' standardized test scores. The researchers also had access to internal admissions data for several of the most elite private colleges.
+
+The data shows that students from higher-income families are far more likely to attend top colleges. At many selective colleges, both public and private, over half of students come from families earning in the top 20 percent, and fewer than one in 20 students have parents earning in the bottom 20 percent.
+
+Look up colleges:
+
+Dartmouth College × Family income of Dartmouth students Estimated as of 2015 Source: Opportunity Insights and Chetty, Deming, Friedman (2023) Figures are rounded. Incomes are measured from the parent income tax records of college attendees who took standardized tests and were on track to graduate high school in 2011, 2013 or 2015. Here's how the student body at Dartmouth compared with that of other top colleges in the data: Top 1% share, by college
+
+At the most elite private colleges, like those in the Ivy League, students from rich families have an even greater advantage, getting in at much higher rates than other similarly qualified students. Take two students with the same test score. At Harvard, those from the top 1 percent attended at 1.5 times the rate of a typical student with that score. The poorest students with that score, those from the bottom 20 percent, also attended at a higher rate, but there were far fewer of them.
+
+Attendance rates at Ivy League schools Among students with the same test scores
+
+The advantage for the very rich at these highly selective colleges is driven by legacy admissions, the recruitment of athletes, and a preference for students from private "feeder" high schools, found the new paper, by Professor Chetty, John N. Friedman of Brown and David J. Deming of Harvard.
+
+In much of the next tier of elite private colleges, rich students have a similar advantage. But at some, there’s even less socioeconomic diversity — poor students, even with the same test scores, have a lower chance of attending than the typical applicant with that score. Considering students with the same score, at Georgetown, someone from the top 1 percent was 2.7 times as likely to attend as a typical student with that score, while a student from the bottom 20 percent was about half as likely to attend.
+
+Attendance rates at selective private colleges Among students with the same test scores
+
+Attendance rates at top liberal arts colleges Among students with the same test scores
+
+This is partly because these colleges tend to have fewer resources to recruit high-achieving students from low-income families, and smaller financial aid funds to pay their way. Ivy League colleges often promise a full ride to any admitted student whose parents earn below a certain amount.
+
+“You don’t have to move too far outside the top schools before they can’t meet your need,” said Jesse Rothstein, a professor of economics and public policy at the University of California, Berkeley, who studies education. “And how’s a kid going to know to apply?”
+
+At many public flagship colleges, in-state students from the richest families are no more likely to attend — and often less likely to do so. At the University of California, Los Angeles, for instance, students from the bottom 20 percent attended at 1.5 times the average rate of students with the same test score, while the very richest students were 0.8 times as likely to attend.
+
+Attendance rates at some flagship state schools Among students with the same test scores
+
+Public universities have different mandates — to educate a certain number of students from their state — and different admissions processes. The University of California schools, for instance, forbid giving preference to children of alumni or donors.
+
+Attendance rates at California state colleges Among students with the same test scores
+
+And even when public flagships give recruited athletes an admissions advantage, they are so much larger than selective private colleges that it makes little difference in overall admissions.
+
+For out-of-state students, who pay more, attendance is less equitable. Professor Chetty said, “The key lever there is to what extent are you actually state-financed as an in-state institution?”
+
+Some less selective state universities in the data set are even more socioeconomically diverse. Students from the richest families attend at much lower rates, while students from poor families attend at higher rates than average. Among other reasons, the richest families are more likely to choose to pay for private college instead, researchers said.
+
+At Stony Brook University, for example, students from the 20th percentile and below attended at nearly 2.5 times the rate of the average student with the same test score, while the richest students with that test score attended at well below the typical rate.
+
+Attendance rates at other state schools Among students with the same test scores
+
+In all these groups, there are exceptions to the patterns. Admissions priorities and policies vary. At tech-focused colleges, like M.I.T. and Carnegie Mellon, students with the same test scores from low-income and high-income families attended at roughly similar rates. Certain private liberal arts colleges, like Swarthmore and Wellesley, had also achieved this. Also, attendance rates are based on data through 2015, and some colleges have changed their policies since then.
+
+Even though college attendance rises with parental income, when it comes to educating the majority of America’s four-year college students, public universities play a vital role — regardless of how much their parents make.
+
+“They’re not undoing those disparities, but it’s pretty remarkable that they’re not making it worse,” Professor Deming said. “The schools that educate the vast majority of students are pretty fair in who gets in.”

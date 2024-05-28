@@ -1,0 +1,83 @@
+Hi, it’s Katrina. Attendees of a US spy gathering are among those astounded by what could be an epoch-defining attack against Israel. But first…
+
+Must Reads:
+
+Cyberattacks targeting Israel are on the rise after Hamas attack
+
+Clorox security breach linked to group behind casino hacks
+
+North Korea suspected in massive hack of DeFi project Mixin
+
+Hamas attack prompts blame around Israeli intelligence
+
+The Cyber Angle
+
+Every fall, dozens of security and intelligence officials from across the nation descend upon an island off the coast of Georgia and talk, for four days, about the most pressing threats facing the US.
+
+This year’s invitation-only event began Saturday — just hours after the militant group Hamas attacked Israel, killing civilians, taking hostages and drawing the threat of a retaliatory ground incursion into Gaza. The death toll in both Israel and Gaza is mounting into the hundreds amid fears the events could trigger a broader regional conflict.
+
+William Burns, director of the CIA, canceled his attendance due to the crisis. Conversation on Saturday was dominated by the shock of the attack against Israel, why its government was unprepared for the onslaught — and what might come next.
+
+While attending the Cipher Brief Threat Conference, former CIA directors Michael Hayden and David Petraeus (via videolink) framed the attack as a massive intelligence lapse in a country that is widely regarded as the “gold standard” for espionage.
+
+Israel has spent decades developing complex spy operations, spanning deep networks of informants, sweeping surveillance and, more recently, spyware that can turn cell phones into listening devices. The country stood up its defense force’s Unit 8200 — Israel’s military cyber operators — in the wake of the intelligence failure that preceded the Yom Kippur war, which began almost exactly 50 years before the operation by Hamas, which is designated as a terrorist group by the US. Today, Unit 8200 is the military’s largest intelligence division in the Israel Defense Forces.
+
+Petraeus put the spotlight “in particular” on Shin Bet, Israel’s internal security service. And he indicated Mossad, the country’s external intelligence agency, may have also failed to pick up on regional aspects, and questioned why the Israeli military was not ready.
+
+Norman Roule, a former national intelligence manager for Iran at the Office of the Director of National Intelligence, blamed an “international intelligence failure.” The US, UK and EU all have a responsibility to understand what went on, he said.
+
+Beth Sanner, former presidential intelligence daily briefer, said the Israeli government appeared to have dismissed strategic warning signs of restlessness inside Gaza and failed to understand the imminent, serious nature of the threat. “They fundamentally misunderstood the goals, objectives and capabilities of Hamas,” she said.
+
+Others said the failures may lie far beyond intelligence.
+
+Jeffrey Wells, a cyber intelligence expert and visiting fellow at George Mason University, said Israel may have simply had too much on its plate — focusing on Hamas, and on Hezbollah, and on Lebanon, Iran and potential threats from Syria, as well as the growing demands for security in the West Bank amid the expansion of settlements.
+
+Israel has also been beset by internal domestic turmoil with hundreds of thousands of people protesting Prime Minister Benjamin Netanyahu’s plans to overhaul the judiciary and increase parliamentary powers over the Supreme Court. Those protests have extended to reserve officers in Israel’s elite cyber unit, some of whom have refused reserve duty, according to Haaretz.
+
+Wells, who is also in touch with current and former Israeli cyber operators, argues all this may have diverted Israel’s usually sharp attention and weakened intelligence agencies. He said Unit 8200 has also lost talent in recent years, although the impact is unclear. “Formerly a hub of the nation’s elite tech minds, many have now transitioned to the booming commercial cybersecurity realm, lured by entrepreneurial ambitions and high rewards,” he said.
+
+Alon Arvatz, a former member of Unit 8200 still in touch with members of the unit, was among those who dismissed the idea that there’s been any concrete impact on its capacity. He said he knew Unit 8200 reservists currently abroad who are returning to Israel to help.
+
+Over the weekend, President Biden said he’d tasked his intelligence team “to make sure Israel has what it needs.” Matthew Olsen, assistant attorney general for the Justice Department’s national security division, confirmed at the conference that the US was working to understand if Iran played any part in the attack and whether Israeli and other intelligence had any inklings of the plans in advance.
+
+Hayden told me he thought the main intent behind the attacks was to derail Saudi Arabia’s move to draw closer to Israel and potentially normalize diplomatic relations.
+
+So far, cyber operations themselves have played little role in the onslaught, said Rob Joyce, director of cybersecurity at the National Security Agency. At the conference, he cited only minor denial of service attacks and web defacements, but noted that this could change. “There will be others that pull into this fight. It just won’t be Hamas,” he said, without naming specific groups or countries.
+
+Joyce said he also expected to see hacktivist action from unaffiliated hackers. While less technically sophisticated, they’ve still displayed a “very substantial capability” to threaten information flows, company finances and even critical infrastructure, he said.
+
+Yossi Appleboum, CEO of cybersecurity company Sepio, Inc., and a former cyber operator in Unit 8200, said hackers are taking advantage of the immediate shift to remote working in Israel since attacks from Hamas began. Phishing and social engineering attacks against his company, which protects more than a dozen Israeli finance, government, critical infrastructure and manufacturing networks, have doubled since the Saturday’s incursion.
+
+John Hultquist, who leads threat intelligence at Google’s Mandiant and has a team in Israel, concurred: Both Iran and Hamas have programs that could be used for espionage, information operations and disruptive attacks in the near term, he said. --With Jamie Tarabay
+
+What We Learned This Week
+
+The US intelligence community wants to convince us it is trying to come out of the shadows.
+
+Ever since officials decided to publicize some of their early findings that Russia was preparing a full-scale invasion of Ukraine, they have begun banging the drum for downgrading classifications, a method of releasing some information to allies, partners and the public that previously involved a little-used, lengthy process bound up in red tape.
+
+Detractors complain far too much information is still needlessly overclassified. The push to declassify comes at a time when trust in the intelligence community is “very, very low,” according to Stacey Dixon, principal deputy director of National Intelligence, who also addressed the conference. Requests from within the US government to downgrade intelligence are “beyond anything we’ve ever seen before” she said.
+
+Brett Holmgren, assistant secretary of state for intelligence and research, personally delivered the US intelligence assessment of Russia’s imminent invasion to Ukraine’s foreign minister. He said the appetite to share more information is growing: His department expects to receive more than 1,200 requests to downgrade or declassify intelligence this year, up from 900 in 2021.
+
+The Cybersecurity and Infrastructure Security Agency touts the benefits of sharing information to avert serious cyberattacks. So far this year, it has tipped off more than 750 potential victims of an incoming ransomware hack, Brandon Wales, CISA Executive Director, told me at the conference. That’s up from 225 in May, a few months into the agency’s new pre-ransomware notification program. Those tipped off include more than 60 K-12 schools or districts, nearly 90 US health care organizations and 70 state, local, tribal or territorial government organizations, he said.
+
+What We’re Reading
+
+Hacker puts 23andMe user data up for sale on the internet.
+
+Inside FTX’s all-night race to stop a $1 billion crypto heist.
+
+Vietnam tried to hack U.S. officials, CNN with posts on X, probe finds.
+
+MGM Resorts refused to pay ransom in cyberattack on casinos.
+
+D.C. voter records for sale in cybercrime forum.
+
+
+
+You can reach Jeff Stone at jstone183@bloomberg.net. Margi Murphy is mmurphy500@bloomberg.net. You can also send us files safely and anonymously using our SecureDrop.
+
+More from Bloomberg
+
+Get Tech Daily and more Bloomberg Tech weeklies in your inbox:
