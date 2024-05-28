@@ -1,0 +1,77 @@
+As 2023 comes to a close, the Voting Rights Act is facing a series of dire threats that could significantly weaken the landmark civil rights law.
+
+A suite of three different pending cases could gut the ability of private plaintiffs to challenge the Voting Rights Act, make it harder to challenge discriminatory election systems, and limit the Voting Rights Act’s protections in areas where a single racial minority doesn’t constitute a majority.
+
+“It’s a shock to the system,” said Sophia Lin Lakin, the director of the Voting Rights Project at the American Civil Liberties Union.
+
+The new wave of attacks come after the supreme court unexpectedly issued a decision in June that upheld a critical provision of the law.
+
+In a 5-4 decision, the justices beat back an effort by Alabama that would have made it much harder to use the Voting Rights Act to challenge voting districts that weaken the influence of Black voters. Writing for the majority, Chief Justice John Roberts sent a strong signal the court wasn’t interested in reconsidering its jurisprudence around Section 2 of the Voting Rights Act, the most powerful tool voting rights litigators have to challenge districts. It was a full-throated defense of the Voting Rights Act, the 1965 law the court has aggressively weakened in recent years.
+
+“The heart of these cases is not about the law as it exists. It is about Alabama’s attempt to remake our [section] 2 jurisprudence anew,” Roberts wrote in the majority opinion in the case, Allen v Milligan, that was joined by his fellow conservative Brett Kavanaugh and the three liberal justices. “We find Alabama’s new approach to [section] 2 compelling neither in theory nor in practice. We accordingly decline to recast our [section] 2 case law as Alabama requests.”
+
+The rulings was a sigh of relief for voting rights lawyers. Over the last decade, the court has ruled against voting rights at nearly every turn. It gutted the pre-clearance requirement at the heart of the Voting Rights Act, greenlit aggressively removing people from voter rolls, made it harder to challenge discriminatory voting laws, and made it nearly impossible to challenge a voting rule as long as an election is near.
+
+View image in fullscreen Marchers chant during the Black Voters Matter’s 57th Selma to Montgomery march, on 9 March 2022 in Selma, Alabama. Photograph: Brandon Bell/Getty Images
+
+There’s nothing new about an onslaught of threats facing the Voting Rights Act, which has faced efforts to weaken it virtually since the moment it was enacted. But those attacks appear to be finding a more receptive audience in a supreme court and federal judiciary reshaped by Donald Trump that are willing to entertain fringe legal ideas.
+
+“The Voting Rights Act, in 2023, in some ways is on more stable footing than it was last year. And in other ways feels like it’s poised to undergo a whole new set of threats,” said Danielle Lang, a voting rights attorney at the Campaign Legal Center.
+
+Arkansas
+
+The most significant threat is a case from Arkansas that could block the ability of private litigants – voters, civil rights groups, political parties – from bringing cases to enforce the Voting Rights Act. No “private right of action” exists under the law, the US court of appeals for the eighth circuit said in a novel ruling earlier this month.
+
+It was a decision invited by the supreme court justices Neil Gorsuch and Clarence Thomas. In 2021, they issued a separate opinion musing that the court had never definitively said whether or not private parties could bring section 2 cases – a surefire invitation to litigants to try and get the question before the court.
+
+If private parties can’t sue under the Voting Rights Act, it would make it virtually impossible the enforce the law. Non-governmental groups, which have more resources than the justice department and can move much more quickly, have brought the vast majority of cases in the six decades since the Voting Rights Act was enacted. If enforcement were only up to the government, priorities could change from administration to administration (the justice department filed very few voting rights cases under Donald Trump).
+
+“It would completely eviscerate the last remaining power behind the Voting Rights Act in any way real way,” said Lakin, the ACLU attorney, who represents the plaintiffs in the Arkansas case.
+
+The issue has created even more uncertainty for voting rights litigators in an environment in which they already have a reduced toolkit to combat voting discrimination after the Shelby county decision.
+
+“It is certainly frustrating,” Lang said. “When you look at all the work that’s yet to be done in the voting rights space. And instead of getting that work done, lawyers get sidetracked having to fight old battles over them.”
+
+Georgia
+
+The Arkansas case isn’t the only serious threat to the Voting Rights Act. In Georgia, an appellate court recently ruled the Voting Rights Act couldn’t be used to challenge the way the state had chosen to elect the five members of its public service commission (PSC), which oversees utilities. Under state law, each of the five members are elected by the entire state, a method that “unlawfully dilutes the votes of Black citizens under Section 2 of the Voting Rights Act”, the US district judge Steven Grimberg ruled last year. A district system would better ensure that Black voters could elect the candidate of their choosing to the PSC.
+
+But the US court of appeals for the 11th circuit overturned that decision in November. The Voting Rights Act couldn’t be used to change the way the PSC was elected, a three-judge panel said, because the Georgia legislature had chosen to elect its commissioners that way. “Georgia chose this electoral format to protect critical policy interests and there is no evidence, or allegation, that race was a motivating factor in this decision,” the judge Elizabeth Branch, who was nominated by Trump for the bench, wrote for a unanimous three-judge panel.
+
+View image in fullscreen Audience members listen as Representative Terri Sewell convenes civil rights leaders at the 16th Street Baptist Church to strategize on a path forward for voting rights a decade after the supreme court’s Shelby county decision, on 28 June 2023 in Birmingham, Alabama. Photograph: Stew Milne/Getty Images for Committee for House Administration
+
+The decision could have far-reaching consequences. It could be read to prohibit Voting Rights Act challenges in Georgia to the state assembly school boards or county commissions – bodies of government where civil rights litigators have long turned to the law to combat voting discrimination.
+
+Texas
+
+Another threat to the Voting Rights Act is fast emerging from Texas. Earlier this year, a district judge struck down the city of Galveston’s four county commission districts. When Republicans redrew the districts in 2021, they got rid of the sole district in which Black and Latino voters were able to elect the candidate of their choice. Striking down the districts in the case, the US district judge Jeffrey Brown called the effort “stark and jarring”.
+
+A three-judge panel for the US court of appeals for the fifth circuit upheld that ruling. It noted that neither Black people nor Hispanic people constituted a majority on their own in the district at issue, but that precedent allowed them to be considered together for purposes of a Voting Rights Act claim.
+
+But then the panel did something unusual. It went on to say it believed that precedent was wrong. And in a highly unusual step, it urged the full court to review the case and overrule it. The full fifth circuit has since agreed to hear the case, and paused redrawing the Galveston district in December, a signal it is skeptical that the Voting Rights Act protects so-called “coalition districts”.
+
+View image in fullscreen Voting rights activists during a civil disobedience action at the White House, on 3 November 2021. Photograph: Allison Bailey/NurPhoto/REX/Shutterstock
+
+Whether or not the Voting Rights Act applies in areas where no minority group makes up a majority, but a coalition of minorities votes cohesively as one, is a question that has not been definitively answered by the supreme court. A ruling saying that those areas are not protected under the Voting Rights Act would make it harder to challenge districts in diverse multi-racial areas.
+
+The issue is already playing out in litigation outside of Texas. In Georgia, a federal district judge ordered Republicans to redraw their congressional map to include an additional majority-Black congressional district in west Atlanta. Republicans did that, but they dismantled another district in which a coalition of minority voters formed a majority and had been electing the candidate of their choice. It’s a strategy that is betting courts will embrace the idea that coalition districts aren’t protected.
+
+If the supreme court applies its precedent on the Voting Rights Act consistently, it should uphold coalition districts, experts say.
+
+“Prohibiting these coalition claims amount to a kind of racial essentialism that the conservatives on the court have been railing against for a long time,” said Justin Levitt, a professor at Loyola Law School in Los Angeles. “It’s actually … weird to assert that Blacks and Latinos experience is just different. And different enough that the Voting Rights Act doesn’t care.”
+
+The emergence of all three attacks has created even more uncertainty in voting rights litigation. But while there’s plenty of reasons to be disturbed by the recent rulings, voting rights experts aren’t warning of a five-alarm fire just yet.
+
+They say there are reasons to be somewhat optimistic. First, there is a different section of federal law independent of the Voting Rights Act that gives private parties the ability to bring federal lawsuits to protect civil rights.
+
+Second, outside of the eighth circuit, no other court has said that a private right of action doesn’t exist. The ultra-conservative fifth circuit even affirmed that one existed earlier this year, and the panel rejected a request to reconsider in December.
+
+Beyond Gorsuch and Thomas, it’s also not clear that a majority on the supreme court will embrace the idea that no private right of action exists.
+
+While the eighth circuit ruled no private right of action exists, no other court has issued similar rulings. “It is important for us to kind of wait. This could be a big challenge. If so, we’re gonna meet it head on. It could be a blip,” Lang said.
+
+“The crazier claims and the crazier holdings and the crazier findings don’t speak for all of the judicial system. And they certainly haven’t found purchase with the supreme court,” Levitt said.
+
+And while the spate of recent cases represents a new level of threats against the Voting Rights Act, lawyers note that the law has long faced efforts to dismantle it and it has survived largely intact.
+
+“The challenges to the Voting Rights Act and efforts to dismantle it are going to exist as long as the voting rights act exist. Based on what the supreme court said this year, I expect the Voting Rights Act to exist for a while,” Lang said. “The fact that people are still coming at it with everything they’ve got I think is because it’s maintaining its power.”

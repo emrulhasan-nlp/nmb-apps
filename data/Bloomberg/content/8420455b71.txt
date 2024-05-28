@@ -1,0 +1,77 @@
+Hi there, it’s Jason Leopold, investigative journalist at Bloomberg News and expert on gathering government records. Welcome to the debut of FOIA Files, a weekly newsletter about the Freedom of Information Act that will bring you behind the scenes as I battle government agencies, challenge their culture of secrecy, and unshroud documents they would prefer never saw the light of day.
+
+As many of you know, I am passionate about the Freedom of Information Act, or FOIA, as it’s better known. Signed into law on July 4, 1966 by Lyndon B. Johnson during the Cold War, the FOIA was designed to be a check on power by granting citizens the right to request documents from executive branch agencies. Without FOIA we’d never know about the FBI’s illegal spying on Americans in the 1970s; details about the Federal Reserve Board’s secret loans during the 2008 financial crisis; and revelations about the CIA’s post-9/11 interrogation program.
+
+Over the past decade, I’ve filed more than 9,000 requests on a wide-range of subjects and more than 100 lawsuits against government agencies to compel the release of records. Documents I brought to light have made history and fueled controversies, revealed horrific abuses by intelligence officers, uncovered secret photographs of rap music’s holy grail, and even forced former President Donald Trump’s chief of staff to submit a sworn declaration stating that Trump doesn’t mean what he tweets.
+
+Obtaining records is sometimes a years-long process, and government agencies are increasingly coming up with new ways to deny access to documents that are subject to disclosure under the law. The government will go to great lengths to keep records secret, as I once discovered after filing a FOIA about myself, which revealed how the FBI had assigned a special agent to investigate one of my requests.
+
+But the public has a right to know how government agencies spend their taxpayer dollars, and what takes place behind closed doors before bureaucrats and politicians make decisions that affect their lives. With FOIA Files, I’m excited to bring to your inbox a weekly newsletter that delivers scoops direct from government files, and shares the highs and the lows, the frustrations and — believe it or not — the fun of it all. I invite you to join me by signing up here.
+
+Spies Cancel Ice Cream
+
+Speaking of scoops, today I’m kicking off the first installment of FOIA Files by shining light on a set of documents I recently obtained from the Defense Intelligence Agency’s internal watchdog, the Office of Inspector General, which investigates waste, fraud, abuse and internal complaints. (Requesting watchdog reports about closed investigations is a good way to see what’s been going on behind the scenes at a secretive agency.)
+
+When most people think of Ben & Jerry’s ice cream, the first thing that likely comes to mind is the brand’s iconic flavors, like Cherry Garcia, Chunky Monkey, and Phish Food. But for a couple of DIA employees it was the company’s prominent stance on social justice issues that left a bad taste in their mouths.
+
+Back in September 2020, following the murder of George Floyd and during the height of Black Lives Matter protests, the DIA had scheduled a talk by Ben & Jerry’s head of global activism, Christopher Miller, to raise awareness about inequality.
+
+DIA personnel were “encouraged” to watch a pre-recorded video where Miller “would discuss the history and foundation of Ben & Jerry's roles in social justice issues and address the company's current involvement and initiative in combating inequality and pressing social issues.” Then, they would attend a live video event with Miller.
+
+But two DIA employees lodged complaints that were referred to the inspector general for investigation. One employee said public statements by Ben & Jerry’s were anti-law enforcement and claimed the company supported “a notion of rampant white supremacy in the U.S.”
+
+“The first Complainant stated that by hosting the event, DIA could be seen as endorsing and taking a partisan stance with Ben & Jerry's … The second Complainant stated that Mr. Miller is a political activist: as a DoD organization and part of the U.S. Government, DIA should not have him as a speaker or pay him with tax payer money,” an inspector general’s report said.
+
+Both DIA employees alleged the event violated the Hatch Act, which limits political activity by civil servants in the executive branch. DIA investigators said they found no evidence to support that allegation, but the complaints caused enough of an uproar inside the agency that Miller’s talk was canceled. The reason, according to another DIA office that booked Miller, was that the agency “had not properly vetted Ben & Jerry's and Mr. Miller, and they were not aware of Ben & Jerry's potentially partisan stance.”
+
+
+
+The DIA spent more than six months trying to resolve the Ben & Jerry’s matter, mostly by ensuring it wouldn’t happen again. The inspector general ended up tapping the chief of staff’s office to overhaul the DIA’s standard operating procedures for vetting outside speakers.
+
+I reached out to Ben & Jerry’s to get its take on what went down at the DIA. In an interview, Miller said he initially thought the invite was a “joke.”
+
+“We get asked to speak all the time about lots of things at universities and other institutions. But this was unusual and that’s what made it somewhat interesting. It felt like they wanted to hear an alternative point of view on some of these issues.”
+
+
+
+Miller said he worked on a presentation for the DIA that highlighted Ben & Jerry’s history, its journey towards racial equity and “our unique form of corporate activism and how we advance the larger cause of equity.”
+
+Sometime later, a DIA employee reached out to inform Miller that his talk had been cancelled, giving him a vague excuse about technical issues related to Zoom. “My immediate reaction was one of not being overly surprised that this happened,” Miller said.
+
+Still, he recalled feeling that the DIA employee implied there were more details that couldn’t be discussed. Miller only discovered the true reason behind the cancellation when I informed him.
+
+Operation “Woke”
+
+Meanwhile, a similar incident occurred at the CIA, according to a separate document I recently obtained from the agency’s inspector general. During the summer of 2021, an officer claimed to be a whistleblower disclosing a “persistent woke culture” and “ideological bias” inside the spy agency.
+
+However, as it turns out, that officer was actually under investigation for sending articles through the CIA’s internal communication system that breached the agency’s strict anti-harassment policy. The specific contents of these articles are publicly unknown due to redactions by the CIA.
+
+The officer defended his actions during an interview with the inspector general’s investigator, stating that the articles were purely statistical in nature and not discriminatory. He argued they wouldn’t be considered harassment by a reasonable person, unless the recipients were influenced by “ideological” and “politicized beliefs.”
+
+The inspector general conducted a week-long investigation. It determined that the officer’s claims didn’t meet the agency’s criteria for a serious issue, and failed to qualify for protected whistleblower disclosure to Congress.
+
+The officer, however, was disciplined following a formal inquiry. The case was closed and the CIA did not notify any congressional committee about the officer’s concerns.
+
+FOIA Friday Bonus: Just a Good ‘Ole Boy
+
+The Secret Service believes The Dukes of Hazzard star John Schneider, known for his role as Bo Duke, was never meanin' no harm.
+
+Last December, the actor caught the attention of the agency after a post he authored on the social media platform X called for President Joe Biden and his son, Hunter, to be hanged.
+
+Schneider’s post was made in response to one from Biden earlier in the day that said Donald Trump “poses many threats to our country. But the greatest threat he poses is to our democracy. The right to choose, civil rights, voting rights, and America’s standing in the world. If we lose that, we lose everything.”
+
+Schneider deleted his post the same day. But not before a research specialist with the Protective Intelligence Division, the unit tasked with protecting presidents and their families, grabbed a screenshot of Schneider’s post during a “routine social media analysis.” The post was reviewed by the agency’s Risk Management Branch to determine whether a follow up investigation was warranted. (Secret Service redacted Schneider’s profile picture and handle on X, citing a privacy exemption and personal information contained in law enforcement records.)
+
+Threatening the US president is a felony that can carry a hefty fine or five years in prison. But the Secret Service determined Schneider’s Dec. 20, 2023 post was only a “veiled threat” and ultimately declined to take any action, according to documents I recently obtained from the agency. The case was closed two days later.
+
+Got a tip for a document you think I should request via FOIA? Send me an email at jleopold15@bloomberg.net or send me a message on Signal: +1-917-623-1908.
+
+More from Bloomberg
+
+The Brink for exclusive coverage of corporate distress, bankruptcies and turnaround stories
+
+Balance of Power for the latest political news and analysis from around the globe
+
+Evening Briefing for a daily briefing with the biggest stories of the day, including a weekend edition
+
+Explore all Bloomberg newsletters at Bloomberg.com.

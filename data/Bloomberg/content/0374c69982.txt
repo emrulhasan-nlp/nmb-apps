@@ -1,0 +1,2824 @@
+00:13 A bit of a struggle for direction. Live from Studio two here at Bloomberg
+
+00:16 headquarters in New York. I'm Romaine Bostick and I'm Katie
+
+00:19 Greifeld. We're kicking you off to the closing
+
+00:21 bell here in the U.S. with about 2 hours to go.
+
+00:23 You take a look at the equity market right now and it's on the back foot.
+
+00:27 We got some maybe hawkish comments from Chris Waller a little bit earlier today.
+
+00:31 It's definitely taking the steam out of the stock market.
+
+00:34 The S&P 500 currently off to the tune of 6/10 of a percent.
+
+00:38 You take a look at big tech. The Nasdaq 100 currently down about 4/10
+
+00:42 of a percent. All the action is in the bond market.
+
+00:46 The ten year Treasury yield currently up about 13 to 14 basis points.
+
+00:50 We are well above 4%. We'll see how long we can actually stay
+
+00:54 there. And meanwhile, to take a look at
+
+00:55 Bitcoin, it turned into a bit of a sell the news moment last week when we
+
+00:59 finally got the launch of those five Bitcoin ETFs.
+
+01:02 Romaine But currently Bitcoin fighting back into the green.
+
+01:05 Yeah, we'll get back to that story in just a little bit.
+
+01:07 But let's start off with earnings, a tale of two earnings, if you will, for
+
+01:11 two of the most storied banks on the street.
+
+01:13 Goldman Sachs rallying just a bit here. After that, its equities trading unit
+
+01:17 posted a big jump in revenue last quarter.
+
+01:19 That was a triple what analysts had expected.
+
+01:21 Now, that helped to make up for some serious softness still in that
+
+01:24 dealmaking business. And it actually provided a rare victory
+
+01:27 lap for CEO David Solomon, who, of course, spent most of last year getting
+
+01:31 batted around by criticism. Meanwhile, Morgan Stanley's incoming CEO
+
+01:34 probably a bit uncomfortable with what he's seen the bank shares dropping the
+
+01:38 most in three months as this traders fell short of expectations.
+
+01:41 And that company said lower wealth management earnings could actually be a
+
+01:45 big deal this year. We're going to get back to both of those
+
+01:47 stories in a minute. But I do want to focus for one second
+
+01:49 here on bond yields. Katie just mentioned they're rising
+
+01:52 today and that is largely on speculation that bets on as many as half a dozen Fed
+
+01:56 rate cuts this year are likely a bridge gone too far.
+
+01:59 Activity most pronounced on the longer end of the Treasury curve with ten and
+
+02:03 30 year yields rising the most since early November, Fed Governor Christopher
+
+02:07 Waller chipping away at that rate cut optimism, saying that, yes, the FOMC
+
+02:12 could be in a position this year to loosen policy, but with economic
+
+02:15 activity and labor markets in good shape, no reason at all to move as
+
+02:19 quickly or cut as rapidly as in the past, he said.
+
+02:23 And while investors have tried to focus their attention solely on corporate
+
+02:26 earnings, Morgan Stanley strategist Mike Wilson says, Sorry, Charlie Or maybe
+
+02:31 sorry, Katy, but interest rates are still going to be the most important
+
+02:34 determinant of equity index direction. No need to apologize to me because you
+
+02:39 take a look at the stock are the chart I have behind me.
+
+02:42 You can see in the blue line that that relationship chip between stocks and
+
+02:46 bonds when that blue line, the two year Treasury yield falls Typically as of
+
+02:51 late, looking at the correlations, that has meant that the equity market sees a
+
+02:55 tick higher. The S&P 500 actually rallies when you
+
+02:58 see the two year yield drop. So you can have this twin stock and bond
+
+03:02 rally. You've seen that materialize over the
+
+03:05 past few trading sessions. And that, of course, gets back to what's
+
+03:09 priced in when it comes to the Fed cutting cycle.
+
+03:12 If you take a look at what's priced in right now, you have more than six
+
+03:16 quarter point rate cuts priced in to 2024.
+
+03:19 Of course, what actually makes that materialize is an open question, whether
+
+03:23 that's just normalization, getting back to neutral territory or whether that's
+
+03:27 going to take a recession remain remains to be seen.
+
+03:32 Yeah, absolutely. Here, let's get some fresh insights out
+
+03:35 of Remy. Although she's had a multi asset growth
+
+03:37 and income over at Schroder Investment Management.
+
+03:40 And I do want to start there Remi here with the moves that we're seeing in the
+
+03:43 yield space and maybe the idea here that the Fed, as they continue to push back
+
+03:47 on this idea of a multitude, a plethora, if you will, of rate cuts this year, is
+
+03:52 there a case to be made here that maybe the market should now start to pivot,
+
+03:56 just, I guess, temper expectations just a little bit?
+
+04:00 Oh, absolutely. I think the market is rushed into
+
+04:03 expecting quite aggressive rate cuts and the timing is a little early.
+
+04:08 So to some extent, the market is in a hurry.
+
+04:12 Where is the economy in the Fed? I'm not in as much of a hurry, so
+
+04:17 there's a little bit of a reality check that's happening.
+
+04:20 We expect that to continue. We certainly think March rate cuts are
+
+04:25 far too early and we think that that needs to be priced out.
+
+04:29 So that's going to cause a little bit of volatility over the next couple of
+
+04:33 weeks. When you look at some of the moves, at
+
+04:35 least for today, here is big moves pretty much across the entire curve.
+
+04:39 But the biggest moves are on the longer end of the curve, the part of the curve
+
+04:42 that maybe is a little less sensitive to all that sort of our month to month
+
+04:45 changes in the Fed funds rate. What is being priced in there?
+
+04:49 Is that still about the Fed or is that more about Treasury supply or economic
+
+04:53 conditions? So maybe it's all of that.
+
+04:57 Definitely Treasury supply, because we do still have a big deficit and more
+
+05:02 supply is needed. And as we start to think about the US
+
+05:06 elections, I know they are still not exactly the way, but we do have to start
+
+05:10 bearing that in mind. That also comes into play in terms of
+
+05:15 what that means in terms of more supply as we move through this year and next
+
+05:20 year. So a lot of investors are having to put
+
+05:22 that into play. And as we talk about inflation, yes,
+
+05:26 inflation is coming down, but actually we are being told that rates will remain
+
+05:31 rather restrictive. So although the Fed wants to cut rates,
+
+05:35 their intention is to maintain while the restrictive policy.
+
+05:39 So that needs to be reflected in longer dated bonds.
+
+05:43 And let's talk about the relationship between the bond market and other asset
+
+05:47 classes, because I'm going through your notes in this line.
+
+05:49 I thought it was pretty interesting. You take a look at falling real yields
+
+05:52 and in your view, the fact that they're falling, that's helped you establish an
+
+05:56 overweight position in gold. Talk us through why that makes sense,
+
+06:00 why falling real yields will benefit gold here.
+
+06:03 Yes, absolutely. I mean, gold is one of those unique
+
+06:06 assets that you're not There is no carry no income.
+
+06:10 So there is an opportunity cost. So if the opportunity cost, which is
+
+06:14 real yields starts to decline, it makes owning an asset that doesn't play any
+
+06:19 more attractive, it makes it shine a lot more.
+
+06:22 And that's what we think will happen this year.
+
+06:25 Certainly real yields need to come down again.
+
+06:27 They're not falling as quickly as everyone would expect, but in all the
+
+06:31 direction is what matters and the direction is lower real yields.
+
+06:35 So that will enable gold to shine this year and falling real yields.
+
+06:40 You think about the fact that maybe the market is overreacting just how quickly
+
+06:44 the Fed will cut rates, but where does that leave?
+
+06:46 You want emerging markets globally. That's a challenge because right now,
+
+06:52 when everyone refers to this term of us landing, it doesn't necessarily include
+
+06:58 emerging markets in the rest of the world.
+
+07:00 I think unfortunately, with emerging markets, certainly in Asia, we are
+
+07:04 expecting a slowdown, a more meaningful decline in growth.
+
+07:09 So that is a headwind in terms of taking advantage of those assets.
+
+07:13 And the outlook for the dollar also matters.
+
+07:15 So with real yields falling but falling very slowly, that makes it difficult for
+
+07:21 the dollar to decline. And that is a challenge for emerging
+
+07:25 market assets. So the currency really matters.
+
+07:29 Remy, always great to talk to you. Romeo Lupton helping us kick off to the
+
+07:32 close here, head of Multiasset Growth and Income over at Schroder Investment
+
+07:37 Management. Coming up here on the program, a deeper
+
+07:39 dive into the results that we got out of Goldman Sachs and Morgan Stanley.
+
+07:42 A breakdown of the numbers with David Conrad over at KBW.
+
+07:46 Plus, a second commercial ship was struck by a missile in the Red Sea in
+
+07:50 the space of 24 hours. More on the rising tensions disrupting
+
+07:53 world trade and artificial intelligence, A major topic of discussion out in Davos
+
+07:57 this week. We're going to have highlights from our
+
+07:59 interviews with Open Eyes. Sam Altman.
+
+08:01 Microsoft, Satya Nadella and Alphabet's Ruth Porat.
+
+08:04 All that and more coming up in just a bit right here on the close.
+
+08:08 This is Bloomberg.
+
+08:20 This week, Bloomberg is live at the World Economic Forum annual meeting in
+
+08:25 Davos, Switzerland. As markets anticipated dovish pivot by
+
+08:30 central banks, policymakers grapple with two wars on the global stage, and A.I.
+
+08:36 continues to dominate the tech headlines.
+
+08:38 Trust Bloomberg for the fastest coverage and exclusive analysis from the world's
+
+08:43 top leaders and experts. Continuing coverage this week only on
+
+08:47 Bloomberg Television and radio.
+
+08:57 Bank stocks on the move today. Goldman Sachs and Morgan Stanley's share
+
+09:01 is diverging despite a pair of better than expected results.
+
+09:03 Bloomberg's Catherine Doherty joins us now for more.
+
+09:06 Let's start with Goldman, because shares were down and then they were much higher
+
+09:10 and now they're pretty much back to flat.
+
+09:12 What's going on here? So the results were kind of a mixed bag.
+
+09:16 I'll start with trading. Equity traders at Goldman exceeded
+
+09:20 expectation while fixed income missed estimates.
+
+09:22 And that's very similar to what we saw at Bank of America last week.
+
+09:26 And Morgan Stanley also about in line with those results.
+
+09:30 But across the way in asset management and other of their wealth management
+
+09:35 operations, those results came in higher than expected.
+
+09:39 So I think that's why you're seeing a little bit of of swings.
+
+09:42 First, the market was reacting negatively to those results, then that
+
+09:46 came back a little bit. So now we're starting to parse through.
+
+09:49 We've gone through the analyst calls and really what was coming out from those
+
+09:55 sentiments, from the from Solomon, for example, on the call today was optimism.
+
+10:00 So if you talk about the end of the year and how things wrapped up, they're
+
+10:04 really seeing some green shoots and some positive momentum that would build in to
+
+10:09 what may signal for a better 2024. Well, where is he saying that?
+
+10:13 I was actually surprised at his optimism, particularly given some of the
+
+10:16 missteps that we saw in some of the other businesses and the idea that
+
+10:20 trading while that's great, that they got that big boost here, we know how
+
+10:23 fickle that can be on a quarter to quarter basis.
+
+10:25 So across Wall Street, not just at Goldman, but debt underwriting was a lot
+
+10:30 higher than expected and higher than equity underwriting.
+
+10:33 This is not surprising in an environment like we see today, where the expectation
+
+10:37 is for rates to cut back, but not until later next year.
+
+10:41 There's still some uncertainty. So deals are starting to come back, not
+
+10:46 in a very meaningful way. What we did hear today is that
+
+10:49 executives are expecting that will switch in really in later in 2024, but
+
+10:54 that they're already starting to see signs of that switch.
+
+10:57 And it's because of the what they say, optimism, the confidence that is
+
+11:01 building with investors as they're able to model in price in some of the
+
+11:06 expectations for for the new year. And that is really what's going to be
+
+11:11 the pivot point for for deals their executives seem to have called now being
+
+11:17 the bottom and that they expect things will get better from here.
+
+11:20 And it was interesting to hear you use the phrase mixed bag to describe
+
+11:23 Goldman's results because it feels like this entire earnings season for the big
+
+11:28 banks has been kind of a mixed bag with several of the biggies under our belt.
+
+11:32 I mean, where do we stand right now? Well, Citi was an outlier.
+
+11:37 They are undertaking some significant reworking and cost cutting measures.
+
+11:44 That includes 20,000 roles that they're going to look to cut in the coming
+
+11:49 weeks, months. So that's something that is a little bit
+
+11:52 of an outlier to the other banks. But again, with despite that kind of
+
+11:58 negative stance that Citi is taking, we heard Frazier talk about the opportunity
+
+12:04 in 2024 and ahead to have this be a positive pivot point.
+
+12:08 A lot of people are using those types of words as, all right, here we are today,
+
+12:12 but we really see momentum building and we're going to use this as kind of a
+
+12:16 catalyst for positive growth in the months and the quarters ahead.
+
+12:21 Catherine Doherty helps lead our coverage here.
+
+12:24 Two of the big Wall Street banks helping to round out the start of earnings
+
+12:27 season. Let's continue the conversation right
+
+12:29 now with David Conrad, his analyst of large cap U.S.
+
+12:32 bank equity research over at KBW, KBW, a Stifel Company.
+
+12:36 Great to see you back on the program here, David.
+
+12:39 We had three big ones today, of course, Morgan Stanley, Goldman Sachs.
+
+12:43 And you can throw PNC in there. Which one was the biggest surprise to
+
+12:46 you? I think they all kind of came in as
+
+12:51 expected. You know, PNC numbers were certainly a
+
+12:54 little bit more visible. I thought the outlook was was a tad
+
+12:57 weaker than expectations. But given earnings season, that was
+
+13:01 pretty much in line. I thought Goldman had a better quarter
+
+13:05 than than Morgan. Both are very noisy, But I think I think
+
+13:09 why the stock's reacting better is kind of further along the restructuring
+
+13:12 story, meaning that there is an acceleration decline in riskier private
+
+13:18 equity assets on the balance sheet. And then you could see, you know, after
+
+13:21 the first quarter, they're going to be the majority the way through the
+
+13:25 consumer restructuring. What exactly do you think Solomon is
+
+13:28 trying to do in terms of how he's trying to position?
+
+13:31 Goldman There's been a lot of speculation about some of the moves that
+
+13:33 he made over the last year and a half, Some of the executive departures, which
+
+13:37 may or may not have been voluntary. What is he trying to build here?
+
+13:41 Well, I think, you know, use the word pivot again.
+
+13:44 You know, I think the consumer initiative was clearly a mistake.
+
+13:47 You know, I do give him high marks for effectively admitting that.
+
+13:51 Right. And and shifting course, you know, after
+
+13:55 two years. And I think where they're going to go is
+
+13:57 a little bit back to the roots to some extent with capital markets invest back
+
+14:02 in trading. But but Asset manager is becoming a
+
+14:05 bigger and bigger part of the business, and that's where they're seeing the most
+
+14:08 momentum. And do you think that that will bear
+
+14:11 fruit on a reasonable time frame? I mean, Goldman Sachs, of course, the
+
+14:15 stock itself has been lagging some of its peers.
+
+14:18 When do we start to see the catch up? Well, I think we'll see a little bit in
+
+14:23 the back half of the year because the the platform solutions will be a lot
+
+14:27 more visible and and more profitable as it shrinks eventually.
+
+14:30 Right. They won't have this this big provision
+
+14:33 headwind that they've had in prior years.
+
+14:35 And then I think the other big the big thing is, again, reducing these assets
+
+14:40 on the balance sheet, not only reduce the risk, but that improves the profit
+
+14:44 margins. So they're guiding to a mid-twenties
+
+14:47 pre-tax profit margin for asset management.
+
+14:50 And we become when that becomes more visible, that's when you have to stop or
+
+14:53 really react. And David, like you said, Goldman
+
+14:56 probably had a better quarter than Morgan Stanley.
+
+14:58 But you take a look at the market reaction to Morgan Stanley.
+
+15:01 Shares are down 5.3%. That is on track to be its worst day
+
+15:06 since October. Was it that bad to justify that
+
+15:09 reaction? I don't think so.
+
+15:12 The quarter itself was actually better than expected.
+
+15:14 They actually hit all the key marks. Net new asset growth and wealth
+
+15:18 management was in line with expectations and net interest income actually beat
+
+15:22 expectations. So on the revenue side, it was it was a
+
+15:26 solid quarter. The issue was, is they pulled back on
+
+15:29 near-term guidance. Right.
+
+15:30 And so really wealth management is what separates Morgan Stanley from its peers.
+
+15:35 And that's also what investors are really focused on.
+
+15:39 And I think although they thought the 30% pretax margin was achievable longer
+
+15:43 term, they pulled back the interim in the interim period to more twenties
+
+15:47 pre-tax margin. And that's when you saw the stock kind
+
+15:50 of roll over those comments. I am curious.
+
+15:52 Let's go just real quickly down the ladder here.
+
+15:55 We only have about a minute and a half left here.
+
+15:57 I was curious about some of the results we got out of PNC, and I know they kind
+
+16:00 of get lumped in, but last year, about a year ago when we had the big sub
+
+16:05 collapse back in March, and I know they're kind of an outlier in that space
+
+16:09 here, but are we looking at, I guess, a healthier landscape right now for some
+
+16:13 of those midsize and small sized banks? You know, I think I think when we look
+
+16:17 at the banks, what's really challenging this quarter is in the fourth quarter,
+
+16:21 we had a big rally relief with with long term rates coming down 100 basis points.
+
+16:26 And so that alleviated some capital concerns and improved the balance sheet
+
+16:30 valuation. Now, as we look forward, there's a lot
+
+16:34 of uncertainty on the revenue side. And it really gets into your point.
+
+16:37 You were discussing earlier in the program, you know, it is the forward
+
+16:41 curve, right? Is the dot plots, right?
+
+16:44 You know, for us, if the dot plots are right and not the forward curve, that
+
+16:48 does set up a really good backdrop for for the super regional banks.
+
+16:52 All right, David, great to get some time with you on this busy day.
+
+16:55 That is David Conrad of KBW, Stifel Company in Romania.
+
+17:00 When you take a look at the shares. Not too dazzling a performance from the
+
+17:04 big banks. Yeah, not too dazzling.
+
+17:06 I mean, some of this was front run, we should point out.
+
+17:08 I am curious to address about the juxtaposition between what Solomon's
+
+17:11 went over at Goldman. And of course, now you have Morgan
+
+17:14 Stanley, which of course has an outgoing CEO and a new CEO.
+
+17:17 Ted Pickel will be coming in following a quarter of that, you know, was less than
+
+17:21 stellar here. It kind of makes you wonder where
+
+17:23 they're going to pivot. We know Morgan Stanley leaned a long
+
+17:25 time ago into that wealth management side.
+
+17:27 That necessarily hasn't been the balance for some of the other banks.
+
+17:29 Yeah, we'll see of Goldman's ambitions in the space and also on in a league of
+
+17:33 her own Jane Frazier from Citigroup. Yeah about restructuring and she's
+
+17:37 really pursuing that quite aggressive And it's interesting too when she first
+
+17:40 started that there were a lot of people kind of saying that, okay, she being a
+
+17:43 little too heavy handed with this. And now with the benefit of hindsight,
+
+17:46 it looks like she knew a lot more than the rest of us.
+
+17:48 Right? Yeah.
+
+17:48 It'll be interesting to see what more is coming, if anything.
+
+17:52 But next up on the close, we have tensions in the Red Sea escalating after
+
+17:57 a second commercial ship was struck by a missile.
+
+18:00 We'll have the latest details next. This is the close on Bloomberg.
+
+18:18 It can go higher. The US is blessed with an abundant
+
+18:22 resource base. Traditionally, when risks elevate in the
+
+18:26 Middle East, you see it reflected in markets.
+
+18:28 We've not really seen that yet. And so I'm a little surprised.
+
+18:36 All right. Mike Wirth there, the CEO of Chevron out
+
+18:38 in Davos, discussing the rising risk in the Red Sea and the impact on oil prices
+
+18:43 here. And we should point out that his
+
+18:44 comments came after we learned about a second commercial ship that was struck
+
+18:48 by a missile in the space of just about 24 hours.
+
+18:51 We've already heard from Shell, which has halted oil tanker transits through
+
+18:54 the waterway. And other shippers here are really
+
+18:56 having to make some hard decisions about whether they continue that Red Sea route
+
+18:59 or try to find longer and of course, more costlier routes.
+
+19:03 Julia Phan Zero is joining us right now to talk a little bit more about what's
+
+19:06 going on here. And let's talk about that.
+
+19:08 I think it's interesting, like who's making the decision to go through the
+
+19:11 Red Sea and who's making the decision to go around.
+
+19:13 Is there any rhyme or reason into how those decisions are being made?
+
+19:17 As the CEO of Chevron said. Obviously they're making big decisions
+
+19:20 that we don't know about, and that's a little bit above our pay grade.
+
+19:23 But I think what's interesting is the fact that we don't see that risk premium
+
+19:27 in the markets right now. And a lot of traders that I've been
+
+19:29 talking to have been surprised. But what they're saying is insurance
+
+19:33 costs are higher, but we're not seeing crude fundamentally being pulled off the
+
+19:37 market. It's just being rerouted and taking a
+
+19:39 little longer. So no risk premium in the actual price
+
+19:41 of the crude itself, though, higher insurance costs are going to ship.
+
+19:44 Very minimal risk premium 2 to $3 is what I've been hearing.
+
+19:48 And it's interesting. I mean, you heard from the Chevron CEO,
+
+19:51 Mike Wirth, that he was surprised that there hasn't been more of a risk premium
+
+19:55 built into crude. You really haven't seen it all too much.
+
+19:58 What's the dominant story there? Is that just still supply?
+
+20:01 Is it weak demand or some kind of combination?
+
+20:04 Traders are saying that they have been burned in the past by making the
+
+20:07 geopolitical trade and that they're not going to do it until they see those
+
+20:10 supplies pulled out of the market. And even this morning, we saw that
+
+20:14 Russian supplies have actually been making their way to the market.
+
+20:17 So fundamentally, it's still a little bit of a bearish story and traders are
+
+20:21 waiting to see, well, are these crude shipments going to be pulled out of the
+
+20:25 Red Sea? Because in that case, that's something
+
+20:26 completely different. There's a question, too, as if this had
+
+20:29 happened when the demand picture was maybe a little bit more solid.
+
+20:32 Will we be talking about a much higher premium?
+
+20:34 Absolutely. And I think some people are still
+
+20:36 surprised that we aren't seeing a much higher premium.
+
+20:38 We just keep seeing, as you mentioned, escalations, more attacks on merchant
+
+20:42 ships. So it is still surprising.
+
+20:45 I'm curious, how much credence is there to this idea that the Houthis and I know
+
+20:50 you may not know the answer, but the Houthis are specifically targeting ships
+
+20:53 that, at least in their view, somehow have links to Israel.
+
+20:56 Either they're going to Israel or they have cargoes that in the past have gone
+
+20:59 to Israel. There's been a lot of anecdotal evidence
+
+21:01 that some Chinese flagships and other ships that don't have the same
+
+21:04 relationship with Israel are somehow being left alone.
+
+21:07 I think that's definitely a possibility for sure, and I think that is why we are
+
+21:10 seeing such focus being turned to this, because it could easily turn into a
+
+21:14 proxy war, especially allies of Israel like the US and the UK.
+
+21:18 And just really quickly, let's talk about the weather, because I'm looking
+
+21:21 at your latest and you talk about oil swinging the price movements that we're
+
+21:25 seeing. Of course, it feels like everywhere in
+
+21:27 the US except maybe Florida is very, very cold right now.
+
+21:31 How is that affecting oil? What's surprising is that the
+
+21:34 fundamental weather picture is actually impacting oil more than these
+
+21:37 geopolitical factors, because North Dakota, one of the second biggest shale
+
+21:42 basins in the US, is actually out. And if that's 650,000 barrels a day and
+
+21:47 that's really impacting prices. But again, traders said, well, we're
+
+21:51 going to wait to see how this materializes and prices are going to
+
+21:53 close back down around 1% today. It's just because of the weather.
+
+21:57 It's too cold. Just because I thought they would be
+
+22:00 cold, too cold for even North Dakota to cold for even North Dakota.
+
+22:03 Sympathize with us. Okay.
+
+22:05 All right. Well, I'll have to make a trip back out
+
+22:07 there. And by the way, thanks for wearing brown
+
+22:08 today. Katie didn't get the memo.
+
+22:10 No, I appreciate. I appreciate the effort.
+
+22:12 Julia. Fans areas of obsolete, our energy and
+
+22:15 oil coverage. Here's a closer look at some of those
+
+22:17 prices. And I mean I mean, we chatted just about
+
+22:19 the weather but I mean we've seen this before where the weather really has shut
+
+22:22 down a lot of the output out of coming out of those basins.
+
+22:25 Yeah, Julia makes a great point that, of course, traders are still waiting here,
+
+22:28 but it definitely seems that the weather and the ripples that that's causing is
+
+22:32 having much more of an impact than geopolitics at this point.
+
+22:35 Yeah, absolutely. I will give you a a break down here.
+
+22:38 What's been going on in the energy and commodities space with our commodities
+
+22:41 closed after the break and a lot more coverage coming up as well here.
+
+22:44 Stick with us right here on the close on Bloomberg.
+
+22:47 I'm.
+
+23:02 This is the countdown to the close looking at equity market that remains on
+
+23:06 the back foot. A bit of a sell off right now in the
+
+23:08 Treasury space. But let's get a check on what's
+
+23:10 happening in commodities. Commodities closed right now here at the
+
+23:13 230 mark. Taking a look at WTI crude, which looks
+
+23:16 like it's going to settle just slightly lower than where it was at the end of
+
+23:20 last week here. We should point out that it's been stuck
+
+23:22 in a relatively narrow trading range. And this is even as Julia Fentress was
+
+23:25 pointing out, all the disruptions going on in the Red Sea.
+
+23:28 Natural gas futures, second line of your screen here in New York slumping here
+
+23:32 despite the extremely cold weather. And this is largely because most people
+
+23:36 don't expect that cold weather to persist.
+
+23:38 We are in, I guess, in store for warmer weather here in the northeast.
+
+23:42 And we should also point out the U.S. storage of natural gas right now running
+
+23:46 several percentage points above the five year average.
+
+23:49 Coffee futures getting a bit here, particularly the robust futures.
+
+23:52 And this is after a lot of the growers in Vietnam are holding out for higher
+
+23:55 prices and corn futures moving lower down for a fourth day.
+
+23:58 And this is also a supply story. And remember, the CFTC data that we got
+
+24:02 coming out of last week showing that short bets on corn still are at elevated
+
+24:07 levels. All right.
+
+24:09 Let's pivot from that and go back into the world of M&A.
+
+24:12 We learned about a couple of deals being announced, but now learning about a
+
+24:15 potential deal that could be blocked. A federal judge saying that he is not
+
+24:19 going to go along with JetBlue's $3.8 billion acquisition of Spirit.
+
+24:23 The judge finding the deal would stifle competition and raise fares for
+
+24:27 consumers. The big question now is what's next?
+
+24:30 Bloomberg opinion columnist Brooke Sutherland joining us to talk a little
+
+24:32 bit more about this. And, of course, just because a federal
+
+24:35 judge says no, it doesn't mean it's not going to happen.
+
+24:38 The big question I have, Brooke, is whether the new CEO taking over JetBlue
+
+24:42 has going to have the same appetite for this deal as her predecessor.
+
+24:47 I think that is the question. And to your point, Spirit and JetBlue
+
+24:50 could appeal this ruling. I think it is debatable whether JetBlue
+
+24:54 should want to do that. It is a very different environment for
+
+24:58 U.S. airlines than it was in the summer of
+
+25:01 2022, when JetBlue and Spirit first agreed to these terms that they're now
+
+25:08 fighting for. We went from having airlines scrambling
+
+25:11 to keep up with a resurgence in travel demand post-pandemic to a glut of
+
+25:15 capacity in the domestic market. And I think that the rationale for this
+
+25:20 deal looks a lot different in the current environment for airlines.
+
+25:23 And the price also looks very high relative to, you know, you look at
+
+25:28 spirit is forecast to have a loss this year and for the foreseeable future.
+
+25:33 Does the price tag, which was very high and boosted by the bidding war with
+
+25:38 Frontier, still make sense? I think that that is debatable.
+
+25:41 Well, Brooke, to that point, you take a look at JetBlue shares right now,
+
+25:44 currently up about 6%. Maybe we can call that a relief rally.
+
+25:48 But then you take a look at Spirit. Shares currently down 48%.
+
+25:52 They got as low as nearly 61% lower. The fact that this is falling apart,
+
+25:57 gotten blocked once again. Where does this leave spirit?
+
+26:02 I think that that is really the interesting question here, because there
+
+26:05 was a thought maybe at some point that Frontier could come back to this deal if
+
+26:11 it did indeed get blocked by regulators. I think that looks a lot more difficult
+
+26:15 now because you've now had regulators block not only the JetBlue Spirit
+
+26:18 transaction, but also JetBlue's marketing alliance with American
+
+26:22 Airlines. This is not an environment that is very
+
+26:25 hospitable to airline deals. And I think for Frontier to wade back
+
+26:29 into this and try to acquire spirit would be very risky.
+
+26:33 Now, I think you have to wonder what Spirit's future looks like as an
+
+26:37 independent company. They are losing money.
+
+26:40 And I think that it's fair to wonder how they're able to compete in this world
+
+26:44 that is not really advantaging low cost carriers in the way that it was.
+
+26:48 There's been sort of a structural reset on labor costs across the airline
+
+26:52 ecosystem. Now, that's a lot easier to absorb if
+
+26:54 you're a Delta United American, although even they may have challenges managing
+
+26:58 that rising costs if you do start to see a drop off in revenue.
+
+27:02 But that is a very tough environment for a low cost carrier.
+
+27:05 They're also dealing with a significant chunk of their fleet are those Airbus
+
+27:10 A320 jets that are powered by the RTX jet engines that have been recalled.
+
+27:14 So they're getting hit very hard by that.
+
+27:16 I mean, they have a wide range of issues and it is going to be no small task to
+
+27:21 deal with all of those. This also raises a question to Joe, also
+
+27:24 about the health of JetBlue itself. I mean, it's been dealing with
+
+27:27 increasing competition and some of the moves that it has made, I guess, to sort
+
+27:31 of either boost its profitability or lower its costs.
+
+27:34 One and the same, to be sure, has rankled a lot of consumers.
+
+27:37 And we've seen that show up in some of the trends in terms of where people are
+
+27:40 buying tickets and how that affects the bottom line.
+
+27:44 Sure. Yeah.
+
+27:45 No, JetBlue certainly isn't immune to the challenges that are affecting
+
+27:48 Spirit. I mean, I think they're dealing with the
+
+27:49 same sort of problems where it's not like travel demand has fallen off of a
+
+27:53 cliff in the US. The consumer is still holding in there
+
+27:56 relatively well in the US, but the airlines added too many seats and so
+
+28:01 we're just not seeing the growth for travel proportionate to the number of
+
+28:05 seats that the airlines have on offer. And so a number of airlines have had to
+
+28:09 discount tickets, including JetBlue and Spirit, to try to fill up those seats.
+
+28:14 But that creates a problem because you also have costs rising where it costs
+
+28:18 more money to operate those planes, to staff those planes.
+
+28:21 You've had a lot of volatility in fuel costs.
+
+28:23 And to then be getting hit on the revenue end as well is not a sustainable
+
+28:27 dynamic for these airlines. All right, Brooke, really appreciate
+
+28:31 your insight. That is Bloomberg Opinion's Brooke
+
+28:33 Sutherland. And what an interesting and potentially
+
+28:38 to this deal, according to reporting. I mean, JetBlue has been considering
+
+28:41 spirit in some form since about 2017. So quite a long time there.
+
+28:46 Yeah, But I mean, when you look at the drop in spirit today, I think you get a
+
+28:50 sense that investors realize this might be just not a fight that's worth
+
+28:53 fighting. And I think the idea that you have a
+
+28:56 transition at the top of JetBlue is going to complicate things, right?
+
+28:59 Yeah. If the person who had announced this
+
+29:00 deal was going to be around to sort of shepherd this through whatever the next
+
+29:03 legal fight, that may be great. But with Robin Hayes stepping down and
+
+29:06 passing the baton over to Garrity, it kind of makes you wonder whether it's
+
+29:09 something she even wants to deal with right now.
+
+29:11 Exactly. And to that point, I mean, Brooke, like
+
+29:14 Burke said, I mean, do you think about the environment under which this deal
+
+29:17 was conceived? The airline industry at the time is very
+
+29:21 different than the airline industry that we're contending with right now.
+
+29:24 JetBlue used to be like kind of like the fun airline to fly.
+
+29:27 It was relatively inexpensive is, you know, remember what they were newer
+
+29:30 planes. They had the the little seatback things
+
+29:32 back when I was still kind of a novel thing, at least in economy.
+
+29:35 And now I'm no the last few times I've flown.
+
+29:37 And it's just like it's just another airline.
+
+29:38 I like flying no matter what. It's not a great experience.
+
+29:41 And quicker than horseback. That's true.
+
+29:44 It's it is fast. So we'll continue to track that.
+
+29:48 That's that's the key advantage there. That's the moats, as we say, the moat.
+
+29:51 Yeah. Yeah.
+
+29:52 It goes places fast. Still ahead, though, Jefferies says
+
+29:55 playtime is over for the toy industry. We'll talk to the analyst behind the
+
+29:59 call. So why he says Hasbro is one of his top
+
+30:03 picks. I love how these are all adults playing.
+
+30:05 Oh, yeah. Big time Toys R for adults.
+
+30:07 This is the close on Bloomberg.
+
+30:32 And.
+
+30:45 All right. Let's get a view from the sell side with
+
+30:46 our top calls, the big movers on the back of analyst recommendations.
+
+30:49 And we start off with Boeing. Wells Fargo downgrading the stock to
+
+30:53 equal weight as the PLANEMAKERS deliveries may be hurt by the FAA probe
+
+30:57 into 737 max nine quality control issues.
+
+31:00 The analyst says given Boeing's recent track record and the greater incentive
+
+31:04 for the FAA to find problems, we think the odds of a clean audit are low.
+
+31:09 Shares flying lower here down 8% on the day.
+
+31:12 Next up, let's take a look at PayPal getting cut to neutral over at Mizuho
+
+31:15 amid, quote, intensifying competition in the space, especially from Apple Pay.
+
+31:20 The analysts also sees younger users gravitating to newer payment methods and
+
+31:24 includes things like Autofill as well as all those buy now pay later services.
+
+31:28 PayPal down four and a half percent. And finally, Western Digital picking up
+
+31:32 an upgrade today from Barclays. Analyst going to overweight saying 2024
+
+31:36 and 2025 should see better demand for flash and hard disk drives.
+
+31:40 The price target that's also being lifted, 65 bucks up from 45.
+
+31:44 The shares up 4% on the day. And those are some of our top calls.
+
+31:49 Let's stay in the sell side space here and pivot to the sector behind every
+
+31:53 child's dream. And according to our recent tease, maybe
+
+31:56 some adults as well, the toy industry. U.S.
+
+31:58 toy prices have fallen over the past year as toymakers struggle with
+
+32:01 post-pandemic, overstock and big shift in the way consumers spend and wait kids
+
+32:05 play. Some analysts say those challenges will
+
+32:07 continue this year before returning to growth.
+
+32:10 Let's get some insights out of Andrew Hurwitz over at Jefferies, who has been
+
+32:13 covering this sector over at Jefferies. And Andrew, I am curious, I mean,
+
+32:17 looking at the most recent earnings we got out of Hasbro and Mattel, you would
+
+32:20 think that apparently nobody's playing with toys anymore.
+
+32:23 Is this sort of a one off type of thing where we're just going through some sort
+
+32:26 of trough in the cycle, or is this more structural that we're just seeing a big
+
+32:30 change in what we do when it comes to the toy industry?
+
+32:35 I think we are in a trough. I think we are in a longer term cycle
+
+32:41 change. So let me kind of go through that
+
+32:42 quickly. On the trough side, you just had a
+
+32:45 you've had mini problems all come to a head at the same time.
+
+32:48 You've had supply chain supply chain issues.
+
+32:51 Consumer consumer behavior changes this year.
+
+32:53 Right. A lot more travel in 23, less less
+
+32:56 consumer goods. And then you had a really poor box
+
+33:00 office, right? Your your big your big box office action
+
+33:03 hero movies did poorly. Your animation movies did poorly.
+
+33:06 And you put all that together and people are just buying fewer toys this
+
+33:10 particular year and caused all sorts of inventory issues.
+
+33:13 And that's why for 2023 the industry's down 5%.
+
+33:16 Yeah. Now looking out further, yes, I think
+
+33:19 some of these problems persist primarily on that box office issue and primarily
+
+33:25 that that change in behavior. Yeah, during COVID, people were buying
+
+33:29 an excess of toys. It is going to take several years to
+
+33:32 kind of come back down to a new normal. And so we think 24 is going to be
+
+33:36 another down year. I am curious about the inventory side of
+
+33:39 this and how quickly the toy industry can pivot.
+
+33:42 Just to kind of draw an analogy, I mean, when we kind of look at the fashion
+
+33:45 industry and the way they've sort of found a way, I guess, to do more real
+
+33:49 time, if you will, a changes on the fly to keep up with styles and trends here.
+
+33:53 How much wiggle room, I guess, does the toy industry have to pivot and to
+
+33:57 address some of these inventory issues without falling behind the trend?
+
+34:01 Yeah, that's really difficult. The toy industry in the physical toy
+
+34:05 industry, right. Games and you know, digital games, video
+
+34:08 games, stuff very easy and physical toys very difficult.
+
+34:11 You know, you take your big retailers, they're already thinking about what they
+
+34:15 want to put on the shelf for holiday 20, 24, 11 months away.
+
+34:18 Right. And they've got to think about which
+
+34:20 movies are going to be big movies, which ones, you know, And that takes a lot of
+
+34:24 planning, takes a lot of supply chain management.
+
+34:27 And if you know, a marvel movie doesn't do quite as well or a Pixar movie
+
+34:31 doesn't do quite as well, or the opposite can happen, a mario movie could
+
+34:34 surprise. It's not that easy to pivot, not that
+
+34:37 easy to fill shelves or draw down inventory.
+
+34:39 So it is a very difficult industry to be in.
+
+34:42 Andrew, I want to get your thoughts on the concept of iPad kids.
+
+34:45 That's kind of the meme that's been running around social media for a while.
+
+34:49 You mentioned that people are buying fewer toys.
+
+34:52 Is that just normalization from the pandemic or in general, are parents
+
+34:56 buying fewer toys, letting their kids loose on iPads earlier and, you know,
+
+35:00 kids moving over to video games at an earlier age?
+
+35:04 Yeah, So we're in the latter camp. I think most people in the industry are
+
+35:09 in the former. I think most people say, hey, this is
+
+35:12 just Covid digestion. As we've started to look at some of the
+
+35:15 numbers, you know, toy spent physical toy spend relative to the GDP or toy
+
+35:21 spend relative to the consumer wallet. It is declining on the physical toy side
+
+35:26 and we could only believe that that is a longer term trend that is impacted by
+
+35:32 impacted by iPads, mobile devices, younger and younger games like Roblox
+
+35:37 and others that are out there that just are drawing a lot of eyeballs and time
+
+35:42 and time spent. The other one that's probably
+
+35:45 underlining it, too, is just toys. Toys is a very visceral buying
+
+35:49 experience. You want to go to the store, you want to
+
+35:52 see it, you want to feel you want to have the kids pick it out.
+
+35:54 It's almost like an experience. But if you're going to Wal-Mart, Target
+
+35:58 and, you know, no longer going to Toys R US like that, experience is just
+
+36:02 happening less. And, you know, so if you're run into a
+
+36:05 birthday party, you may just be getting a gift card to Roblox, right.
+
+36:09 Instead of going to that store and picking something out.
+
+36:12 Yeah, it's a fascinating conversation when you think about the companies in
+
+36:16 your coverage, who is best positioned to adjust to that?
+
+36:19 Potentially new reality is, you know, you just have kids playing a lot more
+
+36:22 video games. Yeah.
+
+36:24 So you have you have Mattel and Hasbro, the two biggest publicly traded
+
+36:27 companies, Mattel is gone after just to be a highly efficient toy manufacturer
+
+36:32 with really great brands. They've done a wonderful job at that.
+
+36:35 But our issue there is like you're only going to grow it, maybe the industry
+
+36:38 slightly faster. Hasbro, on the other hand, has said, you
+
+36:41 know what, we're going to try to optimize our our toys and instead we're
+
+36:45 going to lean into some of these these digital trends.
+
+36:48 And so luckily for them, they they own some of the biggest brands like Dungeons
+
+36:53 Dragons. They own G.I.
+
+36:54 Joe, they own Transformers, they own Magic, The Gathering.
+
+36:58 These are all nice, great IPS that work that can be digitized.
+
+37:02 They also have a great board game portfolio monopoly, for example, right?
+
+37:07 You know, a very old brand. You can easily digitize that.
+
+37:11 They made a mobile game last year called Monopoly.
+
+37:13 Go is the fastest mobile game to $1,000,000,000 since Pokémon Go You know
+
+37:19 like that's it that's the power of these brands If you can figure out a way to to
+
+37:23 tap into that digital side, it can be extremely lucrative.
+
+37:27 Yeah, well said. And you're going to have to leave it
+
+37:28 there. Andrew Urquhart's over at Jefferies.
+
+37:30 A closer look at the toy industry and some of the problems affecting it.
+
+37:35 And Katie, I thought it was interesting, like two interesting things was really
+
+37:38 the lack of sort of a big toy retailer. I think that plays into it.
+
+37:42 Yeah, because, I mean, I think about, you know, when your son when I was
+
+37:44 young, you go to the store, I mean, that's where you sort of pick out the
+
+37:47 toys you want. You don't really have that same exposure
+
+37:50 if you're just taking them to, you know, the Safeway or whatever, you know,
+
+37:53 grocery store you're going to. And then also advertising.
+
+37:55 Yeah. Like kids don't watch TV the way you
+
+37:57 know, and they would be bombarded with advertising during those things now.
+
+38:00 I mean, they don't really know when they're watching YouTube ads.
+
+38:02 They have the sound off, etc.. I don't know if Metaverse advertising
+
+38:06 has quite reached them yet, but it has not.
+
+38:08 No, Although I met somebody over the weekend who was wearing one of those
+
+38:11 metaverse glasses. That conversation with them, Did you
+
+38:14 meet them? I did.
+
+38:15 And Newbury coming up, Mac Neuberger Coming up next, deputy national security
+
+38:19 adviser for cyber and emerging technology.
+
+38:22 We're going to sit down to discuss where cybersecurity is today.
+
+38:24 That's coming up on our Wall Street Week Daily segment right here on the close on
+
+38:27 Bloomberg.
+
+38:42 Welcome back to the close. It's time now for our Wall Street Week
+
+38:45 daily segment to the West. And joining us right now, the host of
+
+38:48 Wall Street Week with a focus today on cybersecurity and A.I..
+
+38:51 Yeah, exactly. Businesses, you know, spend so much time
+
+38:53 and money on cybersecurity. So we went to the person at the White
+
+38:56 House who's responsible for it. And Neuberger, she's deputy national
+
+38:59 security adviser for cyber and emerging technology, which means A.I..
+
+39:02 This is what she had to say. So as we think about cyber security
+
+39:08 threats, they're really in two categories countries and criminals.
+
+39:12 And we see cyberspace linked in to the geopolitical environment very closely.
+
+39:17 So, for example, just 24 hours before Russia began its invasion of Ukraine,
+
+39:22 they disrupted a satellite communications company providing
+
+39:26 military communications for Ukraine. Similarly, we see the North Koreans use
+
+39:30 hacking of crypto infrastructure to get around very rigorous sanctions and fund
+
+39:35 their missile program. So that's the threat from particular
+
+39:38 countries. On the criminal side, ransomware threats
+
+39:41 against companies, hospitals, state and local infrastructure is up 45% year over
+
+39:47 year. That's driven by criminals around the
+
+39:49 world, the majority of which are actually in Russia.
+
+39:52 So the government's efforts are really the deeper partnership with the Biden
+
+39:56 administration is built with the private sector has been focused on the kind of
+
+40:00 approaches that would both counter the national and the criminal threat.
+
+40:05 So as you suggest, and it's both a private company issue and a government
+
+40:09 issue at the same time, how do those two things connect up?
+
+40:12 I mean, what are the respective responsibilities of the private company
+
+40:14 to defend themselves and also the government to help
+
+40:17 on the private sector side? The key approach really is companies
+
+40:21 locking their digital doors, backing up their systems, ensuring that
+
+40:25 vulnerabilities are patched quickly because we still see threats being
+
+40:30 successful was pretty basic approaches. I'll give an example.
+
+40:33 The Iranian government disrupted water systems in a number of states a couple
+
+40:37 of months ago and they leveraged default passwords on those Internet connected
+
+40:41 water systems. We can get ahead of that by patching
+
+40:45 systems quickly. That's one approach.
+
+40:47 The second thing we need is for companies to build tech to be able to be
+
+40:51 defensible against the threat. That's the reason the US government
+
+40:54 launched the Cyber Trustmark program, a light touch government program to work
+
+40:59 with companies producing tech to see if they meet the government standard for
+
+41:03 cybersecurity. They can bear a label.
+
+41:05 Think of it as energy star for cyber so that consumers, companies who are
+
+41:09 shopping for whether it's a home security device, whether it's a smart
+
+41:14 router for work, can buy tech that's built far more securely.
+
+41:18 And then on the government side, there's been a series of approaches.
+
+41:21 First, international partnerships we've built like the into the Counter
+
+41:25 Ransomware initiative that brings together 50 countries to focus on taking
+
+41:30 down the infrastructure policies that make it harder for criminals to disrupt
+
+41:35 hospitals and schools, as well as efforts like sanctioning mixers that
+
+41:40 move the cryptocurrency that finances ransomware or takedowns of
+
+41:45 infrastructure around the world that both countries and criminals use to
+
+41:49 conduct their cyber attacks. And you also have responsibility for
+
+41:52 artificial intelligence. Now, we call it generative artificial
+
+41:55 intelligence. That is large language models.
+
+41:58 Give us your sense from the White House right now about the potential for this
+
+42:02 for good and maybe even for ill. Artificial intelligence is a
+
+42:06 transformative technology and it has significant promise and peril across
+
+42:11 many areas of our economy. It's one of the reasons that the
+
+42:15 president's chief of staff has really been overseeing this effort in a very
+
+42:18 significant way. On the peril side, again, we see threats
+
+42:23 from both countries and criminals. Think about this technology, for
+
+42:26 example, in the hands of someone like President Putin, who has a history of
+
+42:31 focused efforts on kompromat or disinformation.
+
+42:34 The ability to generate deepfakes, very realistic looking videos, pictures is a
+
+42:39 threat we're concerned about and working closely with the private sector on.
+
+42:43 Similarly, I talked about the criminal aspect of cybersecurity
+
+42:48 in the hands of criminals who can accelerate developing malware,
+
+42:51 potentially accelerating the synthesis of biotechnologies.
+
+42:56 That's a real concern as well from a broader societal perspective.
+
+43:00 We also have concerns about AI augmenting bias in loan programs,
+
+43:06 potentially the risks to students learning.
+
+43:08 So those are all areas that we're focused on, both the perils of AI from a
+
+43:13 national security perspective and the perils of AI from a broader societal
+
+43:17 perspective. Even as we double down and think about
+
+43:20 how to glean the promises, which are also very transformative as a way of
+
+43:24 addressing some of those issues I've read about so called watermarking, which
+
+43:28 might give us a sense as we consume some of this information, where it comes
+
+43:31 from, to get a sense of its genesis. Where are we with Watermarking?
+
+43:35 Is that something that the private sector can do in itself?
+
+43:37 Does the government have to play a role? Watermarking has a lot of promise in
+
+43:41 countering disinformation. It's one of the reasons that when the
+
+43:45 president negotiated a set of voluntary commitments from leading AI companies,
+
+43:50 watermarking was one of them. Because what watermarking does is have
+
+43:54 an invisible and in some cases visible mark that is included when I generates
+
+44:01 content, videos, pictures and then platforms would display.
+
+44:06 For the consumer that this content was indeed generated by.
+
+44:10 So it's a way to tell people looking at a video or looking at a picture.
+
+44:14 This content was generated by artificial intelligence and potentially kill them
+
+44:18 to think about is this accurate? Is this real?
+
+44:22 What might be the purpose of showing this particular content?
+
+44:26 That was an Neuberger She's deputy National Security Council adviser for
+
+44:30 cyber and emerging technology. Tomorrow morning, we're going to be
+
+44:33 hearing from Ruchir Sharma of Rockefeller about his trends for the new
+
+44:36 year. And on Friday Wall Street week, we'll
+
+44:38 welcome Blair Effron from Centerview Partners that will be at on Friday at 6
+
+44:43 p.m. New York time.
+
+44:44 All right. And you can check David Westin every day
+
+44:46 around this time for our Wall Street Week daily segment right here on the
+
+44:49 clothes of the ground out into the final hour of trading here on the first
+
+44:52 trading day of the holiday shortened trading week.
+
+44:56 Stocks on the back foot pretty much right where they left off last week
+
+44:59 here. A big focus right now on some of the
+
+45:01 economic data afoot and a big focus on the earnings as well.
+
+45:04 This is Bloomberg and.
+
+45:10 It's just about 3 p.m. here in New York.
+
+45:12 This is the countdown to the close. Let's get a view of what's going on in
+
+45:15 the markets. I'm Romaine Bostick and I'm Katie
+
+45:17 Greifeld. We talk about a market, at least the
+
+45:19 equity market today that kind of is doing exactly what it did the last few
+
+45:22 sessions here. And that's really start to shift
+
+45:24 backwards, right? This idea that I don't know if it's just
+
+45:27 profit taking coming off the big gains from last year or whether there is some
+
+45:30 serious trepidation here about economic conditions or whether the Fed is really
+
+45:34 going to have folks back. Yeah, So pick your poison here.
+
+45:36 What I do know is that we were slowly inching towards that all time high.
+
+45:40 Now we're slowly inching away. Of course, we that all time high, that
+
+45:44 old time closing high, about 4800. Just a hair below one feels kind of far
+
+45:48 away right now. Absolutely.
+
+45:49 You take a look at the S&P 500 at 47, 60, only down about half a percent here
+
+45:54 on the day. But you're seeing continued strength in
+
+45:56 the dollar. Of course, the yield shifting, higher
+
+45:58 yield curve shifting higher, I should say here on the day.
+
+46:01 Keep an eye on bank stocks to hear the KBW bank index moving lower.
+
+46:04 The regional bank index also lower on the day as well.
+
+46:06 Financials not getting a lot of love. No, it doesn't help them.
+
+46:09 Morgan Stanley shares currently on track for their worst day since October.
+
+46:13 So definitely a disappointment there. And a mixed bag at Goldman.
+
+46:17 Obviously not enough to sort of change the narrative there.
+
+46:19 The big banks, Solomon's taking his victory lap.
+
+46:21 This is the year here of where they really sort of break out, according to
+
+46:25 him. So we'll see here.
+
+46:26 I'll flip it up here because there are still some concerns about economic
+
+46:29 conditions. We did get the New York Empire State
+
+46:31 Manufacturing Index here that was down once again.
+
+46:34 Remember, it's been in contraction for a while, but it's still raising a lot of
+
+46:37 concerns as to whether there is a broader picture here, a broader story
+
+46:41 here about this slump in manufacturing and how much it affects the economy with
+
+46:45 the big asterisks here, that, of course, manufacturing is a much smaller part of
+
+46:48 the economy than in the past. Of course.
+
+46:50 Of course. But an important signal nonetheless, of
+
+46:52 course, as we try to determine whether or not we're going to get that mythical
+
+46:56 soft landing that the Fed has all but promised at this point.
+
+47:00 But let's talk about something that's real, to make it not mythical.
+
+47:04 It's real, just like the Loch Ness monster.
+
+47:06 Let's talk about some single names here and having a great day, the Yeti and
+
+47:12 Sasquatch, the same thing. I don't know.
+
+47:15 I think they're the same sort of idea. You know, big, hairy guy runs around in
+
+47:18 the woods, and though the fun like that one is having a great day of about 7.7%,
+
+47:24 that's as the chip maker is seeing a lot of price target upgrades from the likes
+
+47:30 of Barclays and Susquehanna. You can see that is boosting shares by
+
+47:34 quite a bit. Moving along, I also want to talk about
+
+47:37 Apple, because what an interesting day for Apple.
+
+47:40 There's a whole host of news to pick from.
+
+47:42 I'm going to pick this headline, which was Cream caught rejecting Apple's bid
+
+47:45 for an epic app store review. But of course, there were some other
+
+47:48 negative headlines out about Apple. Of course, when it comes to the
+
+47:52 smartwatch, smartwatches sort of abandoning that blood oxygen feed.
+
+47:56 Yeah. Hey, I had a great conversation with my
+
+47:57 barber who wasn't aware of this case, and he went to buy an Apple Watch and
+
+48:01 was kind of disappointed they didn't have the latest versions.
+
+48:04 And I explained to him this is what he should be watching TV all day long.
+
+48:08 It's, you know, hip hop video, Bloomberg News, you know, he would know this.
+
+48:11 Let's quickly talk about Boeing and what we're seeing going on there.
+
+48:15 There is concern that what we're seeing with its max 737, that's going to slow
+
+48:21 deliveries. I would say that that is a concern.
+
+48:24 We've heard a lot of shares down about 8% at the moment.
+
+48:28 Yeah, I don't know. This is a big issue, but we'll will
+
+48:30 continue to follow that story as well as the other big market moves of the day
+
+48:34 with our cross-platform coverage of today's top stories.
+
+48:36 That starts right now. Come down to the close.
+
+48:43 Bloomberg's Comprehensive cross. At form coverage ahead of the U.S.
+
+48:47 market. Close starts right now.
+
+48:50 This is the countdown to the close. Romaine Bostick here with Katie
+
+48:55 Greifeld. And we're joined right now by her
+
+48:56 colleagues, Carol Massar and Tim Sandvik.
+
+48:59 Yes, I remember your name. You got it.
+
+49:01 You sat there a long weekend, a little bit of a senior moment.
+
+49:05 You know, it's like a rotating car I had to turn over.
+
+49:07 Oh, it's Katie today. Anyway, I'm happy to have Katie.
+
+49:11 Happy to have Tim. And happy to have Carol Massar here as
+
+49:14 we welcome our audience because all of our Bloomberg platforms, that was not in
+
+49:18 order, by the way, of profits. I figured.
+
+49:22 I figured. All right, so a really important story
+
+49:26 for us to get to. We know we're going to get one from you
+
+49:29 guys in just a moment. In the meantime, we wanted to highlight
+
+49:31 a recent survey from the New York Federal Reserve Bank.
+
+49:35 More Americans apparently are focused on paring down their debt.
+
+49:38 Specifically, they said if they got an unexpected 10% in income, what they
+
+49:42 would do. 38.4% said that they would use the extra
+
+49:45 money toward debt payments. That is the highest reading since August
+
+49:48 of 2016. We should also note that the share of
+
+49:51 respondents who would spend or donate this sudden windfall remain dropped to
+
+49:55 the lowest on record since the series began back in August of 2015.
+
+49:59 So what that tells us is that the consumer is facing increased pressure.
+
+50:03 U.S. households are facing increased
+
+50:05 pressure, and they're relying more on credit cards in recent months.
+
+50:07 Yeah, this is interesting. I mean, I guess the one answer
+
+50:10 encouraging that people would focus on addressing this before I guess it got
+
+50:13 too out of hand. Of course, the flip side of that is that
+
+50:16 millions of people are going to be spending less on some of those
+
+50:18 discretionary things that kind of keep this economy afloat.
+
+50:20 So you do wonder how that all sort of intertwines.
+
+50:23 I have some lighter fare for us because, as I said, it was a really important
+
+50:26 story. It is important.
+
+50:28 Let's talk about succession, because we are in awards season and succession.
+
+50:33 Just swept the Emmys last night. It won best drama for the third time in
+
+50:38 four years. HBO once again claiming the Crown as the
+
+50:41 premiere programmer in TV. I like the description of succession in
+
+50:46 this Bloomberg News Article Darkly comic show.
+
+50:50 I just I loved succession so much. I assume everyone on this simulcast has
+
+50:54 seen succession. Yeah, but no spoilers yet.
+
+50:56 Yeah. No sports.
+
+50:57 I can't wait for the next season. What's going to happen
+
+51:01 to me? I'm the eldest boy.
+
+51:02 Oh, this is great. I mean, some of the things, one, as you
+
+51:06 see in the background there in the white tux, that's the lead actor from the
+
+51:10 bear. They did well as well.
+
+51:11 Have you seen that show? Yeah.
+
+51:13 You know, I watched the first season. I'm like a few episodes into the second
+
+51:16 season. It's not really grabbing me.
+
+51:18 I don't understand how it's a comedy. I know that there are some jokes in
+
+51:21 there, but more than anything, it just stresses me out.
+
+51:23 I think what's interesting about this story is that and they write about it,
+
+51:26 is that you've got Hollywood. You got so many of the kind of
+
+51:29 traditional folks who have been creating content and media for a long time, and
+
+51:33 they are not necessarily the ones that are being recognized with awards.
+
+51:36 And you've got HBO. I think the stat was that they earn the
+
+51:38 most nominations of any network captured, the most awards overall.
+
+51:41 So HBO really a stand out. And there was concern years ago that HBO
+
+51:45 would sort of lose its magic with Richard Plepler leaving years ago and so
+
+51:49 many different owners of HBO and what the future of HBO is.
+
+51:52 So, yeah, turns out they can still, you know, produce very, very high quality
+
+51:55 content. I think it's interesting.
+
+51:56 Yeah. And all the media companies are already
+
+51:58 crowing about how many of these various Emmys that they won, Netflix and the
+
+52:02 like here. I thought it was interesting, though.
+
+52:04 There was a great story in The New York Times today, just like one of our
+
+52:06 competitors that really talked about kind of the end of peak TV, the idea
+
+52:09 that what is in 2023, you had something like a grand total of 599 scripted
+
+52:15 programs be released last year, and that basically we'll never see that number
+
+52:19 again, at least not anytime soon, that basically we've already seen the
+
+52:22 retrenchment. So I guess that'll make picking an Emmy
+
+52:24 winner a little easier over the next few years.
+
+52:26 Maybe. Hopefully quality, not quantity.
+
+52:28 Yeah, I was going to say also for the viewer, maybe that will make things a
+
+52:32 little bit easier. I can't decide what to watch.
+
+52:34 I mean, we sit down for dinner not to bring you into my living room and we
+
+52:37 just scroll and try to pick up Fargo, the new season of Fargo.
+
+52:41 What you did while you're eating dinner, please.
+
+52:43 I don't like to. You're like you.
+
+52:44 You actually, I talk to each other or you just.
+
+52:45 We talk about what? To watch T.V.
+
+52:47 They're like watching two hands. Yeah, it's a cozy scene.
+
+52:51 Before we go, did you know that they auctioned off HBO, auctioned off some of
+
+52:54 the stuff from succession, and yeah, I saw that.
+
+52:56 And they made a lot of money, like $600,000.
+
+52:59 Just auctioning the stuff off. You could have bought the sausages that
+
+53:02 were used and bought on the floor. Now, does that go straight into David's
+
+53:06 eyes loss account? It has to.
+
+53:08 HBO would have to the auction house, I believe.
+
+53:11 Okay. Maybe not split half and half, but okay.
+
+53:14 Yeah. I'm still I keep my phone by my side
+
+53:16 because I'm waiting for them to call and let us know that the simulcasts here on
+
+53:20 Bloomberg Television has now won that Daytime Emmy.
+
+53:22 But maybe it's coming. It's coming tonight.
+
+53:26 There's not a category that could fit us.
+
+53:27 Not yet. We're working on it, that we're genre
+
+53:30 that's going to make a great PR person one day.
+
+53:33 Can we create a category? Do the Globes create maybe category this
+
+53:36 maybe sooner than later if we don't end this like right now.
+
+53:39 All right, we're going to end. Otherwise, producers are going to yell
+
+53:41 at us. All right.
+
+53:41 That's a wrap, guys. We're going to see you in less than an
+
+53:43 hour's time. We're going to wrap up.
+
+53:44 The trading day on this Tuesday. Radio, TV, YouTube, Bloomberg Originals.
+
+53:48 We'll see you for Beyond the Bell. And we continue our coverage right here
+
+53:54 on Bloomberg Television, counting it down to the close.
+
+53:57 Just about 50 minutes ago. Until we get to those bell and bells.
+
+54:00 And there was an interesting call out today by the folks over at City
+
+54:03 Strategies led by Chris Montague, are expecting U.S.
+
+54:06 tech stocks to continue posting positive surprises out of that fourth quarter
+
+54:11 earnings season. They're also noting that energy and
+
+54:13 utilities will likely be the big disappointments here.
+
+54:16 So as everyone tries to reposition for what the big winners are going to be in
+
+54:19 2024, let's see what our next guest thinks about those prospects.
+
+54:23 Low had been joining us, head of the Solutions Group over at INVESCO.
+
+54:27 Mo, great to see you here. First time over the new year and
+
+54:30 everybody really kind of wants to know, is this going to be kind of a repeat of
+
+54:33 what we saw at the start of last year, what it really was about, a lot of those
+
+54:36 big cap tech stocks? Or can we maybe look to something a
+
+54:39 little bit broader? Yeah, well, thanks for having me remain.
+
+54:42 And Katie, I think you you are absolutely right.
+
+54:46 You know there is a little bit of is kind of the the past the future and in
+
+54:51 tech stocks have been obviously the big winners in the equity market although
+
+54:56 you know towards the end of the year, we did see some broader participation with
+
+54:59 value in smaller and mid-cap stocks getting a bid.
+
+55:03 So, you know, overall, I think we continue to be favorable, the equity
+
+55:06 market and mostly because historically when you think about peak inflation and
+
+55:10 peak rates, that tends to be favorable to equities in the subsequent quarters
+
+55:15 and years. That said, we did have a pretty nice run
+
+55:18 up in November and December. And January tends to be a time where
+
+55:22 both institutional investors and even financial advisors and retail investors
+
+55:26 are rethinking their positioning. So some volatility and some choppiness
+
+55:30 in markets is to be expected. Longer term, though, you know, we still
+
+55:35 are in the soft landing category. We think the Fed has done a nice job
+
+55:39 with the dual mandate. Inflation is coming down meaningfully
+
+55:43 and the initial jobless claims and the unemployment numbers still look pretty
+
+55:46 healthy when it comes to the idea of people sort of maybe finding a little
+
+55:52 bit, I guess, greener pastures outside of those big cap tech stocks.
+
+55:56 That really begs the question here of a lot of those cyclical names, of a lot of
+
+55:59 those small cap names and mid-cap names, for that matter, that actually did post
+
+56:03 a relatively sizable rally towards the latter end of last year.
+
+56:07 But that sort of trade, it seems like it's just kind of waned.
+
+56:10 And I'm curious as to what gets people back.
+
+56:12 Is it strictly about confidence in the economic situation and more importantly,
+
+56:16 confidence that the Fed won't be in the way?
+
+56:19 I think it's rates and it's the economy. You know, the rates situation has
+
+56:24 changed a little bit over the last couple of days.
+
+56:26 I think the market has priced 5 to 6 cuts this year.
+
+56:30 We did get some feedback around that and I think there has been some repricing
+
+56:34 overall. We've been kind of guiding towards maybe
+
+56:37 a little bit more conservatism than what the market is expecting.
+
+56:40 Now, if rates come down meaningfully, that does tend to help with longer
+
+56:45 duration parts of the equity markets. So tech would benefit from that.
+
+56:49 You know, small and mid-cap stocks generally tend to do better in a rising
+
+56:53 rate environment when the economy is really strong and better than expected.
+
+56:57 And what we're seeing in the last couple of quarters and really just the US
+
+57:00 market, the US economic environment has kind of changed a bit remain.
+
+57:05 We are seeing a bit of a slowdown in growth, which is the first time we've
+
+57:09 seen that in a while. The US had led growth globally for some
+
+57:12 time and we are seeing a little bit of a soft patch here.
+
+57:15 So when we think about global growth, it's much more synchronized now than it
+
+57:19 has been in the past. The US is starting to join kind of
+
+57:23 developed markets outside the US and China in this kind of below trend growth
+
+57:28 environment and that should probably proceed for some time.
+
+57:32 I just want to talk about Smallcaps a little bit more because as you
+
+57:35 mentioned, rising rates, typically you would expect that would be good news for
+
+57:38 small caps. The economy is strong.
+
+57:40 That's good for those little guys. Is that still the the the narrative
+
+57:46 behind that group, though? Because you think about what we saw
+
+57:49 while the Fed was actually tightening was actually raising rates and it added
+
+57:52 up to some big underperformance from the small caps.
+
+57:56 Is that still the guide to go on or do you think that falling rates will
+
+58:01 actually be a boon this time around? I still think falling rates would
+
+58:06 probably be a bit more favorable for larger cap mega-cap and
+
+58:12 tech names. I do think the difference here is the
+
+58:15 economy, right? So economic growth slowing down in the
+
+58:19 US. You know, that could be for the next
+
+58:22 couple of quarters a bit more pressure on equities, but over a longer period of
+
+58:27 time or a medium term outlook. What I like to do is kind of think back
+
+58:31 to the early eighties when we saw an inflation situation that resembles what
+
+58:35 we're going through today and we saw a pretty significant outperformance in
+
+58:40 equities post peak inflation and post peak rates.
+
+58:43 And I think we could probably agree that we're done tightening.
+
+58:46 The question is how much are we going to cut and what's the speed of those cuts?
+
+58:53 I think on our side we're probably a bit more cautious around that and thinking
+
+58:58 that it's going to be a bit slower and more data dependent than the market
+
+59:01 expects. All right.
+
+59:02 We've got to leave it there. Hope to catch up with you again soon.
+
+59:05 That is. Mo has been he is head of the Solutions
+
+59:07 group over at INVESCO. Now, coming up, Trump wins big in Iowa,
+
+59:12 tightening his grip on the Republican presidential nomination.
+
+59:15 We'll break down those results next. And we're going to go out to Davos here,
+
+59:19 where artificial intelligence has been a major topic of discussion.
+
+59:22 Highlights from our interviews with Sam Altman of Openai Satya Nadella and
+
+59:26 Microsoft, and Ruth Porat over at Alphabet and Restaurant Brands beefs up
+
+59:30 its push for a Burger King turnaround. We'll get into the meat and potatoes of
+
+59:34 that deal. All that and more coming up.
+
+59:37 This is the closed on Bloomberg and.
+
+59:47 And.
+
+59:57 This week, Bloomberg is live at the World Economic Forum annual meeting in
+
+01:00:02 Davos, Switzerland. As markets anticipated dovish pivot by
+
+01:00:06 central banks, policymakers grapple with two wars on the global stage, and A.I.
+
+01:00:12 continues to dominate the tech headlines.
+
+01:00:15 Trust Bloomberg for the fastest coverage and exclusive analysis from the world's
+
+01:00:19 top leaders and experts. Continuing coverage this week only on
+
+01:00:23 Bloomberg Television and radio.
+
+01:00:33 Just about 43 minutes until we get to the closing bell here on the first
+
+01:00:36 trading day of the holiday shortened trading week.
+
+01:00:38 Chip stocks are really your big advances here on the day, AMD having a phenomenal
+
+01:00:43 day, up about 8% on the back of some price target upgrades.
+
+01:00:46 But, well, the rest of the space not doing so well.
+
+01:00:49 You see that in energy stocks. You see that in manufacturing, you see
+
+01:00:51 that in tech and you see it in a big way right now in the banking sector.
+
+01:00:55 Now that we've gotten most of the big banks out of the way, we move to the
+
+01:00:58 regional banks, but don't expect much of a different tone than what we've already
+
+01:01:02 heard. The net effect of it all is a market
+
+01:01:04 across the board, which is moving lower 5/10 of a percent on the S&P 500, the
+
+01:01:08 Russell 2000 and some of the cyclical names moving way lower than that.
+
+01:01:12 Remember, let's largely on the fact on the fact of a lot of the regional banks
+
+01:01:17 moving lower here on the day. As for some of the bright spots out
+
+01:01:20 there, keep an eye on Tilray, a 10% gain on that stock.
+
+01:01:23 It's only a two bucks a share. But remember, that stock has rallied
+
+01:01:26 about 50% in pretty short order here. And that's not necessarily on the back
+
+01:01:30 of marijuana sales. A lot of this has to do more with some
+
+01:01:33 other alcoholic drinks which have actually gained some traction.
+
+01:01:36 Keep an eye on Carole's restaurant group, up 13% on the back of the news of
+
+01:01:39 restaurant brands plans to buy the company.
+
+01:01:41 Here you see the Philadelphia Semiconductor index getting a strong bid
+
+01:01:44 here on the day, Katie. And those is a nice little wrap up of
+
+01:01:47 where we stand right now heading into the close Kitty.
+
+01:01:50 Well, let's before we get to the close, go back to Davos, the World Economic
+
+01:01:54 Forum, where the future of artificial intelligence has been a central theme
+
+01:01:58 with the US general election looming in November.
+
+01:02:00 Openai CEO Sam Altman discuss what's at stake for American politics and AI's
+
+01:02:05 impact on the labor force. I think there's a lot at stake at this
+
+01:02:10 election. I think elections are, you know, huge
+
+01:02:12 deals. I believe that America is going to be
+
+01:02:16 fine no matter what happens in this election.
+
+01:02:18 I believe that is going to be fine no matter what happens in this election.
+
+01:02:22 And we will have to work very hard to make it so.
+
+01:02:25 But this is not you know, no one wants to
+
+01:02:29 sit up here and like, hear me rant about politics.
+
+01:02:31 I'm going to stop this. But I think there has been a real
+
+01:02:37 failure to sort of learn lessons about what what's kind of like working for the
+
+01:02:43 citizens of America and what's not. There are political figures in the US
+
+01:02:46 and around the world like Donald Trump, who have successfully tapped into a
+
+01:02:51 feeling of dislocation, anger of the working class, the feeling of, you know,
+
+01:02:57 exacerbating inequality or technology, leaving people behind.
+
+01:03:02 Is there the danger that, you know, I furthers those trends?
+
+01:03:06 Yes, for sure. I think that's something to think about.
+
+01:03:08 But one of the things that surprised us very pleasantly on the upside, because,
+
+01:03:14 you know, when you start building a technology, start doing research, you
+
+01:03:17 kind of say, well, we'll follow where the science leads us.
+
+01:03:19 And when you put a product, you'll say this is going to co-evolved with society
+
+01:03:21 and we'll follow where users lead us. But it's not you.
+
+01:03:25 You get to steer it, but only somewhat. There's some which is just like, this is
+
+01:03:30 what the technology can do. This is how people want to use it and
+
+01:03:34 this is what it's capable of. And this has been much more of a tool
+
+01:03:37 than I think we expected. It is not yet done in the future.
+
+01:03:41 It'll it'll get better, but it's not yet like replacing jobs in the way to the
+
+01:03:46 degree that people thought it was going to.
+
+01:03:47 It is this incredible tool for productivity.
+
+01:03:51 And you can see people magnify what they can do by a factor of two or five or in
+
+01:03:56 some way it does to talk, to make sense, talk about a number because they just
+
+01:03:59 couldn't do the things at all before. And that is, I think, quite exciting
+
+01:04:05 this this new vision of the future that we didn't really see when we started.
+
+01:04:09 We kind of didn't know how it's going to go and very thankful the technology did
+
+01:04:12 go in this direction. But where this is a tool that magnifies
+
+01:04:15 what humans do, lets people do their jobs better, lets the A.I.
+
+01:04:19 do parts of jobs. And of course, jobs will change.
+
+01:04:21 And of course some jobs will totally go away.
+
+01:04:24 But the human drives are so strong in this sort of way that society works is
+
+01:04:27 so strong that I think and I can't believe I'm saying this because what
+
+01:04:32 sounded like an ungrammatical sentence to me at some point, but I think AGI
+
+01:04:36 will get developed in the reasonably close ish future and it'll change the
+
+01:04:40 world much less than we all think. It'll change jobs much less than we all
+
+01:04:43 think. And again, that sounds I may be wrong
+
+01:04:46 again now, but that wouldn't have been compiled for me as a sentence at some
+
+01:04:50 point, given my conception then, of how easy I was going to go.
+
+01:04:52 As you've watched the technology develop, have you both changed your
+
+01:04:55 views on how significant the job dislocation and disruption will be as
+
+01:05:00 AGI comes into focus? You know, you hear a coder say, okay,
+
+01:05:04 I'm like two times more productive, three times more productive, whatever
+
+01:05:06 than they used to be. And I can never code again without this
+
+01:05:08 tool. You must hear that from the younger
+
+01:05:10 ones. But
+
+01:05:13 it turns out, and I think this will be true for a lot of industries, the world
+
+01:05:16 just needs a lot more code than we have people to write right now.
+
+01:05:19 And so it's not like we run out of demand.
+
+01:05:21 It's that people can just do more. Expectations go up, but ability goes up
+
+01:05:25 too. And that's Sam Altman, of course, the
+
+01:05:29 man of the moment, CEO over at Open Air. He was out at Davos speaking at our
+
+01:05:34 Bloomberg House where we have some of the biggest and best people sit down and
+
+01:05:37 really kind of open up to talk a lot. And I thought it was interesting some of
+
+01:05:41 his comments about the election and he seemed not too concerned about it,
+
+01:05:44 though we should point out everyone else is concerned about it also.
+
+01:05:46 That was interesting, too, to juxtapose that conversation with one that we heard
+
+01:05:50 from Satya Nadella. Also on that on those same chairs that
+
+01:05:52 we were looking at here, where he kind of talked about the turmoil at open air
+
+01:05:56 last year and the idea that Microsoft doesn't necessarily want control over
+
+01:05:59 it. I just want stability, just as stability
+
+01:06:03 doesn't want to actually man the ship there.
+
+01:06:04 I thought that was really interesting. I mean, that interview produced a number
+
+01:06:08 of sound bites that we could talk about. But like you said, man of the moment,
+
+01:06:11 you think about the turmoil that we saw at Openai, but we heard from the man
+
+01:06:16 himself. Yeah, absolutely.
+
+01:06:17 Here, we'll see whether he does anything when it comes to some of the concerns
+
+01:06:21 here heading into what is going to be a pivotal year for elections worldwide.
+
+01:06:26 Stick with us. A lot more coming up right here on the
+
+01:06:27 close on the birth.
+
+01:06:45 A turnaround plan at Restaurant Brands. The owner of Burger King plans to buy
+
+01:06:49 its largest US franchisee for about $1 billion in cash.
+
+01:06:54 That's all in a bid to fast track an overhaul of hundreds of locations and
+
+01:06:58 win back customers. We're talking about Carole's restaurant
+
+01:07:02 group here. It expects Restaurant Brands
+
+01:07:04 International expects to complete its purchase of Carol's in the second
+
+01:07:08 quarter and spend a further $500 million to remodel About 600 of Carol's more
+
+01:07:14 than 1000 locations. Yeah, this is an interesting move by
+
+01:07:16 restaurant brands. I guess that scale makes sense.
+
+01:07:18 It was kind of going down the rabbit hole, Carol, because first I was like, I
+
+01:07:21 had never heard of them. It was actually a stand alone restaurant
+
+01:07:24 called Carol's for years in New York State.
+
+01:07:26 Before our time. This is in the sixties and seventies,
+
+01:07:28 right? At some point in the seventies, they
+
+01:07:30 decided it was better to be under the franchise tag of Burger King Popeyes.
+
+01:07:34 And it made that pivot. And now it's got like a thousand Burger
+
+01:07:36 King of Popeyes scattered around the nation.
+
+01:07:38 And now restaurant Brands wants a bunch of those back.
+
+01:07:41 It's really interesting to see what that looks like.
+
+01:07:44 Apparently, this could take several years.
+
+01:07:47 When you think about, again, what they actually plan to do, we'll continue to
+
+01:07:51 track that story. Are you a Burger King person, a huge
+
+01:07:53 Burger King fan? This is the closing on Bloomberg.
+
+01:07:56 Oh, you're the one.
+
+01:08:18 This is the countdown to the close. Just about 30 minutes left to go here on
+
+01:08:22 the first trading day of the holiday shortened trading weekend.
+
+01:08:25 Greifeld And apparently this weekend starting off any better than last
+
+01:08:28 weekend? No, it's a little soggy to take a look
+
+01:08:30 at the S&P 500. Not too much good news if you look at
+
+01:08:33 the sector level either. You take a look at what the screen is
+
+01:08:37 showing right now. You have ten of 11 sectors in the red.
+
+01:08:40 Information technology, your lone gainer, of course, only up about a 10th
+
+01:08:45 of a percent or so. And really it gets worse from there.
+
+01:08:49 You can go down the list right now. You can see at the bottom of the
+
+01:08:52 utilities, industrials, materials and then energy once again resuming its
+
+01:08:57 position at the back of the pack, currently off about 2.2% Ramon.
+
+01:09:02 Well, let's actually start with the technology, because there is a lot of
+
+01:09:04 strength that we're seeing in the semiconductor space here on this Tuesday
+
+01:09:08 afternoon. Advanced Micro Devices having a really
+
+01:09:10 great day, up about 7% right now. This on the back of some price target
+
+01:09:14 upgrades, including over at Barclays and a couple of other places here.
+
+01:09:18 The idea here that there is sort of a cyclical trough that they've been taking
+
+01:09:21 a look at. Combine that with sort of the potential
+
+01:09:23 tailwind from A.I. and they're saying AMD is going to be a
+
+01:09:26 big beneficiary from that. Meanwhile, you take it applied digital
+
+01:09:29 here. Remember, this is a company that really
+
+01:09:31 kind of helps to build out data centers here.
+
+01:09:33 They actually lowered their forecast. Remember, the data center business was
+
+01:09:36 really what propped up a big part of the chip business before I took over.
+
+01:09:40 But apparently the bloom is coming off that rose, a massive downward day here
+
+01:09:43 for applied down 24% and then ANSYS taken a leg lower here.
+
+01:09:48 This is an interesting story. Remember we heard from synopsis a little
+
+01:09:51 bit earlier here. The idea that they're willing to buy
+
+01:09:53 this company for $34 billion. Synopsis Of course, it basically helps
+
+01:09:57 to help folks design chips. They create the software to design chips
+
+01:10:01 and advances that basically makes other software that allows you to test that
+
+01:10:05 end design here. So a lot of synergies there.
+
+01:10:07 But some big questions here about how this is going to be paid for and just
+
+01:10:10 how much synergy there can be. And then meanwhile, we continue to keep
+
+01:10:13 an eye on what's been going on in the crypto space.
+
+01:10:16 One of the more higher volume of the new ETFs that I share is Bitcoin drugs.
+
+01:10:19 I bet taking a little bit leg lower here for a second day of trading down by a
+
+01:10:24 percent. Katie.
+
+01:10:25 And let's stay in the crypto space because after years of speculation,
+
+01:10:28 Cantor Fitzgerald CEO Howard Ludwig told Bloomberg TV that his firm has reviewed
+
+01:10:33 the balance sheet for Stablecoin issuer tether.
+
+01:10:36 He spoke earlier at the World Economic Forum over in Davos.
+
+01:10:41 They have the money they say they have. In the last attestation, they said they
+
+01:10:47 had 86 billion of assets and 83 billion of liabilities.
+
+01:10:51 And I've seen a whole lot in the pharmacy and a whole lot.
+
+01:10:55 And they have the money. And let's broaden things out now with
+
+01:10:59 Marshall Beard. He is the CEO of Gemini.
+
+01:11:02 Joining us on set. Bad weather, couldn't keep him away.
+
+01:11:05 And Marshall, I want to ask you about tether, but I do want to talk about the
+
+01:11:09 spot Bitcoin ETF custodian business because Gemini, you're acting as the
+
+01:11:13 custodian on their next product. Do you have any more ETF custody deals
+
+01:11:18 in the works right now? Yes.
+
+01:11:20 So we are in discussions with lots of ETF issuers right now publicly with
+
+01:11:26 VANECK. And there's another on file called seven
+
+01:11:28 RCC Fund, but that is not launched yet. Okay.
+
+01:11:32 And we talk about how crowded the spot Bitcoin field is just from the product
+
+01:11:37 standpoint, from the custodian standpoint as well.
+
+01:11:40 It feels pretty crowded at this point. We were actually speaking to the Kraken
+
+01:11:44 CEO a little bit earlier today that said that Kraken is also but also going to
+
+01:11:48 offer a new crypto custody service. How do you compete when it comes to
+
+01:11:53 being a custodian? Is it just fees alone or how do you
+
+01:11:56 actually differentiate yourself? It's not just fees.
+
+01:11:59 I mean, that's obviously a part, but there's a lot of different things.
+
+01:12:01 It's relationships, it's brand, it's longevity.
+
+01:12:04 I like to see newer players in the space.
+
+01:12:07 There's only so many that can actually support this ecosystem in the U.S.
+
+01:12:11 ETF issuance landscape. You know, you compete on a myriad of
+
+01:12:15 different ways. Right now, there's only a few.
+
+01:12:17 Crypto is stored differently than traditional equities, right?
+
+01:12:20 There's a lot of cryptography behind it. And so, you know, you need a lot of
+
+01:12:24 expertise there as well. Do you worry at all that some of that
+
+01:12:27 expertise can actually be found in some of the more traditional finance
+
+01:12:30 companies? A few that have made it clear they want
+
+01:12:32 to be a big they want to be a big player in the custody business as well?
+
+01:12:35 Well, we haven't seen it yet. We've only seen it with Fidelity.
+
+01:12:38 And, you know, they've been working on that for quite some time.
+
+01:12:40 And I believe that they only custody for bitcoin, no other crypto assets.
+
+01:12:44 So, you know, it's probably going to take some time if that's the road.
+
+01:12:47 I think we saw NASDAQ announce that they wanted to do custody, but now they're
+
+01:12:50 not doing it anymore. I do want to talk a little bit here
+
+01:12:53 about the reception of the Bitcoin ETFs. And I know it's only been, you know,
+
+01:12:56 three, three days since we have ourselves since we had the announcement,
+
+01:12:59 three business days. It gets to the question here as to or as
+
+01:13:03 we move deeper into the year here, how much new adoption are we going to see,
+
+01:13:06 meaning not just the folks who are already in the crypto universe, but
+
+01:13:09 maybe those folks who are on the sidelines wondering, how the heck do you
+
+01:13:12 actually buy this thing? And now they have an avenue in theory to
+
+01:13:16 buy it in a much more efficient manner. Yeah.
+
+01:13:18 So we're only on the third trading day. I don't have the specific numbers, but I
+
+01:13:22 think we've seen about a billion in aggregate net inflows.
+
+01:13:25 That's people coming out of Gbtc and into some of these new funds.
+
+01:13:28 So about a billion, which I think in three days is incredible.
+
+01:13:31 Right. And so, you know, adoption is going to
+
+01:13:34 take a little bit. Education is important, you know,
+
+01:13:37 getting brokers up to speed, getting wealth managers up to speed, getting
+
+01:13:40 these distribution channels. You know, this is going to play out over
+
+01:13:43 months and months and months. So it's going to take some time.
+
+01:13:45 But there's massive distribution channels now.
+
+01:13:48 Well, let's talk about some of the platforms who are saying no.
+
+01:13:51 And by some of the platforms, I mean, Vanguard obviously taking a strong
+
+01:13:55 stance there, saying that they don't plan to offer crypto ETFs, ETPs or
+
+01:14:00 futures on their platform. What did you make of that?
+
+01:14:03 And do you think that we could see other platforms follow Vanguard's lead?
+
+01:14:08 I don't really have a take. I don't know their investment thesis.
+
+01:14:11 Obviously they're one of the largest asset managers in the world.
+
+01:14:15 You know, people are going to have different ideas behind this.
+
+01:14:18 And so I think it is a little old school thinking.
+
+01:14:21 I think, you know, this is a new technology.
+
+01:14:23 You see people come around over time. They probably will come around over
+
+01:14:27 time. Yeah, Well, we'll see the day.
+
+01:14:31 It's it has been interesting to watch their evolution when it comes to
+
+01:14:33 commodity ETFs, for example. But let's talk a little bit about her
+
+01:14:37 pension stuff. She you know, she she does she practices
+
+01:14:41 her questions on me. First.
+
+01:14:42 I look at her grace and I yell at myself, but I want to talk about the
+
+01:14:46 price action. I want to get your take on what has been
+
+01:14:49 happening with the price of Bitcoin, because I'm sure people in the crypto
+
+01:14:52 industry are tired of hearing the phrase sell the news event, but is that what we
+
+01:14:56 saw? A little bit.
+
+01:14:57 I think at its peak we saw 49,000. I think right now it's trading around
+
+01:15:02 43. So there was a little bit of sell off.
+
+01:15:04 But you know, Bitcoin was up I think 160% last year, you know, up a couple of
+
+01:15:09 percent today, I believe. So.
+
+01:15:12 You know, I'm not worried about right now.
+
+01:15:14 I think what we see today is pretty orderly.
+
+01:15:16 Like I like to see this with the ETFs launching, you know, the operations
+
+01:15:20 between the issuers and the custodians and the apps is all working fine.
+
+01:15:24 What looks like. Right, which is good, it shows maturity,
+
+01:15:26 but it seems orderly, a little boring, actually.
+
+01:15:29 It's interesting, too. I'm curious as to what you made out of
+
+01:15:32 the actual decision itself, the meaning, the language, and more importantly, the
+
+01:15:36 statement against law. I'll put out alongside of it here.
+
+01:15:39 It seemed to suggest this idea, obviously from his perspective, that it
+
+01:15:42 was kind of like grudgingly, okay, fine, we have to approve this because the
+
+01:15:45 judge isn't going to give me any leeway. But he did kind of leave that door open
+
+01:15:49 for some sort of broader regulation. Whether that's going to come under his
+
+01:15:52 purview or somebody else's, who knows. But is that something that you're
+
+01:15:55 preparing for? Yes, of course.
+
+01:15:57 I mean, it's something that we're asking for, right?
+
+01:15:59 We've been doing this for a decade now, and, you know, the US does not have a
+
+01:16:03 broad crypto regulation framework where, you know, so we are looking forward to
+
+01:16:08 that. I think it happens probably still 12, 18
+
+01:16:11 months away. Did it surprise you at all?
+
+01:16:13 And I know that the hand was kind of forced because of the legal because of
+
+01:16:16 the lawsuit, But did it surprise you that they did maybe have that framework
+
+01:16:20 ready to go before they made these approvals?
+
+01:16:23 Yes. Yes.
+
+01:16:24 Yeah. I mean, you know, other countries have
+
+01:16:27 issued crypto specific frameworks, right?
+
+01:16:29 This isn't a new thing. It's been around for quite some time.
+
+01:16:32 So. Yeah.
+
+01:16:33 All right, Marshall, really great to have you on set.
+
+01:16:36 Really appreciate your time as well. That is Marshall Beard, of course, the
+
+01:16:39 CEO of Gemini. Now coming up, it's the top three where
+
+01:16:43 we focus in on the top three movers and shakers at the center of the day's
+
+01:16:47 biggest stories. That's next.
+
+01:16:49 This is the close on Bloomberg and.
+
+01:17:07 All right. Time now for the top three.
+
+01:17:09 Every day at this time, we do a deep dive into the people at the center of
+
+01:17:12 today's top stories. Joining us now, Scarlet Fu Scarlet Fu.
+
+01:17:16 Who are you watching? So I'm watching Erica Ayers, but she's
+
+01:17:19 formerly Erica Nardini. She's the CEO of Barstool Sports and is
+
+01:17:22 now leaving the digital media company. After about eight years leading it, she
+
+01:17:26 took the parcel brand mainstream. They expanded into podcasts, online
+
+01:17:30 video and eventually a sale to Penn Entertainment.
+
+01:17:33 Yeah, I'm kind of curious about this too.
+
+01:17:35 I mean, because that whole match up with Barstool being sold to Penn and then
+
+01:17:39 going back to Portnoy and God knows what the heck they're going with it now.
+
+01:17:42 Round trip, maybe she just decided, okay, now's the time to sort of find a
+
+01:17:46 different gig here. I mean, eight years is a long time, but
+
+01:17:48 particularly for a company with that much sort of turmoil going, Oh yeah, she
+
+01:17:52 was a busy CEO when you think not just about the ownership, but also I feel
+
+01:17:56 like they find themselves in controversy.
+
+01:17:58 Navigate that controversy. Exactly.
+
+01:18:00 It's going to be fascinating to see where she goes next.
+
+01:18:02 Yeah, a fascinating person here for a less than fascinating company,
+
+01:18:05 Microsoft. How about that?
+
+01:18:07 They were on the couch at the Bloomberg house.
+
+01:18:09 I'm told Satya Nadella had a chance to sit down and really open up here about
+
+01:18:13 open A.I. and all the turmoil from last year,
+
+01:18:16 making the case here because there's been so much criticism that Microsoft
+
+01:18:18 just trying to control the board here. He's basically saying they don't want
+
+01:18:21 control, they just want stability. And that was the big reason why they
+
+01:18:24 stepped in to really try to get Altman back after the board ousted him.
+
+01:18:28 Yeah, And it's you remember, that was just in November.
+
+01:18:31 It feels both like yesterday and also a very long time ago.
+
+01:18:35 Let's take a listen as to what Nadella had to say.
+
+01:18:39 I'm comfortable. I have no issues with any structure.
+
+01:18:42 What we just want is good stability. And and as I said, we don't even need
+
+01:18:47 like, I'm not even interested in a board seat or we don't need we're definitely
+
+01:18:52 don't have control. We have no we just want to have a good
+
+01:18:55 commercial partnership and we want to be investors in the entity in even the way
+
+01:19:00 they're structured. So what I would like is good governance
+
+01:19:03 and real stability. That's it.
+
+01:19:05 And Satya Nadella sitting down there with a very on there, talking a little
+
+01:19:10 bit about his future of of open air. Yeah.
+
+01:19:13 What I found interesting was he said, we don't even want to sit on the board.
+
+01:19:16 And I was thinking yet, I mean, right now Microsoft has a non-voting board
+
+01:19:20 observer role, but if things go crazy the way they did in November, I'm
+
+01:19:25 guessing that they probably want to exercise that right to turn it into
+
+01:19:28 something more. Also interesting to weigh his comments
+
+01:19:30 against. We know that the UK, we know that the
+
+01:19:33 EU, their watchdogs are weighing probes of the Microsoft Openai relationship.
+
+01:19:37 So it's going to be fascinating to see how that one develops.
+
+01:19:40 But the third person I want to talk about is Ryan Cohen, the GameStop CEO.
+
+01:19:45 He's been seen as the Warren Buffett of the meme stock frenzy, but lately his
+
+01:19:50 strategy hasn't exactly been working. Who's calling?
+
+01:19:53 Warren Buffett? Sorry, it wasn't 5G.
+
+01:19:55 It was like someone on social media, I'm guessing someone on social media said
+
+01:19:59 and we reported it. But let's talk about some of its
+
+01:20:01 holdings. Alibaba, it's fallen around 40% since
+
+01:20:05 Cohen's safe was first reported in GameStop.
+
+01:20:07 Its price has fallen over 80% from its peak.
+
+01:20:11 So that might is meme stock touch not working too well right now?
+
+01:20:16 ROMAN Yeah, I mean, if you're going to be the Warren Buffett or something, you
+
+01:20:19 know, you actually have to deliver, you know, returns for not only yourself but
+
+01:20:22 also investors. And I think that's been the knock on
+
+01:20:24 him, right? I mean, despite the outsized success
+
+01:20:26 that he had with Chewy, there's been a lot of questions as to why he hasn't
+
+01:20:29 been able to replicate some of that success for other investors, because we
+
+01:20:33 should point out he's made a lot of money off some of these trades, but a
+
+01:20:36 lot of external investors here have been left holding the bag.
+
+01:20:39 Although game boards Gamestop's board did give him the ability to use the
+
+01:20:42 company's excess cash and stock. So he'll have plenty of opportunities to
+
+01:20:45 try to make some of those investments come back and use it wisely.
+
+01:20:48 Yeah. All right.
+
+01:20:49 Go on. Of course, he has been the man of the
+
+01:20:51 hour for the last few years now, looking at some losses here on some of his key
+
+01:20:56 investments coming up here as a counter countdown to the close prince shooter
+
+01:20:59 joining us after the break. This is Bloomberg.
+
+01:21:15 This is the countdown to the close. Romaine Bostick alongside Scarlet Fu
+
+01:21:19 with about 10 minutes until we get to the bells here.
+
+01:21:22 The new week starting off. Not much different than what we saw last
+
+01:21:25 week here with stocks on the back foot. Yeah, and Fed Governor Chris Waller was
+
+01:21:28 really the pivotal voice today, sounding a little bit less dovish than what a lot
+
+01:21:31 of investors had anticipated and would have liked.
+
+01:21:34 And the takeaway here is no rush to cut rates in March.
+
+01:21:37 You're seeing stocks stuck with the S&P 500 remaining in that narrow band within
+
+01:21:41 100 points to a new high. But we've been here before and we
+
+01:21:44 haven't gotten there. So what is the message going to get
+
+01:21:46 across to investors? Because I mean, Chris, what Chris Waller
+
+01:21:48 said really wasn't much different than what we've heard.
+
+01:21:50 It's pretty consistent, which is, look, we're in a good position.
+
+01:21:52 Rates are where they are. Maybe the peak is behind us, but there's
+
+01:21:55 no evidence yet that we should be cutting rates any time soon.
+
+01:21:57 And if we do cut rates, not going to nearly be as Fast and Furious is not
+
+01:22:00 going to be fixed rate starting March. At some point, are they going to be
+
+01:22:03 like, who do they need to hear from in order to believe it?
+
+01:22:06 Hope springs eternal, so you can continue betting that investors will be
+
+01:22:10 looking for that. The dollar, by the way, staging its
+
+01:22:12 biggest rally in ten months. A pretty sizable move for the U.S.
+
+01:22:15 currency. And of course, gold moving in inverse
+
+01:22:17 with that falling quite a bit as well. Yeah, absolutely.
+
+01:22:19 Yeah. It'll be interesting to see, too, once
+
+01:22:21 we do actually get to the end of the month and we get the next Fed meeting.
+
+01:22:24 Yeah. Whether there is some difference in
+
+01:22:26 tone. But as of right now I'm having a hard
+
+01:22:28 time seeing where that's going to come from.
+
+01:22:29 Based on what we heard at the last meeting and all the Fed speak in
+
+01:22:32 between. Well, there's going to be plenty of Fed
+
+01:22:34 speak to digest it. All right.
+
+01:22:36 All right. Let's get right to our next guest to
+
+01:22:38 help us count down to the closing bell Brent.
+
+01:22:40 Judy, joining us, chief investment officer at Northwestern Mutual Wealth
+
+01:22:43 Management. And Brent, let's start with the rates
+

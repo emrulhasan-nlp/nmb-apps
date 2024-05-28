@@ -1,0 +1,1777 @@
+00:01 The Fed decides not to decide, Reddit goes public,
+
+00:04 and former President Trump faces foreclosure.
+
+00:07 This is Bloomberg Wall Street Week.
+
+00:08 I'm David Westin.
+
+00:10 This week, Brian Deese on what's really going on with electric vehicles.
+
+00:14 I think those headlines would make you more concerned than you should be.
+
+00:17 The demise of electric vehicles is greatly exaggerated.
+
+00:19 And Christine Roth, the clerk of Barclays, on a comeback for tech IPOs.
+
+00:24 Investor appetite is as strong as it's been in a very long time
+
+00:27 for IPOs.
+
+00:41 But we begin with our very special contributor, Larry Summers of Harvard.
+
+00:44 As we address
+
+00:45 what the Fed decided this week, what we heard from Jay Powell,
+
+00:47 and also maybe a little microeconomics before we're done.
+
+00:50 So, Larry, thanks for being back with us. Let's start with the Fed, though.
+
+00:53 What we heard, I heard.
+
+00:54 More growth, less inflation, low unemployment.
+
+00:57 That sounds pretty good to me. Is it too good to be true?
+
+01:01 I don't know.
+
+01:01 Certainly, there's been some encouraging data flow during 2023, though.
+
+01:06 The last two months haven't been quite so encouraging.
+
+01:10 It's great and right to hope for the best, but hoping isn't planning.
+
+01:15 And certainly from that scenario laid out in the DOT plots,
+
+01:20 I think there's more room for things to surprise on the bad side
+
+01:24 than to surprise on the better side.
+
+01:29 We may have the path that's described there materialize.
+
+01:34 It's certainly got to be recognized as a very real possibility.
+
+01:39 My sense is still that the Fed has itchy fingers
+
+01:43 to start cutting rates, and I don't fully get it.
+
+01:48 We've got unemployment, if anything, below what they think is full capacity.
+
+01:54 We've got inflation clearly even in their forecast
+
+01:59 for the next two years above target.
+
+02:02 We've got GDP growth rising, if anything, faster than potential.
+
+02:08 We have financial conditions.
+
+02:10 The holistic measure of monetary policy at a very loose level.
+
+02:15 I don't know why we're in such a hurry to be talking about moving
+
+02:19 to moving towards the accelerator.
+
+02:24 So we heard from Chair Powell that, in fact,
+
+02:26 he thinks these conditions are restrictive right now.
+
+02:29 They are to stick even if we're not seeing a lot of restriction.
+
+02:32 But that depends in part
+
+02:33 on where the neutral rate is, something we've talked about before.
+
+02:37 I still don't get a sense from the Fed
+
+02:38 that they've figured out where they think the neutral is
+
+02:40 and do they need to know that before they can decide where they're going?
+
+02:44 They need to take a view.
+
+02:46 Because if you don't know what's neutral, you don't know how expansionary
+
+02:50 or restrictive you're being.
+
+02:54 And I find their view that the ultimate neutral rate is 2.6
+
+03:00 to be bizarre in current circumstances.
+
+03:05 Here's what we have relative to a few years ago when they said it was 2.5.
+
+03:12 We've got fiscal policy in a much, much more expansionary place
+
+03:16 with much higher deficits, much larger role of debt.
+
+03:21 That puts pressure on credit markets.
+
+03:24 We've got a huge set of new private sector investments
+
+03:28 going on with respect to green investment in the IRA,
+
+03:34 going on with respect to resilience
+
+03:37 and reducing dependance on single sources.
+
+03:43 We've got a potential huge source of demand
+
+03:46 for chips and for electricity
+
+03:50 coming out of the AI revolution.
+
+03:55 And we've got a huge wealth effect as markets in
+
+03:59 for both housing and stocks have run way up for the last few years.
+
+04:04 So with all of those impulses to demand,
+
+04:08 I cannot understand why
+
+04:11 someone would form the view that the neutral rate was essentially
+
+04:16 the same as they were as they thought it was four years ago.
+
+04:22 And I think the neutral rate is far more likely
+
+04:25 to have a four handle on it right now than it is to have a two handle on it.
+
+04:32 And from that perspective, I'm not at all sure
+
+04:35 how restrictive monetary policy really is.
+
+04:39 And the proof's really in the pudding.
+
+04:41 Monetary policy is by now had a very long time for the legs to work through
+
+04:47 the transmission variables, stock prices,
+
+04:51 interest rates, long term interest rates.
+
+04:54 Credit spreads are flashing green and
+
+05:00 loose,
+
+05:01 and the economy keeps surprising on the high side.
+
+05:05 So either if you look at the fundamental determinants of neutral interest rates
+
+05:11 or you look at how far how fast the economy is growing,
+
+05:15 seems to me you've got to read a high neutral
+
+05:20 interest rate.
+
+05:21 And I just can't understand why the Fed is talking
+
+05:24 about 2.6 as a best guess.
+
+05:28 I would be the first to recognize that this is a number that fluctuates,
+
+05:33 that we can't gauge it precisely, that economists don't have great models.
+
+05:39 So I'm not saying that I'm sure that they're wrong.
+
+05:43 I'm not.
+
+05:44 But I think the challenge in policymaking
+
+05:47 is to try to make best estimates.
+
+05:50 Where you're equally likely to be wrong in both directions.
+
+05:54 Larry, it occurs to me that there are policies
+
+05:56 going beyond monetary policy that could well affect future inflation.
+
+06:00 I'll mention a couple of them.
+
+06:01 Trade and tariffs, which tend to be inflationary.
+
+06:05 President Biden really didn't back off of what President Trump did very much.
+
+06:08 Now we have a candidate Trump, which saw going even further.
+
+06:11 And by the way, immigration, it seems like we're going to constrain immigration.
+
+06:15 And if you really constrain the growth of the workforce, as I understand it,
+
+06:19 that is inflationary.
+
+06:19 What are the other factors that might be driving inflation?
+
+06:22 Part of the story of the great moderation of low inflation for 40 years
+
+06:28 has to have been the ways in which globalization
+
+06:32 held down prices.
+
+06:34 Flows of capital that promoted productivity enhancing investment.
+
+06:39 Flows of workers that enhanced labor
+
+06:43 supply, lower priced goods that provided competition.
+
+06:48 The best forms of competition we get in the US
+
+06:52 economy are often from imported goods.
+
+06:57 And so if globalization held prices down,
+
+07:00 it follows that globalization will tend to push prices up,
+
+07:05 which will mean for some and travel higher rates of inflation.
+
+07:10 And I don't think the prospects of tariff
+
+07:15 increases of reductions in
+
+07:19 immigration, of war, restriction
+
+07:23 on foreign foreign investment, what that means for the dollar,
+
+07:28 I don't think that's reflected in
+
+07:31 consensus inflation views.
+
+07:35 And so I think that's another upside risk to inflation.
+
+07:39 And frankly, it's one that would be substantially exacerbated if the Trump
+
+07:45 program, economic program, at least as it's been described in recent months,
+
+07:51 were to be implemented.
+
+07:54 So you mentioned a flow of capital and foreign investment.
+
+07:57 The United States.
+
+07:58 We have a specific instance right now in the instance of TikTok in the bill.
+
+08:02 that’s passed the House, not passed the Senate.
+
+08:04 What do you make of that issue of trying to divest actually TikTok
+
+08:08 being divested by its Chinese partner and particularly compare and contrast
+
+08:12 to something we've talked about before, which is U.S.
+
+08:13 Steel and the Nippon Steel Investment into that.
+
+08:16 Look, without access to classified information, it's
+
+08:21 difficult to make a definitive judgment
+
+08:24 on either of those cases.
+
+08:28 I would just say this.
+
+08:30 It seems to me, albeit self-evident, that the threat to U.S.
+
+08:35 security from our Chinese adversary
+
+08:41 are controlling the newsfeed.
+
+08:45 That is a primary news feed to more than 100 million Americans
+
+08:51 has to be vastly greater than any risk
+
+08:55 from our staunch ally, Japan.
+
+09:00 Having a private company
+
+09:03 own less than 15% of U.S.
+
+09:07 steel production.
+
+09:09 And so it seems to me there's just a
+
+09:11 very clear disproportion
+
+09:15 in the risks in those two cases.
+
+09:20 And I hope that will factor into our decision making
+
+09:26 going going forward.
+
+09:29 Larry, thank you so much for being with us, as always.
+
+09:32 That's our special contributor, Larry Summers of Harvard.
+
+09:36 Coming up, a readiness to get tech IPO started again.
+
+09:40 We talk with Barclays’ Kristin Roth DeClark
+
+09:42 about what comes next this year with the election kind of looming.
+
+09:46 Later, I could see 20 plus tech IPOs.
+
+09:51 That's next
+
+09:52 on Wall Street Week on Bloomberg.
+
+10:03 This is Wall Street Week.
+
+10:04 I'm David Westin.
+
+10:05 The higher interest rates have taken momentum away from tech IPOs.
+
+10:09 But with Reddit up this week and Astera on deck
+
+10:12 2024 may be the year of the comeback for tech companies going public.
+
+10:17 To take us through it, we welcome back
+
+10:18 Kristin Roth DeClark, Barclays Global head of technology investment banking.
+
+10:22 So welcome.
+
+10:23 It's great to have you here in person instead of San Francisco.
+
+10:25 Yes, great to be here.
+
+10:26 So give us a sense we do have Reddit in this area,
+
+10:28 right, Right in front of us as we speak this week.
+
+10:31 But are we seeing perhaps a break in the logjam in tech IPOs?
+
+10:36 Investor appetite is as strong as it's been in a very long time for IPOs.
+
+10:40 Part of that is because there really is a dearth of growth
+
+10:44 technology assets in the public market that are at scale today.
+
+10:47 And if you look at all of the public tech companies, over $2
+
+10:52 billion market cap, less than 30 have growth rates over 30%.
+
+10:56 So investors are looking for opportunities for growth in the IPO market.
+
+11:01 So is there a profile for the companies they're most likely to be successful?
+
+11:04 Reddit's very different from most era.
+
+11:06 Those are two very different companies, right?
+
+11:08 Well, scale matters to investors.
+
+11:10 We saw, you know, some of the carnage a little bit from the 2020 and 2021
+
+11:15 IPO classes where IPOs were priced at pretty significant premiums
+
+11:21 to where the, you know, multiples have been on a historical basis
+
+11:24 and then traded down significantly the ones that had the,
+
+11:29 you know, smaller market cap, smaller float were disproportionately impacted.
+
+11:33 And for that reason, you know, the scale really matters
+
+11:36 in terms of revenue scale.
+
+11:39 The second piece is,
+
+11:42 you know,
+
+11:42 growth rate and the interplay between growth rate and profitability.
+
+11:45 So it's important to be to have kind of a balance that works growth.
+
+11:50 You get paid more for growth, but that's only if the unit economics work
+
+11:56 and there is a either a break even or a very strong near-term
+
+12:00 path to profitability, you'll get paid more for growth
+
+12:03 if the business is not growing,
+
+12:05 you know, 30% or north of even 20%,
+
+12:09 then having very significant
+
+12:12 margins and visibility and durability
+
+12:14 of those margins as the definition of significant growth change.
+
+12:18 I mean, given when you see some of that going in video,
+
+12:21 some of these growth stocks in tech have just been really, really strong.
+
+12:24 Yeah.
+
+12:25 So I think for for an IPO, I would say a growth stock is something north of 20%.
+
+12:30 30% plus is really very, you know, differentiated growth rate.
+
+12:35 But that's how I would think about it today. What's
+
+12:37 your sense of the pipeline out there for prospective IPOs in the tech area?
+
+12:41 I will tell you, we're tracking over 200 companies that we really think
+
+12:45 have a credible exit in the public market or entry into the public market.
+
+12:51 I guess over the next two years, they could also be, you know,
+
+12:55 sold to strategics or to sponsors.
+
+12:59 But that's kind of the cohort of the private companies
+
+13:03 that were highly focused on for potential IPO is over the next two years
+
+13:06 structurally might be looking at two very different revenue models.
+
+13:09 If you have a consumer facing product such as Reddit, for example,
+
+13:13 what the consumer can do, what they can afford,
+
+13:15 how much they spend, could really affect it.
+
+13:17 On the other hand, if you're over in the artificial intelligence
+
+13:19 and like I mentioned, that term area, that's more of a business to business
+
+13:23 and need for semiconductors and things are there are two different
+
+13:26 revenue models here.
+
+13:27 Yeah, I'd say that the I mean investors right now
+
+13:31 are anything that's AI and anything that is security
+
+13:35 related are probably the two areas that have the strongest bid.
+
+13:40 The consumer facing
+
+13:41 stuff is a little bit more challenged in terms of a multiple.
+
+13:44 You're just not getting the same multiple as you get for an enterprise sale that is
+
+13:47 that has those two and you know, kind of end market AI.
+
+13:51 We're just at the beginning of a decade long, you know, shift
+
+13:55 and change to what we can do from a productivity standpoint.
+
+13:59 And so we've seen a lot of the stocks that are being, you know, that are really
+
+14:04 being driven by the advancements in AI trade up significantly.
+
+14:08 And that will continue.
+
+14:09 I think there are going to be fits and starts and play times
+
+14:12 where investors think, okay, this has been a little bit overbought,
+
+14:15 take, you know, a little bit of profit taking.
+
+14:17 But I think by and large, this is a decade long
+
+14:20 plus shift.
+
+14:23 What about regulation?
+
+14:25 Is there a prospect of regulation, particularly in the tech sector?
+
+14:28 We certainly hear about it from Washington.
+
+14:30 A fair amount is that's sort of a cloud out there on the horizon for investors.
+
+14:34 Well, I think I mean, companies and governments are talking about this a lot.
+
+14:38 It's it's hugely topical,
+
+14:42 not dissimilar from what we faced with the explosion of social media.
+
+14:45 Right.
+
+14:45 But this is obviously more pronounced
+
+14:47 because it's impacting enterprises in a meaningful way.
+
+14:51 So I think it's going to ultimately end up
+
+14:53 being a combination of self regulation from some of the enterprises without
+
+14:59 government oversight to some extent, but it still remains to be seen.
+
+15:03 It certainly is a question,
+
+15:04 but it's difficult for an investor to really discount that, is it not?
+
+15:07 Yeah, it is.
+
+15:08 And I think it's more about, you know,
+
+15:10 what are some of the what's the low hanging fruit And I
+
+15:12 some of the productivity tools for example, versus moving into
+
+15:16 you know what what the art of the possible could be in ten, 20, 30 years.
+
+15:21 It strikes me there's been something of a fallow period here with tech IPOs.
+
+15:25 It's not been as robust as before.
+
+15:27 Do you expect it to turn around and if so, when?
+
+15:30 Yeah, I do.
+
+15:31 I think I mean, you're you're right.
+
+15:32 Last year there were five tech IPOs, a typical year there,
+
+15:35 you know, 40 tech IPOs.
+
+15:37 And this is just in the US.
+
+15:38 I could see this year with the election kind of looming later,
+
+15:42 you know, in the fall, I could see 20 plus tech IPOs.
+
+15:46 And that's more about a readiness standpoint, like the companies
+
+15:49 are actually have everything ready to go to where they could hit
+
+15:53 the market in the spring, summer, you know, leading up to the election.
+
+15:57 And then we have very few windows kind of post-election
+
+16:00 with Thanksgiving and Christmas holiday and, you know, the winter holidays.
+
+16:04 So I could see a 2025 IPO type year for tech.
+
+16:09 I think in next year is where we could see
+
+16:12 kind of a return to the 40 plus, maybe even 50 tech IPOs.
+
+16:16 I wonder, I we've had a fair amount of uncertainty about interest rates.
+
+16:19 We know where the Fed is this week, but we don't know where
+
+16:21 it's going to be next month, for example.
+
+16:23 How is that affecting IPOs and what do you project?
+
+16:25 Yeah, I think the the thing that affects the most are companies with leverage.
+
+16:30 So some of the companies coming out of private equity firms
+
+16:33 that may have been highly levered and then solving for what
+
+16:37 the right leverage profile is for the company on a public basis,
+
+16:40 how much primary capital do they have to raise to bring that leverage
+
+16:44 down to a level that doesn't scare investors because of refinancing
+
+16:48 risk, for example, in the in the high yield market?
+
+16:52 And so that's that's the one place where I think it's impacted
+
+16:56 a little bit and specifically, But I think we're coming out of that
+
+17:00 at a much more positive tone around leverage for investors because it feels
+
+17:04 like we're going to start, you know, taking interest rates the other way.
+
+17:07 But other than that, it's more macro, it's less about business
+
+17:11 specific and more about, you know, what does this do to them,
+
+17:14 to the market overall.
+
+17:15 Christine, really great to have you on and particularly here in New York.
+
+17:17 Thank you for coming to New York.
+
+17:19 That is Christine Ross, the clerk of Barclays.
+
+17:23 Coming up, we
+
+17:23 go through the week in the markets with Chris Harvey of Wells Fargo.
+
+17:27 That's next.
+
+17:28 On Wall Street, Week on Bloomberg.
+
+17:40 This is Wall Street Week.
+
+17:41 I'm David West.
+
+17:41 And markets found a lot to like and what the Fed did and said this week
+
+17:45 as the S&P 500 was up another 2.3% to end at 5234.
+
+17:50 Staying well above the median
+
+17:51 projection of the Bloomberg LS for year end number of only 5100.
+
+17:55 While the yield on the ten year was down 16
+
+17:58 basis points to end the week at 4.2%.
+
+18:01 Take us through where we are. We're welcome back.
+
+18:03 Now one of the Bloomberg elves himself, Chris Harvey, Wells Fargo Securities
+
+18:07 equity analyst. Great to have you back, Chris. It's good to be back.
+
+18:09 So so give us your sense of how the markets interpreted
+
+18:12 what they heard from Jay Powell this week. Oh,
+
+18:16 it was game on.
+
+18:17 So what they heard was, hey, the macro backdrop is hotter
+
+18:21 than we expected on a growth and inflation side,
+
+18:24 but we're going to keep the same accommodation we had before.
+
+18:28 So the only thing that's going to change
+
+18:30 are equity prices and they're going to move higher.
+
+18:32 What that was is to a lot of investors I need to put on.
+
+18:36 I'm not going to be penalized for this.
+
+18:37 I'm going to put more risk on. I probably won't be penalized
+
+18:40 for the leverage I'm going to put more leverage on.
+
+18:42 And things got
+
+18:44 we had a pretty healthy move.
+
+18:46 Let's just say that.
+
+18:47 So one of the things I find surprising is at the beginning of the year,
+
+18:50 we expected something like six or eight countries
+
+18:52 where we've gone from 6 to 3 people, maybe less than that.
+
+18:55 And yet the equity markets didn't really discount to that.
+
+18:58 And why is that? So?
+
+19:00 I agree with that, and that's something we've been talking about.
+
+19:03 But there's more than one equity market.
+
+19:05 So higher rates did affect smaller caps, it affected value and it held those back.
+
+19:10 But when you look at the S&P 500, the S&P 500 is really a growth index.
+
+19:15 And growth has just been lackluster.
+
+19:17 And the fact that you're actually pulling it back to an odd degree
+
+19:20 actually helps because you're not accelerating the economy.
+
+19:24 You're keeping the economy right where it is, which is perfect for growth stocks.
+
+19:27 And the last thing I would say is that you have this amazing
+
+19:30 secular growth story in AI that's not going anywhere fast.
+
+19:34 That's what exactly I was going to ask about because it's great.
+
+19:36 We have, at least for the moment,
+
+19:38 we hope it's all going to prove out as brilliantly as people think it is.
+
+19:42 But is there a risk there in the narrowness of the market
+
+19:44 because it's so tight, tight and high tech?
+
+19:46 And and I there is a risk to it, right?
+
+19:50 We don't like to see the market this narrow, but it does make sense, right.
+
+19:53 When we see a market that's a bit broader, typically see different things.
+
+19:57 We see an economy that's moving from contraction to expansion.
+
+20:00 We're pretty much in this what I would call economic malaise
+
+20:03 where things aren't great, but they're not terrible.
+
+20:05 And you should expect a pretty narrow market.
+
+20:08 And again, the real story here and I don't want to be too repetitive
+
+20:11 with it, is it's a secular growth story that's in play.
+
+20:14 And the fact that the Fed is adding a significant amount
+
+20:16 of accommodation to a period or a situation that really doesn't need it.
+
+20:20 So you like momentum.
+
+20:22 We do need to explain that to us.
+
+20:24 What do you like in this picture
+
+20:26 that really tells you momentum is the way to go?
+
+20:28 So it's not
+
+20:30 What do we really like about it because the market's so narrow,
+
+20:33 because there's not a ton of opportunities.
+
+20:35 Everyone's chasing the same names.
+
+20:37 And so what happens is you get stocks that that do well, continue to do well
+
+20:43 and people say, well, Chris, that's kind of a silly way to invest
+
+20:46 and it's kind of naive and I understand that.
+
+20:49 But if you look at the fundamentals
+
+20:50 for the stocks that are doing very well, the fundamentals are actually quite good.
+
+20:53 And what we keep saying is people are very scared about momentum
+
+20:56 because momentum, if you go back to post financial crisis
+
+21:01 in March of oh nine, momentum or momentum factors
+
+21:04 turned on their head and people lost a lot of money playing momentum.
+
+21:07 Same thing with the pandemic.
+
+21:09 But what we're saying right here, right now, a lot of the macro factors
+
+21:12 that would cause a point of inflection just aren't there be a credit spreads,
+
+21:16 be the economy going from contraction to expansion or the fact
+
+21:20 that the contrarian basket where a lot of broken stocks just don't
+
+21:23 have very good valuations and good fundamentals, So momentum is good.
+
+21:27 Tell me about valuation.
+
+21:28 At what point are they fully valued and tie that back
+
+21:31 in, if you would, to earnings.
+
+21:32 What we're expecting out of earnings
+
+21:33 is that could take care of the valuation problem.
+
+21:35 So, David, what I would say is that we don't have I talk a lot
+
+21:39 about valuation, but our clients aren't talking about valuation all that much.
+
+21:43 And I understand why we're in a relative, we're in a chart looks good
+
+21:47 relative growth type market.
+
+21:48 And so if growth is going higher, you're going to be rewarded by that
+
+21:52 at some point, valuation will matter.
+
+21:54 But because growth is moving so quickly for a select number of stocks,
+
+21:58 there's really just one game in town and that will continue for a while.
+
+22:02 What I think and what you have to worry about with the rotation or broadening
+
+22:05 out in the market is will the economy accelerate faster than we expect?
+
+22:10 And that could cause a rotation and we just don't see that right now.
+
+22:13 One last one.
+
+22:14 We have another game in town coming up in November.
+
+22:16 It's called an election.
+
+22:17 Do we take that into account at all as we take a look
+
+22:19 at investing in the stock market right now? We do.
+
+22:21 I don't know how to handicap the the presidential election
+
+22:25 and luckily I don't have to.
+
+22:27 The real game in town here is the Senate who wins the Senate
+
+22:31 and it looks like the GOP has a better than a 5050 chance at winning the Senate.
+
+22:35 Why is this important?
+
+22:37 This is important because this could change the regulatory environment.
+
+22:41 The M&A market is improving.
+
+22:43 And if the GOP does take the Senate, we would expect an acceleration
+
+22:47 of the M&A market later on in the year because of the potential change
+
+22:50 with regulation.
+
+22:51 So you think the antitrust enforcement policies have held back some M&A?
+
+22:55 That's part of the reason we've seen as Absolutely.
+
+22:58 There's not a question.
+
+22:59 It has absolutely held back some M&A last one, taxes,
+
+23:02 because there's a question we're renewing the Trump tax cuts.
+
+23:04 How important is that in the Senate?
+
+23:06 It's important, but it's not something a lot of people are talking to us right now.
+
+23:10 So I think it's more of a 25, 26 issue.
+
+23:13 It's not really a big issue.
+
+23:15 And top of mind for many investors at this point in time thing.
+
+23:18 But you don't want to handicap the election. You sure
+
+23:21 we can still do that?
+
+23:22 If you want. You can tell us who's going to win if you want.
+
+23:24 I'll just say we'll have we'll have a president, We'll have this go and vote.
+
+23:28 I'm going to vote.
+
+23:29 Yeah, we got I can handicap, but we'll have a president, which is good news.
+
+23:32 Thank you so much, Chris, for being back With us is Chris Harvey of Wells Fargo.
+
+23:38 Coming up, is the push for EVs losing its momentum?
+
+23:41 We talk with the man who constructed the Biden administration policies,
+
+23:45 Brian Deese of MIT.
+
+23:48 That's next.
+
+23:49 On Wall Street Week on Bloomberg.
+
+24:00 This is Wall Street Week.
+
+24:01 I'm David Westin.
+
+24:02 Electric vehicles are a policy priority in the United States, in Europe
+
+24:05 and in China.
+
+24:06 Even as automakers, at least the United States trim back their ambitious goals.
+
+24:10 Brian Deese has been at the center of auto policy in the United States.
+
+24:13 First, as a member of the Obama administration team
+
+24:16 that rescued the industry during the great financial crisis, and then more recently
+
+24:20 as director of President Biden's National Economic Council.
+
+24:23 And we welcome him now to Wall Street Week. Brian.
+
+24:24 Welcome. It's good to have you here. I'm happy to be here.
+
+24:27 Bring us up to speed on electric vehicles as they were all the rage
+
+24:30 just a couple of years ago.
+
+24:30 And now when you read in the press,
+
+24:32 maybe not quite so much, maybe the consumers are not rushing to buy them.
+
+24:36 You see some U.S. automakers cutting back on their goals.
+
+24:39 What's going on?
+
+24:39 Well, I think those headlines would make you more concerned that you should be
+
+24:43 that the demise of electric vehicles is greatly exaggerated.
+
+24:46 So let's start with the numbers.
+
+24:48 So in 2023, there were about
+
+24:51 1.4 million electric vehicles sold in the United States.
+
+24:54 That was almost 10% of overall sales.
+
+24:57 That was up 50% from a year before.
+
+24:59 So really significant growth.
+
+25:01 First couple of months of this year, EV sales are up about 20%, 15 to 20%.
+
+25:07 So the rate of growth is slowing.
+
+25:10 But I think that that's actually reasonably what you would expect.
+
+25:14 This is a market
+
+25:15 that as it matures and as it becomes a larger share of overall vehicle sales
+
+25:20 expecting year on year, 50%
+
+25:23 growth rates was never realistic.
+
+25:26 And so I think the question is where will this growth trajectory
+
+25:31 lead out
+
+25:33 and also when will the appetite for this electric feels
+
+25:36 but up against consumer concerns and consumer adoption?
+
+25:40 I don't think we're there yet.
+
+25:42 And so, you know, a rate of growth that's 20% year over year would be
+
+25:45 pretty good for a lot of industries.
+
+25:47 But we're certainly seeing a slowing compared to the rate of pickup
+
+25:50 in 2022 and 2023, which was really quite extraordinary.
+
+25:54 Overall, the demand for EVs, the United States continues to go up
+
+25:57 even if more slowly, but different makers are taking
+
+26:00 different approaches to stimulating that demand.
+
+26:04 Ford, for example, cut prices significantly
+
+26:07 on the Mustang Mach-e as a response to demand.
+
+26:12 All eyes will be on Tesla, of course, because Tesla is the marketing company.
+
+26:16 Pure play ev name how it says in the first quarter will be critically important.
+
+26:22 You know, there is something happening where the early adopters in America
+
+26:26 have been and gone in terms of the consumer
+
+26:28 and there is still an assessment to be done on how impactful
+
+26:33 the incentives provided by the inflation reduction Act are going to be.
+
+26:38 And it's not just the traditional Big Three US automakers seeking
+
+26:41 to take advantage of those incentives, raising the specter of the US being left
+
+26:45 behind by overseas producers the way we saw in the 1970s.
+
+26:50 Well, I think there's a risk.
+
+26:51 I think you listen to what
+
+26:53 the leadership of Ford and GM instill into it as well are saying.
+
+26:58 They recognize they're behind that.
+
+27:00 This is fundamentally a technology play.
+
+27:03 Electric vehicles, it's a it's a fundamental shift in technology.
+
+27:07 It's not just an incremental shift in vehicle technology.
+
+27:11 And they were behind Tesla on they are both ahead.
+
+27:17 That said, I think you're seeing as certainly GM and Ford
+
+27:20 both invest a lot in saying we need to we need to catch up
+
+27:24 and we need to catch up quickly, I would say.
+
+27:25 Ford's CEO, Jim Farley, has been very blunt about this in saying
+
+27:29 we're going to need to remake this company.
+
+27:31 We're going to need to do things differently in terms of how we organize
+
+27:34 ourselves to drive innovation, to actually catch up and catch up
+
+27:38 quickly in a growing global market as well.
+
+27:42 So I am hopeful that what we'll see is that
+
+27:46 that kind of commitment actually manifests in the marketplace.
+
+27:49 And we've certainly seen some we're seeing those companies
+
+27:52 increase their sales sequentially as well.
+
+27:56 But I think that that's always a risk.
+
+27:59 Right? We have to we we're going to have to stay ahead.
+
+28:01 And it's a dynamic global market.
+
+28:02 Is there a challenge in the price point?
+
+28:03 Because certainly a GM, for example, started out
+
+28:05 with a more expensive vehicles made sense because they needed to cover the costs.
+
+28:09 At the same time,
+
+28:10 again, going back to my recollection of when Japan really made inroads.
+
+28:13 They started out pretty inexpensively.
+
+28:15 You have some less expensive models coming from overseas.
+
+28:18 Yeah, look, there's different
+
+28:20 different approaches to this electric vehicle market that are really fascinating
+
+28:23 where I think the the dominant approach is to start at the very high price point,
+
+28:28 try to capture that margin and then drive drive prices down across the board.
+
+28:32 I would argue that actually learning from history, there's a real opportunity
+
+28:36 to own the lower cost segment of this market, right, to be the electric vehicle
+
+28:42 provider for typical middle class folks across the country.
+
+28:45 We've seen some innovation on that front.
+
+28:47 GM introduced the Chevy Bolt and for a part of last year,
+
+28:52 it was the fastest growing electric vehicle in the country.
+
+28:57 And so I think it's it's possible.
+
+28:59 And the other thing that's good news for consumers is in addition
+
+29:03 to seeing this electric vehicle growth, prices are coming down very significantly.
+
+29:07 We've seen a 20% reduction in the cost of the purchase price
+
+29:11 of electric vehicles just over the course of the last several months.
+
+29:14 That presents a constructive challenge
+
+29:16 to the auto companies, But it's good news for consumers
+
+29:18 that we're seeing more and more of these vehicles get into a price point,
+
+29:21 which is really in many ways, you know, comparable,
+
+29:24 particularly when you take into account the overall cost of ownership.
+
+29:28 The Biden administration has made no secret of its desire
+
+29:31 to urge the auto industry ahead in the transformation to EVs
+
+29:34 as it seeks to put its foot on the accelerator of electric
+
+29:37 and step on the brake for internal combustion engines.
+
+29:41 And then we kind of have the carrot and the stick approach where the carrot
+
+29:45 is, the incentives provided for by the Inflation Reduction Act.
+
+29:49 But just this week,
+
+29:50 the Biden administration came in with the stick more stringent tailpipe
+
+29:54 emissions by 2032, particularly aimed at the likes of GM and Ford
+
+29:59 to accelerate their transition to selling more battery
+
+30:02 electric vehicles because their combustion engine cars will be bound by these new,
+
+30:06 stricter rules.
+
+30:07 You have to remember that GM and Ford are using the kind of highly profitable
+
+30:11 combustion engine pickup focused business to fund their transition to EV.
+
+30:15 The problem is, is that there is kind of some softness in both of those,
+
+30:19 and particularly more softness in heavy demand than they perhaps expected.
+
+30:23 And one thing that's sorely needed if we're to get to an electric vehicle
+
+30:27 future, is a way to charge those vehicles across the country.
+
+30:31 The single most important thing the government needs to do is to backstop
+
+30:35 the build out of an electric vehicle charging infrastructure.
+
+30:38 It's interesting, if you look at the cost effectiveness of
+
+30:42 a public investment to actually reduce emissions across time,
+
+30:46 there's probably no higher bang for buck investment
+
+30:49 than a public investment in infrastructure.
+
+30:50 And if you think about it, it makes sense, right?
+
+30:52 Who's going to build out the backbone of chargers across the country
+
+30:56 to help address range anxiety and give people a sense that this will be
+
+30:59 as easy as owning an internal combustion vehicle.
+
+31:03 The good news is the government is doing that
+
+31:05 and backing that in a significant way.
+
+31:06 That was part of the infrastructure
+
+31:08 of the bipartisan infrastructure bill that we passed in 2021.
+
+31:12 And that money is now hitting the streets and we're starting to see
+
+31:16 significant build out of that infrastructure.
+
+31:18 We're going to need to make sure that that stays on track
+
+31:21 and that the experience, the charging experience, is not just that
+
+31:25 there are chargers there,
+
+31:25 but the experience itself is easy and straightforward so that consumers
+
+31:30 feel as if this is something that they can get comfortable with
+
+31:33 the way things have developed.
+
+31:34 We can't talk about electric vehicles without talking about China and BYD.
+
+31:37 It's becoming a real factor globally.
+
+31:40 We just had the former President Trump
+
+31:42 talk about the possibility of manufacturing in Mexico,
+
+31:44 hundred percent tariffs that come across the border.
+
+31:46 How big a factor is China and how should the government handle that challenge?
+
+31:50 Because the BYD automobiles are at a much lower price point, I believe.
+
+31:54 They're they're lower price.
+
+31:55 I also think they're not they're not particularly well positioned for the U.S.
+
+31:58 market in the U.S. consumer.
+
+32:00 Look, I think we need to step back.
+
+32:01 The the challenge that we have with China right now is quite significant.
+
+32:06 And we need to have a strategy to address that.
+
+32:09 And part of what is happening
+
+32:11 is China's got very significant imbalances in its own economy,
+
+32:14 and it has to make some difficult decisions about
+
+32:16 whether it's going to double down on a strategy that is over subsidizes
+
+32:20 and often in in inappropriate or illegal ways subsidize its manufacturing base
+
+32:26 at the expense of more balanced domestic growth in its own economy
+
+32:29 and at the expense of other economies worldwide.
+
+32:33 And that overcapacity issue is an issue for the U.S.
+
+32:36 economy, but it's also an issue for the European economy.
+
+32:39 It's an issue for other economies as well as interesting.
+
+32:41 Just this week, we saw Brazil actually raised the prospect
+
+32:44 of anti-dumping duties against China because they're facing these pressures
+
+32:48 as well.
+
+32:49 I do think that the that Chinese model of just
+
+32:53 pushing manufacturing above all else,
+
+32:55 including above its own balanced domestic growth, is not a tenable long term model.
+
+33:00 We in the United States that we need a strategy to succeed on our own.
+
+33:04 And part of that is making a commitment to invest in our own industrial capacity.
+
+33:09 One of the things I would note is that in the last year,
+
+33:12 the single category of manufacturing investment
+
+33:15 that has grown the fastest in the U.S.
+
+33:17 is in the upstream electric vehicle battery supply chain.
+
+33:20 It's a $42 billion in manufacturing investment
+
+33:24 going into everything from upstream processing of critical minerals
+
+33:28 to battery assembly and then ultimately electric vehicle assembly as well.
+
+33:33 There's a lot of investment in the United States to build that capacity.
+
+33:36 And as that happens, hopefully, as we were talking about, prices will come down.
+
+33:39 Finally talking about the labor consequences of electric vehicles,
+
+33:43 as I understand it, takes significantly fewer workers to produce
+
+33:46 an electric vehicle than an internal combustion engine car.
+
+33:49 What does this mean for the auto worker, which is very much on everyone's
+
+33:52 mind right now?
+
+33:53 Well, look, I think what you need to look at is the entire value chain.
+
+33:57 And so the electric vehicle itself, from an assembly perspective,
+
+34:01 has fewer parts and therefore less labor.
+
+34:04 The building of the batteries and the whole upstream supply chain there
+
+34:07 creates new opportunity and new opportunity for workers and for labor.
+
+34:11 So that whole battery supply chain that I was just talking about, it's referred
+
+34:14 now often as the battery belt.
+
+34:16 You know, from Michigan down to Georgia, we're seeing this investment
+
+34:19 in the manufacturing and the processing and these upstream components as well.
+
+34:24 Taken together,
+
+34:25 that creates real new opportunities for American workers and American labor.
+
+34:29 I think it's one of the reasons why these things aren't easy.
+
+34:32 But you've seen even the UAW come around and recognize
+
+34:38 that this is the future of the industry, and the opportunity
+
+34:40 is to effectively organize that whole value chain.
+
+34:44 And they're seeing more opportunity than threat from
+
+34:46 that is a fair amount of risk filling required in order to do that.
+
+34:50 Yes or no, in the sense that the the the best positioned workers
+
+34:54 to actually do that work in the future are the existing workers
+
+34:58 who have been trained and worked in a lot of auto plants
+
+35:02 or in the suppliers Tier one and Tier two suppliers.
+
+35:05 Those workers are the best positioned
+
+35:07 and they should be in a position to actually have a shot, a fair shot
+
+35:11 at jobs in the battery supply chain.
+
+35:12 At the same time, we're talking about really cutting edge,
+
+35:15 innovative technology.
+
+35:17 And so whether that's the chemistry involved or storage more generally
+
+35:20 and I mean, this is exciting.
+
+35:22 We're talking about batteries for electric vehicles,
+
+35:23 but the storage technology itself
+
+35:25 is also going to help solve a lot of our energy needs, create a grid
+
+35:29 that is more dynamic and less susceptible to risk, help feed the need for energy
+
+35:34 that's going to come from data centers that is powering
+
+35:36 so the underlying technology of how we store energy,
+
+35:40 whether that's in a vehicle or in a much larger battery, is one of these.
+
+35:44 There is a cutting edge innovation where reskilling and frankly,
+
+35:48 we need new we need new innovation as well.
+
+35:51 I'm happy to say that Variety is going to be staying with us
+
+35:53 as we turn to what this fall's presidential election could mean
+
+35:56 for the U.S. economy.
+
+35:59 That's next.
+
+35:59 On Wall Street.
+
+36:00 Week on Bloomberg.
+
+36:12 This is Wall Street Week.
+
+36:13 I'm David Westin, former National Economic Council director.
+
+36:16 Brian Deese has stayed with us to talk about the economy.
+
+36:18 So, Brian, we've got an election coming up.
+
+36:20 You may not have noticed it coming November, and it looks like
+
+36:23 it's going to be Joe Biden versus Donald Trump once again.
+
+36:27 Give us your sense, having been in the White House, what difference does it make?
+
+36:31 Because it occurs to me
+
+36:32 sometimes I think we put too much pressure on the president and the White House.
+
+36:36 They can't control everything. Economy.
+
+36:38 How much of a difference does it really make?
+
+36:40 Well, look, I don't know if this election
+
+36:44 is going to be decided on policy and policy differences,
+
+36:48 but it should be,
+
+36:49 because if you look at the difference between these two candidates,
+
+36:53 the differences are as stark as any certainly any election in modern history.
+
+36:58 We've got
+
+36:59 President Biden's got a basic approach to the economy that he has laid out.
+
+37:03 And now you can see we're talking about significant investment
+
+37:07 in industrial renewal in the United States,
+
+37:10 a commitment to the idea that public investment in things like infrastructure,
+
+37:14 things like clean energy, a build out of the semiconductor industry, will help
+
+37:17 to expand productive capacity, ultimately expand real wage growth.
+
+37:21 And that's his strategy.
+
+37:23 And then, frankly, it's consistent with who he is and how he's approached
+
+37:26 the economy for some time.
+
+37:30 Candidate Trump,
+
+37:31 on the other hand, is a dramatic, dramatic departure.
+
+37:36 And the thing that I think we're probably paying insufficient attention to
+
+37:40 is at a moment where prices are the top issue on Americans minds.
+
+37:45 And we've finally seen real progress in bringing inflation down
+
+37:48 and bringing prices down.
+
+37:50 The basic Trump approach of protectionism
+
+37:53 across the board, indiscriminate tariffs, shutting down immigration
+
+37:56 and raising costs like health care costs by getting rid
+
+38:00 of pharmaceutical regulations.
+
+38:01 Getting rid of the Affordable Care Act is a recipe for significant
+
+38:06 inflationary pressures in the economy and price increases for typical families.
+
+38:10 So I think that that's a real short term effect and a real difference
+
+38:15 between these two candidates. Let's take a couple of those, if we could.
+
+38:18 They are immigration and they are for protectionism, as you put it, on trade.
+
+38:23 President Biden has not really dialed back
+
+38:25 substantially on the tariffs put in place under President Trump, as I recall.
+
+38:29 And certainly when it comes to China, it doesn't
+
+38:30 sound like they have a very different position.
+
+38:32 Is there really a difference when it comes to trade between these two men?
+
+38:36 I think there is. I think it's pretty stark.
+
+38:38 If President Biden has had a sort of a basic two part approach
+
+38:42 when it comes to trade, which is, one, have a very targeted approach
+
+38:46 to protecting American interests, economic and national security
+
+38:49 when it's warranted, and to really committing to work
+
+38:53 with partners and allies to try to build more capability and effectiveness
+
+38:58 when that is the case.
+
+38:59 So if you look at something like semiconductors,
+
+39:01 the Trump administration really didn't take any action
+
+39:03 when we were looking at sensitive dual use technologies that were potentially
+
+39:08 getting in the hands of the Chinese or other adversaries.
+
+39:11 The Biden administration came in, President Biden came in and said,
+
+39:14 I am going to put a stop to that.
+
+39:15 But I'm going to work with my allies and partners
+
+39:17 to do so, because otherwise it's fundamentally ineffective.
+
+39:21 You contrast that with the Trump approach, which is still emerging.
+
+39:25 So we'll have to see what happens on the campaign.
+
+39:27 But if it does turn out that what we're talking about
+
+39:29 is a 10% across the board tariff on all products
+
+39:33 coming into the United States from Allied countries, from from countries
+
+39:37 or from products where we don't produce anything here in the United States.
+
+39:40 A cup of coffee that is a very extreme and new step.
+
+39:46 You talk about completely eliminating permanent normal trade relationships
+
+39:50 with China.
+
+39:52 Candidate Trump has said at times,
+
+39:53 I want to literally eliminate all imports from China, period, and stop.
+
+39:57 The macro economic impact of those steps would be significant.
+
+40:02 You know, potentially a couple of points off a GDP
+
+40:05 and a practical impact on those four families would be
+
+40:08 quite significant to people would start to see it.
+
+40:11 And I think that a general Trump approach is one of core isolationism,
+
+40:16 which is not only to break those barriers, but basically to alienate our allies
+
+40:20 in the process that creates, you know, potentially larger across the board.
+
+40:25 So I think that the the top line well, you know,
+
+40:29 there's not that much difference in the mind.
+
+40:30 Trade is is a is is a complicated position when you when you unpack it.
+
+40:35 And what about immigration?
+
+40:36 There was a time there seemed to be a very big difference with them.
+
+40:39 President former President Trump certainly would say there's a big difference, but
+
+40:42 it feels like President Biden has moved toward the position of President Trump.
+
+40:46 Is there a big difference this point?
+
+40:47 Isn't any president going to have to address
+
+40:49 that southern border no matter what 100% The border will need to be addressed.
+
+40:52 There need to be addressed in a appropriate and aggressive way.
+
+40:56 I think the big difference and what I what I worry about is with respect
+
+41:00 to the legal immigration system.
+
+41:02 So one of the significant things we've seen over the past couple of years,
+
+41:05 the reason why we've seen significant increases in labor supply and labor force
+
+41:09 participation, it's legal immigration has come back after COVID
+
+41:13 and after the Trump administration,
+
+41:15 as well as more women coming into the workforce.
+
+41:17 That process of legal immigration that is now normalized.
+
+41:20 And the Biden administration prioritize, for example, working down
+
+41:23 visa backlogs and trying to get to a more normal system.
+
+41:27 I think under a Trump administration, you could expect that to revert.
+
+41:31 And I think in addition to that being bad for innovation and bad for
+
+41:35 for broader economic growth, it could also be
+
+41:39 quite inflationary in the short term
+
+41:41 because what you're doing is constricting labor supply at a moment
+
+41:44 where we need more we need more workers in the United States.
+
+41:47 Our legal immigration system has been an engine
+
+41:50 for growth for decades, for a long time.
+
+41:53 I think that there would be a big difference
+
+41:55 on that front, because I think you're right.
+
+41:57 With respect to the southern border, it will need to be addressed.
+
+41:59 It will need to be addressed in a realistic but aggressive way.
+
+42:03 What about fiscal policy?
+
+42:04 And as you said, President Biden has really pursued a policy of investment
+
+42:08 which is amounted to fiscal stimulus.
+
+42:11 There's a fair amount of it's still to be expressed.
+
+42:13 It hasn't come through the system yet.
+
+42:15 Is there a big difference in addressing the deficit and the debt?
+
+42:17 Because a lot of people, at least on Wall Street,
+
+42:19 are pretty concerned about it at this point?
+
+42:20 Yeah, Well, I think there's there's there's reason for concern.
+
+42:23 The big difference the biggest difference here is with respect to tax policy.
+
+42:27 And they're the numbers are very large.
+
+42:29 So if you look at there's a recent analysis of
+
+42:32 what would it look like from for Trump policy to go into effect.
+
+42:35 If you're talking about both extending the Trump tax cuts
+
+42:40 that were put place in 2017, many of which expire in 2025.
+
+42:44 And then you add on to that, it's things that Trump has been talking
+
+42:47 about to include a reduction in the corporate tax rate to 15%.
+
+42:51 All told, that would be about $4.6 trillion
+
+42:54 in additional tax cuts over a decade.
+
+42:56 That's almost two percentage
+
+42:58 points of GDP would take our revenue down below 15% of GDP.
+
+43:02 Very different from what a President Biden is talking about,
+
+43:05 where he's talking about actually trying to increase taxes, raise
+
+43:09 that corporate tax rate back up from 21 closer to 28%,
+
+43:13 increase taxes on the very wealthy by a significant amount.
+
+43:17 That could raise a couple of trillion dollars.
+
+43:19 So that gap between the two is well over $5 trillion.
+
+43:24 That will be a line of debate and a line of demarcation in 2025.
+
+43:29 But given the fiscal backdrop we have,
+
+43:31 I think if the market actually internalizes the idea
+
+43:34 that we're not going to do anything about the Trump tax cut extension and in fact,
+
+43:38 we're going to come in, we're going to layer on that with additional tax cuts,
+
+43:42 then I think that you'll start to see that in in impact on line
+
+43:45 to borrowing costs, because it will send a signal
+
+43:47 that we don't really have serious plan to address the revenue
+
+43:51 shortfall that we have in this country.
+
+43:53 Ryan, thank you so much for being on Wall Street.
+
+43:55 Really good to have you here.
+
+43:56 That is former National Economic Council director Brian Deese.
+
+44:01 Coming up, the magical
+
+44:02 world of mushrooms comes to global Wall Street.
+
+44:06 That's next.
+
+44:06 On Wall Street Week on Bloomberg.
+
+44:18 Finally, one more thought.
+
+44:20 Socrates said, my friend,
+
+44:22 care for your psyche, Know thyself for once we know ourselves.
+
+44:26 We may learn how to care for ourselves.
+
+44:28 And let's face it, just about all of us could take better care of ourselves
+
+44:32 by getting enough sleep and reducing stress.
+
+44:35 We see that these five daily behaviors of sleep, food, movement,
+
+44:40 stress and connection dramatically affect
+
+44:45 our health and our longevity.
+
+44:48 People who run big companies like Indra Nooyi of Pepsi see
+
+44:52 a greater need than ever to care for the psyches of their employees.
+
+44:56 I think post-pandemic
+
+44:58 we are seeing more and more people say, I have to worry about me as a person.
+
+45:01 I have to worry about my family.
+
+45:02 I want to worry about my well-being, my mental health.
+
+45:06 So we've got to start encompassing people
+
+45:09 as holistic humans as opposed to a tool of the train.
+
+45:12 Some of us turn to psychotherapists mob boss Tony Soprano did.
+
+45:17 Any thoughts at all on why you blacked out?
+
+45:19 I don't know. Stress, maybe.
+
+45:22 But for some, it's not enough to get more sleep
+
+45:24 or have a more thoughtful boss or have someone to talk to.
+
+45:27 Some of us turn to chemistry,
+
+45:29 like Elon Musk, who is talking about his use of ketamine again.
+
+45:33 There are times when I have
+
+45:37 sort of a,
+
+45:41 I don't know,
+
+45:41 like a negative chemical state in my in my brain.
+
+45:45 Like depression, I guess, you know, or like depression.
+
+45:48 That's not linked to any negative lives.
+
+45:52 And then ketamine is helpful for
+
+45:55 getting anyone else out of a negative frame of mind.
+
+45:58 And now there's a new game in town or really an old game
+
+46:02 that some of us may remember, perhaps hazily from the 1960s.
+
+46:07 Yes, there's a return to magic mushrooms.
+
+46:10 Mike Tyson does it.
+
+46:11 Even when he was partying in St Barts
+
+46:13 with Jake Paul, the man he's due to fight this July.
+
+46:16 Are you taking shrooms before the workout?
+
+46:18 Just because, like, the the space of thinking?
+
+46:21 Oh, absolutely.
+
+46:22 The focus and this of shrooms.
+
+46:24 It can't compare to nothing.
+
+46:26 Okay.
+
+46:26 Chelsea Handler does it with her employees.
+
+46:29 You took them camping and everyone took mushrooms.
+
+46:31 I didn't provide the mushrooms just for legal reasons.
+
+46:33 I want that to be stated very clear.
+
+46:35 Where in the budget is that? Is that craft service? Yeah.
+
+46:40 People can pick mushrooms in the forest.
+
+46:42 Bloomberg this week reported on so-called magic mushrooms
+
+46:45 being touted by executive coaches and Wall Street Journal had a piece
+
+46:49 on these magic mushrooms being, quote, the working woman's newest life hack.
+
+46:54 Steve Cohen has doubled down on his investment in Sabin.
+
+46:57 That's a bio pharmaceutical firm.
+
+46:59 In clinical trials for a medicine to handle serious depression, a medicine
+
+47:03 that uses, you guessed it, the active element found in magic mushrooms.
+
+47:08 Given all the buzz, maybe this really is the way to go.
+
+47:12 But as my wife could tell you, I'm pretty conservative.
+
+47:14 And back in the nineties when I was general counsel of Capsids ABC,
+
+47:18 we had a big commitment to the Partnership for a Drug Free America.
+
+47:22 That's a charity founded by Jay and Jay CEO Jim Burke,
+
+47:25 who just happened to be the brother of my boss, Dan Burke, And the essays
+
+47:29 we ran on ABC had a decidedly different approach to psychedelics.
+
+47:33 This is your brain,
+
+47:36 This is drugs.
+
+47:43 This is your brain on drugs.
+
+47:45 That does it for this episode of Wall Street Week.
+
+47:47 I'm David Westin. This is Bloomberg.

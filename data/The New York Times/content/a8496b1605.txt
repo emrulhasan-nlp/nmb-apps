@@ -1,0 +1,7 @@
+The European Union took an important step on Wednesday toward passing what would be one of the first major laws to regulate artificial intelligence, a potential model for policymakers around the world as they grapple with how to put guardrails on the rapidly developing technology.
+
+The European Parliament, a main legislative branch of the European Union, passed a draft law known as the A.I. Act, which would put new restrictions on what are seen as the technology’s riskiest uses. It would severely curtail uses of facial recognition software, while requiring makers of A.I. systems like the ChatGPT chatbot to disclose more about the data used to create their programs.
+
+The vote is one step in a longer process. A final version of the law is not expected to be passed until later this year.
+
+The European Union is further along than the United States and other large Western governments in regulating A.I. The 27-nation bloc has debated the topic for more than two years, and the issue took on new urgency after last year’s release of ChatGPT, which intensified concerns about the technology’s potential effects on employment and society.

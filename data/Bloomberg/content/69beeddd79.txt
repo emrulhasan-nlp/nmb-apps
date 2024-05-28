@@ -1,0 +1,99 @@
+At a White House press conference in November 2021, US Department of Transportation Secretary Pete Buttigieg was asked about racism in transportation. He responded by referencing highways that were “built for the purpose of dividing a white and a Black neighborhood” and mentioning an infamous anecdote from Robert Caro’s tome The Power Broker, about how planner Robert Moses designed parkways on Long Island with overpasses too low to accommodate the buses that Black and Latino families might use to reach the beach.
+
+The resulting backlash from the political right was predictable. “The roads are racist,” scoffed Texas Senator Ted Cruz on Twitter. “We must get rid of roads.”
+
+Expand
+
+Exchanges like this have grown common in recent years, as issues of race and inequality have played a more visible role in transportation debates. Under the Biden Administration, federal funds are being explicitly directed toward repairing the harm done during Moses’s era; programs such as USDOT’s Reconnecting Communities, for example, focus on redesigning or removing urban highways routed through Black neighborhoods in the 1950s and 1960s.
+
+But the inequalities cemented into American infrastructure are not always widely understood, let alone accepted.
+
+In her new book, Inclusive Transportation, urban planner Veronica O. Davis offers “a manifesto for repairing divided communities.” Davis, the co-founder of the bicycle advocacy project Black Women Bike DC and the current head of Houston’s transportation and drainage operations department, notes the ways in which minorities have borne a disproportionate share of the burden from American autocentricity:
+
+Unfortunately, we inherited a transportation network that reflects decades of decision-making by our predecessors who ceded communities to motor vehicles. Communities where people could once walk, bike, and use public transit were divided, leveled, and reshaped to make way for the interstate highways and wide streets designed by our predecessors. Ideally, the transportation network would connect people to jobs, education, food, opportunities, and each other. But this has not actually been the case for decades. There is a lot to redo, and in some cases dismantle.
+
+Bloomberg CityLab contributor David Zipper recently spoke with Davis about her book and the ways in which US transportation networks could better serve the least advantaged. (Davis also noted that her comments reflect her own views, not necessarily those of the city of Houston.) The conversation has been edited for length and clarity.
+
+What is something about inclusiveness and mobility that you only understood after you were leading transportation in a big city like Houston?
+
+I’d offer two things. First, being on the decision-maker side makes you realize that it is very hard to do the right thing. I will give a lot of kudos to the Biden administration and Congress for passing the Bipartisan Infrastructure Law. There is language in there that talks about Areas of Persistent Poverty, the Reconnecting Communities program, the Railroad Crossing Elimination program — these things really get at the heart of challenges cities face.
+
+Expand Veronica O. Davis is now a transportation official in Houston, Texas. Photo: Ed Underwood/Island Press
+
+To be able to put up a good project, you need funding, and the funding comes from the feds. But it flows through the states. The philosophies of the state may not align with the urban areas, or even some of the suburban areas. So the federal structures are really crucial.
+
+The other part about being a decision-maker is that you realize how much needs to change. As a consultant I worked on Vision Zero plans, and we tended to focus on individual projects. I don’t think we ever talked about updating infrastructure design manuals, which from engineers’ perspective is what they really care about. Now I recognize that a Vision Zero plan isn’t just enough; you have to make sure that your design manuals, policies and ordinances also support that plan.
+
+If you were parachuted into a mid-sized American city and handed $500 million to invest in inclusive transportation, how would you want to spend it?
+
+Number one, sidewalks. It’s the lowest of the low-hanging fruit. I currently work in a city where sidewalks are the property owner’s responsibility. It’s easy to say, “Well, the city should take it over.” But now we’ve created a multibillion-dollar funding gap.
+
+You show me any city in the United States, you don’t even have to tell me the city, just show me where there’s no sidewalks, and it is highly likely those communities are going to be Black, brown, low-income, or some combination of the three. It’s the same thing for a High-Injury Network in any city.
+
+In your book you wrote that people overuse the word “equity.” What did you mean by that?
+
+People call a lot of things equity than aren’t really equity, in my opinion. Especially now that I’m living in Texas, some people use “equity” to mean, “It’s inequitable that I can’t drive my car how I want.” And you’re like, “No, that is not what equity means.”
+
+And then you have this idea in our national discourse of “wokeness” and “equity” that means something very specific to certain people. But equity isn’t always about race. In my perspective, equity is about looking at who is the most impacted and harmed, and asking, “How do we get them to a place of normalcy?”
+
+In the book I used the metaphor of an emergency room, with people coming in and being treated for their various problems. But if someone arrives in crisis and should be triaged, let’s treat that person first. It’s the same with our communities — let’s first put our resources where they are needed most.
+
+Expand In Coram, New York, a sidewalk abruptly ends, forcing pedestrians to walk along the shoulder of the busy roadway. Photo by John Paraskevas/Newsday RM via Getty Images
+
+To continue with that triage metaphor, what do we do if the patient at the greatest risk doesn’t want the medicine they need? I’m thinking of Ward 8 in the District of Columbia, a low-income, predominantly Black area with many high-speed arterials and pedestrian and cyclist deaths. The local city councilmember has opposed building bike lanes that could save lives. How should we think about that?
+
+I lived in Ward 7, right next to Ward 8, for a good part of a decade. The issue is that bike lanes are emotional in and of themselves. It doesn’t really matter whether the community is Black, white, rich, poor — something about bike lanes brings out emotion in people.
+
+When you’re looking at different communities, you need to give them what they need. Neighborhoods in Ward 7 and Ward 8 have extremely high public transit use, but their transit service is also very unreliable. So some people might think, “I’m dependent on public transit, and it’s not reliable — and you want to talk to me about a bike lane?”
+
+If you had transit in Ward 7 and 8 with five- or six-minute headways, then I think you can get more people to accept bike lanes. But to continue the ER metaphor, it’s like you’re trying to fix my injured leg, but right now I have a migraine and I’m telling you that the migraine is affecting me more. So fix my migraine first, and then we can talk about the leg.
+
+I’d like to ask you about automatic traffic enforcement. They offer potential benefits because they make high-speed arterials safer, and low-income communities have more arterials, due to historically racist transportation planning. Automatic enforcement also replaces police traffic stops, which can be racially motivated and dangerous. But I’ve also heard concerns about the financial burden on low-income drivers and the concentration of ticketing in non-white ZIP codes. How should we think about automatic traffic enforcement, viewed through the lens of inclusiveness?
+
+I think it’s tough. I have seen automated traffic enforcement in areas that are almost setting people up to fail, because you have such a wide strip of road, like a four-lane arterial with nothing to slow down cars. Even when people want to do the right thing and drive at a “normal” speed, they’re going to go fast. Automated traffic enforcement is a tool, but when it’s the only tool you haven’t met the needs of that community.
+
+Much of your book calls for soliciting feedback from neighborhood residents and encouraging them to participate throughout the planning processes. Is there a risk of demanding excessive emotional labor from people who would prefer that the city address their transportation challenges without requiring so much time and energy?
+
+It can feel like emotional labor, but there is a give and take. The hard part of being in the government is that you may have very loud people who do not speak for the totality of the community. In the book I talk about “the silently suffering” and the need to be intentional in order to elicit their views on transportation projects. That means going to them. I’ve done public meetings for transit that were held at the bus stops, literally, on a Saturday. The passengers didn’t have to do anything — they just got off the bus and walked into the meeting.
+
+Also, you don’t want to have a meeting where you ask, “Tell me: What is it you desire?” This isn’t an episode of Lucifer; no one has time for that. You want to be very targeted in your questions and get to a solution quickly.
+
+I want to ask about the role of expertise in transportation. This one requires a bit of context. A few weeks ago, Seleta Reynolds, the former head of Los Angeles’ Department of Transportation and now a senior executive at LA Metro, said the following on a podcast : “How can we say we’re going to do better than our predecessors who bulldozed Black and brown neighborhoods to put in the freeway system, you know, without really allowing those communities to be at the table, how can we say that we’re better than them just because what we’re trying to build is a bus lane or a bike lane? What makes us so confident that we know best?”
+
+In response, Aaron Gordon of Vice wrote : “Not all bike or bus lane projects are perfect at their initial conception, but it is, in fact, possible to know if something is good or bad without hearing everyone’s opinion on it.” What do you think of that exchange?
+
+I agree with the Vice reporter. You’re never going to get 100% agreement on anything from the community. That’s why I wrote in my book about the need for bold leaders, because at some point, you have to make a decision.
+
+In this case, I think a key difference of a bus lane or a bike lane versus a highway is the physical disruption of a community to make it happen. If I’m building a highway through a neighborhood and taking properties, I am physically inserting a structure that is going to forever divide that community. And let me tell you, there are still DOTs around this country that are building highways through neighborhoods, even as the federal government puts billions of dollars into reconnecting communities. In 2023, with the knowledge that we have, with the tools available to us, building a highway through a neighborhood is lazy.
+
+Expand A bicyclist rides in a bike lane in downtown Houston. Photo: Karen Warren/Houston Chronicle via Getty Images
+
+I will say this, though: I think that the community has the ability to tell you what is good or bad if they know. You and I live in this transportation world where every day we read Streetsblog and CityLab and we go to conferences to learn more. The public does not think about transportation in the way that we think about it. But communities will get there if you take the time to provide education.
+
+It sounds like you’re saying part of the role of expertise in transportation is framing and choosing the options available — and perhaps excluding some that are too problematic to even warrant consideration, like ramming highways through cities.
+
+Exactly. In my old life as a transportation consultant, I once worked on a city’s approach to Safe Routes to School. Many parents and principals said they simply wanted a traffic light, because that is the one piece of transportation infrastructure that every citizen has been trained on. So we put together an engineering toolkit to help parents and principals understand the different options to use street engineering to protect children on the way to school. It gave them something to talk to the city’s transportation engineers about, beyond the traffic lights.
+
+Looking across the Atlantic, I recently interviewed Pascal Smet, an official in Brussels who oversaw much of the city’s recent transportation reforms. The city has made remarkable progress encouraging more residents to walk, bike and use transit, and car use has been falling. He said, “You have to make people happy against their will” — meaning that you shouldn’t worry too much about local opposition, because it will dissipate over time if a project is good. What do you think about that attitude?
+
+I do agree. You know, I talk in the book about the need for bold leadership. If people at transportation departments are ready to make the hard decision but feel unsupported by elected leadership, there is going to be a hesitancy. And what they will do can be called procrastination by public engagement. That’s really hard, because there are always going to be people who are going to kick and scream.
+
+I think it really comes down to trying to determine the opposition’s concern, because people may bring up real issues. But once you get to “I just don’t want it,” sometimes the response needs to be “OK, but we’re moving forward for the greater good.”
+
+So consensus in transportation planning is the wrong goal?
+
+You’re not going to get there. In this country, we can’t even have a unified answer on how to deal with a virus that wiped out millions.
+
+Fair enough. But not every mayor will stand behind controversial transportation decisions. Do you have advice for urban planners who find themselves working in a place where senior leaders aren’t so willing to take the heat?
+
+It’s hard. My best advice for them is not to be frustrated and to chip at what you can. Are there people who have influence over the mayor? If so, how can you get to those people?
+
+The other part is figuring out interim steps. It’s a compromise, but it at least gives you something to come back to later. There are places all over DC where getting the initial bike lane was hard. But now that it’s there, you can come back five years later and make it protected. C Street Northeast is a great example of that — the bike lane is protected, but it took some time.
+
+I’d like to ask you about La Sombrita, the controversial Los Angeles project that involved installing a small shade/light structure at bus stops. Many observers mocked the project’s seemingly modest benefits. One person tweeted: “By 2030 LA is going to have one bus running at 6 mph across the city, 3 apartments under $3000/month, 16 Sombritas, and 580 nonprofits convening community stakeholders to determine best practices.” That’s obviously tongue-in-cheek, but I think it touches on a real concern about community engagement in urban planning — that it has become an obstacle. What do you think?
+
+I think we can get there. Part of the reason why we can’t get things done right now is because we aren’t as inclusive as we need to be. The people we engage are those who are passionately for or against a given project. They’re the ones who have the time to attend meetings. With those two groups pitted against each other, you can’t reach those in the middle who might say, “I care, but I have 500 other things I need to deal with that are more important.”
+
+That’s the challenge of public engagement. There are a lot of people who may support an ambitious project, but they’re busy. That’s why it’s important to take things online, to go the street to engage people and get their feedback.
+
+So I understand the critique, but it’s a result of the process that we’ve had. We’ve empowered the most vocal people on both ends and ignored everyone else.

@@ -1,0 +1,7 @@
+European lawmakers are finishing work on an A.I. act. The Biden administration and leaders in Congress have their plans for reining in artificial intelligence. Sam Altman, the chief executive of OpenAI, maker of the A.I. sensation ChatGPT, recommended the creation of a federal agency with oversight and licensing authority in Senate testimony last week. And the topic came up at the Group of 7 summit in Japan.
+
+Amid the sweeping plans and pledges, New York City has emerged as a modest pioneer in A.I. regulation.
+
+The city government passed a law in 2021 and adopted specific rules last month for one high-stakes application of the technology: hiring and promotion decisions. Enforcement begins in July.
+
+The city’s law requires companies using A.I. software in hiring to notify candidates that an automated system is being used. It also requires companies to have independent auditors check the technology annually for bias. Candidates can request and be told what data is being collected and analyzed. Companies will be fined for violations.

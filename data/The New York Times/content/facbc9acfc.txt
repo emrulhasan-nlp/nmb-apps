@@ -1,0 +1,115 @@
+U.S. Pedestrian Deaths Around 1980, pedestrian deaths in the United States began to decline. Around 1980, pedestrian deaths in the United States began to decline. Thirty years later, that progress reversed. And fatalities have risen ever since, with no clear reason. Thirty years later, that progress reversed. And fatalities have risen ever since, with no clear reason. Embedded within this trend is an even more curious pattern that could provide some clues about what has changed. Embedded within this trend is an even more curious pattern that could provide some clues about what has changed. Nearly all of this rise has come from pedestrian deaths at night. Nearly all of this rise has come from pedestrian deaths at night.
+
+Why Are So Many American Pedestrians Dying at Night?
+
+Sometime around 2009, American roads started to become deadlier for pedestrians, particularly at night. Fatalities have risen ever since, reversing the effects of decades of safety improvements. And it’s not clear why.
+
+What’s even more perplexing: Nothing resembling this pattern has occurred in other comparably wealthy countries. In places like Canada and Australia, a much lower share of pedestrian fatalities occurs at night, and those fatalities — rarer in number — have generally been declining, not rising.
+
+Pedestrian Death Rate at Night 2000 2005 2010 2015 2020 5 10 15 deaths per million residents United States Australia, Britain, Canada, France To allow for comparison between countries, nighttime is defined as 7 p.m. to 7 a.m. local time. Source: New York Times analysis of government fatality data in the U.S., Australia, Britain, Canada and France.
+
+In America, these trends present a puzzle that has stumped experts on vehicle design, driver behavior, road safety and how they interact: What changed, starting about 15 years ago, that would cause rising numbers of pedestrian deaths specifically in the U.S. — and overwhelmingly at night?
+
+“This is something that, quite frankly, our profession missed,” Rebecca Sanders, the founder of Safe Streets Research and Consulting, said of the toll of nighttime deaths. “I think we missed that for a long time.”
+
+In 2021, more than 7,300 pedestrians died in America — three in four of them during the hours between sunset and sunrise.
+
+This trend exists on top of what is already a growing gap in roadway deaths between the U.S. and other countries. Speed limits on local roads are often higher in the U.S., laws and cultural prohibitions against dangerous driving can be weaker, and American infrastructure in many ways has been designed to enable speeding cars.
+
+Those baseline conditions may mean, researchers suggest, that American roads — and the pedestrians walking along them — have been especially susceptible to potential new risks like smartphones and bigger vehicles.
+
+But even that is only part of the picture.
+
+“I don’t have any definitive answers for this,” said Jessica Cicchino, the vice president for research at the Insurance Institute for Highway Safety. Ms. Cicchino, like many observers, has puzzled over how rapidly nighttime deaths have risen. “What is it that’s happening specifically in the dark?”
+
+The Danger of Darkness
+
+For starters, it’s important to understand just how stark the threat of darkness is for pedestrians in the U.S. Federal data that tracks every roadway fatality makes clear that the problem is not just about the behaviors and routines that happen to occur around nighttime (leaving work, for example, or going to bars). It is darkness itself that matters.
+
+This chart shows the deadliest time of day for pedestrians, averaging data from 2000 to 2021 over a whole calendar year:
+
+Pedestrian Deaths by Time of Day Jan. Time of peak deaths Midnight 4 a.m. 8 a.m. Noon 4 p.m. 8 p.m. Midnight Feb. March April May June July Aug. Sept. Oct. Nov. Dec. Midnight 4 a.m. 8 a.m. Noon 4 p.m. 8 p.m. Midnight Source: New York Times analysis of federal road fatality data.
+
+Another way of describing this picture: It shows the annual arc of the setting sun. Researchers have found related patterns looking at fatal collisions that occur in the weeks before and after clocks change for daylight saving time. When the 6 p.m. hour abruptly changes from light to dark, for example, even as traffic patterns generally remain the same, that hour becomes abruptly more deadly, too.
+
+“It’s purely an effect of daylight or darkness — and it’s huge for pedestrians,” said Michael Flannagan, a retired professor at the University of Michigan.
+
+In the dark, pedestrians are harder to see than other road users. They typically don’t wear reflective gear or lights, and their outerwear is often dark in color. American roads also weren’t particularly engineered with this risk in mind.
+
+“We literally taught generations of engineers to design conditions for daylight and not to consider nighttime,” Dr. Sanders said.
+
+The risk for other road users is higher during the day: The majority of deaths among vehicle occupants occur then. Until the last few years, that was true of cyclist fatalities, too. Even incidents of cars driving off the road don’t spike with nightfall in the same way that pedestrian fatalities do.
+
+Darkness, it appears, especially threatens people on foot.
+
+Or, rather, people on foot in America. In comparable countries, pedestrians are generally more likely to be fatally struck during the day.
+
+New Risks
+
+The most obvious potential risks that have changed in America since 2009 are found inside vehicles — in the drivers there fiddling with smartphones, in the dashboard displays that have grown ever more complex, in the growing weight and force of vehicles themselves.
+
+Smartphones have become ubiquitous with remarkable speed, overlapping closely with the timeline of rising pedestrian deaths. Apple’s iPhone was introduced in 2007. Within a few years, one-third of American adults said they owned a smartphone. By 2021, according to the Pew Research Center, 85 percent did.
+
+When it comes to other sources of driver impairment, “there’s no particular reason to believe that alcohol, speeding or fatigue necessarily have changed in any kind of big way,” said David Strayer, a psychologist who studies driving at the University of Utah. “What has changed is the amount of technology that we’re surrounding ourselves with.”
+
+Smartphones — and the way they can distract both drivers and pedestrians — aren’t uniquely American. But there is one thing that is still distinctly so: the pervasiveness in the U.S. of automatic transmissions, which help free up a driver’s hand for other uses. Just 1 percent of all new passenger vehicles sold this year in the U.S. had manual transmissions, according to the online car-shopping resource Edmunds. In Europe, manual transmissions are declining in popularity as a share of new light vehicles sold. But they still make up about 70 to 75 percent of cars on the road, estimated Felipe Munoz, senior analyst at JATO Dynamics.
+
+It’s perhaps not surprising then that Americans spend nearly three times as much time interacting with their phones while driving as drivers in Britain, according to smartphone data collected by Cambridge Mobile Telematics, which helps auto insurers, carmakers and local governments track and reduce dangerous driving. In the U.S., that distracted driving — detected when phones are tapped or in motion in vehicles traveling faster than 9 miles per hour — also typically peaks in the evening hours, according to the company’s data.
+
+Time Spent Interacting With Phones While Driving 4 a.m. 8 a.m. Noon 4 p.m. 8 p.m. Midnight 50 100 150 seconds per driving hour Source: Cambridge Mobile Telematics data covering about 920 million U.S. car trips from Jan. 2020-Oct. 2023.
+
+Though this data doesn’t capture exactly what people are doing on their phones, evening is when people often coordinate social activities and manage after-hours work messages and tasks. America’s round-the-clock work culture may contribute to that trend.
+
+“​​The adoption of smartphones for the past 15 years — where we are today, being addicted on social media and other apps — absolutely contributes to the increase in fatalities on our roads,” said Matt Fiorentino, Cambridge Mobile Telematics’ vice president for marketing.
+
+Official data linking smartphones and crashes is hard to find, though, given that the police typically don’t ask people involved if they were using phones (and those people might not answer truthfully anyway).
+
+Beyond just display screens, new vehicles have also changed to be wider, longer, taller and heavier. Not only do heavier vehicles hit pedestrians with more force, but they also often have worse brake times, meaning a driver who notices a pedestrian at the last second may strike that person at higher speeds. Studies have also indicated that vehicles with taller hoods are more likely to kill if they hit pedestrians; they strike people closer to the head or torso, instead of the legs.
+
+While researchers have pointed toward vehicle size as a factor explaining America’s high overall rate of pedestrian fatalities, several said they were skeptical that it explains much of the increase since 2009. That’s because American cars were relatively large even before 2009, and the rate at which new cars replace existing ones is slow.
+
+“In explaining the big run-up in pedestrian deaths, it’s not actually a huge portion,” said Justin Tyndall, an assistant professor at the University of Hawaii Economic Research Organization. His research estimates that the change in vehicle types since 2009 is responsible for less than 100 additional deaths per year. By comparison, around 3,300 more pedestrians died in 2021 than in 2009.
+
+Similarly, ownership of smaller vehicles (like sedans, coupes and station wagons) is down since 2009. But total pedestrian deaths from these same cars are up more than 70 percent, suggesting the bulk of the problem cannot be attributed to increased car size alone.
+
+The behavior of drivers inside vehicles — of any type — may also have changed over this time for a few additional reasons, researchers suggest. This timeline also overlaps with the rise of opioids and the legalization of recreational marijuana. But there is little research about how marijuana affects driving.
+
+Periodic federal roadside surveys, last updated in 2013-14, have found declining alcohol use by drivers and a rising share testing positive for drugs. A more recent federal study, collecting data from trauma centers and medical examiners about seriously or fatally injured road users, found in the years leading up to the pandemic that half of the drivers studied tested positive for at least one active drug. During the pandemic, that share rose to 65 percent. The results, the authors warned, “could be indicative of a growing problem.”
+
+Societal Change
+
+None of the explanations so far easily accounts for the full rise of pedestrian fatalities in the U.S. But while less obvious than driver and vehicle behavior, changes that have happened outside the car and across American society may be just as important.
+
+One theory is that Americans have been migrating toward the Sun Belt, including parts of the country that developed in the auto age, that have particularly poor pedestrian and transit infrastructure, and that have some of the highest pedestrian fatality rates. The rise in pedestrian deaths has been nationwide, with per-capita pedestrian fatality increases in 47 states since 2009. But many areas that have had poor pedestrian safety records going back decades — especially metro areas in Florida, Texas, and Arizona — have also seen the greatest recent population growth.
+
+Texas Calif. Ky. Ga. Wis. Ore. Mo. Va. Tenn. La. N.Y. Idaho Fla. Ill. Mont. Minn. Iowa Ohio Neb. Wash. S.D. Okla. Wyo. W.Va. Ind. Mass. Nev. N.D. Ark. Miss. Col. N.C. Utah Hawaii N.M. Kan. R.I. Mich. Alaska Ala. S.C. Maine N.J. Pa. N.H. Ariz. Conn. Vt. Pedestrian deaths per million residents 15 25 35 45 Yearly average calculated from 2019-2021. Source: New York Times analysis of federal road fatality data.
+
+The number of pedestrian fatalities in Florida has increased 75 percent since 2009, while the population has increased around 17 percent. Such state population changes alone don’t explain most of the rise in deaths, however. More relevant patterns may have to do with where, specifically, people have moved within those states.
+
+Nationwide, the suburbanization of poverty in the 21st century has meant that more lower-income Americans who rely on shift work or public transit have moved to communities built around the deadliest kinds of roads: those with multiple lanes and higher speed limits but few crosswalks or sidewalks. The rise in pedestrian fatalities has been most pronounced on these arterials, which can combine highway speeds with the cross traffic of more local roads.
+
+Research has found that pedestrian deaths over the last 20 years have declined in downtown areas and increased in the suburbs, often in places where lower-income residents live. Such suburban arterial roads are also where many communities have allowed multifamily and affordable housing construction that has been less welcome in neighborhoods with inherently safer streets.
+
+In Portland, Ore., for example, immigrants and lower-income residents priced out of other parts of the city have moved in along some of the region’s most notoriously dangerous corridors, like 122nd Avenue, a five-lane arterial that runs through the city’s most racially and ethnically diverse neighborhoods.
+
+“Now we have folks that are living, working, shopping, going to school directly on these roads that were essentially built as highways,” said Dana Dickman, the traffic safety section manager for the Portland Bureau of Transportation.
+
+In more recent years, the rise of homelessness in many American cities since about 2016 has also put a growing vulnerable population on streets in conflict with speeding cars. In 2021, 70 percent of Portland’s pedestrian fatalities were among the homeless. Last year, about a third were, similar to recent data in Los Angeles. Such data is relatively limited and new, but other cities including Colorado Springs and San Jose, Calif., have also noted a rise in pedestrian fatalities among the homeless.
+
+The homeless population may have little choice but to be out at night, and near dangerous roads.
+
+“Where they’re actually living unhoused — next to freeways, next to undercrossings — those are typically places that are busy streets,” said Tim Weisberg, a deputy director for the California Office of Traffic Safety.
+
+Nationwide, the overwhelming majority of the rise in pedestrian deaths since 2009 has come among working-age Americans, reinforcing the idea that this shift may also have to do with where those people are living and spending time.
+
+Change in Pedestrian Death Rate by Age 2000 2005 2010 2015 2020 -40% -20% +20% +40% Ages 18 to 64 Under 18 65 or older Source: New York Times analysis of federal road fatality data.
+
+People 17 and under are the one group bucking the overall trend, and deaths of children walking are at a record low. Not only are children less likely to be walking at night when the majority of pedestrian deaths occur, but studies have also estimated that the percentage of children who walk or bike to school has declined precipitously over the last 50 years.
+
+Individually, any of these theories seems unsatisfying. But put together, it’s clear that there’s been a particularly American mix of technological and social changes over the past decade and a half. And they have all come on top of a road system and an ingrained culture that prioritizes speed over safety. Whatever has happened over this time has reversed years of progress on daytime pedestrian fatalities, too, leading to a modest increase in deaths. Nighttime, however, has the potential to amplify so many of these new risks.
+
+A transportation system that’s safer by design — as in many European countries — might better absorb any one of these dangers. Distracted drivers are safer at lower speeds. People out at night are safer with well-lit crosswalks.
+
+Even “monster trucks are safe on safer roads,” said Nicholas Ferenchak, a professor at the University of New Mexico and director of the Center for Pedestrian and Bicyclist Safety.
+
+Now imagine distracted drivers in monster trucks on high-speed roads in the dark.

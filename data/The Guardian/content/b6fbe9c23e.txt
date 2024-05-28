@@ -1,0 +1,43 @@
+Signs of the burgeoning conflict between the US and China can be spotted in many different places, from balloons in the sky to videos on TikTok. But nowhere is it more apparent than on the microscopic wafers of silicon, otherwise known as semiconductors.
+
+Semiconductors, or microchips, are tiny pieces of technology that power everything from microwaves to military weapons. The industry is worth more than $580bn (£466bn), but even that figure belies their importance to the global economy. Their existence powers several trillion dollars’ worth of goods and processes; without them the global economy would shudder to a halt.
+
+It’s therefore a source of concern to many that over 90% of the world’s semiconductors are made in the place many US officials think could be the site of the next global conflict: Taiwan.
+
+If China were to annex Taiwan – which US officials believe could be attempted in the next decade – it, like the rest of the world, would find its supply of semiconductors massively disrupted.
+
+Beijing wants to boost its advanced semiconductor capacity so as to be more economically resilient in the event of an invasion, but also as a means of developing its military to be prepared for such a conflict. The US, however, is using the tools of international trade to undermine these efforts.
+
+Quick Guide China’s war chest Show Bringing Taiwan under the control of the Chinese Communist party (CCP) is the "inevitable requirement for the great rejuvenation of the Chinese nation", China's president Xi Jinping said in 2019. In recent years, as an increasing proportion of people in Taiwan say they want nothing to do with the CCP, China’s agitation to resolve the "Taiwan issue" has grown stronger. Xi sees "reunification" as an important part of his legacy and has not ruled out the use of force to achieve it. A war with Taiwan - which would soon involve regional neighbours and the US - would be devastating for both sides, as well as the global economy. But many experts think it could arrive in the next decade, or even the next five years. Before launching such an attack, China would have to prepare its economy and military and its self-sufficiency in key commodities, as well as win over potential allies. This series looks at the steps Beijing is already taking. Was this helpful? Thank you for your feedback.
+
+China’s semiconductor industry went from having about 1,300 registered companies in 2011 to 22,800 by 2020, but the growth has been concentrated in manufacturers that produce chips that are bigger and less technologically advanced. The most up-to-date chips are five nanometers or smaller; China’s industry is mostly dominated by chips that are 24 nanometers or above.
+
+Last year, China’s Semiconductor Manufacturing International Corporation (SMIC), the country’s biggest chip maker, was reported to have produced a 7-nanometer chip, which would represent a jump of two generations in terms of technological progress. But analysts doubt that SMIC would be able to produce these chips at scale and estimates suggest that China is a long way off its goal of being 70% self-sufficient in semiconductors by 2025.
+
+China’s ‘vulnerabilities’
+
+The US wants to stop this from happening. Last year the Biden administration imposed a sweeping set of restrictions, including a measure to cut China off from chips made with US technology anywhere in the world. In March, the Netherlands confirmed it had joined an agreement with the US and Japan to restrict the export of advanced chip-making technology.
+
+The strategy seems to be working. In the first three months of 2023, China’s chip imports declined by 23% compared with the same period in the previous year.
+
+skip past newsletter promotion Sign up to Business Today Free daily newsletter Get set for the working day – we'll point you to all the business news and analysis you need every morning Enter your email address Sign up Privacy Notice: Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Newsletters may contain info about charities, online ads, and content funded by outside parties. For more information see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion
+
+Beijing is thought to be preparing a 1trn yuan (£117bn/$146bn) support package for the semiconductor industry, which will include tax breaks or subsidies.
+
+“Faced with the new US export controls, China’s higher authorities have become more aware of the need to support firms in certain niches that are critical supply chain vulnerabilities,” says technology analyst John Lee.
+
+That could also mean penalising US competitors. On Sunday, China’s cybersecurity watchdog said that US company Micron, one of the world’s major chip manufacturers, had failed a national security review.
+
+“Operators of critical information infrastructure in China should stop purchasing Micron products,” the watchdog said.
+
+China’s broad definition of critical information infrastructure includes sectors ranging from transport to healthcare. When asked if the company will appeal the decision, a spokeswoman for Micron said: “We look forward to continuing to engage in discussions with Chinese authorities.”
+
+China’s leaders are also reforming the country’s technology strategy, following a shakeup that will give the Communist party more direct control over science and technology policy.
+
+But analysts think that cash alone will not be enough to turbo-charge China’s industry. The country’s leading semiconductor manufacturers are still decades behind the Taiwan Semiconductor Manufacturing Company, Taiwan’s golden goose, and other rivals in the west, such as the Dutch ASML.
+
+As a proportion of overall sales, the Chinese semiconductor industry spends a far lower share on research and development than the US industry: 7.6% compared with 18% in the US, according to the Semiconductor Industry Association, a US lobby group.
+
+The industry has also been plagued by entrepreneurs founding fraudulent operations in order to access government subsidies. In a bid to crackdown on this problem, last year the government revoked the licences of nearly 6,000 chip companies, an increase of nearly 70% on 2021.
+
+China’s technical challenges “require not just inventing the necessary equipment, chemicals and other inputs but also learning to use them efficiently and reliably at scale”, Lee says. “Years of R&D and industry experience are probably still necessary” for Chinese companies to be able to scale production.

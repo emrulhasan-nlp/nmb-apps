@@ -1,0 +1,2821 @@
+00:05 If we see inflation move higher, it really calls into question people's
+
+00:09 willingness to say rate cuts still are coming.
+
+00:11 It wouldn't take much, I think, to push back at least the timing of that first
+
+00:15 potential rate cut. They're telling you if things slow down,
+
+00:18 they'll cut a lot more. So they're trying to say that the risks
+
+00:21 around those three cuts are balanced. It's clear that this is a Fed chair that
+
+00:25 wants to cut rates and is willing to look through some of the hot inflation
+
+00:30 data. And I think we will end up with two cuts
+
+00:33 this year. This is Bloomberg Surveillance with
+
+00:36 Jonathan Ferro Lisa Abramowitz and Anne Marie Jordan.
+
+00:40 Let's get your week started live from New York City this morning.
+
+00:43 Good morning. Good morning.
+
+00:45 For our audience worldwide, this is Bloomberg Surveillance kicking off the
+
+00:48 week with yields at new highs for the year right across the curve, two year,
+
+00:52 ten year, 30 year. Here's the state of play right now this
+
+00:55 morning. Yields by four basis points very close
+
+00:58 to full 45 on a ten year lease accounting to inflation later this week,
+
+01:01 year to year approaching for rates. People are now pricing in basically two
+
+01:05 rate cuts from three rate cuts from seven rate cuts earlier in the year.
+
+01:09 In terms of what the Fed is going to do this year, what I'm looking at right now
+
+01:13 is how much does it matter and how much does this really speak to concerns about
+
+01:16 inflation or a real yields narrative? And I know it's nuanced, but this is
+
+01:20 something else. This is basically the Fed fighting
+
+01:23 inflation in the short term and winning over the long term, which just gives
+
+01:26 fuel to risk assets post payrolls on Friday through the weekend.
+
+01:30 That was a dominant phrase in all of this outside research, non-inflationary
+
+01:34 growth. How much of that story can we embrace
+
+01:37 going into this week? We will find out on Wednesday with CPI.
+
+01:40 We will find out on Thursday with PIE. We will find out as we hear about the
+
+01:44 geopolitical backdrop in terms of tariffs and other such things.
+
+01:48 This really is the key question can this growth truly come without inflation?
+
+01:52 Is it sort of a justification for any rate cuts at all this year?
+
+01:56 If there are no rate cuts, does that mean that they're going to be fewer rate
+
+01:59 cuts over 2025 and 2026? Or is the market is suggesting does that
+
+02:03 mean they'll be even more in 2025 and 2026?
+
+02:06 So. Oh, yeah.
+
+02:06 Okay. Risk on.
+
+02:07 You mentioned the geopolitics. So let's take the temperature of that
+
+02:10 and we can do that in the commodity markets.
+
+02:11 So let's bring up Brent and bring up WTI, WTI through Friday on a six day
+
+02:16 winning streak. Quite a rally last week by 4.5% This
+
+02:19 morning, Amari were lower by about 1%. Still 90 on Brent crude.
+
+02:23 Yeah, a little bit of cooling off in the oil market.
+
+02:26 This has to do with the fact that Israel has taken some troops out of Gaza.
+
+02:29 But the issue is they're waiting for potentially this strike from Iran
+
+02:33 somewhere within the region or somewhere on Israeli foreign territory abroad.
+
+02:39 So Goldman Sachs is talking about the fact that the rally could go 100
+
+02:42 barrels. Should we still have that geopolitical
+
+02:45 impact continue? But that remains to be seen at the
+
+02:48 moment. Then you have a lot of supply
+
+02:49 constraints around the world, which Amrita Sen talked about a lot this week.
+
+02:53 What I find fascinating was over the weekend the notes that I read had more
+
+02:56 to do with the Saudi Arabia and break even rate where they would actually have
+
+03:00 their positive returns on some of their funds.
+
+03:03 And it was $85 a barrel. So this is talking about a structurally
+
+03:07 higher rate of crude going forward, regardless of what happens in the Middle
+
+03:11 East. I'm trying to work that out, too.
+
+03:12 For how long will the Saudis withhold barrels and they're just going to sit
+
+03:15 there and let this crude move carry on. For how long will the White House just
+
+03:19 sit there and do nothing? We know they don't want to re filled the
+
+03:22 SPR. Are they willing at some point to drain
+
+03:24 it? Again, that's what I'm focused on going
+
+03:26 into the summer. I want to ask Ellen Wald about this.
+
+03:29 How much capacity do they have to drain this and what that means for gasoline
+
+03:32 prices, because it has to do with refining as well.
+
+03:34 But also Saudi Arabia, Do they have some sort of a bone to pick here in terms of
+
+03:40 who they want to win the election and how they want to sort of put their thumb
+
+03:43 on the scale they're going to do their best to talk about.
+
+03:46 This has to do with supply and demand constraints, nothing to do with
+
+03:49 politics. But if we go into the summer, we start
+
+03:51 seeing $4 a gallon of gasoline. We start potentially seeing $5 a gallon
+
+03:55 gasoline. You better believe the SPR potential tap
+
+03:59 is on deck as well. Is a lot of pressure on Riyadh.
+
+04:02 Brent crude right now, $90 in about $0.30, WTI, $86.
+
+04:06 Let's get into the market action for you, starting with equities on the S&P
+
+04:09 500. Equity futures right now just slightly
+
+04:12 softer. We're down about 0.1% coming off the
+
+04:15 back of the biggest weekly loss since the start of the year.
+
+04:17 Yields climbing through last week into this morning.
+
+04:20 Your time this morning, Lisa, by four basis points 440 so 60 on a ten yet I
+
+04:25 know that we always say this, but this is a massive week.
+
+04:27 I have to say. We've got the trifecta.
+
+04:29 On one hand, you have key US inflation data with CPI on Wednesday and on
+
+04:34 Thursday. We also get Fed commentary as well as an
+
+04:36 ECB rate decision. How much do we get them kicking off a
+
+04:40 potential rate cutting cycle? Thursday we'll get some guidance.
+
+04:43 Is June still very much a go and then earnings season kicks off and on Friday.
+
+04:47 This to me is possibly the most interesting kind of bifurcation.
+
+04:51 What matters more central banks or the earnings?
+
+04:53 Citigroup, Jp morgan, Wells Fargo, all kicking off.
+
+04:56 We're also getting Delta earnings on Tuesday, but I'll put that aside.
+
+04:59 How much is that going to be in the front driving seat versus, say, some of
+
+05:02 the inflation rhetoric and questions around Fed?
+
+05:05 I don't know. But I can say this.
+
+05:06 I think we're all down with the Fed speak, aren't we?
+
+05:08 I think we are. We're done with the Fed speak and we can
+
+05:09 move on to Q1 earnings. You really want to do that?
+
+05:12 You want to say that because somebody is going to come out and they're going to
+
+05:14 say something and all we're going to be talking about is that Fed speech?
+
+05:16 What would it take? Government opponents already come out
+
+05:18 and entertain the idea of perhaps talking about interest rate hikes later
+
+05:21 this year. What would you need to see to make that
+
+05:23 conversation more interesting that the neutral rate going forward is something
+
+05:27 closer to 4%? That kind of idea would torpedo markets.
+
+05:30 To me, one of the biggest and talked about issues is the fact that in 2025
+
+05:34 and 2026, rate cutting expectations are actually greater than where they were at
+
+05:38 the beginning of the year. This is a long term kind of structural
+
+05:40 play where people have complete faith in the Fed.
+
+05:43 What if the Fed doesn't have complete faith in themselves?
+
+05:44 If you want more of that, you're going to get tons of Fed speak this week and
+
+05:47 maybe that is what you want. Coming up this hour, Jeff, you have been
+
+05:51 why, as investors looking ahead to a busy week of data, former White House
+
+05:55 fellow Elliot Ackerman, as tensions escalate between Israel and Iran and
+
+05:59 Bloomberg's undercurrent as Treasury Secretary Janet Yellen wraps up meetings
+
+06:03 in China. We begin with our top story, investors
+
+06:05 looking ahead to the latest CPI print and the big banks kicking off earnings
+
+06:09 season. Jeff, you have been y melhem writes in
+
+06:11 this while flows may remain heavily focused on the US cross asset price
+
+06:15 action last week suggests that not all will be rosy for risk appetite.
+
+06:19 Markets are vulnerable to surprise outcomes in policy and data amid
+
+06:22 positioning volatility and shifting correlations.
+
+06:26 Jeff, I'm pleased to say, joins us now. Jeff, let's start there in the bond
+
+06:29 market. How much of a challenge as equals to
+
+06:33 this equity market? Well, yield levels are a challenge, but
+
+06:37 also the pace of the moves will be an even greater challenge for now.
+
+06:41 With a bit of my hat on, sometimes it's not about levels, it's about the speed
+
+06:44 at which you get to certain levels. If I compare the move know from 4 to 4
+
+06:47 and a half right now, the ten year somewhat slower compared to the rounds
+
+06:50 of Bear steepening that we had last year.
+
+06:52 But if this accelerates, that tightens financial conditions much more quickly
+
+06:57 than markets are already for, then you get the volatility.
+
+07:00 As you mentioned yourselves, if earnings do not meet lofty expectations, that
+
+07:05 generates volatility as well. And finally, we've got the geopolitics.
+
+07:09 So that's why I said it's not it's not all rosy out there.
+
+07:11 Well, Jeff, let's start with the data and we'll run with payrolls from Friday.
+
+07:15 You've got to learn something from the data and how the market responds to it.
+
+07:18 Are we learning the good news is actually good news based on what
+
+07:20 happened on Friday? Well, we actually had this discussion
+
+07:24 internally today. And let's just say no longer are we
+
+07:28 saying absolutely not slam dunk. No good news is going to be good news.
+
+07:31 At what point do we trigger that round of bear steepening such that good news
+
+07:35 starts to shift into bad news? So especially given all of the
+
+07:40 investment that's going into the U.S. right now, not just asset allocation,
+
+07:43 but looking at the headlines from this morning and last week and last seven
+
+07:45 days, I count $50 billion in investment by direct or subsidies by Asian chip
+
+07:51 manufacturers into the US, and that can be inflation.
+
+07:54 We know given the value added components to the US economy.
+
+07:57 So how do you offset that? And this should be good news on the
+
+07:59 corporate front, but if that translates into higher yields and tighter financial
+
+08:03 conditions, it might not be good news either.
+
+08:05 Jeff, just to put some numbers on this, I'm looking at real yields, inflation
+
+08:09 adjusted yields in the U.S. And so that typically is what triggers a
+
+08:12 lot of concern in the risk environment. This is not inflation driven and we're
+
+08:15 now north of 2% once again in terms of real yields in the ten year, that is the
+
+08:20 highest level going back to the end of last year.
+
+08:23 Why do you think this is happening? Is this basically a belief that the Fed
+
+08:26 is going to hold rates higher for a much longer period of time, or is this just
+
+08:30 idiosyncratic selling from a particular cohort that don't believe that the
+
+08:33 tenure is any longer, the balance to the Haven type of asset?
+
+08:37 I would say it's a combination of factors.
+
+08:39 And if you look at the productivity element, if you are actually
+
+08:42 anticipating a stronger productivity gains in the US than in real terms, real
+
+08:46 wages should be higher and then consequentially a real interest rate.
+
+08:51 So should be able to reflect that because at the end of the day, you know
+
+08:54 what deflator to use to use a normal PC one or CPI one or what you actually use
+
+08:58 earnings and what level of real yields you want to reflect the underlying
+
+09:02 conditions in the US. I think people are looking at
+
+09:04 productivity gains, all the investment going to the US and that's benefiting
+
+09:07 earnings accordingly. But again, how long can this be
+
+09:09 maintained because one sector may be doing well and continue to generate
+
+09:13 productivity gains, but that's going to come at the expense of other sectors as
+
+09:16 well. So I think it's going to be a delicate
+
+09:18 balancing act. But markets are not questioning the Fed,
+
+09:20 at least not yet. When you say is good news, good news.
+
+09:22 And that was a question that John asked. I wonder for what rate is good news
+
+09:25 becoming bad news maybe for Bonds, but still pretty good news for stocks.
+
+09:30 That might also face off with a pretty positive Q1 earnings season.
+
+09:33 Is that basically your view? Well, I think you're right.
+
+09:37 Now it's you need to be in the US market.
+
+09:40 So perhaps there's good news for U.S. stocks because there are no alternatives
+
+09:43 elsewhere. Let's look at the guidance from the ECB
+
+09:45 this week. I think this week is actually a live
+
+09:47 meeting as far as these fees. Concern, though, probably June is more
+
+09:50 likely when they're going to come first. There's no good news coming out of Asia,
+
+09:53 according to our data or clients. So every single currency almost is short
+
+09:58 right now amongst our client base. So you're almost forced into US markets,
+
+10:01 be it bonds or cash or equities. So in that sense.
+
+10:04 As long as the US keeps on surprising or even meeting expectations, then it is
+
+10:09 good news. But then the bar just gets set higher
+
+10:11 and higher. And then the moment that you see forward
+
+10:14 expectations on the earnings side start to disappoint, that's when the
+
+10:17 correlations begin to crack. So I think that's what we need to look
+
+10:19 out for in Q2. H.f.
+
+10:20 back up, I heard about 1% of what you just said and then I was thinking about
+
+10:24 just that and ignore the other 99. Life meeting Thursday, ACP Jeff, what
+
+10:29 does that mean? Well, going back to my a parity call in
+
+10:32 terms of euro dollar, which is in fact it's not too not super far from where we
+
+10:37 are right now. You will get voices and you're calling
+
+10:39 now is the time to act. If I look at wage growth in euro zone,
+
+10:42 if I look at near where the PMI is, we need to distinguish in Europe at least.
+
+10:46 So less bad from a very, very bad environment.
+
+10:49 You know, it doesn't mean things are getting better.
+
+10:52 Right. And if we actually do get energy prices
+
+10:54 going, the supply constraints as well, that I think is going to be negative,
+
+10:57 you know, for European growth as a whole.
+
+10:59 But the hawks on the Governing Council could then again argue over inflation
+
+11:02 expectations going up. Again, we're worried about a price
+
+11:05 spiral. Let's keep rates where we are.
+
+11:06 So that totally different reading of where the eurozone economy is right now
+
+11:10 between the dovish camps and the hawkish camps, I think that's going to come out,
+
+11:13 warns the Open. So the decision itself is probably going
+
+11:16 to be on hold like all the other seven central banks due to decide this week.
+
+11:20 But I think you are going to see much more two way dialogue and at the very
+
+11:23 least there will be calls, I expect, for cuts as well.
+
+11:27 So it just won't be as they should not be true.
+
+11:28 Are you sticking with that parity call on euro dollar, basically?
+
+11:32 Absolutely. How much pushback can you getting from
+
+11:34 clients regarding that? So I would say the sympathy with the
+
+11:38 view right now and the broader client consensus is euro lower perhaps parity
+
+11:42 at this point is one of the more aggressive targets right now if you look
+
+11:45 at options on pricing. So sympathy with the direction pushback
+
+11:48 perhaps against the target interest then, Jeff, wonderful to catch up this a
+
+11:52 fantastic call that just to have a discussion on euro parity call this
+
+11:56 year. Jeff you have been why Mel and Jeff,
+
+11:58 thank you. Just getting some breaking headlines.
+
+12:00 Jamie Diamond's 2023 letter to shareholders just drop in from what you
+
+12:04 see. Well, first of all, he talks about his
+
+12:06 macro call, which is what everybody finds interesting from a lot of these
+
+12:09 letters. These markets seem to be pricing in a 70
+
+12:12 to 80% chance of a soft landing. I believe the odds are a lot lower than
+
+12:15 that. So speaking to that, of course, we'll
+
+12:17 see earnings when he probably produces another record gain.
+
+12:19 So we'll get that sentence. He does talk about artificial
+
+12:21 intelligence and about how over time it could be potentially revolutionary akin
+
+12:26 to the Internet that has the potential to augment virtually every job.
+
+12:30 And then he talks just generally about the government deficit and printing a
+
+12:35 lot of money and how basically what we have seen is an economy fueled by
+
+12:39 government deficit spending and past stimulus.
+
+12:41 So, okay, Treasury Secretary Jamie Dimon, let's hear what you have to say.
+
+12:45 Inflation may be stickier, Rates might be higher than expected.
+
+12:48 I think you've touched on the important topic here.
+
+12:51 Is this a man in the risk management seat?
+
+12:53 Is this a man making a call on the economy?
+
+12:55 Is this a man who's sort of leaning towards Treasury in Washington, D.C.
+
+12:59 over the next five years? What is it?
+
+13:00 This is the House of Dimon, led by Dimon with Diamond in the front seat, trying
+
+13:04 to give off his larger than life kind of message, which he does pretty much every
+
+13:09 year. You can speculate on his tax, trade or
+
+13:12 whatever else you want to do. But the bottom line is some of what he's
+
+13:15 talking about, he has talked about before it, others talk about the similar
+
+13:17 time. There's a lot of questions swirling in
+
+13:19 Washington after he made those comments. But former President Trump in Davos and
+
+13:22 then recently, who's at the White House, having lunch with VP Kamala Harris and
+
+13:27 someone in the White House quipped to me, the days of Davos are long
+
+13:30 forgotten. They've moved past it.
+
+13:32 One line that stands out to this letter the staggering inability of the
+
+13:35 government to draft and pass a proper budget causes deep and unnecessary
+
+13:39 damage to our growth. We've been hearing a lot about this on
+
+13:41 this program and what this means for the Treasury market.
+
+13:44 And yet here we are talking about the economy that remains resilient.
+
+13:47 Even with that, even with that dysfunction down in Washington, best
+
+13:51 economy in the world right now relative to Europe and everything that's taking
+
+13:54 place there. Michaels's put out a piece for Morgan
+
+13:56 Stanley talking about how the deficit is going to grow with either Republicans or
+
+13:59 Democrats, probably more under Republicans and Democrats.
+
+14:01 But it won't matter because people can still chug along.
+
+14:04 This is the bottom line, right? How long before it matters?
+
+14:07 And right now people can scream about all they want.
+
+14:09 People can care about the auctions. Doesn't mean anybody else is going to
+
+14:12 care about them. The latest from JPMorgan's Jamie Dimon.
+
+14:14 You'll hear more from him on Friday when we get earnings from JP.
+
+14:17 Equities Right now, equity futures look like this.
+
+14:20 We're down by 0.1% on the S&P 500. With some stories elsewhere.
+
+14:24 You're plenty for a bank. With us is Dani Burger.
+
+14:26 Hey, Danny. Hey, john.
+
+14:27 Chip maker TSMC is going to be receiving $6.6 billion in grants.
+
+14:31 They also get as much as $5 billion in loans from the US to build factories in
+
+14:36 Arizona. It's a prelim agreement and the company
+
+14:38 will build a new factory in Phoenix. Adding to the two facilities already has
+
+14:43 in the state. Production is expected to begin in 2025
+
+14:46 and 28. The newest factory will be building next
+
+14:50 gen two nanometer chips. Those are essential to building emerging
+
+14:53 tech, including AI and military applications to David Ellison is closing
+
+14:59 in on Paramount. The movie producer and tech heir has a
+
+15:02 month to seal a definitive agreement. But first it needs to sell Paramount's
+
+15:06 board on the merger with his production company, Skydance Media.
+
+15:10 Ellison would serve as the CEO of the combined company, and that's according
+
+15:13 to people familiar who asked not to be identified due to the sensitive nature
+
+15:17 of those negotiations. His father, Larry, the co-founder of
+
+15:20 Oracle, is one of several names being floated for the role of chair.
+
+15:24 And for a few fleeting moments today, Americans will turn their gaze towards
+
+15:29 the sun as the path of a total eclipse tracks across cities from towns from
+
+15:34 Texas to Maine. The entire event will last for several
+
+15:37 hours, but the main spectacle where the date turns tonight is the moon obscures.
+
+15:41 The sun is expected to last for only about 4 minutes.
+
+15:43 So get outside, get your glasses. The event has been sparked a tourist
+
+15:48 boom with areas along the path fully booked.
+
+15:52 Buffalo called it their Taylor Swift, their Super Bowl.
+
+15:55 Meanwhile, the US will lose more than 30 gigawatts of solar energy as sunlight is
+
+15:59 blocked during prime generating hours. That's roughly the output of 30 nuclear
+
+16:03 reactors. And that's your Bloomberg brief.
+
+16:05 John Amazing. Danny Thank you.
+
+16:07 Guess who came in this morning prepared with glasses?
+
+16:10 Guess who I am. And I brought one for each of you.
+
+16:14 Thank you. I have.
+
+16:16 I have. And we do.
+
+16:16 And agree. Excited to integrate this session.
+
+16:19 Is that what we're doing? Yeah.
+
+16:21 You can't say no. Then I'll be here.
+
+16:23 You don't. You're not going to.
+
+16:24 To watch? No.
+
+16:25 Well, I don't have time. Isn't it 2 p.m., 3 p.m., Something like
+
+16:28 that. Can I just say don't look at the sun if
+
+16:31 you don't have the glasses. I've lectured my kids time and time
+
+16:34 again. Is this the lecture for the kids this
+
+16:36 morning? If you're watching kids, please.
+
+16:39 I'm telling you, you will get to remember former President Donald Trump
+
+16:42 standing at the summit. I do remember that.
+
+16:44 Don't do that. Please don't do that.
+
+16:46 Up next on this program, Israel preparing for Rafah.
+
+16:50 We have been increasingly frustrated. And again, that was a core message that
+
+16:55 the president delivered to Prime Minister Netanyahu in their phone call
+
+16:57 this week, this past week, that if they've got to do more, they've got to
+
+17:00 make changes. That conversation.
+
+17:02 Up next, live from New York City this morning.
+
+17:04 Good morning.
+
+17:18 Just for the record, I thought she bought the Sun Eclipse glasses.
+
+17:22 They're actually the 3D glasses for the movie.
+
+17:24 I'm not being very careful about this memory.
+
+17:28 Yeah, about people. I am sending this stuff on the streets
+
+17:31 of Manhattan. It's free.
+
+17:32 3D glasses, real face. Equities right now, the S&P 500 that no
+
+17:37 -0.1% even to high by three or four basis points your ten year for 4399.
+
+17:44 And this event is this morning. Israel preparing for Rafah.
+
+17:48 We have been increasingly frustrated and again, that was a core message that the
+
+17:53 president delivered to Prime Minister Netanyahu in their phone call this week,
+
+17:55 this past week, that if they've got to do more, they've got to make changes.
+
+17:59 Now, the prime minister assured the president that he would do that.
+
+18:02 We've seen some announcements in those early hours.
+
+18:04 That's welcome. We got to see more.
+
+18:06 We've got to see it over time. It's the latest this morning.
+
+18:09 Israel pulling some troops out of southern Gaza, preparing for an
+
+18:11 operation in Rafah despite growing pressure from western allies.
+
+18:15 Prime Minister Benjamin Netanyahu saying Israel is one step closer to victory,
+
+18:19 but reiterating there will be no cease fire until the hostages are released.
+
+18:23 And he. Akerman, the former White House fellow,
+
+18:25 joins us now for more. And a difficult question, I guess, but
+
+18:28 are you clear on the US Israel policy after the events of the last week?
+
+18:34 No, I'm certainly not 100% clear. And and I think the U.S.
+
+18:39 really is running the risk of sounding pretty hypocritical and its warnings to
+
+18:44 Israel about civilian casualties, given the number of civilian casualties the
+
+18:49 U.S. has inflicted over the past decade.
+
+18:51 But even if you look all the way back to the history of the United States and
+
+18:54 what we've been willing to do in terms of attacking civilian targets in wars
+
+18:59 that have been really existential to our survival.
+
+19:02 When you look at potentially not being clear, we heard from Admiral Kirby there
+
+19:05 and he says that what Israel is doing in Gaza with some troops coming out, he
+
+19:10 says this has to do indirect consequences of their conversations.
+
+19:13 Yet you hear from Democratic Senator Coons talking about the fact that he
+
+19:17 actually thinks is tactical. Israel wants potentially have a reset or
+
+19:21 potentially maybe move some troops to the north if they're going to have an
+
+19:24 issue with Lebanese Hezbollah. What do you make of this specific move
+
+19:28 Israel made over the weekend? You know, what we're seeing is is
+
+19:34 Israel's 90th division is moving out of Khan Yunis in the south.
+
+19:39 And, you know, the question is, you know, why is it moving out?
+
+19:43 And the Israelis have announced an operation in Rafa, you know, for some
+
+19:46 time they've been telegraphing that move.
+
+19:48 So it would seem that this is tactical, that you obviously you have to withdraw
+
+19:52 troops to send them into combat elsewhere.
+
+19:55 And the 90th Division has been in combat for about four months now.
+
+19:58 So they probably do need to rest and refit.
+
+20:01 I mean, all of that being said, though, you know, tactical troop movements can
+
+20:04 be used to serve as strategic cover if at a certain point the Israelis decide
+
+20:09 that they're not going to go into Iraq or that they're going to make that type
+
+20:12 of a concession. So I think we just have to wait and see
+
+20:14 what this means. If Israel is going to Rafa, the United
+
+20:17 States is talking about potential consequences.
+
+20:19 At the same time, we had hostage negotiations over the weekend.
+
+20:23 Are they just now for show for public optics?
+
+20:29 I think it's it's not inconsistent to have two parallel tracks of action going
+
+20:34 on at the same time. You can have hostage negotiation
+
+20:37 simultaneously as Israel is re posturing itself for an offensive that may or may
+
+20:41 not take place based off of the outcome of those negotiations around hostages or
+
+20:46 even around a ceasefire. So I think we know right now we're at a
+
+20:49 point of really, you know, a lot of uncertainty in the war and a lot of
+
+20:53 multi-dimensional aspects of the war, from negotiations to intonation,
+
+20:58 negotiations around a ceasefire to tactical operations, the potential of a
+
+21:03 new offensive. What message you take, Eliot, from the
+
+21:06 fact that we have not seen an Iranian retaliation yet from the killing of
+
+21:10 their senior military officials. Well, these things take time.
+
+21:16 I think we will see that retaliation because just like the United States or
+
+21:22 any other nation, the Iranians have a domestic intelligence constituency and
+
+21:26 they have to retaliate in order to show strength to their constituency.
+
+21:32 But what shape that retaliation takes and how effective it is is yet to be
+
+21:37 seen. So I think the Iranians will certainly
+
+21:38 at some point claim that they have retaliated.
+
+21:40 I guess that the way the market is treating this is that, especially with
+
+21:44 the withdrawal of troops by Israel, the fact that we haven't seen yet a
+
+21:47 retaliation from Iran, that there's a softening in the proposition of a
+
+21:51 potential escalation to a broader regional conflict.
+
+21:54 Do you think that that is an accurate way of reading the events over the
+
+21:57 weekend? I think it potentially is.
+
+22:01 You know, whenever you're in a conflict like this, there are always these off
+
+22:05 ramps. And, you know, both sides can choose
+
+22:07 whether or not they take the off ramp. So, you know, at this moment, Iranian
+
+22:12 retaliation, you know, it could be something very, very minor.
+
+22:16 And they claim that they retaliate and that creates an off ramp to begin
+
+22:19 negotiating. I would point out that if the Iranian
+
+22:22 retaliation is extreme, that that makes it very difficult for Israel to come to
+
+22:27 the negotiation table. So we're just going to watch and see how
+
+22:30 this plays out. That conversation is certainly the
+
+22:32 epicenter of the crude market this morning.
+
+22:34 $19 and Brent were down about 0.8%. And always wonderful to catch up with
+
+22:38 you. I mean, Ackerman and the former White
+
+22:40 House fellow and co-author of 2050 for a novel If the Next World War, Lacey
+
+22:46 writes, pointed out Iranian confrontation with Israel.
+
+22:49 How that plays out, if at all, is going to be key to where we go in crude this
+
+22:53 week. The fact that we saw the increase in
+
+22:55 crude prices and a lot of people are pointing to the potential for Iranian
+
+22:58 escalation that we heard about jammed GPS signals in Israel as people really
+
+23:02 hunkered down in Iran, really talking in hard words about targeting the U.S.
+
+23:06 as well, the fact that nothing has happened and that troops are being
+
+23:09 removed from certain areas of Gaza seem to have taken some of the temperature
+
+23:12 down, whether that last. So really remains to be seen.
+
+23:15 Again, as Eliot was saying, you can't game this out, which is a reason why
+
+23:18 it's difficult for people who are trying to Iran will go to the Security Council
+
+23:22 and weigh the options of what they want to do.
+
+23:24 Is this going to be something potentially in the Red Sea, in the
+
+23:26 Indian Ocean? Is this going to be things potentially
+
+23:28 in Israel or are they going to go to other foreign countries?
+
+23:31 We've seen this before, reports Georgia, India, Thailand in the past that Iran
+
+23:37 has tried to use to target Israeli officials.
+
+23:39 And I think we need to wait and see like the gaps that Israel was talking about
+
+23:44 that was getting spun out of control because they wanted to try to make sure
+
+23:47 that no drones could attack. We need to look at what the US and
+
+23:50 Israel say, what embassies to avoid and what places to avoid.
+
+23:53 And potentially that's what they're concerned about for now, at least some
+
+23:55 of the heat coming out of this commodity market.
+
+23:57 WTI is down about 0.8% crude this morning, 86 on WTI, Brent crude, $90 and
+
+24:03 about $0.40. Coming up on this program, Bloomberg's
+
+24:05 undercurrent as Treasury Secretary Janet Yellen wraps up her latest trip to
+
+24:09 China. If you are just joining US, equities in
+
+24:11 Tibet. Okay, down about a 10th of 1% on the S&P
+
+24:14 500, but starting the week with new highs for the year on ten year, two year
+
+24:19 and 30 year bond yields, yields are higher by about four basis points.
+
+24:23 From New York, this is Bloomberg.
+
+24:38 Live from New York City. Welcome to the program.
+
+24:40 Equity futures on the S&P 500 negative here by 0.06%, totally unchanged on the
+
+24:46 NASDAQ, 100 weaker losses last week, biggest weekly loss since the start of
+
+24:50 the year. Still only the fifth week of losses
+
+24:53 since the end of October. The underperformance last week.
+
+24:56 Interesting name. We can talk about this through this
+
+24:57 morning. Small caps, worst week since the start
+
+25:00 of the year as well. Really underperformed, Lisa, completely
+
+25:02 tied to the bond market as you saw yields go higher with the expectation
+
+25:05 that the Fed would not have the justification to cut.
+
+25:07 I would just want to point this out, though, about how rare it has been to
+
+25:10 see any kind of decline whatsoever this year, that the S&P hasn't had a to a
+
+25:15 down 2% day since February of 2023. This is the 12th longest streak since
+
+25:20 1928. That according to Citigroup's Stuart
+
+25:23 Kizer. As amazing as it is that it's been that
+
+25:25 good. That's how strong this rally has been
+
+25:27 since the end of October. The reasons for that rally have shifted
+
+25:30 quite a bit and we could talk about that too.
+
+25:32 In the bond market, it was look like there's a two year, ten year, 30 year.
+
+25:35 Last week we had sub 422 start the week on a ten year and we finished it north
+
+25:40 of full 40. And then this morning we had some wait
+
+25:42 to that by three or four basis points. A ten year yield, a full 4359 yields up
+
+25:48 by a couple of basis points and getting closer to 480 on a two year lease a full
+
+25:52 7739. So this question in question also came
+
+25:56 from Stuart Kaiser. This week.
+
+25:57 On Wednesday we get CPI and a lot of people view that as maybe the moment
+
+26:00 that we find out whether the bump idea is just the same as transitory was a
+
+26:04 couple of years ago, to quote Priya misra.
+
+26:07 But is an in-line report a beat? Is that how the market treats it?
+
+26:11 Is it basically the threshold of saying at least inflation did not surprise to
+
+26:15 the upside? Because that seems to be the big fear
+
+26:17 that's been baked into the rates market over the past couple of years.
+
+26:20 Can I say yes and just say yes a few times?
+
+26:22 Inline has got to be seen as a B at the moment, overwhelmingly on the street,
+
+26:26 the consensus view is non-inflationary growth.
+
+26:29 That's the story. Most people look at payrolls from
+
+26:32 Friday, really, really strong payrolls growth.
+
+26:34 And then you look at everything else. Wage growth comes in line.
+
+26:37 People are taken a little bit of confidence from that.
+
+26:39 So if you get inflation data coming in line as well, they can just embrace that
+
+26:43 supply side story, I guess even more. Is it a good enough reason to buy the
+
+26:48 long end? The longer?
+
+26:49 It has been a mystery to me and I sort of goes to the Jamie Dimon existential
+
+26:52 angst of the deficit in this question about interest rates longer term, that
+
+26:56 has been the most volatile area and one that is most of a mystery to me because
+
+27:00 what is the reaction function if you do think that the Fed is going to hold
+
+27:03 rates higher for longer, is that positive for the long end?
+
+27:06 Or if you get the sense that they're going to do these prophylactic cuts,
+
+27:09 does that mean that you could see that kind of priced into that longer term
+
+27:13 benchmark rate? And for me, some of this will be what
+
+27:15 happens here if you switch at the board and just roll forward to Brent Crude and
+
+27:18 WTI, we've had a big move higher in crude, a move of something like four and
+
+27:22 a half percent last week to the highs that we haven't seen since October on
+
+27:25 both Brent and WTI, which is pulling back a touch there.
+
+27:28 But what happens here is going to be critical to that conversation around
+
+27:31 inflation going forward and the Fed's tolerance of it.
+
+27:34 And that's how I think things develop at the long end off the back of that.
+
+27:37 And it's not just commodities. I mean, it's not just crude, it's also
+
+27:40 broader commodities, whether it's gold or chocolate or a lot of other things.
+
+27:43 So this is sort of the reason why they have to take it into effect a little bit
+
+27:46 more, especially with the driving season, and especially given the fact
+
+27:49 that it's going to be a political hot potato and all of that jazz.
+
+27:51 So you train the SPR around September time.
+
+27:53 I don't know if they have the ability to August.
+
+27:55 I don't know if they have the ability to.
+
+27:56 I mean, honestly, they've gotten to such a low level.
+
+27:58 I've heard mixed things. I know, you know, but it's better than I
+
+28:00 do. But honestly, I've heard so many people
+
+28:02 say to be kind of bumping up against the edge here, we are definitely well below
+
+28:06 the peak we had under the Obama administration.
+
+28:09 But yes, they can drain it. They can drain it for a bit.
+
+28:12 It's not going to be the same levels we saw previously under the Biden
+
+28:15 administration. But they can make a few they can make a
+
+28:18 few moments. And a lot of that would potentially be
+
+28:20 jawboning as well. Brent crude back to about 90 so far this
+
+28:24 morning under Savannah is this morning a busy week ahead.
+
+28:26 U.S. inflation data on Wednesday.
+
+28:28 The ECB with a decision on Thursday and the big banks kick off fintech season
+
+28:32 with jp morgan, wells fargo and Citi set to report on Friday.
+
+28:35 So let's set the scene for you. I still Apollo versus Morgan Stanley.
+
+28:39 And is that Morgan Stanley? That data point to another inflationary
+
+28:43 expansion of the labor market and do not alter the Fed's course to a June cup
+
+28:47 that sevens end and Morgan Stanley historians look over Apollo the economy
+
+28:51 is re accelerating. We're sticking to our view that the Fed
+
+28:54 will not cut interest rates this year. That's how divided things are at the
+
+28:57 moment. Right now I keep saying what's going to
+
+29:00 be more important? The Fed and the macro are earnings.
+
+29:03 And what it all points to to me is that there's bigger risk in bonds and there's
+
+29:06 less risk in stocks, especially if the earnings come in better than expected.
+
+29:10 That all flips on its head of suddenly start to get this weakness.
+
+29:13 But it just shows that there is no consensus whatsoever on Wall Street
+
+29:17 about how to read some of this data and what it means for the trajectory going
+
+29:20 forward. And a lot of that.
+
+29:21 No consensus on Wall Street. How to read the data is because it
+
+29:24 almost is a different economy in the sense Jay Powell talked about this.
+
+29:27 It's a bigger economy, not a tighter one.
+
+29:29 How much is immigration playing into, say, the jobs market and is that helping
+
+29:33 to keep a lid on wage growth, thus inflation?
+
+29:35 And everyone is. I'm going to be looking towards CPI
+
+29:37 because now that we have jobs out of the way, this is potentially the next data
+
+29:41 point could really point to what the Fed is going to do, say June or July, as
+
+29:45 Lisa mentioned, CPI on Wednesday and bank earnings on Friday.
+
+29:48 Getting a flavor, a preview of what Jamie Dimon thinks about the world.
+
+29:51 In his annual letter to shareholders, Dimon devoting a large portion of the
+
+29:54 letter to AEI, saying it may be the biggest issue the company is dealing
+
+29:58 with. Dimon also issuing a warning on the
+
+30:00 economy, writing, quote, These markets seem to be pricing in at a 70% to 80%
+
+30:05 chance of a soft landing. I believe the odds are a lot lower than
+
+30:09 that. So how is he handling his business?
+
+30:12 Right. We're going to find out about that
+
+30:13 hopefully on Friday when he talks about artificial intelligence, aside from the
+
+30:16 macro calls and sort of, you know, the treasury secretary like that's coming to
+
+30:20 the fore, there is this issue of how much AI is going to transform just his
+
+30:24 staffing levels, where they're hiring, where they're cutting back, who they're
+
+30:28 putting their money into. Those are some of the things I'd like to
+
+30:30 hear from him. I mean, these kinds of big
+
+30:32 proclamations, he's talked before about 7%, ten year rates.
+
+30:35 At this point, it actually looks less farfetched than maybe a year ago.
+
+30:39 But, you know, these are some of the things that he's come out with and with
+
+30:41 some of these warnings in the past, doing more with less.
+
+30:43 Let's roll back two weeks. Brian Moynihan, Bank of America I
+
+30:46 thought the conversation with him about I was quite revealing Each additional
+
+30:50 dollar of revenue at these banks every single year from here is going to become
+
+30:54 less and less labor intensive. So it's not that you may say, I don't
+
+30:58 know, ten, 20,000, 30, 40, 50,000 people being laid off.
+
+31:01 What you see is these companies will get bigger and they'll do it with fewer
+
+31:05 people relative to that expansion in revenue.
+
+31:07 That's going to be of some concern, I think, to younger age groups coming out
+
+31:11 of college looking for jobs because the grant schemes at these banks, which a
+
+31:15 lot of people are dependent on coming out of high flying colleges, were very
+
+31:18 hard at their degrees, sacrificed a lot of time.
+
+31:21 This is the career they won, the hiring relative to the size of the base.
+
+31:24 This is just not going to be the same. That's going to be big change we could
+
+31:26 see and the grunt work that typically people come in and they have to be sort
+
+31:30 of the assistant to a banker or someone else and you sort of learn through all
+
+31:34 that grunt work is going to be done by a computer, right?
+
+31:35 So at what point does that eliminate the opportunities to learn?
+
+31:39 It's a great point. The silver lining might be, as Brian
+
+31:41 Moynihan Moynihan said, fewer people, but they're all paid a lot more.
+
+31:44 So maybe, you know, they got the golden ticket exactly right.
+
+31:47 It's just sort of getting it is the golden ticket to be that one person that
+
+31:51 makes it on the desk. But I think it's interesting that he
+
+31:52 almost led the letter with it. It feels like this is what his bank is
+
+31:55 grappling with at the moment as one of the top issues and how it transform the
+
+31:59 business. I've got to say, I'm far more interested
+
+32:00 in the actual numbers on Friday than I am sort of this stuff about AI in the
+
+32:03 future. In the next.
+
+32:04 I just want to hear thoughts and yes, that's what you want.
+
+32:07 Broad proclamations, that's all. I'm sure.
+
+32:09 I'm sure that's what they want you focused on.
+
+32:10 That's very focused on it. Yeah.
+
+32:12 Treasury Secretary Janet Yellen wrapping up her latest visit to China.
+
+32:15 Yellen pushing leaders on the country's output, saying excess production and
+
+32:18 subsidies will lead to significant risks to workers and businesses in the United
+
+32:22 States and the rest of the world. A place to say the wank in on this with
+
+32:25 this is undercurrent of Bloomberg at an end there.
+
+32:28 It's almost like the self-discovery tour of Janet Yellen, a change of thought
+
+32:32 over the last 1020 years for her. How is this pattern?
+
+32:35 It's a policy shifts from the US administration anytime soon.
+
+32:41 Well, look, Missy Allen certainly has traveled a journey on the China
+
+32:44 relations story. During her trip, it seemed to be full of
+
+32:47 both criticism and there was plenty of cordiality as well.
+
+32:51 And a critical side, as you mentioned. And Ms..
+
+32:53 Yellen ruled out some of the familiar complaints that we now know about, which
+
+32:56 is basically China is manufacturing too much stuff and exporting to the rest of
+
+33:00 the world at very cheap prices. Interestingly, she said that's not just
+
+33:04 a threat to U.S. workers, but you mentioned global
+
+33:06 workers as well as maybe a hint they're trying to build up a bit of a global
+
+33:09 alliance as she as she tries to beat the drum on the overcapacity story.
+
+33:13 And then Michelle and also raised complaints about China's support for
+
+33:17 Russia, of course. And she made the point that China needs
+
+33:20 to drum up its own domestic demand by buying more of their own stuff than
+
+33:24 sending it overseas. But the cordial side, the old Missy
+
+33:27 Allen, the sort of, you know, the the the the kind of misselling that China
+
+33:31 would like in the past was also there. It was a cruise into Pearl River Delta.
+
+33:35 And there was an exchange of gifts between Mr.
+
+33:37 Allen and Chinese officials. So it was in the one hand delivering the
+
+33:40 hawkish message that we've become used to.
+
+33:43 And on the other hand, playing the old Yellen card we know well.
+
+33:45 Also, she's talking about the cost of steel a decade ago and that
+
+33:49 overcapacity. We saw some from China.
+
+33:51 Many are quitting. That's what we're seeing potentially now
+
+33:53 in the EV space. And she says the president, I will not
+
+33:55 accept this. They have gone out of their way to
+
+33:59 showcase that tariffs are set to come. And do we have any timeline on when we
+
+34:04 would see these tariffs? I don't think we have an explicit
+
+34:07 timeline yet. Unrebutted.
+
+34:09 Obviously, Ryan, Missy Allen was certainly delivering a message to China
+
+34:13 that they are not happy with our economic growth strategy and all
+
+34:17 implications out of the US. We respond and the Shin mole responds,
+
+34:20 by the way, from Beijing, even though there was somewhat of a cordial tone
+
+34:23 around the meetings, the Shin will hit back and said it really Michelin has
+
+34:27 come to deliver what they considered to be a pre-emptive warning that more
+
+34:30 tariffs or some kind of export controls are coming down the line.
+
+34:33 So certainly China is bracing for it. But China also seems to be playing nice
+
+34:38 during this visit. I mean, typically, given the amount of
+
+34:41 criticism that Mr. Allan levelled, you would have expected
+
+34:43 a more robust rhetorical response that doesn't seem to have been there in the
+
+34:46 state media reports that we've covered so far.
+
+34:49 So maybe there's a feeling as well that China expects something coming down the
+
+34:52 pipes, but they're also willing to play the waiting game a little bit because
+
+34:55 they know what's coming up in November is going to be the election.
+
+34:57 And this may well be, of course, Ms.. Yellen's final trip to China as treasury
+
+35:01 secretary. And there was a lot there to unpack.
+
+35:03 I do wonder if there is the economic appetite to withstand some of these
+
+35:07 tariffs without retaliation on the part of China.
+
+35:10 Is that what you're saying, that basically they're willing to wait, just
+
+35:13 grit their teeth and bear it if there are additional tariffs?
+
+35:16 So there's one interpretation out there that China's economy, as we know, is not
+
+35:21 as strong as it could be. It continues to be hobbled by the real
+
+35:24 estate sector in particular, manufacturers going strong and exports.
+
+35:27 But real estate is hitting it hard. At the same time that the U.S.
+
+35:30 economy continues to beat all expectations.
+
+35:33 So there is a view that China's willing to lie low a little bit during this wave
+
+35:37 of criticism because it wants to put out the welcome mat for FDI.
+
+35:41 It wants to get portfolio flows coming back into China.
+
+35:43 Remember that meetings Xi Jinping had with the U.S.
+
+35:45 CEOs only a few weeks ago? So they're clearly trying to dial down
+
+35:49 the rhetoric. But then on to tariffs in particular.
+
+35:52 Again, China knows full well there is the election coming up in November.
+
+35:55 There could be a potential change of administration that could lead to even a
+
+35:59 sharper change of approach on China policy.
+
+36:02 So I think a lot of analysts watching this do feel there's a bit of time out
+
+36:05 and this both sides are trying to stabilize relations.
+
+36:08 But China is more than happy just to run down the clock and wait and see what
+
+36:10 comes out of that November vote. And thank you, sir.
+
+36:13 Appreciate the update and are carrying their full impact down in Washington,
+
+36:15 D.C.. I think a lot of people on Wall Street
+
+36:17 have sort of got August, September circled as the next move potentially
+
+36:21 from this administration. Why do it now when you can wait until
+
+36:24 right before the campaign starts to really pick up going into November?
+
+36:28 Yeah, And a theme I heard was potentially that they don't want to turn
+
+36:31 this into infrastructure week. Every week becomes tariff week when
+
+36:34 reporters are asking them, is it done? Is it done?
+
+36:37 But obviously, you have an election in November, you are going to hold your
+
+36:41 biggest arsenal until September, October, maybe even August.
+
+36:45 So if the rhetoric on China is going to ramp up, potentially, that's when we'll
+
+36:48 see those tariffs, when they would matter for the domestic audience.
+
+36:51 So what's in the arsenal right now? Trying to s.p.a around August, if you
+
+36:53 need to go forward with big business in China, you see these tariffs on Chinese
+
+36:58 TVs. The Commerce Department is also looking
+
+37:00 into connected vehicles. This has to do with Chinese TVs as well,
+
+37:03 potentially more export controls and some of that technology, the tariffs and
+
+37:08 the, of course, the SPR to this point, it is not at the level that it was when
+
+37:12 Biden came into office, but they could still drain a few millions and
+
+37:16 potentially they will help the market. They're going to need to if we are
+
+37:19 seeing four or $5 per gallon of gasoline, every American consumer, even
+
+37:23 if you walk, you pass a gas station that is a reminder of higher costs.
+
+37:28 And inflation obviously has dogged this administration and it talks about China
+
+37:32 waiting it out, waiting it out for what they can get out for.
+
+37:35 HU Well, that was exactly what I was thinking at this point, given the fact
+
+37:38 that this is sort of a campaign tool, it gives you a sense of what the
+
+37:41 temperature is and sort of the general population and what you can expect with
+
+37:44 either administration. More on this, a little bit lighter
+
+37:46 equity futures right now, an S&P negative about 0.1%.
+
+37:50 Let's get an update on stories elsewhere.
+
+37:52 Here is your Bloomberg brief with Dani Burger.
+
+37:54 Hey, Tony. Hey, John.
+
+37:55 Goldman Sachs says that European stocks are likely to outperform the US over the
+
+37:59 next year. Sharon Bell and team cited factors like
+
+38:02 global manufacturing and a global can y upswing in the ECB cutting rates, they
+
+38:06 say in June. Financial, energy and consumer
+
+38:09 discretionary will be the best performers, they wrote.
+
+38:12 Shares of Boeing and Southwest Airlines lower in the premarket trade.
+
+38:15 The FAA announced that it's investigating yet another in-flight
+
+38:19 incident. This time, it was an engine cover that
+
+38:21 fell off. It struck the wing of a Boeing 737 800
+
+38:24 during takeoff from the Denver airport on Sunday.
+
+38:27 Then the Houston bound flight returned safely and the plane was just told to
+
+38:31 the gate. Boeing is still under regulatory
+
+38:33 scrutiny after a door panel blowout on an Alaska air flight earlier this year.
+
+38:38 The South Carolina Gamecocks are national champions.
+
+38:41 They defeated the Iowa Hawkeyes 8775 in the women's NCAA title game.
+
+38:46 This is now South Carolina's third national title in just seven seasons.
+
+38:50 It's also the 10th D1 team in history to complete an undefeated season.
+
+38:54 But the real highlight, it was Iowa's Caitlin Clark.
+
+38:57 She ended her career with 3951 points. Now she leaves as the all time leading
+
+39:04 scorer in both men's and women's college basketball.
+
+39:07 Really remarkable. And that is your Bloomberg brief John.
+
+39:09 Hey, Tony. Thank you.
+
+39:10 What a phenomenal athlete. What she's done for sports, for women's
+
+39:13 sports has been absolutely incredible over the last few weeks.
+
+39:16 People watch over a lot of male athletes.
+
+39:18 She's been the draw. I mean, honestly, all the jokes about
+
+39:21 going to a bar to watch women's NBA and sort of this question of whether college
+
+39:25 basketball get anything all went out the window.
+
+39:27 Shaquille O'Neal, I'm not watching the boys.
+
+39:29 They his words suck. I'm only following the girls.
+
+39:32 That's where some real incredible athletes are.
+
+39:34 This was him the other day on a podcast. I can't name one.
+
+39:36 I can't name a single male athlete from college basketball.
+
+39:39 And I'm just your average observer. Of course.
+
+39:41 What do I know? But that's been the story over the last
+
+39:44 month. She's the star.
+
+39:45 So here. Where did she go next?
+
+39:46 And what if she did something that comes with ratings that should come with money
+
+39:49 as well as well deserved? Up next on this program, inflation
+
+39:53 tested the Fed's patience. What we're hearing from the Fed is
+
+39:56 patience with inflation. But, you know, they can only be patient
+
+40:00 for that long. They are trying to say this is a bump in
+
+40:02 the road. Maybe bump is the new transitory.
+
+40:05 Love that line from prayer. That conversation coming up next.
+
+40:22 Equities on the S&P 500 negative here by 0.05%.
+
+40:26 Just a little bit softer to start the week.
+
+40:28 Yields a bit higher of four basis points for 44 on a US tenure.
+
+40:33 Earlier in the session new highs for the year on a two year ten year and a 30
+
+40:37 year crude pulling back just a touch a negative hit by 0.7% $86 and about $0.32
+
+40:43 under surveillance this morning. Inflation testing the Fed's patience.
+
+40:48 What we're hearing from the Fed is patience on inflation.
+
+40:51 But, you know, they can only be patient for that long.
+
+40:54 They are trying to say this is a bump in the road.
+
+40:56 Maybe a bump is the new transitory. But what they're telling us is, you
+
+41:01 know, this is not suggesting that inflation's not moderating, but how many
+
+41:05 months can they be patient? If so, this disinflation doesn't
+
+41:09 continue to slow down. I think that's where this inflation
+
+41:13 narrative is going to run. Think here's the latest.
+
+41:16 Investors looking ahead to March CPI data on Wednesday for clues about the
+
+41:19 Fed's path forward. FS Investments chief economist Laura
+
+41:22 Rein writes in this. Markets are on edge as the upside
+
+41:25 surprises for inflation keep coming under the hood.
+
+41:28 The mix of inflation remains a problem. Services prices are just too high.
+
+41:32 Does the Fed need to cut rates? No, that's going to make some markets.
+
+41:35 She's going to scream that for us in a moment.
+
+41:37 There is no urgency for a rate cut. My forecast is for rate cuts starting
+
+41:42 possibly Q3, Q4, no lower rank. Join this right now.
+
+41:46 For more, Larry, you can do that in a moment.
+
+41:48 I want to start with prayer, Isra of J.P.
+
+41:49 Morgan Asset Management, who asked the question, maybe a bump in the road is
+
+41:53 the new transitory? Does that resonate with you?
+
+41:57 I think that's well phrased because it's starting to feel a little bit like déja
+
+42:01 vu month by month where pointing at just one factor or one or two small one off
+
+42:07 sub indices that are giving an upside surprise and giving us a 0.3% monthly
+
+42:13 gain instead of 0.2. Well, if you get 12 months of those, it
+
+42:17 adds up to three 3.2% inflation, not 2% inflation.
+
+42:21 And that Whac-A-Mole sense is come back in just like it did.
+
+42:25 It's not a massive acceleration story, but it certainly is not pushing
+
+42:30 inflation back into that convenient 2% lane that we occupied for so long before
+
+42:35 the pandemic. LOW Let's dig a little deeper into that
+
+42:38 as well. The consensus, I think, on Wall Street
+
+42:40 at the moment is that you can surprise or rather you can embrace the supply
+
+42:43 side story, that growth is not inflationary at the moment.
+
+42:47 I think Chairman Powell shares that to a lot of.
+
+42:50 What's the biggest challenge to that view right now?
+
+42:53 I think the challenge is it's not just CPI we're starting to see.
+
+42:57 It's been a month and a half now of inflation upside surprises from producer
+
+43:02 prices, from commodity prices moving higher.
+
+43:05 The manufacturing price Subindex hit the highest in two and a half years.
+
+43:12 So it's not just consumer prices. It's really sort of seeping and bubbling
+
+43:17 up from a lot of different places. And listen, services prices are
+
+43:21 stickier. I think that's the issue.
+
+43:23 And again, it's not just rent. So, you know, you're seeing a nuanced
+
+43:28 story around inflation. I think unlike the growth side of the
+
+43:30 economy, everyone, you know, there's more consensus around the fact that
+
+43:33 we're in good shape on the inflation. There's still a wide range of consensus.
+
+43:38 And what is surprising is Powell is sort of, you know, interested in dismissing
+
+43:43 the latest data. Again, there's no urgency to cut rates.
+
+43:47 So the fact that he's still seems so intent on that path, I think is causing
+
+43:52 a bunch of us to wonder what the the conviction behind the rate cut is at
+
+43:57 this juncture. Maybe this is a reason why, Larry.
+
+43:59 You said also not higher for longer, but a renormalization of interest rates to
+
+44:03 the 1990s and 2000 is the ten year retests 5% at some sometime this year.
+
+44:09 What do you think is the trigger for that, given that everything we've seen
+
+44:12 so far, we're still quite a bit a ways from that.
+
+44:15 We're still a ways from it, Lisa, but I think that we're on that trajectory.
+
+44:21 It's the higher inflation numbers. It's this very strong growth numbers.
+
+44:26 It's the productivity numbers that look fairly solid.
+
+44:30 And then I think there's this supply side issue in treasuries that's just not
+
+44:34 going to go away no matter what. You change with the mix of funding.
+
+44:40 At the end of the day, if we're not going to have a recession, the yield
+
+44:44 curve should normalize and it's still deeply inverted.
+
+44:48 I see that as more of a twist. Some surgical rate cuts later in the
+
+44:52 year, but long term rates drifting up. And if we have a healthy economy with 3%
+
+44:59 inflation, there's no reason why long term interest rates shouldn't align with
+
+45:04 nominal GDP. That puts you in the 5% range.
+
+45:07 At least I don't think we should be as worried about that as we were with the
+
+45:11 rapid rise in rates that we saw in 2022 and 23.
+
+45:14 I'm old enough to remember the last time we got 5% ten year yields and people
+
+45:18 were talking about something breaking and bank failures and commercial real
+
+45:21 estate falling out of bed. We're basically taking that off the
+
+45:24 table now and saying this is an economy that can handle that.
+
+45:27 No, it's no problem that I am, because I think that this time last year when we
+
+45:33 touched 5%, it was the speed at which inflation, at which interest rates moved
+
+45:39 up so fast. I make the comparison if somebody from
+
+45:41 warm weather moves to New York in the middle of winter, there's going to be a
+
+45:46 very unpleasant shock and you're going to kind of freeze up.
+
+45:49 But the second winter, the third winter, you kind of get used to it and you're
+
+45:53 out and about doing everything that you would be doing normally.
+
+45:56 I think that's the right comparison here.
+
+45:58 The longer that we're at these interest rates, the more that we'll price in this
+
+46:03 into the costs of refinancing, the cost of buying a home and the cost of M&A
+
+46:08 activity, I think all of that will normalize.
+
+46:11 It was just the shock of the speed of the move.
+
+46:14 We're moving there gradually now. I don't think it's going to be as much
+
+46:17 of a problem for markets to digest. If the economy is fine and well and
+
+46:21 good, then these surgical rate cuts, you have about two or three priced in.
+
+46:24 Are you actually prepared to pare them back to potentially one or none?
+
+46:28 I am. And I've been sort of, you know, on the
+
+46:32 fence about saying that I don't think two or three rate cuts are needed.
+
+46:38 I just think it's what the Fed seems to have conviction they will deliver.
+
+46:43 I think that look at markets today, financial conditions, credit conditions.
+
+46:49 I don't think that we need these rate cuts at the end of the day.
+
+46:53 You're looking at a world with higher interest rates, offering a rich suite of
+
+46:58 alternative investments away from traditional equities.
+
+47:02 I think the markets have digested these higher interest rates just fine.
+
+47:05 Laura, can I just say that it's winter eight or nine and no, I have not
+
+47:09 adapted. Laura Rain Thank you.
+
+47:11 I'm at first investments. Maybe I'm like office vacancies in
+
+47:15 biology. Is not what I am.
+
+47:17 Okay, so you have an adapted public service announcement.
+
+47:20 Just say this. Get the right equipment.
+
+47:22 You don't have the right equipment. That's all I can say.
+
+47:23 If you've got a problem with. Hang on a minute.
+
+47:25 This. So grasp on Claire, please.
+
+47:27 What's wrong with the. What's the equipment?
+
+47:29 Let's just say. Okay, If you mean by the equipment you
+
+47:31 need to commit to the cold weather and then get the mission, whether it's a
+
+47:35 warm jacket, whether it's warm gloves, whether it's a hat, commit to going out
+
+47:39 there and experiencing the winds, But it's about embracing the experience of
+
+47:44 ugly boots. He's got it all.
+
+47:45 I've seen it. He's got an all moral piano.
+
+47:48 He's got. So Claire, critical of me.
+
+47:50 I'm not critical. I'm just saying the equipment, if you
+
+47:52 want to enjoy the winter, you have to have the right equipment.
+
+47:55 What does that mean? You have to have the right types of warm
+
+47:58 producing things. Use hand warmers if you need to.
+
+48:00 Also, England's cold in the winter. I'm not sure you have adapted.
+
+48:04 Look, the only reason I get through in New York is because you're promised a
+
+48:07 summer and the summer arrives and I can live with that.
+
+48:10 In England, it's tough. It's like this damp cold all year round
+
+48:13 that never goes away with the promise of maybe a week or two weeks of the sun
+
+48:17 shining, sort of like two weeks max. And every now and again it's a heatwave.
+
+48:20 It's like 24 degrees. Damp is worse than cold.
+
+48:23 To say I totally agree. The equipment.
+
+48:26 Okay. Coming up next on this program, Jimmy
+
+48:28 Shank of Rockefeller Global Family Office.
+
+48:30 Terry needs a fancier policy. It's a battery shaper of silk.
+
+48:33 Jan and in my inbox just drop in from silk Jan recession delayed indefinitely.
+
+48:38 We'll have that conversation in just a moment.
+
+48:40 Very much so. I can't wait to hear that because that's
+
+48:42 really ultimately what people are pricing in.
+
+48:44 Again, what does that mean for the Fed's commitment to cutting rates this year?
+
+48:47 Because we've still heard that commitment, even though perhaps they've
+
+48:50 tempered it just a little bit on the edges.
+
+48:51 And we'll check in with our guest to see if they have the right equipment to get
+
+48:54 through the month. I actually want to know this.
+
+48:56 I mean, it's April's per week equity features on the S&P just about unchanged
+
+49:01 on the S&P 500 in the bond market. Yields creeping higher right across the
+
+49:05 cap about four basis points on a ten year for 44.
+
+49:09 From New York, this is pulling back.
+
+49:30 If we see inflation move higher, it really calls into question people's
+
+49:34 willingness to say rate cuts still are coming.
+
+49:36 It wouldn't take much, I think, to push back at least the timing of that first
+
+49:41 potential rate cut. They're telling you if things slow down,
+
+49:44 they'll cut a lot more. So they're trying to say that the risks
+
+49:46 around those three cuts are balanced. It's clear that this is a Fed chair that
+
+49:50 wants to cut rates and is willing to look through some of the hot inflation
+
+49:55 data. And I think we will end up with two cuts
+
+49:58 this year. This is Bloomberg Surveillance with
+
+50:01 Jonathan Ferro Lisa Abramowitz and Annmarie Horden Hearn.
+
+50:06 Never insult the English weather again. Brutal feedback, sort of instantaneous.
+
+50:11 How do people defend it? I'm just curious.
+
+50:13 I would love to know as well. And I'm about to ask and hopefully I'll
+
+50:15 get a reply for you from New York City this morning.
+
+50:17 Good morning. Good morning for our audience worldwide.
+
+50:20 Big week ahead, CPI on Wednesday, bank earnings on Friday.
+
+50:23 Lots to talk about. Let's start with the bond market on a
+
+50:25 two year, a ten year, a 30 year. Earlier on this morning, new highs for
+
+50:30 2024 year of right now they on a ten year for 44.
+
+50:34 And this really raises the issue that we've been grappling with all year.
+
+50:37 At what level at what point do bond yields create a real problem for stocks?
+
+50:41 So far, we have shrugged that question off again and again because it's been
+
+50:44 rising for the right reasons. Is the bond complex still losing value
+
+50:49 with yields rising for the right reasons for stocks to keep rally?
+
+50:53 The question is when? The answer is now, according to Jeff,
+
+50:55 you if they were Madeleine, who was on this program 60 minutes ago, will say
+
+50:59 based on Friday, really strong data point payrolls growth really, really
+
+51:03 powerful stuff around fringe okay non-inflationary growth that supply side
+
+51:06 story drive in equities breaking out again and that relationship is just
+
+51:10 evolving day by day between treasuries and stocks.
+
+51:13 And I think we're all still trying to figure it out.
+
+51:15 It's good news, truly good news for stocks.
+
+51:17 And a lot of that has to do with the Fed pivot.
+
+51:19 This idea that the Federal Reserve came out essentially indicated they were bias
+
+51:22 to cut, whether it is just sort of insurance cuts or, you know, beautiful
+
+51:26 cosmetics cuts, whatever you want to call it.
+
+51:28 The question here is, are they sufficiently challenged in that thesis
+
+51:32 and that desire to reduce benchmark rates, given the data that's strong, but
+
+51:37 not necessarily inflationary in the same way.
+
+51:38 And that's the reason why CPI on Wednesday is going to be such an
+
+51:40 important day. Is the data cooperating?
+
+51:42 Need to talk about commodities to gold recently breaking out to new all time
+
+51:46 highs silver with a big run as well over the last week or so up again this
+
+51:50 morning by 1.3% and crude new highs for the year, in fact, the highest since
+
+51:54 October, a move of close to 5%. AMR last week just paring those gains
+
+51:58 this morning by 7/10 of 1%. On Brent, we've passed to the
+
+52:01 psychological level of $90 a barrel. Next, everyone is talking about
+
+52:05 potentially, can we get to 100? You see Goldman, you see Bank of
+
+52:08 America. You see a lot of notes coming out
+
+52:10 potentially in the summer peak driving season.
+
+52:12 These supply concerns, can we see $100 a barrel?
+
+52:15 And this is going to be very tense given the fact that we are in this moment
+
+52:18 right now geopolitically where we're still waiting for Iran's response.
+
+52:22 And then you have all the supply and demand constraint.
+
+52:24 Does that derail the happy talk at the Federal Reserve in any way, shape or
+
+52:27 form this week, in effect, speak? They will say no.
+
+52:31 They will say that they don't look at oil prices.
+
+52:33 Oil prices are transitory, just as bump might be transitory and transitory was
+
+52:37 transitory. But there's a real question about how
+
+52:39 that feeds into some of the consumer sentiment and consumer expectations of
+
+52:43 inflation. We see that pretty religiously.
+
+52:44 The University of Michigan sentiment survey I know you have issues sometimes
+
+52:47 with the fact that they haven't called you just call John and then he'll really
+
+52:50 like the survey. But the question that I have is, you
+
+52:52 know, at a certain point, is that going to feature in to some of the Fed
+
+52:55 procrastination? I've looked into that before.
+
+52:58 Not to get the call, just the questions they ask.
+
+52:59 Oh, yeah. And I just I just want to speak to the
+
+53:01 people that put together that report. You're prepared for it.
+
+53:04 You have answers to five year inflation expectations of like ten seven.
+
+53:10 You're going to singlehandedly skew the results.
+
+53:12 So the results are going to come out one day and it's going to say longer term
+
+53:14 inflation expectations. 6.3% Jonathan Ferro.
+
+53:17 I walked past the garage the other day and saw gasoline at like $4 and that set
+
+53:23 for me 10% from here. Okay, That's how it works.
+
+53:26 Okay. I understand that it's arbitrary.
+
+53:28 It's sort of an arbitrary nature. How do you sort of survey people and
+
+53:30 have this really specific number that's actually pretty relevant to the last
+
+53:34 month's number? That said, it's a good gauge of
+
+53:36 sentiment and it sort of does feed into I mean, this is one of the reasons why
+
+53:39 the Fed was concerned about inflation. One particular Fed meeting, the Fed
+
+53:43 moved on this once, which I thought that was absolutely ridiculous at the time.
+
+53:47 They move the goalpost. How many times now?
+
+53:48 How many times if they move the goalpost, the data, the matters, the
+
+53:51 data, that doesn't matter. We don't quit now.
+
+53:53 It's that the data that matters. Yes, there also inflation, etc..
+
+53:57 Can I just say I feel a little bad for them.
+
+53:59 I feel bad, but I know you're going to you're going to wake me up.
+
+54:01 I know floor is yours place, but this is a difficult economy to understand.
+
+54:06 I don't understand exactly which pieces are moving.
+
+54:08 So how do they communicate that in any kind of comprehensive way?
+
+54:10 We all feel bad for them. Equity futures right now on the S&P just
+
+54:13 about unchanged. The price action shaping up as follows.
+
+54:16 Are you feeling bad for the Fed? Well, I'm just saying I understand.
+
+54:20 I empathize with the challenge. Okay.
+
+54:22 Yields up four basis points for 40 for 60 on a ten year crude, 8616.
+
+54:27 Coming up this hour, Jimmy Shank of the Rockefeller family office ahead of a
+
+54:31 busy week of data. Terry Haynes of panacea policy as
+
+54:33 Congress returns to Washington as the Patriots Emperor of Silk Jan on
+
+54:37 Wednesday CPI report. We begin with our top story.
+
+54:40 Investors bracing for a busy week of data.
+
+54:42 Jimmy Chang at the Rockefeller family office weighing in on the Fed's path
+
+54:45 forward. The case for rate cuts in 24 is low
+
+54:48 quality job growth and elevated real rates.
+
+54:51 While the case for no cuts is what's the rush when growth is still above trend,
+
+54:55 market's near all time highs and junk bond spreads near decade lows.
+
+54:59 I'm pleased to say that jimmy is well on the table with us.
+
+55:01 Jimmy, you. High.
+
+55:03 Which case is the stronger case from your standpoint?
+
+55:05 I believe there should really no rush to cut at this point.
+
+55:09 So you think we will get no cuts anytime soon?
+
+55:11 I do believe I suspect there will be probably one or two after the election
+
+55:17 for the first cut to happen. They really need a unanimous decision.
+
+55:20 And I think that's difficult, too, coming in June or even July, based on
+
+55:24 the current set of data, you'd push it back all the way to November of this
+
+55:27 year. What would that mean for the stock
+
+55:28 markets so far this year? It's handled things pretty well with
+
+55:31 priced in a ton of cuts as stocks are up still yet tonight by something like
+
+55:35 double digits. Do you think we can continue trading in
+
+55:37 that fashion? I think the road ahead is more
+
+55:39 difficult, probably higher volatility hit.
+
+55:42 Part of it is also the liquidity. The liquidity support for the market has
+
+55:46 been extremely strong, but we're gradually drawing down the overnight
+
+55:50 reverse repo, which is the source of, you know, the excess liquidity entering
+
+55:54 the market. So as you continue the Q program,
+
+55:58 continue to draw down the overnight reverse repo after the tax season, I do
+
+56:03 believe the liquidity trap gets more challenging and this is why the Fed has
+
+56:06 signaled that they will like to start to reduce the pace of q t fairly soon.
+
+56:12 Well, just to sort of bleed that out into the long end of the yield curve
+
+56:15 because this has been one of the big questions.
+
+56:17 Why has that been an area that has been so difficult to gauge?
+
+56:20 If the Fed holds rates steady until after the election, does that lead to a
+
+56:24 rally in the long end? Does that lead to more conviction that
+
+56:27 this Fed can get inflation and rates back down to a level somewhat akin to
+
+56:31 what we've seen in the past? Probably.
+
+56:34 Indeed, there's the thesis that if the Fed were to pivot too early, that raises
+
+56:38 the fear that inflation could make a comeback.
+
+56:41 So by staying tighter for longer, that's probably building more credibility to
+
+56:46 the market. But a lot also depends on the supply of
+
+56:49 bonds. I think we'll always, at the risk of
+
+56:51 just one more bad auction that can send yields a lot higher.
+
+56:54 And then at what point you wonder at what level is the 4.5% that starts to
+
+56:58 trigger the equity to pull back? And it's not just this
+
+57:02 relationship between pound and equities, it's also between bond and gold, right?
+
+57:07 Because historically, when you start to climb higher, real raise move higher,
+
+57:12 gold prices are supposed to come down. And yet we have been seeing the strong
+
+57:15 rally in gold price. What do you make of that?
+
+57:18 Because there have been a number of articles trying to explain it.
+
+57:20 They all disagree with one another. What's your explanation?
+
+57:23 Things the combination of the market from wrangling the the potential
+
+57:26 geopolitical problems in the Middle East.
+
+57:29 Potentially stickier inflation and also this recognition that we just have so
+
+57:34 much debt with the issue that at some point the Fed will need to start easing
+
+57:39 aggressively with QE. The question is how will the Fed restart
+
+57:44 quantitative easing without bringing interest rate down to zero?
+
+57:48 I think that's the question. In fact, the biggest question that
+
+57:51 reporters should be asking of the Fed at the post FOMC meeting is that the CBO
+
+57:57 actually projects that over the next ten years the Federal Reserve will purchase
+
+58:01 $5 trillion of US Treasuries. So that's the assumption from the CBO.
+
+58:07 Someone should be asking, Chair Powell, what do you think?
+
+58:10 Are you going to engage in another round of quantitative easing sometime soon?
+
+58:13 I think a lot of people are asking those kinds of questions, and it's a really
+
+58:16 good one. What does this mean for the traditional
+
+58:18 6040 portfolio that basically the bond portion is now gold and oil and maybe
+
+58:23 chocolate and not really bonds? Well, if you believe that the secular
+
+58:28 interest rates are somewhat higher or maybe a lot higher than what we're used
+
+58:32 to over the last decade and potentially more volatility ahead in interest rates,
+
+58:38 then that 6040 portfolio will not work as well.
+
+58:42 So I suspect that you will need more diversification to get that hedging
+
+58:47 effect. Looking into real assets, precious
+
+58:50 metals, alternative strategies. What about foreign equities?
+
+58:54 Where do they fit in to all of that? Foreign equities get more interesting
+
+58:58 when you have synchronized global recovery.
+
+59:01 We're not there yet. Foreign equities work better when the
+
+59:04 dollar is weaker. And at this point, if we believe that
+
+59:08 the ECB is going to ease imminently and the Fed may choose to stay somewhat
+
+59:14 higher for longer than the dollar potentially will move even higher, which
+
+59:18 argues that at least in the near term, is probably not your time to overweight
+
+59:22 overseas equities. Help me just make sense of this.
+
+59:24 You would expect a stronger dollar and at the same time you think we could get
+
+59:27 a break out in commodities in places like gold?
+
+59:29 How unusual is that? That's why it's been very interesting
+
+59:32 year today. You see the breakout in gold.
+
+59:35 I think that's pointing to the market is concerned with the longer run fiscal
+
+59:40 unsustainability in Washington. Can you just help us because we were
+
+59:44 talking earlier today about the Jamie David letter of JPMorgan and how AI is
+
+59:49 this huge theme. I know you focused on technology your
+
+59:52 whole career and just some of these technological advancements.
+
+59:55 How much do you think that that's going to reduce staffing at some of these
+
+59:58 companies? How is it going to transform some of the
+
+01:00:00 financial centers, given your vast experience in that area initially is
+
+01:00:05 going to make us more productive. So is augmenting is increasing
+
+01:00:09 productivity. But over time, companies will realize,
+
+01:00:12 well, if I can get more throughput per employee, maybe I don't need as many
+
+01:00:16 people. So even with the expansion plans, you
+
+01:00:19 may not have to hire as many additional employees.
+
+01:00:22 So I do think over time that raises some big issues about social benefits.
+
+01:00:27 Should there be universal basic income? If we see more, you know, displacement
+
+01:00:32 caused by A.I.. So but those are probably five years
+
+01:00:35 out. So before we talk about universal basic
+
+01:00:37 income, when it comes to stock investing, I was going to ask a stock
+
+01:00:40 market question, but it really does raise some bigger social questions.
+
+01:00:43 Does that mean that the US benefits from all of these things that much
+
+01:00:46 disproportionately just because we haven't been the same kind of industrial
+
+01:00:49 center as some of these other areas, these areas that might get sort of
+
+01:00:52 depopulated in terms of jobs because of artificial intelligence, the US stock
+
+01:00:57 market will benefit the most from some of these advancements rather than
+
+01:00:59 international. We are ahead of the rest of the world.
+
+01:01:02 But that said, there's also the open source movement in A.I.
+
+01:01:06 and there are a lot of smart programmers elsewhere.
+
+01:01:09 So. So it is just the competition over time,
+
+01:01:12 and it's also how you apply A.I. to each industry verticals is the
+
+01:01:17 business applications that will come out in the coming years.
+
+01:01:20 At this stage we're just looking at the infrastructure, who makes the chips, the
+
+01:01:24 computers, the servers, the software? Well, the, you know, basic level
+
+01:01:29 infrastructure software. But over time, it's going to be
+
+01:01:31 individual business verticals, and that is new year to come.
+
+01:01:35 You talk about this sugar crash in 2025. What's the catalyst for that?
+
+01:01:40 It's just exhausting. All the unusually high sugar, high
+
+01:01:45 stimulus from the COVID era. I mean, we're still benefiting from it.
+
+01:01:49 So just look at the overnight reverse repo as a source of excess liquidity.
+
+01:01:54 I mean, we have been getting liquidity net liquidity injection into the market
+
+01:02:00 in 2020, 21, 23, and so far in 24, 2022 was the only year with a net withdrawal
+
+01:02:07 of liquidity and that's why we had a bear market.
+
+01:02:09 But I do suspect that if the Fed continues with T and with deeply the
+
+01:02:14 overnight reverse repo sorry in 2025, the liquidity backdrop will be very
+
+01:02:19 challenging. At the same time, we will run out of
+
+01:02:21 other stimulus, such as, for example, the resumption of the employee retention
+
+01:02:26 tax credit that may happen this spring. That gives.
+
+01:02:29 You know, you paid out for the remainder of the year.
+
+01:02:32 Then what do we do for an encore in 2025?
+
+01:02:35 And also, you're looking at a potential debt ceiling negotiation in January of
+
+01:02:39 25. You describe a lot of messy things that
+
+01:02:42 could take place and just gone after everything you've said in the last 8
+
+01:02:44 minutes, statements, extortion, potential, sticker inflation, go to
+
+01:02:48 precious metals later, start four rate cuts UPI in five years.
+
+01:02:53 How is this Federal Reserve going to balance financial stability and price
+
+01:02:56 stability, given everything you've just told us in the last 8 minutes?
+
+01:03:00 How are they going to do that? I don't think anyone really knows.
+
+01:03:04 We're really in somewhat uncharted waters, and this is why many of the
+
+01:03:08 traditional market indicators, the yield curve, the leading economic indicators,
+
+01:03:14 have not work in this cycle. Just because we have been overwhelmed by
+
+01:03:17 so much monetary and fiscal stimulus. We're still benefiting from it.
+
+01:03:21 So I think everything may be okay into the election, but beyond that, who is
+
+01:03:26 going to be in control of the Congress and White House?
+
+01:03:28 What will the policies be? So there's just a lot of uncertainties.
+
+01:03:32 Do you think we could be close to this market rejecting a policy effort from
+
+01:03:36 this administration or the next administration sometime soon?
+
+01:03:39 Lisa's been talking about this for a while.
+
+01:03:41 The prospect of a Liz Truss moment in the Treasury market.
+
+01:03:44 And I think a question we phrased in the following way, does this Treasury does
+
+01:03:48 Washington still have the privilege of behaving recklessly or are we very close
+
+01:03:52 to that being challenged by fixed income?
+
+01:03:54 I think ultimately it will take revolt from the bank, you know, the bank
+
+01:03:58 vigilantes to push Washington to be more fiscally responsible.
+
+01:04:03 Jimi, thoughtful stuff. A lot to chew over.
+
+01:04:05 Thank you, sir. Jimmy Shank, the of the Rockefeller
+
+01:04:08 Global Family Office equity futures right now, totally unchanged on the S&P
+
+01:04:11 500. Let's get an update on stories house
+
+01:04:14 where henry shaw Bloomberg Daybreak with Dani Burger.
+
+01:04:16 Hey, Danny. Hey, John.
+
+01:04:17 For a fluke few fleeting moments today, Americans will turn their gaze upwards
+
+01:04:21 to the sun. Is the path of the total eclipse tracks
+
+01:04:23 across cities and towns from Texas to Maine.
+
+01:04:26 The entire event will last several hours, but the main skeptical is, of
+
+01:04:29 course, for day turns to night, with the moon being obscured for the sun.
+
+01:04:32 That's only expected to last for about 4 minutes.
+
+01:04:34 The event has sparked a tourist boom. Areas along the path are fully booked.
+
+01:04:39 Meanwhile, the US will lose about 30 gigawatts of solar energy, with the
+
+01:04:43 sunlight being blocked during prime generating hours.
+
+01:04:45 It's roughly the equivalent of 30 nuclear reactors.
+
+01:04:49 The CEO of Rolex has warned against viewing luxury investments as luxury
+
+01:04:53 watches, rather as investments. The CEO, John Frederick du Force, said,
+
+01:04:57 quote, I don't like it when people compare watches with stocks.
+
+01:05:00 It sends the wrong message and is dangerous.
+
+01:05:02 An interesting signal for someone who wants people to buy his watches.
+
+01:05:06 He sees a slowdown hitting sales of smaller watch brands the hardest.
+
+01:05:09 And it's a battle of the number one seeds.
+
+01:05:12 UConn faces Purdue tonight in the men's NCAA championship game.
+
+01:05:16 The UConn Huskies are looking for a win in back to back national titles.
+
+01:05:19 The Purdue Boilermakers have a chance now to win their first ever
+
+01:05:22 championship. And that is your blueprint.
+
+01:05:24 Brief John Porter up down for the Wrap. Thank you.
+
+01:05:27 Up next on this program, Treasury Secretary Janet Yellen's tough message
+
+01:05:31 to China when the global market is flooded by artificially cheap Chinese
+
+01:05:36 products, the viability of American and other foreign firms is put into
+
+01:05:42 question. That conversation up next live from New
+
+01:05:44 York this morning. Good morning.
+
+01:05:59 Stocks on the S&P 500 this Monday morning.
+
+01:06:01 And good morning to you. Welcome to the program.
+
+01:06:03 Just about unchanged on the S&P. Yields are up by four basis points.
+
+01:06:06 The ten year for 4460 under surveillance this morning.
+
+01:06:10 Treasury secretary janet yellen's tough message to China.
+
+01:06:14 China is now simply too large for the rest of the world to absorb this
+
+01:06:21 enormous capacity. And when the global market is flooded by
+
+01:06:25 artificially cheap Chinese products, the viability of American and other foreign
+
+01:06:31 firms is put into question. Here's the latest this morning.
+
+01:06:34 Treasury Secretary Janet Yellen expressing concern over China's
+
+01:06:37 manufacturing capacity, urging top leaders to focus on domestic demand.
+
+01:06:41 A meetings were reportedly cordial. However, China's premier advising Yellen
+
+01:06:45 against turning, quote, economic and trade issues into political matters.
+
+01:06:50 Terry Haynes of Panacea Policy joins us now for more.
+
+01:06:52 Terry, in what way aren't economic and trade issues political matters?
+
+01:06:59 Well, they always are, John, of course. And good morning, everyone.
+
+01:07:03 You know, the thing is, with this administration, I think the through line
+
+01:07:07 is that the you know, you can judge the ability to lecture is inversely
+
+01:07:13 proportional to the ability to achieve to actually achieve the result you want.
+
+01:07:17 So, you know, everybody understands the the the the drill over there yelling
+
+01:07:22 goes over, complains about all these policies and essentially wants to tell
+
+01:07:26 the Chinese to to redo their entire economic program, which they spent a
+
+01:07:31 couple of years coming up with. She knows they're not going to do that.
+
+01:07:35 They know they're not going to do that. They call a lot of the the charges that
+
+01:07:40 Yellen made groundless. And that's, quote, when it comes to
+
+01:07:44 flooding the world with EVs, for example.
+
+01:07:47 So, you know, everybody you know, nobody expects a different result personally,
+
+01:07:51 not even nor in political nor in the economic sphere.
+
+01:07:55 The result seems to be tariffs. And they've been signposting it now for
+
+01:07:58 months, especially from the treasury secretary.
+
+01:08:02 What do you view as the timeline for these tariffs?
+
+01:08:05 You know, I'm with you all. I heard you heard your previous
+
+01:08:08 discussion. I'm with you all that they try to do
+
+01:08:10 something closer to the election to to produce a bigger bang for the buck.
+
+01:08:16 And they'll probably try to fold that in if they can, with additional evidence of
+
+01:08:22 China helping Russia and Ukraine, which everybody knows is happening.
+
+01:08:26 And not just economically. Russia is effectively a client state of
+
+01:08:31 China. Okay.
+
+01:08:32 So what you're going to get is you're going to get, I think, heightened and
+
+01:08:36 sharpened Chinese rhetoric just about the time we go into the general election
+
+01:08:41 campaign, partially in the hopes that it actually makes a difference in the
+
+01:08:46 election. And I don't see that much at all,
+
+01:08:49 frankly. But they do.
+
+01:08:50 And then what would be the tit for tat that Washington should potentially be
+
+01:08:54 preparing for from Beijing? Well, there's a lot of things.
+
+01:08:58 You know, they will. Yeah, they will.
+
+01:09:00 Absolutely. Tit for tat on sanctions and a bunch of
+
+01:09:04 other things. And they'll probably ramp up their, you
+
+01:09:07 know, their their plans to to flood the United States market with EVs and all
+
+01:09:12 the rest and maybe even take additional steps in places like the South China Sea
+
+01:09:19 in order to rattle the geopolitical cage.
+
+01:09:21 So I think markets continue to forget that we're in the highest geopolitical
+
+01:09:26 risk for 50 years. And I think they think Taiwan has gone
+
+01:09:31 quiet yet the Taiwan issue has gone quiet.
+
+01:09:34 It hasn't. It's just that China is now threatening
+
+01:09:36 the Philippines instead of directly threatening Taiwan.
+
+01:09:39 So it seems quieter in the markets. Well, Terry, this is exactly the reason
+
+01:09:43 why I found it so interesting that President Biden is holding the first
+
+01:09:46 trilateral summit this week on Thursday between Japanese prime minister and the
+
+01:09:50 leader of the Philippines to talk about some sort of alliance to really counter
+
+01:09:54 China. How much is this directly tied to
+
+01:09:56 preparing for any potential retaliation to tariffs placed on China?
+
+01:10:01 Oh, 100%. You know, there are broader there there
+
+01:10:05 are broader geopolitical issues here. And the idea of adding Japan to the
+
+01:10:11 office umbrella has been around for a while and they're trying to move on
+
+01:10:15 that. And it's not just limited to Japan
+
+01:10:19 either. You know, the Biden administration has
+
+01:10:21 been spending a lot of time cozying up to to India.
+
+01:10:25 I'm not suggesting India is about to join office, but the idea here is that
+
+01:10:29 there is a there's a pushback in Asia against
+
+01:10:36 Chinese hegemony in the region that will continue the economic sanctions will
+
+01:10:41 continue to be a part of that. But there's the broader geopolitics as
+
+01:10:44 well. Not exactly an embrace of us hegemonic,
+
+01:10:47 though, is it, Terry? And I just wonder to what extent the US
+
+01:10:50 policy has been rejected by the region. You know, I don't think it's being
+
+01:10:54 rejected by the region. But there's you know, there's a lot of
+
+01:10:58 tensions there. If you're any non-aligned nation, you
+
+01:11:02 know, the idea of working with the country that's closer to you to get some
+
+01:11:07 immediate economic benefits always is is tempting.
+
+01:11:12 And and they're under a lot of pressure to
+
+01:11:15 do so. At the same time, though, you've got a
+
+01:11:17 situation where China has been pushing the Belt and Road for some years and
+
+01:11:21 that has very mixed results. And because because of those very mixed
+
+01:11:26 results, it seems like the pendulum today, the pendulum is moving back
+
+01:11:31 towards the United States and the Western alliance when it comes to
+
+01:11:36 wanting to establish a more independent, less China centric
+
+01:11:40 position in the region for a lot of these countries.
+
+01:11:42 How difficult is that kind of message? Before the election, I narrow in on
+
+01:11:46 what's going on with Nippon Steel. The president has said he doesn't want
+
+01:11:49 this deal to happen. The Japanese have come out and said,
+
+01:11:52 well, this actually means that we are stronger against China with this deal.
+
+01:11:57 And the US is using national concerted security concerns about China to want to
+
+01:12:01 block the deal. But really it's about domestic jobs.
+
+01:12:03 So when I talk to officials abroad, they sometimes feel that the US is speaking
+
+01:12:07 out of both sides of their mouth. How does the US combat that?
+
+01:12:12 Well, you know how they ought to best combat it is is stopping speaking out of
+
+01:12:17 both sides of their mouths. But I do think this is something that
+
+01:12:20 gets the Biden administration in trouble.
+
+01:12:22 It's not not limited to them, of course, but they do it a lot and they do it a
+
+01:12:27 lot in foreign policy. You saw this in the run up to the
+
+01:12:31 Ukraine war. You're seeing it now in Israel and Gaza.
+
+01:12:34 You're seeing in a lot of places what they ought to be focusing on is whether
+
+01:12:38 or not it convinces anybody politically, frankly.
+
+01:12:41 And, you know, I don't think it does. You know, western Pennsylvania, for
+
+01:12:45 example, which is one of the big battlegrounds of the election, they get
+
+01:12:49 Biden's people think they're helping their cause by being much more pro
+
+01:12:54 pro-union. But on the other hand, you know, they're
+
+01:12:57 engaging in LNG bans and pauses and the like that just leave people, on balance
+
+01:13:04 more cynical about them. So I don't think the strategies are very
+
+01:13:08 well thought out either politically or economically, frankly.
+
+01:13:11 You're implying there is a strategy, Terry, and I'm not sure there is one
+
+01:13:14 right now. Terry hides a fancier policy.
+
+01:13:16 Terry, thank you. Just seems to me that you do one thing
+
+01:13:19 to try and please Pennsylvania, another to try and please Michigan.
+
+01:13:23 And this is what 2024 is going to be about.
+
+01:13:25 These are going into the election, which is a reason why the real litmus test, as
+
+01:13:28 Anne-Marie was talking about, is really the international allies and sort of
+
+01:13:32 saying, okay, guys, what are you doing? And if there is a strategy, I mean,
+
+01:13:35 that's kind of it. Coming up, Jeremy Diamond out with his
+
+01:13:39 and your letter to shareholders with a warning about AIG.
+
+01:13:42 That's next.
+
+01:13:52 Welcome to the program. Equities on the S&P 500 totally
+
+01:13:56 unchanged on the Nasdaq as well. Pretty flat this morning, going
+
+01:13:58 absolutely nowhere, trying to bounce off of Russell.
+
+01:14:00 I think weaker losses for the small caps last week.
+
+01:14:03 The Russell this morning positive by 0.1%.
+
+01:14:06 The equity market, the S&P 500 coming off the back of the biggest one week
+
+01:14:09 loss since the start of the year. If you turn to the bond market, I'll go
+
+01:14:13 through some levels for you. The high of the year on a two year this
+
+01:14:17 morning for 7823 just off those levels at the moment, the height of the year on
+
+01:14:22 a ten year again this morning, which is where we are right now, four 4541 yields
+
+01:14:27 up by Lisa five basis points on a ten year maturity.
+
+01:14:31 And this is directly derived from the idea that the data is not cooperating
+
+01:14:34 with the Federal Reserve that seems to want to cut rates.
+
+01:14:36 What I find interesting is where the yields are rising.
+
+01:14:38 It's not inflation expectations, it's real yields.
+
+01:14:41 It's when you strip out inflation expectations going over the next ten
+
+01:14:45 years, you're seeing that north of 2%. This is the expectation the Fed's going
+
+01:14:48 to have to remain higher for a lot longer.
+
+01:14:50 And at what point does that really start to bleed more significantly into risk
+
+01:14:53 assets? What happens when payrolls comes in at
+
+01:14:55 330,000 barely talked about it. What on earth was that number on Friday?
+
+01:14:59 Okay. We also didn't get downward revisions.
+
+01:15:01 The amazing thing and the reason why we're not talking about it, it was it
+
+01:15:04 was a perfect kind of response. The idea that you also did not get any
+
+01:15:07 kind of wage growth that caused real concerns or alarm bells.
+
+01:15:10 This is the sort of disinflationary growth that's just perfect in all sort
+
+01:15:14 of accounts. The question is going to be on Wednesday
+
+01:15:17 we get CPI, then we get PPE. Does that hold or suddenly do you have
+
+01:15:21 to rethink that thesis? Immigration means the US can expand
+
+01:15:25 without overheating. This is what Jay Powell talked about,
+
+01:15:27 although I caught up with acting Labor Secretary Julie Su and she really didn't
+
+01:15:31 want to say it was immigration. She did a lot of, you know, verbal
+
+01:15:36 gymnastics to say it was teenagers. That is what is driving this capacity.
+
+01:15:40 They'll say things like bigger, not tighter.
+
+01:15:42 That's what I heard from and center of Morgan Stanley.
+
+01:15:44 The economy can get bigger without the labor market tightening.
+
+01:15:47 I do want that. At least if it is all immigration, then
+
+01:15:50 they're going to spend money elsewhere given the jobs they've got.
+
+01:15:53 And I think it's a very tricky thing for this administration to embrace.
+
+01:15:56 Hence the verbal gymnastics, because what's the message you're going to send?
+
+01:16:00 We've got a supply side story that we're embracing because we've got a load of
+
+01:16:03 immigration coming across the southern border and that's keeping wages down.
+
+01:16:06 Is that politically palatable? Not really.
+
+01:16:08 If you're not getting the wage increases in low wage jobs that you previously
+
+01:16:12 would have because of an increase in people who are coming in who will take
+
+01:16:16 those jobs for lower wages, it's a difficult moment for the administration,
+
+01:16:19 for the economy. From a lot of investor standpoint, it
+
+01:16:21 looks like an economic nirvana. For how long does that last?
+
+01:16:25 Because honestly, you are seeing a certain level of strength of consumer
+
+01:16:28 spending staying in there. That leads to maybe a slightly different
+
+01:16:31 reality. One nugget in this jobs report that I
+
+01:16:33 thought was interesting was the number of multiple job holders increasing.
+
+01:16:36 So you have to hold multiple jobs in order to keep up with your bills.
+
+01:16:39 It's up 27% since the former president left office.
+
+01:16:43 And that is why you saw Trump come out and say, well, there's things in this
+
+01:16:46 jobs report that you need to look out for that's concerning things for the
+
+01:16:49 Federal Reserve to look out for politically agnostic.
+
+01:16:52 They look at the situation right now. The market, I would say the markets got
+
+01:16:55 this constructive view because it believes that Chairman Powell can
+
+01:16:57 respond to weakness and basically ignore strength.
+
+01:17:00 So anything about the discussion that we just had that the change is there?
+
+01:17:03 Well, if it is people getting multiple jobs, that means that they're concerned
+
+01:17:06 about their well being in their ability to pay for their bills.
+
+01:17:09 So that does not speak to a screaming confidence that speaks to strength,
+
+01:17:13 which is a reason why there is some caution.
+
+01:17:15 Right. That wait a second, things are going to
+
+01:17:17 slow significantly the Andrew Hall horse view of the world.
+
+01:17:19 This is why the Fed is being so cautious.
+
+01:17:22 And the reason why Mohamed El-Erian is saying we should probably cut rates in
+
+01:17:25 July, even though you are getting economic data that's coming in strong.
+
+01:17:28 Mohammed, with us here in New York tomorrow morning, 7 a.m.
+
+01:17:31 Eastern Time. So don't miss that.
+
+01:17:32 I want to turn to foreign exchange in the euro.
+
+01:17:34 Just quickly. The euro against the US dollar this
+
+01:17:36 morning looks like this is negative five 0.1% at 1.25.
+
+01:17:40 Just want to use that as an excuse to talk about this from Eric Nelson.
+
+01:17:44 Of only credit, the difference between the Federal Reserve and the ECB.
+
+01:17:47 Fantastic note from Eric over the weekend.
+
+01:17:49 The Fed says it doesn't know when exactly it will start the rate cuts
+
+01:17:52 cycle, but it sends a clear signal about the expected pace of cuts once it
+
+01:17:56 starts. And a view on the expected end point.
+
+01:17:59 And contrast, the ECB has all but pre-announced the first rate cut more
+
+01:18:03 than 2 to 3 months ahead of the formal decision, but insists the path
+
+01:18:06 thereafter remains virtually invisible. When you compare and contrast what's
+
+01:18:10 happening between the ECB and the Fed, there is a very big difference emerging
+
+01:18:14 right now and just have how they're approaching communication on policy,
+
+01:18:18 especially given the fact that, Jeff, you said earlier that this is a live
+
+01:18:22 meeting on Thursday with the ECB as they come out, which raises this question
+
+01:18:26 whether the market is ahead of the game. Right now, the market is doing the job
+
+01:18:29 for the ECB and saying your rate cut path is a lot more concrete than the
+
+01:18:33 Fed's. You have a lot more to go because you've
+
+01:18:34 got a weaker economy and frankly, you have more sort of economic weakness
+
+01:18:39 filtering in to a more significant disinflation.
+
+01:18:41 Jeff is looking for parity right now one away, 25 and this event is this morning,
+
+01:18:45 a busy week of data on tap Stanley with CPI and fed minutes on wednesday
+
+01:18:49 Thursday we get PPI and jobless claims. You mix consumer sentiment and bank
+
+01:18:53 earnings. Round out the week on Friday.
+
+01:18:55 The latest question of the morning. So far, bank earnings are data.
+
+01:18:58 Take your pick. Which one?
+
+01:18:59 I think bank earnings actually CPI, if it's in line, will be treated as
+
+01:19:03 basically a beat. But really bank earnings might give a
+
+01:19:06 sense of just how much consumer pushback there is, whether J.B.
+
+01:19:09 Diamond is speaking as a concerned American or whether he's speaking from
+
+01:19:12 some kind of concrete sense of real worry that he's seeing in the actual
+
+01:19:16 numbers. But for the Fed to be able to cut, given
+
+01:19:18 the strong support we have in the jobs market, they need to see softer
+
+01:19:22 inflation. So I'm looking at the dat

@@ -1,0 +1,1039 @@
+This transcript was created using speech recognition software. While it has been reviewed by human transcribers, it may contain errors. Please review the episode audio before quoting from this transcript and email transcripts@nytimes.com with any questions.
+
+casey newton
+
+Casey did you hear that Facebook pokes are back? Have you heard this?
+
+kevin roose
+
+I have, because Facebook has mounted an aggressive marketing campaign that has made me very suspicious as to whether this is actually true.
+
+casey newton
+
+[LAUGHING]: Yeah. Meta claims that it made a design tweak at the beginning of this year to make the poke button, which had been previously pretty hard to find, slightly more visible, and that as a result, the number of pokes on Facebook went up 13 times after this design change.
+
+kevin roose
+
+Yeah, and they find that in cultures, as pokes go up, it’s directly correlated with a rise in childbirth.
+
+casey newton
+
+[LAUGHING]:
+
+kevin roose
+
+So, nine months from now, we’re going to see a whole new crop of poke babies. Now did you have any notable poking experiences, back in the day?
+
+casey newton
+
+[LAUGHING]: That I’m comfortable sharing on this podcast?
+
+kevin roose
+
+Yes. Yeah, keep it PG, please.
+
+casey newton
+
+I mean, no. I never had the sort of “Meet Cute,” where a cute guy poked me, and then we entered into a whirlwind romance. Did you have an experience like that?
+
+kevin roose
+
+I didn’t have a “Meet Cute,” but I had a kind of a mildly traumatic experience involving Facebook pokes.
+
+casey newton
+
+Oh, really?
+
+kevin roose
+
+So my freshman year of college we all got access to Facebook. And my mom, who worked at a college and also had an .edu email address, also got access to Facebook. This was before adults and the rest of the world was given access too, so she was like the only parent that anyone of my friends knew who was on Facebook.
+
+casey newton
+
+She was the first mom on Facebook!
+
+kevin roose
+
+She was one of the first moms on Facebook. Very cool trendsetter. And a bunch of kids in my dorm thought that it would be hilarious to start a Facebook group called, “I poked Kevin Roose’s mom.” [ROARING LAUGHTER] And so like dozens of times a day, my friends at college were poking my mom and then posting about it on this Facebook group, and it became like a minor campus phenomenon.
+
+casey newton
+
+Oh my goodness.
+
+kevin roose
+
+And I eventually had to beg my friend who started it to shut it down.
+
+casey newton
+
+How did your mom respond to this turn of events?
+
+kevin roose
+
+She was delighted. And actually, when she came to visit for parents weekend, she already knew all of my friends. [SPIRITED LAUGHTER]
+
+casey newton
+
+Like, these guys have been poking me for months now!
+
+kevin roose
+
+[LAUGHING]: Yes, humiliating. But glad other people will be able to have that experience now.
+
+casey newton
+
+Mm. Yes, me too. [UPBEAT MUSIC]
+
+kevin roose
+
+I’m Kevin Roose, a tech columnist at “The New York Times.”
+
+casey newton
+
+I’m Casey Newton, from “Platformer.” And this is “Hard Fork.” This week on the show — the Department of Justice sues Apple. We’ll break down the lawsuit. Then, social psychologist, Jonathan Haidt, joins to talk about how social media rewired children’s brains and what we can do about it. And finally, Reddit IPOs. Now can it survive on the public markets? [UPBEAT MUSIC]
+
+kevin roose
+
+Casey, big news this week!
+
+casey newton
+
+Tell me about it.
+
+kevin roose
+
+This is one of those stop the presses moments in the world.
+
+casey newton
+
+Yeah, this is a push alert situation.
+
+kevin roose
+
+Yes.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+So on Thursday this week, the US Department of Justice and 16 states filed a major antitrust lawsuit against Apple, alleging that the company violated antitrust laws by creating an illegal monopoly with the iPhone.
+
+casey newton
+
+The long arm of John Law caught up with old Tim Cook, Kevin.
+
+kevin roose
+
+Yes. OK. Casey, we’re going to break down this lawsuit and talk about all of the DOJ’s allegations, but first, are you surprised by this? Did we know that this was coming?
+
+casey newton
+
+We did. In fact, it was just about a week ago that Bloomberg reported that the Department of Justice had a final meeting with Apple, giving Apple one last chance to plead its case, and the reporting at the time suggested this is typically the last step before a lawsuit is filed. So yes, we did know this was coming. But what I would say is, we didn’t know what the contents of the lawsuit would be. We didn’t know what the allegations would be. We didn’t know what the supporting evidence would be. And now we have 88 pages of that to wade through.
+
+kevin roose
+
+Yes, it’s a big lawsuit, and we’ve been frantically reading through it trying to figure out what exactly is being alleged here. And we should say, this is the big one. This is the biggest and most ambitious case against Apple that has been filed yet. There’s a case in Europe that we’ve talked about a little bit on this show, that sort of goes after Apple’s App Store practices, and whether it has enforced illegal terms there against developers. But this takes on the whole iPhone ecosystem, is part of the DOJ’s case here, and if it succeeds, this lawsuit could have huge implications for Apple. So, let’s get into it. The complaint is 88 pages long. And it starts with a quote from an Apple executive who emailed Steve Jobs back in 2010. Sort of an interesting, what we might call in the news business, an anecdotal lead.
+
+casey newton
+
+Yes, that’s exactly what it was!
+
+kevin roose
+
+So in this anecdotal lead, the DOJ says basically, it talks about this ad that Amazon made for the Kindle e-reader app, which starts with a woman using an iPhone to buy e-books and read them. And then she switches to an Android and continues to read on the same Kindle app.
+
+casey newton
+
+The horror!
+
+kevin roose
+
+I know. And so, this executive, unnamed in the complaint, wrote to Steve Jobs that, “A message that can’t be missed is that it is easy to switch from iPhone to Android. Not fun to watch.”
+
+casey newton
+
+[CHUCKLING]: Presumably the executive then burst into tears.
+
+kevin roose
+
+[LAUGHING]: Yes. Yes. So this is basically the DOJ’s attempt to say that Apple has spent more than a decade at this point locking people in through various schemes to the iPhone ecosystem in an attempt to stop them from switching to Android devices, or other smartphones, and that all of this is shady and illegal.
+
+casey newton
+
+Now I think this would be a good time to talk about market definition, Kevin.
+
+kevin roose
+
+Yes. So typically when antitrust enforcers allege that a company has broken the law when it comes to antitrust, they will define a market.
+
+casey newton
+
+They have to.
+
+kevin roose
+
+Are we talking about all smartphones? Are we talking about some smartphones? So in this case how does the DOJ, and these states, how do they define the market here?
+
+casey newton
+
+So they say that this case is about what they call, “performance smartphones.” I like that.
+
+kevin roose
+
+Yeah.
+
+casey newton
+
+It’s like performance athleisure.
+
+kevin roose
+
+Yes, exactly.
+
+casey newton
+
+And they distinguish them from the low-end smartphones, the Android phones that you might be able to pick up for $50 or $100. They have a bunch of different things that they say distinguish these phones, including better materials, an NFC chip inside to do payments, but they’re saying that is the market, and they’re saying Apple has about 70 percent of it in the United States. Why is this important? In an antitrust case, market definition is everything. Apple is going to do everything in its power to say, we’re not only competing against low-end Android smartphones, Kevin, we’re competing against dishwashers, and refrigerators, right?
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+The real market here is electron — the real market is capitalism! And you can’t say we have a monopoly on that! Look at all the other stores! That’s what Apple is going to say. But I thought it was really interesting reading through this complaint, that the DOJ said, no, no, no. There actually is a defined market for a certain kind of consumer. If you’re going to get a performance smartphone, you’re either going to get an iPhone or one of maybe a very small number of high-end Android phones, but in the United States, Apple has that market locked up.
+
+kevin roose
+
+Right. So they basically break this down into five big categories of activity that they believe Apple has undertaken that are all in violation of federal antitrust law. So the first complaint that the DOJ makes is about what it calls, “superapps.” Now these are these apps that we’ve seen in Asia. They’re very popular there. These are apps that basically contain a bunch of different apps within them. So, you can pay for stuff, you can order food, you can buy stuff online, you can do social media, you can do texting. These WeChat-style superapps that the DOJ says have not taken off in the United States, and in the West more generally, in part because Apple has suppressed them.
+
+casey newton
+
+And I will say that, of everything that the DOJ charged, this was the one that I thought was the weirdest, because there really are only a handful of superapps around the world. WeChat in China is by far the biggest one, so why does the DOJ care? Well, one thing I would point to is Roblox. Roblox is one of the weirdest companies in the App Store, because they sell all of these games that you can buy. But you’re not supposed to be able to run your own App Store within the App Store, so Roblox has to call every game in its App Store an “experience,” right? So it sort of has to contort itself around Apple’s crazy rules, and if you’re wondering, why is this superapps thing in there? Well maybe if the DOJ could get some relief here, Roblox could just call their games, “games.”
+
+kevin roose
+
+Right. And the DOJ alleges that Apple has made it so that, for example, if you do want to offer these “experiences” within your app, you basically have to treat that as a new update of an app. It has to go through a review every time you want to change something. Which in the case of a game, you might be making multiple changes a day to a popular game. And so the DOJ alleges that Apple, by suppressing these superapps, by making it hard to have kind of apps within an app, for iOS at least, that this is sort of illegal, anti-competitive behavior. The complaint hilariously — you know we love an out-of-context employee email in a lawsuit.
+
+casey newton
+
+We love it.
+
+kevin roose
+
+It is the best. So there is a good one in this section. The complaint talks about how an Apple manager said, at some point — we don’t know if this was an email or a text or something else. He says, “Imagine buying an “expletive” Android,” I assume that’s “fucking” Android. “Imagine buying a fucking Android for 25 bux at a garage sale, and it works fine —”
+
+casey newton
+
+Bucks spelled b-u-x, by the way.
+
+kevin roose
+
+(LAUGHING) Yes. ”— and now you have a solid Cloud computing device. Imagine how many cases like that there are.”
+
+casey newton
+
+And then he presumably burst into tears.
+
+kevin roose
+
+Yes. So basically what this Apple manager is saying is something that Apple’s critics have been also saying for many years. That if Apple did allow these kind of superapps that it would be much easier to say, buy a low-end end Android smartphone and do most or all of the same things that you can do with your iPhone right out of the box. And that this would give people much bigger incentives to save money by switching from iPhones to much cheaper hardware.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+So that’s the superapps part of the complaint. The next one, number two, is Cloud streaming games. This is a service that has been available on some platforms for many years. Basically, instead of playing a video game in which all of the computation and the processing is taking place on your device, these are services that will basically put that all in the Cloud so that you only have to have a very low-end piece of hardware in order to play a high-powered game. Apple, for many years, has denied access to the App Store for Cloud-based gaming services. It did start to change that earlier this year, presumably because it knew that this was part of the antitrust complaint. But basically this is one area where the DOJ says that Apple has stifled competition.
+
+casey newton
+
+Yeah, and they have. There have been Cloud streaming games that wanted to put their apps in the App Store and Apple said no, and so there just was not a market for that. And why did Apple not want those games on its App Store? Was it for privacy, or security? No. It was because that way Apple couldn’t take a cut of the game revenue, or it wouldn’t be able to take as much of a cut as it wanted to. So, yeah, this just seems plainly —
+
+kevin roose
+
+And also because if you don’t need the powerful processing power to play the game, because it’s all happening in some data center somewhere on the Cloud, then maybe you don’t need the latest iPhone to play “Call of Duty.”
+
+casey newton
+
+Yeah, maybe keep your iPhone for another couple years.
+
+kevin roose
+
+Exactly.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+So this is something that is one of the DOJ’s complaints here. All right, that’s number two. Number three. Messaging apps. We’ve talked about this one on the show before the DOJ says that Apple is deliberately making third-party messaging services worse on the iPhone, relative to its own messages app. The DOJ writes, quote, “Apple is knowingly and deliberately degrading quality, privacy, and security, for its users and others who do not have iPhones. Apple also harms developers by artificially constraining the size of their user base.” And the DOJ also singles out a very funny quote from Tim Cook that took place in an interview. I think the Code Conf — was that at the Code Conference or some other tech conference —
+
+casey newton
+
+Yes, it was at the Code Conference.
+
+kevin roose
+
+— where Tim Cook was basically asked on stage, “I can’t send videos to my family members or to my mom who doesn’t have an iPhone. It doesn’t work on the messaging app.” And Tim Cook’s response was, “Buy your mom an iPhone,” — which the DOJ then used in this complaint to basically say that Apple is effectively shutting out other messaging apps by making them worse than the default message app.
+
+casey newton
+
+Also Kevin, in 2016, Apple senior vice president of worldwide marketing said, quote, “Moving iMessage to Android will hurt us more than help us.” So, it’s here on the record. We’ve all known this for years. We’ve known why Apple doesn’t make iMessage available on Android, but here it all is in black and white in this lawsuit.
+
+kevin roose
+
+It is kind of amazing to see federal antitrust regulators, and just the highest law enforcement agency in the nation, deal with the green bubble issue.
+
+casey newton
+
+Finally, the government is doing something we care about.
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+I mean, what else do we want the government working on? I don’t know. If you’re an Android user and you send a text to an iPhone user, the iPhone basically says to the iPhone user, “Hey, it looks like a poor person is trying to text you. Do you want us to call the police?”
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+So Apple really made its own bed here, Kevin.
+
+kevin roose
+
+[LAUGHING]: Right. So we’ve talked about this too, but Apple is sort of begrudgingly planning to update the way it handles text messages on the iPhone. It does plan to support something called RCS, which is sort of a more friendlier-to-Android style of messaging, that it says will come to the iPhone later this year. But this is one that annoys a lot of people, and I think it is an underrated factor in why people do not switch from iPhones to Android phones. And so that is something that the DOJ and these states are bringing up, as well.
+
+casey newton
+
+Yes, also note that the SMS-based messaging that you get if you’re not using iMessage, or you’re sending a message from an Android phone, it is not as secure as these RCS messages. So, for all the talk that Apple loves to do about protecting your privacy and security, this was a clear case of something where Apple could have moved to make phones more private and more secure for their users, but they chose not to because there was a business advantage for them in not doing it.
+
+kevin roose
+
+So that’s number three. Number four in the DOJ’s complaint is this issue of smartwatches. And I got to say, this surprised me a little bit, that the DOJ and the states spent so much ink on the issue of smartwatches, and basically how hard it is for companies that are not Apple to make smartwatches that work well with iPhones.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+What did you make of this?
+
+casey newton
+
+I sort of agree. I wouldn’t put this at the top of my list of things that I care about. But the DOJ hones in on the fact that if you make a third-party smartwatch, Apple makes it very hard, for example, to send a reply from that other smartwatch. And they identify all of these ways in which it really just is easier and better to use an Apple Watch. And it is important to the DOJ because it shows how Apple has used its dominance in these performance smartphones to extend it into other categories, like smartwatch. You can imagine a world where Apple made every API available to developers of their smartwatches, as it did for its own smartwatches, maybe we have more competition in smartwatches. That’s not happening. That’s why the DOJ cares.
+
+kevin roose
+
+Right. And this is, I would say, true for a lot of Apple accessories. I mean, if you’ve ever tried to use non-AirPod Bluetooth headphones with an iPhone, it’s not easy.
+
+casey newton
+
+I do this every day, because the AirPods — they don’t stick in my ears. OK. I don’t know what’s going on with my ears, Kevin, but they’re too — the little — it doesn’t matter what size I — the AirPods Pro, they’re always falling out of my ears. So I use these Sony earbuds, and it truly always feels like a coin flip whether they are going to connect to my phone or not. I have to pray every time I want to listen to a podcast. So I am living through this every day. Thank you Department of Justice, for taking an interest.
+
+kevin roose
+
+[LAUGHING]: Finally, the weirdly-shaped —
+
+casey newton
+
+[LAUGHING]:
+
+kevin roose
+
+— ear caucus will have its day in court.
+
+casey newton
+
+There are dozens of us!
+
+kevin roose
+
+But they’ve spend more time talking about this issue of smartwatches, and basically the same issue. It is very easy to pair an Apple Watch with an iPhone. They make that super easy. But if you’re wearing a Pixel Watch —
+
+casey newton
+
+Go to hell.
+
+kevin roose
+
+— or, God forbid, some other watch, it’s not going to work nearly as well. I actually didn’t realize this, but in the complaint it talks about how, if you are wearing an Apple Watch and using an iPhone and you turn off Bluetooth on your phone, like say you’re on a plane or something, and you turn off Bluetooth, your Apple Watch will not disconnect even though that is a Bluetooth connection. Because they have built it specifically so that only the Apple Watch maintains its Bluetooth connection even if you turn off Bluetooth on an iPhone.
+
+casey newton
+
+You’re legitimately blowing my mind right now. This is breaking news to me.
+
+kevin roose
+
+I didn’t know that either!
+
+casey newton
+
+This is new information.
+
+kevin roose
+
+So this is one of the many ways that the DOJ says that Apple has sort of unfairly tipped the scales toward its own accessories rather than accessories made by other companies.
+
+casey newton
+
+Rascals. It’s giving Rascals.
+
+kevin roose
+
+[LAUGHING]: OK. So that’s number four. Number five, the last big complaint in the DOJ’s case against Apple, is this issue of digital wallets.
+
+casey newton
+
+Yes.
+
+kevin roose
+
+This is one I know gets your goat and —
+
+casey newton
+
+Oh, yes.
+
+kevin roose
+
+— that you’ve talked about before. So why don’t you tell us about this one?
+
+casey newton
+
+Yeah well. So we talked about it recently, in the context of the Digital Markets Act in Europe, and why might that be a big deal? Well, over there Eur — I sound like Foghorn, I’m so worked up.
+
+kevin roose
+
+[LAUGHING]: We’re talking at 1.5x today.
+
+casey newton
+
+I know! Yeah, all our 3.0 listeners are going to have to slow down to 2.8 this week.
+
+kevin roose
+
+[CHUCKLING]:
+
+casey newton
+
+So over there in Europe, they noticed the same thing. There is, what they call, an NFC chip — that’s near-field communication chip — in your iPhone that lets you make payments. So you can tap your iPhone on many card readers and just make a payment that way. And why does Apple like keeping that NFC chip to itself? Well, it is able to put Apple Pay, and Apple Pay takes a little fee for every transaction that you are conducting. So that is just essentially pure profit to them, because they have total control over the NFC chip in your iPhone. There are many other payment services that would love to build competitive services. Maybe they could even build a cheaper service that would take a smaller cut that would increase prices for consumers less over time, but they cannot do that. So the DOJ comes along in this lawsuit and they says, Apple, you got to knock it off. This is anti-competitive. You need to open up access to that chip.
+
+kevin roose
+
+Right. So let’s talk about what we think about this lawsuit. But first, let’s just say Apple, obviously, does not agree with the DOJ and the states here —
+
+casey newton
+
+Did they issue a statement, Kevin?
+
+kevin roose
+
+They sure did.
+
+casey newton
+
+What did they say?
+
+kevin roose
+
+They say they plan to vigorously fight this lawsuit. An Apple spokesperson said, quote, “This lawsuit threatens who we are, and the principles that set Apple products apart in fiercely competitive markets. If successful it would hinder our ability to create the kind of technology people expect from Apple, where hardware, software, and services intersect. It would also set a dangerous precedent empowering government to take a heavy hand in designing people’s technology.” So that is what Apple has said. They will obviously contest this. It will become probably a long drawn-out out legal battle. But Casey, what did you make of this complaint?
+
+casey newton
+
+Well, I mean just in response to that comment from Apple, I would say it does threaten who they are. Because what they are is a monopolist.
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+And the DOJ is now coming after them to say, we should live in more of a duopoly or a triopoly situation. And maybe that would be better. But look, I, on the whole, I think this lawsuit is smart. I do not think it takes a very heavy hand in trying to redesign technology. It mostly is looking at a bunch of software that Apple is keeping to itself, and it’s saying, you have to open that up to other people. Would it really be terrible for Apple if there were smartwatches as good as the Apple Watch? I think it would probably be fine. Would it be terrible for Apple if messaging from Android to iOS and vice versa was as good as messaging between iMessage and iMessage? It would be fine, right? Maybe they have to compete on some new dimension, but I mean, cry me a river if that’s what you’re really going to complain about. So I think there are elements of this lawsuit that are maybe a little weaker that we can talk about, but on the whole, I was very excited to read this. How about you?
+
+kevin roose
+
+What do you think the strongest and weakest parts of it were?
+
+casey newton
+
+I think the NFC chip argument for the digital wallets I just think is very strong. They built a technology. It’s powerful. It is essentially pure profit to them. They keep it to themselves. There is no reason why that shouldn’t be opened up. Europe has already come to the same conclusion. I think this is just a place where Apple is going to have to give. So I think that’s probably the strongest part of the lawsuit I mean, you could argue that the Cloud streaming games part of the lawsuit is the strongest because Apple has already conceded the point, right? But those are the two for me. I think there is a pretty good case that Apple should sort of play more politely with messaging apps than it does. Although how exactly you design that, I don’t necessarily have a strong point of view on that. I think it’s really only the superapp part of the complaint that I’m not as on board with.
+
+kevin roose
+
+Yeah. And why do you think the superapp part of the complaint is weak?
+
+casey newton
+
+Basically because I think that if you’re going to be an App Store be an App Store. I think if you are going to be an app that also contains some infinite amount of other apps it just becomes really hard for Apple to police what is on it, right? I do want Apple to have some control over what is on its phone. There are benefits to the consumer of there being an App Store where Apple is doing some review. I do think that is true. So, my preferred solution here is, yes, if you want to install a third-party App Store, go for it, and Apple can show you some scary warnings, and it can stamp its feet and say you’re sort of heading into the danger zone. I actually think all of that is fine, but then at least you’ve sort of been warned. If the DOJ is going to say to Apple, like Facebook — I mean Facebook is a bad example, let’s say TikTok. All of a sudden just has a million different apps in it and half of them are from the Chinese Communist Party —
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+— like 16 of them are just spying on your location at all times, and Apple is just not in a great position to be able to understand that and police that. So superapps, I don’t — there is really one superapp in the world, WeChat, and I truly do not care how it’s doing.
+
+kevin roose
+
+I buy that. I think the point you made about the concessions that Apple has already made, indicating which parts of this they think they will have the hardest time defending are good. Which would be the Cloud streaming games, which they’ve kind of already conceded and said that they’re going to let Cloud streaming games with mini games inside them into the App Store. And this issue of messaging, and the green bubble phenomenon, and RCS. That is something that I feel like they have already budged on, which to me indicates that their lawyers don’t feel confident that they can defendant that one in court. So I know that you are a fan of the lawsuit, and this aggressive approach to antitrust enforcement against Apple. Let’s try to Steel Man Apple’s side here, because I think there are a lot of people, including many people who do not work for the Apple corporation, who feel like this is all a little much from the government.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+And I think people at Apple will say, look, we built the iPhone. Other companies, if they want to control their own app stores and have lock-in effects for their own accessories and their own hardware, go build a better phone. Basically our sin, in the eyes of the government, if I’m now an Apple executive talking, is that we built the best phone in the world, billions of people have bought them, and we have made that the best phone in part because we have tightly controlled our ecosystem. You can buy an iPhone and you know you’re not going to get malware loaded onto it. You know that it’s going to be up to a certain standard for privacy. All these things that regulators now say are evil are actually us just serving our customers and giving them the best phone on the market. And I think there’s some truth to that. I am an iPhone user. I’m a happy iPhone user. I’ve tried switching to Android phones. It was not a great experience. And it was not just because of all the sort of switching costs and all the things that Apple makes difficult about switching costs, it’s also because the iPhone is just a good product. And so I think if you’re more inclined to take Apple’s side of this, you might just say, look. All of these things, they look nefarious from the perspective of a 2024 antitrust regulator looking at this dominant company that is worth trillions of dollars that has made the most popular smartphone in the world for years, and that has enjoyed reaping the profits of that, but you have to remember that we’re in this position because they built a really good phone. The iPhone is a really good phone, has been a really good phone for a really long time, and Apple gets to make the rules about what does and doesn’t work well on iPhones, because it built the fricking phone.
+
+casey newton
+
+Well and I appreciate what you’re saying, but at the same time, the argument here, Kevin, is that Apple is harming consumers in this way. That yes, it is a better experience compared to the null case, the smart phone that doesn’t exist, but it would be a better phone if Apple didn’t put all of these unnecessary restrictions in place. It would be a better phone if people could put other payment solutions on it. It would be a better phone if Android and iOS messengers got along better, right? So I think that is an argument here. Also look, there are very high costs to develop a new smartphone platform from scratch. That is actually a barrier to entry. There are network effects on the iPhone between iOS users that, as the lawsuit makes the case, Apple has worked over time to protect, right? So Apple has worked to put all of these barriers in place to ensure that no other smartphone platform comes along, and that’s my response to your comment.
+
+kevin roose
+
+OK. So what happens now? Apple will clearly get to respond to this case. It may go to trial. We don’t know yet what’s going to happen in this. I guess they could conceivably settle, although I don’t know how likely that is, at this point. But what do you think the next steps are?
+
+casey newton
+
+Yeah. I think we’re going to see something similar to what we saw in the Google antitrust trial, where there will be a long ramp up to this, right? I cannot imagine that this will go to trial even within the next year. And even after the decision comes down, it will almost certainly be appealed. So we’re a long way away, but you know lest you be disappointed by that, keep in mind that this lawsuit exists in a broader context. And the context is everything that is happening in Europe and in other big countries around the world, where their own antitrust and competition watchdogs are coming in and saying, Apple, you have had a great run here, but it’s time to come back down to Earth, and open up yourself to competition.
+
+kevin roose
+
+Yeah. And I would just say my biggest takeaway from watching this Apple lawsuit, in the context of all these other antitrust lawsuits that we’ve seen in the US and Europe against the big tech companies, is that elections have consequences, right? None of this would be happening under a second Trump administration. This is only happening because Joe Biden got elected and brought in Lina Khan, and Jonathan Kanter and all of these folks that we’ve talked about on the show —
+
+casey newton
+
+And all these “Hard Fork” guests.
+
+kevin roose
+
+— and all these “Hard Fork” guests, yes, to lead a vigorous and aggressive antitrust campaign against the big tech companies. Whether that’s a good thing or a bad thing remains to be seen. But I think it’s definitely something that would not have happened without a sea change in the political leadership of this country.
+
+casey newton
+
+Unless Apple had said something to upset Donald Trump in which case, yes —
+
+kevin roose
+
+[LAUGHS]:
+
+casey newton
+
+— the Justice Department would have filed an even crazier lawsuit, right?
+
+kevin roose
+
+Yeah.
+
+casey newton
+
+OK.
+
+kevin roose
+
+So that’s the Apple lawsuit, and we’ll see you in court. [UPBEAT MUSIC]
+
+casey newton
+
+When we come back, Jonathan Haidt on how smartphones created a generation of anxious kids, and what we can do about it. [UPBEAT MUSIC]
+
+kevin roose
+
+So Casey, we talk a lot on this show about technology and kids. And specifically some of the ways that social media and smartphones may be contributing to problems with adolescent mental health. Things like body image issues among teenage girls, and some of the legislation and the efforts that governments are making to make social media safer for kids.
+
+casey newton
+
+Yeah. I would say there is almost a panic in this country right now about the intersection of young people and technology. We’ve seen so many laws passed around the country. This is something that President Biden is super interested in. And so, yeah, this is kind of a hot topic right now in this country.
+
+kevin roose
+
+Totally. This has been a huge topic, not just among journalists and parents, but also among state legislatures. There are all these efforts trying to ban apps, or get them to change in some way, to raise the limit for some social media platforms. There was this Surgeon General’s report last year that looked at the detrimental effects of social media on adolescent mental health. And I would say, this is just one of the topics that people care most about when it comes to technology. I am constantly being asked by parents, by people who worry about the effects of smartphones and social media on their kids, what do I do? And today, I want to actually have a conversation with someone who’s been thinking about this issue for a lot longer than either of us have. Jonathan Haidt is a social psychologist at NYU Stern School of Business. Jonathan has been looking at issues of smartphones, and social media, and adolescent mental health for many years. He’s written a lot of very popular pieces about this subject, and he has a new book out called, “The Anxious Generation — How The Great Rewiring of Children is Causing an Epidemic of Mental Illness.”
+
+casey newton
+
+And something I really appreciate about Jonathan is that he does his work in public. As he has been gathering this data, he’s put together these public Google docs that have listed essentially every study on the subject that he and his colleagues can find, and they’ve really sort of said, hey, you get in there. You look at the data yourself. You push on it. And they’ve continually synthesized that, and refined that, and they’re trying to answer all of the objections that people have to the conclusions that they’ve drawn. It’s a really impressive piece of scholarship.
+
+kevin roose
+
+Yeah, and what I like about Jonathan’s work is that he’s not just trying to diagnose the problems, or attach blame to certain apps or certain companies for ruining the mental health of a generation, he’s also talking about how we can fix this. How we can make children happier, how we can create the conditions for them to live happy and successful lives, and how we ultimately create a better future for society. So, let’s bring in Jonathan Haidt. [FUNKY MUSIC] Jonathan Haidt, welcome to “Hard Fork.”
+
+jonathan haidt
+
+Thank you, Kevin. Thank you, Casey.
+
+kevin roose
+
+So you’ve got this new book out, which I’ve been reading. It’s really compelling. And I want to just start today by talking about the problem that you have identified. You argue in this book that kids born after 1995, so people who are roughly in their 20s, have experienced a totally transformed childhood marked by a rise in depression, anxiety, and self-harm. And in your book, you hone in on the early 2010s as this kind of key inflection point when smartphones were becoming popular, and social media was growing, and childhood changed in response. What were some of the key changes, or products, or features within products, that you think produced the most harmful effects on kids starting in roughly the early 2010s?
+
+jonathan haidt
+
+Sure. So the early internet was amazing, fun. Early social media was amazing, fun. Myspace, early Facebook, you put up your page, someone has their page, you can now see their page. There’s no newsfeed. There’s very little virality. There’s no share or like button. There’s no retweet. That’s the way it was early on, and those things were called social networking systems. And what’s wrong with social networking? It’s good to connect people. The telephone connected us all, and that was amazing. But what I learned — so again, I’m not a technologist, I’m a social psychologist. But I teamed up with Tobias Rose-Stockwell, who has a great book out called, “Outrage Machine,” and it was through Tobias that I learned the whole history of how the like and retweet buttons came in, which gave the platform so much information that now they could really algorithmicize the newsfeed. Everything becomes about the newsfeed. It’s no longer about looking at your friend’s dog photos, it now is about commenting on the outrage thing that your friend posted that he heard from someone else. And so the very nature of life online changes, and now we begin calling them social media platforms. It’s a platform you stand on to perform at other people. This is not healthy, especially for kids. Oh, the other technological piece I forgot to mention, front facing camera, 2010. Before then it wasn’t all about selfies, because you remember. I mean, you guys, you’re old enough. You remember you had to turn the camera around to do a selfie. You had to guess, and then you look, oh, I chopped off your head. You know 2010, it becomes really easy to take selfies. That’s right when Instagram comes out. 2012, Facebook buys Instagram. So that’s really the transitional year.
+
+kevin roose
+
+Yeah, I think for me the part that feels new, starting around that time, and that does feel like a sea change, is the ability to discretely quantify how popular or unpopular you are, or things that you’re doing are. It’s not just that people can take selfies, it’s that people can effectively vote on whose selfies are the best through like counts, and things like that. And as someone who was an adolescent, and struggled to figure out, am I part of the cool crowd? Are they are there people having parties that I’m not invited to? It would have been, I think, very detrimental to my mental health to be able to see, in real time, a number that signified how unpopular I was.
+
+jonathan haidt
+
+Exactly.
+
+casey newton
+
+In part I buy that, but part of me still struggles with the idea that because there’s a number under an Instagram post, childhood is being rewired. But I there’s been a lot of research on this subject, Jonathan, so what kind of empirical research has been done to support some of these ideas?
+
+jonathan haidt
+
+OK. Let’s get into the causality. I was hoping you guys would actually ask about this, because nobody else does, because this — I assume you allow us to get geeky here. We can talk about correlation coefficients?
+
+kevin roose
+
+Yeah.
+
+jonathan haidt
+
+OK. So, to put this in a narrative context. 2018, I started a Google Doc where I put every study I could find — because the studies are all over the place, and people cite one, but what about this one? So I put them all together in a Google Doc. If you go to jonathanhaidt.com/reviews you can find I’ve all these Google Docs, and it turns out there’s three kinds of studies. There are correlational studies, there are longitudinal studies, where you take measurements over time and you see if change in time one predicts change in time two, and then there are true experiments. That’s the third type. So you’ll see in that, we got hundreds of studies. The correlat — and let me just go through them, if you don’t mind.
+
+casey newton
+
+Yeah.
+
+jonathan haidt
+
+Because this is the geeky part, because it’s a debate. Jean Twenge and I are on one side, saying that the evidence of causality is pretty solid. And then there are about four or five other researchers, who are saying no, it’s not solid. So it’s a normal academic debate. This is the way things work. There are, I forget, like 100 correlational studies and they almost all find a correlation. Now the argument is, from the skeptics, sometimes the correlation is like 0.02, 0.04. That really is zero. I agree with that. But here’s the thing. Once I began really going through those specific studies, and especially the meta-analysis, what I found is that the ones that get 0 are the ones that look at all screens, including television, and all kids, including boys. But whenever you can zoom in on girls and social media, you always get a much larger correlation. But that’s just correlation, that doesn’t show causation. Then there are also longitudinal studies where you track the same kids over time, and you see if an increase in social media use at time 1 predicts an increase in mental illness or depression, especially at time 2. And the answer is yes. Not all studies show it, but the ones that don’t show it are the ones that just took measurements like every day, because it takes a while to overcome, to detox, from social media. So the studies that wait at least a month between measurements, the great majority do show what looks like a causal effect. But the gold standard in social science is an experiment with random assignment. So an RCT — randomized controlled trial. We’ve collected about 25 of them, and the great majority of them find a causal effect. If you take people off of social media experimentally, randomly assign people to go off for a month, you generally find their mental health improves. If you put girls and young women into a situation where they look at stuff on Instagram, it makes them more anxious about their bodies. These are experiments, not correlational. So people who say, oh, just correlation. Well, I don’t know what more I can do. We’ve organized all the correlational studies, and the correlations are not huge, but they’re very consistent. We’ve organized the longitudinal studies. They generally show an effect. And we’ve organized the experimental studies, they show an effect. So I’m just frustrated with this argument that, oh well, we just don’t know. It’s just correlation. No. There’s a lot of published experiments, and they find an effect, most of them.
+
+kevin roose
+
+Right. I would say, though, that this is not a settled area of science. And every time I talk about these subjects with people who either work in the tech industry or are skeptical of some of the kinds of claims that you and other researchers are making, they’ll bring up a few objections. And I want to just run some of these by you to get your take.
+
+jonathan haidt
+
+Please. I’d love to hear them.
+
+kevin roose
+
+So one thing I hear all the time is, all of these studies about adolescent mental health and smartphones, or social media, they’re all based on self-reported data. Basically asking teenagers, when you use Instagram do you feel sadder or happier? When you use Facebook do you feel more or less socially isolated? That kind of thing. And that essentially people are unreliable narrators of their own experience, and furthermore that there may be a cultural explanation. That we’ve de-stigmatized talking about mental health over the past decade or two to the point that now kids and teens may be more willing to admit that they’re having mental health problems than millennials, or Gen X, or even people before that. So what do you make of this, that the self-reported nature of this data combined with the cultural acceptance of mental health as a thing that can be talked about openly, creates an imperfect data set?
+
+jonathan haidt
+
+Those are both very valid objections, and this is why none of us really trust correlational studies. Correlational studies are notoriously unreliable. They’re just a starting point, but that’s where most of the research is. On your point about being more willing to admit it, that would be a great objection if we saw a gap between the self-report data and the behavioral data, but we don’t. So suppose you saw all these graphs going up. My book is full of them. My goal is that everybody listening to this will have seen these graphs.
+
+kevin roose
+
+These are the graphs showing a rise in teen mental health problems starting around 2010.
+
+jonathan haidt
+
+That’s right. That’s right. I don’t actually have to draw graphs, all I have to do is buy a hockey stick, hold it up, and that’s it. You get hockey sticks for self-reports of depression, anxiety, self-harm. And if that was the case, but the lines for the lines for hospitalizations, and for suicide, if those lines were flat, then you’d say, see? The kids are saying they’re more depressed, but actually they’re not going to the hospital more often. But they are. In fact, the graphs are just as sharp, and it’s the same pattern. It’s especially the girls, and guess what? It’s not just the US. It’s the same pattern in Canada, the UK, Australia, New Zealand. We’ve got data, similar things happening in Scandinavia, and it all starts in the early 2010s. So you can’t point to any trend in the US and say, this is why girls in New Zealand are suddenly checking into hospitals with bleeding thighs.
+
+kevin roose
+
+Right.
+
+jonathan haidt
+
+So please, hit me with another one. What’s your next objection?
+
+kevin roose
+
+Here’s another objection, and then I’ll let Casey jump in. Another objection I hear is the kind of, “not all screen time” objection. Basically people will point to certain studies and say, well people are painting with a broad brush when they say that all smartphones are bad for kids, or all social media is bad for kids. It really matters what kids are doing on their smartphones and social media. Facebook, for example, likes to tout these studies that show that people who just passively consume content, scrolling through a feed, do report feeling less happy as a result of using social media. But if people are actually being active, if they’re commenting, if they’re connecting with friends, if they’re creating things on social media, that is correlated with more positive experience. So, what do you make of this kind of “not all screen time” argument?
+
+jonathan haidt
+
+Yeah. Sure, that’s true. That’s fine. TV is fine. So stories are fine. Long-form stories, we get into it. We lose ourselves. It’s a narrative, it’s like reading a book. It’s a little different from reading a book, but it’s similar. You’re going through stories. So, let me just give you an example. Whereas the short form video especially pioneered by TikTok, and now Instagram Reels, and YouTube Shorts, this is what I think is really bad. This is so new, we don’t have good data on it, but I think this is probably worse even than Instagram. It’s quick, it’s addictive, it’s quick reinforcement, it puts you into this soporific, mesmerized zone, like a gambler at a slot machine. And so here’s a little thought experiment — actual experiment. I asked my students at NYU, I asked them — I teach an undergraduate class called “Flourishing” in the business school here. And I say, how many of you watch Netflix at least once a week? Almost all hands go up. How many of you wish that Netflix was never invented? Nobody. Nobody is like, goddamn it, Netflix is ruining my life. Then I say, how many of you watch TikTok at least once a week? Almost — not everybody — but almost all hands go up. How many of you wish TikTok was never invented? Most hands go up. And that’s not just me and 35 students, I asked them that because there was a study published last fall by a professor at University of Chicago, Leonardo Bursztyn. They said, how much would we have to pay you, to college students, to get off of Instagram for a month, or TikTok for a month? And you know it’s like $50 -$60, something like that. But then they said, suppose we were to arrange it. We’re trying to arrange it so that everyone in your school is going to go off for a month. How much would we have to pay you to join them in going off? And the scale allowed them to say negative numbers or whatever it was. So the point is, most people said they would pay to have that happen. They would pay money to be freed from TikTok for a month if everyone else was off it. Of course if everyone’s on it, you have to be on it. So yes, it matters what you’re doing. And some things like watching Netflix, that counts as screen time, and there’s no harm in that. But let me make a second point about how it matters. Everyone focuses on the content. What are you doing? What are you watching? Those Senate hearings, it was all about, if we could just cut self-harm stuff, and suicide-promoting stuff, if we could just cut it down by 90 percent, wouldn’t the kids be OK? No, it’s not — this is what we learned from Marshall McLuhan and Neil Postman, all the great media theorists in the 20th century. McLuhan said the medium is the message. It’s not just what you’re watching, you’re now spending your whole life scrolling, and working on a screen. So even if the screen itself is not harmful, when life is no longer active, it’s no longer involves other people, kids are not spending much time with their friends. After school, you have to go home to your own house if you want to play video games. You can’t go over to a friend’s house to play video games, you need your own control, your own headset. So you can tell me that there are different screen activities that are better and worse, and I’ll agree with that, but I’ll still say no matter what menu you want to come up with, if we’re talking nine hours a day, which is what it is for American kids — it’s around nine hours a day average. If we’re outside of school, not counting homework, that pushes out everything else. So a screen-based life is still going to be bad, even if you fill it with the nicer parts of screen-based life.
+
+casey newton
+
+This is why I really appreciate talking to you, because I think you do challenge a lot of my assumptions. I mean, let me speak up for some positive things that I think we’ve experienced because of social media. I do think that it has accelerated a lot of progressive social movements. I think it accelerated “Me Too,” “Black Lives Matter,” LGBT equality, right? I think that — I’m gay, if you’re an LGBT teen, and you live in a family that’s not supportive, but you’re able to hop on to Instagram, or Reddit, or YouTube, and see people like you telling you that you’re OK, and it’s going to get better, I think that could have a positive effect on your life. I also understand that we’re going to have just different outcomes based on different individual psychologies, but I think because my own lived experience has been one where social media has benefited me, I would say both personally, and in my career, I struggle to accept the reality of what you’re saying, which is that for much younger people kind of growing up in different circumstances, that this may have been a net negative.
+
+jonathan haidt
+
+Let me suggest that you might be mixing up the internet and social media. So let me try this little thing I sometimes do when I speak in public. I say, let’s imagine we’re back in the early 90s, and a genie comes to you, and the genie has three boxes. They’re glowing boxes floating in space. And the genie says, if you open any box you’re going to get the thing inside, and it’s going to take about 10-15 hours a week of your time. So he opens the first box it’s the internet. It’s a web browser. What do you think? Are you glad we opened that box?
+
+casey newton
+
+Yes.
+
+jonathan haidt
+
+Everyone is. So I’ve done this in a large audience. Yeah, everyone’s glad we have the internet. Nobody wants to get rid of the internet. OK, here comes the second box. You’re already spending 15 hours a week on the internet. Here comes the second box. You open it up, it’s a glowing iPhone. Do you want the iPhone, or do you want stick with your flip phone? What would you say, Casey? You’re glad we have iPhones, or you wish we had flip —
+
+casey newton
+
+I will take the iPhone. Yeah.
+
+jonathan haidt
+
+Yep. Almost everyone would. The iPhone is amazing. I love my iPhone. OK, so now you’ve got the internet and an iPhone. And you can get the world’s knowledge. And you can watch videos. And you can communicate with people. And you can go to all kinds of — if you’re a gay, isolated kid in Montana, you are now connected to everybody. OK. Now we have the third box. We open it up, it’s Facebook and all the other platforms. So you’re already spending now 30 hours a week on internet and your iPhone. Do you want to spend another 15 — now we’re going up to 45 hours a week. Do you want to spend yet more time on social media, in addition? Casey, are you glad we opened that box? Are you glad that we have that, or do you wish maybe we left that one closed?
+
+casey newton
+
+Well, I would draw a distinction here. Because I think if the choice is take Facebook and Instagram for 15 hours a week, I would probably say no, that’s not of interest to me. But when I did start spending 15 hours a week on Twitter, when Twitter was a thing, it did incredible things for me. It helped to get me jobs. It helped me to network. It helped me to understand what was happening in the world, and you know. But I don’t know how Twitter would fit into the equations. And presumably teenage girls aren’t mostly depressed because of Twitter.
+
+jonathan haidt
+
+No.
+
+casey newton
+
+But to me, to answer that question, I do have to drill in a little bit on what social media we’re talking about.
+
+jonathan haidt
+
+OK. Well, I’m talking about all of it. The idea of making it very easy for people to spread viral content. Now of course, there’s a use for that. And when adults want to use these platforms as a tool to advance their goals, whether they’re political movement goals, that’s fine. I’m not here to say ban platforms because they’re hurting kids, but for God’s sakes, I don’t want my children, especially at the age of 10, 11, 12, to be anywhere near these platforms. TikTok is just so addictive. It is warping their development. So the costs are just enormous. Anyway, would you agree with me that social media is just a different category from the internet.
+
+casey newton
+
+I agree. I think it’s probably primarily different in speed, right? It sort of gets more —
+
+jonathan haidt
+
+Not just speed.
+
+casey newton
+
+— internet to me faster, but also there are those other dynamics. Retweets, the number counts.
+
+kevin roose
+
+But what’s interesting, Jonathan, and I wonder if you could speak to this, is that if you ask teens, they largely say that they like social media. For example —
+
+jonathan haidt
+
+Not exactly.
+
+kevin roose
+
+— you cite in your book a peer report from last year that found that 58 percent of teens report that social media helps them feel more accepted. 71 percent see it as a creative outlet. And 80 percent felt more in touch with their friends’ lives as a result of social media. So what do you make of the disconnect there?
+
+jonathan haidt
+
+Well, when you talk to heroin addicts and you say, how do you feel when you take heroin? “It makes me feel great.” But then you stop taking it, you’re in withdrawal. And in the same way, what happened to teens when they went on these platforms? What happened was their time actually with their friends plummets. It cuts by, I think more than 50 percent. It goes from over two hours a day to less than an hour a day, for American teens, is how much they spend with their friends, and this was before COVID. So it takes away real in-person interactions, and what it gives them is lots of shallow interactions that are effortless. Very, very easy. And then you say to teens — now first, let me point out, and then once they make that move they all get much lonelier. Not every single teen, but on average the loneliness epidemic really takes off around 2012-2013, especially for boys. So all of a sudden, they’re really lonely because they’re not seeing other kids very much. Even in school, they’re not talking to other kids very much, because what are you doing between classes? You pull out your phone. You’re on your phone checking between classes. Then you sit down, you’re checking your text while you’re in class. So kids are largely cut off from each other, and the only way they can connect is on these social media platforms, and then a researcher from Meta comes along and says, what do you think? Do you like using social media? Yes, it makes me feel more connected to my friends, who I don’t see anymore because of you, goddamn platform, taking my friends away from me. How about that? What do you think?
+
+kevin roose
+
+I don’t know. I think there’s probably something to be said for the fact that teens, what teens like doing is not always what’s good for them. And I say that as a former teen who did things that were probably not good for me. But it does strike me as a little bit of, I don’t know, adults just kind of thinking they know better than teens about what’s good for them.
+
+jonathan haidt
+
+I disagree. So look at it this way. If we’d gone back to when comic books — there was a moral panic around comic books. If we’d said to teens, you can’t buy a comic book until you’re 21. Do you think that some teens would have objected? Do you think some teens would —
+
+kevin roose
+
+Of course.
+
+jonathan haidt
+
+— have actually written something, and said like no, don’t do that? Yeah, they would have. But now look at social media. With all this talk about banning this, raising the age, age limitations, taking kids off of social media, you’d think that there would be some Gen Z members saying, no, don’t do it. I’m looking. I’ve been looking. I have a whole blog post on this. I put a Gen Z research assistant on this. I said Eli, go out and find the other side. Find me Gen Z arguing against limiting this stuff. Find me Gen Z who say, actually this stuff is good for us. Find me some. He couldn’t. There was one woman in Canada who wrote an article, I think it was basically just Casey’s point like, yeah, we need it for social movements. But we literally cannot find Gen Z objecting to it. Because as in that bursting article, yes, they’re stuck on it. They’re on it because everyone else is on it. And if you say to them, hey, how about if we take it away from you, but we take it away from everyone? Then they say, yes, sign me up.
+
+kevin roose
+
+Right. It’s the collective problem.
+
+jonathan haidt
+
+It’s the collective action problem.
+
+kevin roose
+
+So Jonathan, let’s say that we accept your premise that social media and smartphones are the primary culprit in these dramatic increases in teen mental health problems. And I should say I largely do buy that argument. It’s one I’ve sort of wrestled with over the years, but I think that is the simplest and cleanest explanation. Let’s talk about what to do about it. In your book you advocate for four reforms that you think could radically transform this problem, and start to fix it. Just lay those four reforms out for us.
+
+jonathan haidt
+
+Right, sure. Let me just preface it by saying, my story is not a simple-minded story about it being all smartphones and social media. It’s actually a two-part story about the decline of the play-based childhood, where we cracked down on free play from the 1980s, the milk cartons, the abducted children, all that stuff. We don’t let our kids out. So we reduce what they need, which is free play with each other, from the 80s through about 2010, and then we bring in the phone-based childhood, the great rewiring. So I can summarize the whole book by saying we have overprotected our children in the real world. We have under-protected them online. And so what are the solutions? To reverse that, we’ve got to reverse both of those. So now the four norms. The first norm is no smartphone before high school. Just give the kids flip phones. Flip phones are not harmful. The millennials were fine. The second norm is no social media until 16. This stuff is just shredding kids going through puberty, but the millennials didn’t get on Instagram and other platforms until they were in college. And they were not harmed by them, as far as I can tell. And the third norm is phone-free schools. When kids are in school, their attention should be divided between their teachers and their friends. But if you take away half the time they’re focusing on the teacher, and you take away half the time they’re focusing on their friends, and you put it all on the phones, why bother going to school?
+
+kevin roose
+
+Right, and you’re not just saying no smartphones in the classroom during class, which is a rule that I think most schools have —
+
+jonathan haidt
+
+Most schools have.
+
+kevin roose
+
+— you’re saying do not bring your phone to school, or if you do, you have to lock it away until the end of the day.
+
+jonathan haidt
+
+That’s right. Kids should be walking to school by third or fourth grade. I’m very happy with them to have a flip phone with them if they’re walking to school. Let them be able to communicate with their parents, if they need to. But yes, a phone-free school is one in which you lock up the phone, and anything that can text — a smartwatch, anything, you lock it up in a phone locker, or Yondr pouch, that’s the only way to regain kids’ attention. And what the kids themselves say is, they lock up their phone. For the first half hour, they’re still thinking about the drama. Whatever it is, what’s going — it takes about half an hour to get over it. And then they find oh, by the end of first period, they’re actually with their friends, and they like it. And the teachers love it. All the teachers hate the phones. All the principals hate the phones. So that’s what I’m saying. We need to give the kids six hours a day when they can talk to other people. The fourth norm then, is far more independence, free play, and responsibility in the real world. So those are the four reforms. And the point is that they are all solutions to collective action problems. If you’re the only kid who doesn’t have your phone at school, you’re left out. But if the school helps you out by saying how about nobody has their phone in school? Well then it’s great for everyone. If you’re the only parent who doesn’t let your kid have a smartphone when they start middle school. That’s the norm now, when you start middle school, you got a phone, a smartphone. If you’re the only one then your kid is isolated, cut off. Everyone else is on Snapchat and I just have a flip phone. But if half the parents are delaying until high school, well then, it’s easy. So these four norms are all solutions to collective action problems. They cost nothing whatsoever, except for some phone lockers. That’s not very expensive. They cause no harm. There’s no victim to these norms. They’re completely bipartisan, left and right. Republican, Democrat, they’re all very upset about what’s happening to their children, and their constituents children. And they’re all doable if we act together.
+
+casey newton
+
+One technical question, when you say no social media before 16, would that include watching YouTube from your perspective?
+
+jonathan haidt
+
+Hm. Yeah, no. I can’t imagine banning YouTube from kids’ lives. YouTube is a very important platform. So I do make a distinction between viewing things and having an account. So in terms of legislation what I favor is, let’s take COPPA, the Childhood Online Privacy Protection Act, which set the minimum age as 13, at which a company can sign you up, take your data, you don’t need parent’s permission. I can feed you stuff, I can use algorithms on you, and you can’t sue me. Your parents cannot sue me if I drive you to suicide. That’s our current situation. What I’m saying is not, you can’t watch YouTube. I’m saying you can’t open an account. You can’t open an account that allows you to post. You can’t open an account that gives them any data. You can’t open an account so that the algorithms get to know you. Now TikTok is so smart that even if a kid just shows up without signing up, after an hour it’s going to actually get to know them. I can’t stop that. But I do think that it’s insane that we let any nine-year-old can open 30 accounts. I mean, there’s nothing. There’s no obstacle. They just lie about their birthday, and they’re in. That’s completely insane and should be illegal. I mean, how can these companies be taking data from my kids without me even knowing or agreeing.
+
+kevin roose
+
+Mhm. Jonathan in your book, one of the parts that I found most interesting was the chapter on safetyism, what you call safetyism, which is this idea that we’ve overprotected children in the real world. You have these amazing photos of what playgrounds used to look like in previous decades, and they’re essentially like metal death traps with children — — like climbing, scaling 20 feet in —
+
+casey newton
+
+20 feet up.
+
+kevin roose
+
+— the air. And now you have the plastic things with the rounded edges, and you really can’t hurt yourself that badly. And your argument is that, that’s sort of a metaphor for how we’ve overprotected children in the physical world. I’m curious about how you think about that when it comes to the internet. I grew up on the internet. I didn’t have a smartphone, but I had the internet. I had broadband in my house growing up and my experience was a lot more like the online version of one of those like old playgrounds with the sharp edges and the danger. I grew up with not that many rules surrounding my internet use. And as a result, I kind of had to build the resilience. I had to learn what was dangerous and what wasn’t on the internet. I was not being blocked in this kind of abstinence-based model by my parents, and in fact, I had to make some mistakes, and learn some tough lessons along the way. But ultimately, I think it helped make me a more savvy, educated user of the internet in my adulthood. So I do buy that these problems are correlated with all these mental health challenges, but I also worry that if you just block kids from using social media, from using the internet, from using smartphones, you miss a chance to help educate them about how to use these things safely and responsibly. And I don’t know, do you worry about that, too?
+
+jonathan haidt
+
+No. I see the apparent contradiction, but two things. One is we evolved to be antifragile. We evolved to learn from experience. And the experience is the kind of things our hunter-gatherer ancestors did. What do kids most want to do? They want to basically play predator-prey games. Sharks and Minnows, tag. So we have to practice our predator avoidance skills, and we have to practice our predation skills. They have to deal with exclusion. They have to learn as they get older, they now begin doing gossip. They sometimes are embarrassed, they’re sometimes ashamed. Sometimes you say something and now all the people are laughing at you. That’s very painful. And so you learn to control yourself. You learn to speak better. Now let’s say, you took that model. You said, well it’s the same online. No, it’s not. Something about being publicly shamed on the internet, in which it’s not just the three people who overheard you, it’s the entire school, is laughing at you, and adding comments, and it goes on for days. This drives kids to suicide. I ask students, when this issue sometimes comes up, when I’m talking to high school or middle school audiences, and I say how many have you been publicly shamed in some way? A lot of hands go up. How many of you felt that it makes you stronger, tougher? It makes you not care what people think? Or how many of you find it makes you gun-shy? It makes you more afraid to speak up? Most people say it makes them gun-shy. Being publicly shamed is not like falling on the playground. Falling on the playground is part of learning to master your physical body and actually become more outgoing physically, whereas being publicly shamed, it changes you. It makes you reticent, gun-shy. It’s done that to me, the few times I’ve been at the center of a Twitter mob. I mean, it really makes you super cautious. It doesn’t make you tougher. So yes, they need to learn from experience, but I would say also, kids need to learn about sex. They need to learn how to flirt. They need to know how to seduce, resist seduction. So why don’t we start them when they’re 8. I mean, let’s give them a head start. What if we said, you can’t have sex till you’re 18. How could they ever learn it? No, let’s start with them when they’re 8. That’s better. Like no, no. There are developmental periods. There’s no there’s no advantage to starting kids early.
+
+kevin roose
+
+Well, to continue the sex analogy, I mean, we have experimented with abstinence-based education in this country, and we’ve found that it actually doesn’t lead to reductions in teen pregnancy and things like that. I mean, we do educate kids about sex when it’s an appropriate age. Do you think there is some benefit to introducing this stuff in a controlled way, where it’s not just like you can’t use social media, you can’t have a smartphone, you’re not old enough? I guess I’m just looking for something to tell the parents who say, well, I don’t know that I want to go cold turkey. I don’t know that I want to cut my kid off from this stuff altogether.
+
+jonathan haidt
+
+No, that’s right. I’m not saying go cold turkey. Here’s what I’m saying. The internet is amazing. Kids, you know, it’s integrated into so much teaching. My kids used it a lot beginning in elementary school. So if kids are using the internet on their parents computer, on the family computer, an hour a day for school or whatever it is, that’s great. They’re going to learn how to use Google. They’re going to learn that they can look things up on YouTube. So by all means expose them to the internet. As I said before, the internet is not social media. Yes, the internet has dangerous areas, and you do have to learn about some bad neighborhoods. That’s true. So I don’t say that, oh, never let a kid on the internet before they’re 12 or 14. I would never say that. They have computers. They have laptops. What I’m saying is, do not give a child in elementary and middle school, do not give them their own device which they can customize, communicate with strangers on, fall into rabbit holes, every waking moment. Don’t do that until at least high school. You can give them a flip phone, and you can give them a laptop, as long as access is limited. You don’t want them to have the laptop in bed overnight.
+
+kevin roose
+
+You wrote in your book about talking with Mark Zuckerberg in 2019, about some of these issues he had called you up or emailed you, or I don’t know how he got in touch, but he said, I want to talk with you because you might have some ideas that we could use to improve our platforms. What was the result of that conversation and what have been some of the results of the conversations that you’ve had with other influential people who maybe are in a position to fix or improve some of these products?
+
+jonathan haidt
+
+My conversation with Zuckerberg was really interesting. His office emailed me and said that Mark would like to talk with me. And this was at a time he was traveling around the country, he was talking to all sorts of people. I mean, he’s a brilliant guy. He’s very curious. He wants to know the arguments. So we had a conversation. My agenda was especially to focus on underage use, that I thought, this is something that he could clean up tomorrow if he wanted to. So that was my main agenda was to try to get him to work on that. And he said, oh, but we don’t allow people on under 13. And I said, Mark, I just created an account pretending I was my 11-year-old daughter. There was no obstacle. So he said, we’re working on that. We’re working on that, he said. That was August of 2019 that we spoke. So I don’t think anything came of that. I do think, from what I hear, people high up in Meta and in some of these companies, they still believe that the research is ambiguous. So I don’t think that the company is willing to do anything that would reduce its user base or slow its growth. So yes, they experimented with project Daisy, it was called, where they hid the “like” counter. Fine, experiment with that. It’s a small thing. Maybe it would help. It turns out it didn’t help. How about eliminating underage use? Like no way. No way are they going to kick off 10, 11, 12-year-olds, because they need them. Otherwise, they’re just going to go to TikTok. So that’s why I don’t believe that Meta in particular is going to reform unless it’s forced to by losing gigantic class action or quasi-class action lawsuits, or by legislation. So I hold out very little hope for Meta. The great majority of people in tech bear zero responsibility for this. Most of tech is not about depressing kids, it’s about all kinds of amazing innovations. So what I’m hoping, and maybe I can put the call out here obviously, this is a very popular podcast in the tech world. If you’re in the tech industry and the entire country thinks that you’re killing kids and most of you are not, like the great majority of you are just making amazing products that are not hurting children at all, how about you guys do something to police your reputation? How about you guys put some pressure on Meta in particular? Also Snapchat. Snapchat is more mixed, but it has some really harmful features. How about you guys actually have some pride in your industry? We used to all be so proud of you. We thought that you were the greatest American industry. You were God’s gift to the Earth, and now many of us think you’re a curse.
+
+kevin roose
+
+Yeah.
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+Well, Jonathan, thank you. I really enjoy your book, and I think listeners should go out and check it out for themselves. It’s a very compelling argument backed by just mountains of research, and it is relevant to anyone with a kid out there trying to navigate through the world of technology. So I really appreciate your work, and I appreciate you coming on.
+
+jonathan haidt
+
+Well thank you, Kevin. Thank you, Casey. I hope people in the Bay Area and in Los Angeles will be on the lookout for our guerilla art project. You’ll be seeing billboards, signs on the back of buses, things to illustrate intuitively what some of these platforms are doing to kids. Thanks for having me on.
+
+casey newton
+
+All right.
+
+kevin roose
+
+All right. Thanks, Jonathan. [FUNKY MUSIC]
+
+casey newton
+
+When we come back, Reddit goes public.
+
+kevin roose
+
+But did anyone upvote it? [FUNKY MUSIC] [MUSIC ENDS] Well Casey, the second biggest tech news of the week, I think, just behind this Apple lawsuit, was the IPO of Reddit. Reddit of course, is the big social media site. The so-called front page of the internet. That company went public this week. It was listed on the New York Stock Exchange. It priced its shares at $34, implying a valuation of $6.4 billion for the whole company, and it started trading on Thursday, under the ticker symbol RDDT.
+
+casey newton
+
+Yeah. Reddit lost $91 million last year, and now you the public can get in on the action.
+
+kevin roose
+
+[LAUGHING]: Right. So there are some big winners in this IPO. Obviously Reddit executives and investors are finally getting to cash out some of their shares. Steve Huffman, the CEO of Reddit, and previous “Hard Fork” guest, owns about 3.3 percent of the company. That is now worth a whole bunch of money. Also a big deal for Conde Nast, the company that publishes magazines, including “Wired” and “The New Yorker.” They purchased Reddit in 2006 for $10 million, and their stake is now worth more than $1 billion.
+
+casey newton
+
+Wow. And now that that’s happened, that might save up to one job in journalism.
+
+kevin roose
+
+[LAUGHING]: That’s true. So actually one of the other winners that I did not know was going to be a winner this IPO was Sam Altman, who seems to have his hands in every pie in Silicon Valley. He owns 8.7 percent of Reddit, and is going to make a bunch of money from this IPO, as well.
+
+casey newton
+
+Well, nice to see him catch a break.
+
+kevin roose
+
+[LAUGHING]:: So let’s talk about the IPO, but let’s just talk about first why we’re talking about this, because Reddit is not the biggest or most profitable company online. It is not a company we talk about a ton on this show. So why do you care about this IPO?
+
+casey newton
+
+So to me, Reddit is symbolic of a version of the internet that I really like. It’s a place where real people come together to share their expertise, to talk about their passions, and to do it in these niche communities that are often really fun to be in. And they’re fun to be in because, unlike a TikTok, or a Facebook, or an Instagram, where every single person on Earth is just kind of forced to share one feed, on Reddit you can just kind go and find your people, right? You can find the people who want to see oddly satisfying things, or who only want to talk about the NBA, or who need a really good review of a dishwasher, right? And it matters to me because if Reddit cannot succeed in building that business, and making that sustainable, it sort of makes me wonder who can, right? We talk so much on this show about artificial intelligence, how we think it is going to change the web. We talk about the concentration of power into the hands of such a few number of these giant companies, and there are precious few of these little baby platforms that have been around forever, that have tens of millions of users, and are still trying to figure out how do we make this a sustainable thing. So to me, that’s the real drama of the Reddit story, and why I want to talk about it today, because if Reddit can make it, maybe this kind of human-centric internet still has a chance. And if it can’t, it leaves me worried.
+
+kevin roose
+
+Totally. I totally agree. I think Reddit is one of the last relics of the open web that we still see today. There’s a reason that many people, myself included, put reddit.com at the end of our Google searches when we want to find a review for a new toaster, or some parenting advice, or whatever it is. That is the way that you find content that is made by humans who might know what they’re talking about, who are posting it on a place for people who share similar interests. It is very hard to actually find that stuff outside of Reddit, and so I am very grateful that Reddit still exists, and I’m rooting for it if only because I think, you’re right. It is symbolic of this era in the internet where you had these niche communities. They didn’t have to use like algorithmic ranking to juice engagement. It wasn’t basically the machines deciding what people see, it was people deciding what to show each other.
+
+casey newton
+
+It really is interesting that you can almost divide the internet into two. There is the sort of Google-focused web, which has been search engine optimized into a wasteland, and then you have the Reddit web, which is the place where human beings are still having interesting conversations. Obviously, that is a vast oversimplification, but that’s why so many people put Reddit into their search queries, because they want to say to the search engine, let’s guide your attention to where the people are talking. So for all of those reasons, it actually does matter what happens to Reddit.
+
+kevin roose
+
+Totally. And I think it’s also that Reddit in some ways is a content moderation success story. You know, Reddit used to be like a lot of these websites. When it started off, it was touted as a free speech bastion, right? The CEO a decade ago was saying things, like we won’t censor speech unless it’s illegal. Like some of the same things that you hear people like Elon Musk saying today.
+
+casey newton
+
+Right.
+
+kevin roose
+
+And Reddit was known as kind of the bowels of the internet, right?
+
+casey newton
+
+Yeah.
+
+kevin roose
+
+It was often mentioned in the same breath as 4chan, or Something Awful — these notorious cesspools where trolls would just post gross stuff and harass each other, and be racist and sexist, and all that stuff.
+
+casey newton
+
+The Verge, where I worked at the time, wrote a story then called, “Reddit is a Failed State,” and it was for exactly that reason.
+
+kevin roose
+
+Totally. So it was sort of seen as a place where the worst of the worst hung out, and that was by design. The company at the time was run by leaders who thought that this should be a free speech bastion. That it should not censor content unless it was illegal or spammy. That basically anything should go. And I think to their credit, Reddit realized, starting in around 2014 and 2015, that they had to actually clean up their site if they wanted to make it a sustainable business and a place where people actually wanted to hang out. So you can go back and trace the evolution, but starting in around 2014, there was a CEO named Ellen Pao. She started making some changes banning non-consensual nude images, things like that. Steve Huffman, who was one of the co-founders of Reddit, who took back the site as CEO in 2015, made a bunch more changes. They nuked a bunch of racist, and misogynist, and violent subreddits, and they really made a few changes that I think really helped them clean their act up, and get ready for the IPO that we saw this week.
+
+casey newton
+
+They also had a really smart idea in content moderation. When people make rules about what you can and can’t say online, it just drives people absolutely crazy, because it turns out that almost every individual person would draw the line slightly differently. Reddit had a really smart idea though, which is, we’re going to set this floor of rules that everyone has to agree to. So you can’t post terrorist content, or other horrible things, but it’s a pretty limited set of rules. But every individual subreddit, every individual forum, they can raise the ceiling of those rules. So one of my favorite examples is, there is a community for women in India on Reddit where the men are only allowed to comment on Wednesdays.
+
+kevin roose
+
+Is that true?
+
+casey newton
+
+Every other day the men have to shut up, because it’s a community for women, and that’s such a genius idea. Because you can’t do that on Instagram, you can’t do that on Facebook. Everybody’s sort of crowded into the same room, and we make each other miserable. But on Reddit, because they have this unique system, they’ve been essentially able to decentralize power into these little communities where people tend to be a lot happier.
+
+kevin roose
+
+Yeah, and we know that enlisting volunteer moderators, and giving them power and authority, has not always gone well for Reddit. There was that moderator revolt last year. So they have created headaches for themselves by doing this, but I think you’re right. It has been a transformative approach to content moderation. Not trying to make one set of rules for everyone, but like deputizing a bunch of moderators who are passionate, and enthusiastic, and crucially willing to work for free, to do this work for you.
+
+casey newton
+
+Yes, so that’s the story of why we think Reddit is cool, and why it matters. We should also talk about Reddit as a business, now that it’s actually selling shares on the open market.
+
+kevin roose
+
+Yeah, let’s talk about it. What do you think about Reddit as a business?
+
+casey newton
+
+So often, Kevin, when a social network has gone public in the past, it has felt like this coming of age moment, right? When you think about companies like Facebook, or Twitter, or Snap. Before they went public they just faced so much skepticism about whether they could really succeed on the public markets. And so when they actually made it over the finish line, it was this moment of validation, of like, hey, Facebook is for real now, right? And some of those companies did better on the public markets than others. Reddit doesn’t feel that way to me. It is essentially staggering over this finish line like it’s been shot in the gut, and it has been sort of scrapping for every final yard, and it is finally got there. And so this is sort of a Lifetime Achievement Award for a company that really does feel foundational to the modern internet, but has never really figured out how to build much of a business around it.
+
+kevin roose
+
+Yeah, it’s notable in part because Reddit is not a young company. Most startups try to go public sometime in their first decade. Sometimes they hold out for a little bit longer, but Reddit is 19 years old. It was started in 2005. And it’s sort of been there through a lot of different shifts in internet life, and how we consume information online. And I think in a lot of ways its trajectory kind of mirrors that of the internet as a whole, but you’re right. It has never been good at making money. So talk about why that is.
+
+casey newton
+
+So Reddit’s business, for the most part, has been selling ads. If you’ve been on Reddit, you’ve seen this. Like a lot of these social networks, the game is, we’ll create native ads that look like Reddit posts. So you’re browsing this community, and I might be browsing my favorite pro wrestling community, r/SquaredCircle, and then — and this really happened to me this week, I saw an ad for Weight Watchers —
+
+kevin roose
+
+[LAUGHING]:
+
+casey newton
+
+— that Weight Watchers had put there. And so I gave it a downvote, because I wasn’t trying to see that while I was in my wrestling community, and maybe that data informed something. But the idea is, hey, if you have a really good Reddit post and you happen to be a brand, you might be able to get a lot more reach than you would with a traditional ad, because people can hit that upvote button and it may spread. So it has basically been an ad business, but not all that great of an ad business. Several years ago, Wired reported that it projected it would make over $1 billion in ad revenue by 2023, but it fell short last year by 20 percent. So they haven’t been able to get all the way there. And so as they look for new sources of revenue, they’ve started to think about things like, hey, could we actually just sell all of this data to Google, and other companies.
+
+kevin roose
+
+Yeah, and I want to talk about that data licensing business, but I want to ask first about the ad business. Like why is Reddit struggling so much to make money from ads? When I look at Reddit, I see a very popular website that is trusted by millions of people. It is the only place on the internet where you can find actual human beings talking about actual things. That should be an incredibly valuable space for advertisers to place their ads, and yet if you look at Reddit’s ad business, and compare it to Meta’s ad business, or Google’s ad business, or even something like TikTok, or Snapchat, or Amazon, it is just tiny compared to those companies. So what do you think explains Reddit’s struggle when it comes to attracting advertisers?
+
+casey newton
+
+Look, if you are an advertiser and you want to reach people on the internet, you have three incredible businesses that already know so much about a vast swath of society. And those businesses are Meta, Google, and Amazon. And, let’s face it, you can basically reach any American by advertising on one or all three of those platforms, right? And you’ll probably be able to do it with more certainty that you reach the audience that you were looking for. You’re probably going to get back better data as to whether your ad actually converted into a sale, and the tools themselves are just really sophisticated. So for all of those reasons, the vast majority of the profits in the digital ad industry are concentrated among those three companies, and so companies like Reddit have struggled. And we should say it’s not just Reddit that has struggled in this world. Snap, another one of these social networks, went public several years ago, and has struggled a lot and its revenue is 5 times as much as what Reddit is. And they have had a horrible time on the public market because they’re just what is considered a subscale advertising company. You don’t have enough people, enough data, to really make it a great business.
+
+kevin roose
+
+Do you think there’s any hope that Reddit’s business will improve when it comes to ads, or do you think they’ve basically hit their ceiling?
+
+casey newton
+
+I mean, I won’t say that I think that they’ve hit their ceiling, but when I look at this company, I just keep thinking about all of the challenges that Snap has had. Snap, in a lot of ways, is a much more ambitious company than Reddit. They’ve tried a lot more things. They’ve played around with hardware. I think they’ve brought a lot more innovation to their core app than Reddit has. Reddit looks very similar today to what it did 5 or 10 years ago. So I see this company that has been much more innovative, that has tried much harder, that has invested way more in research and development, and they’re flailing on the public markets. And then along comes Reddit with its decent-ish advertising tools, and I just think, oh man, they’re going to have a hard time. But what do you think?
+
+kevin roose
+
+Yeah. I think Reddit is sort of a victim of its own popularity, in a certain sense. Like they suffer from a massive freebooting problem, which is that every time something goes viral on Reddit, it then gets spread to all these other networks. And so if you want to see the best oddly satisfying videos of the day, there’s probably an Instagram account that just takes those from Reddit and posts them on its own account. And so if you are an advertiser, you can just sort of reach the same kind of audience on Instagram. The other difference is that Reddit does what’s called contextual advertising. So you’re not being advertised to on Reddit based on your browser history, and what websites you’ve visited, and your location data from your phone. You’re being advertised to because you are on a pro wrestling subreddit, and whatever advertisers are on that subreddit have chosen to affiliate themselves with people who like pro wrestling, and want to read about it on Reddit.
+
+casey newton
+
+Mountain Dew, pizza, these are some of the brands that come to mind for me.
+
+kevin roose
+
+[LAUGHING]: Yeah. If you’re a degenerate and you want to advertise to other degenerates, you know where to find them.
+
+casey newton
+
+Exactly.
+
+kevin roose
+
+But I think that what we’ve seen in the story of digital advertising over the last decade or so, is that contextual ads just don’t work as well as narrowly-targeted ads at individuals, based on things like their own browsing history, and the usage of their products. So I just think Reddit is playing in a category that has struggled as a whole, but I have hope. I think that as Google gets flooded with AI-generated stuff, and other social networks start to decay as well, who knows, maybe TikTok gets banned. I do think that a lot of advertisers may start seeing Reddit as a place where they can actually reliably reach real humans.
+
+casey newton
+
+Well it is a bold claim and I guess we’ll be able to check back on that over the next few months, but in the meantime Kevin, as we’ve noted, they have this other idea which is a data play.
+
+kevin roose
+
+Yeah, so Reddit is one of the places where AI training companies, companies that make and build and train AI models, go to get high-quality information to feed into their models. We know that Reddit has been used to train things like ChatGPT, and other sort of AI language models —
+
+casey newton
+
+Without consent.
+
+kevin roose
+
+— without consent. And we also know that in response to that, Reddit has tried to clamp down on giving developers and AI builders access to its own data. That’s part of the reason that it started charging these higher fees last year to developers who wanted to use the Reddit API. So they are not standing back and just letting this happen, and in fact, they are actually trying to get in on it themselves. Reddit recently struck a deal with Google to use Reddit content for training its AI models. That deal was reportedly worth $60 million. Not like a huge amount. That’s not going to make or break the company, but it is the kind of thing that Reddit presumably intends to do more of. What do you make of this strategy?
+
+casey newton
+
+The main thing I make of that, Kevin, is what you just said, which is, it’s not that much money. This company lost $91 million this year. It signs a deal with Google to provide all of this data, so that Google can do essentially whatever it wants with it, but it’s probably mostly going to train its AI models, and it’s worth $60 million. So even if you assume that Reddit is able to sign a similar deal with an OpenAI, maybe an Anthropic, and maybe that gets up to $100, $180 million dollars a year, it’s still a pretty small business, and this is one of the best shots that they have left in their reserve, right? We know about how big their ad business is. This data business, it’s looking much more like a compliment to the ad business than something that’s going to create this bright new future for this website.
+
+kevin roose
+
+Yeah. I think you’re right. It’s not going to change their fortunes overnight. But I do think it is a signal that what Reddit actually has, which is a place where people type reddit.com into their browsers because they want to go there and discuss things that they’re passionate about — I do think that the value of that will grow over time as more and more of the internet gets sort of eaten by AI generated sludge. And so I think that Reddit is smart to bet on its future as, among other things, a place where anyone, not just AI developers, but where users, where other businesses who want to see or learn from people talking about real things will go. I don’t know. I don’t know that I would do anything differently if I was Reddit, but I do think that it’s a little sad that a website that is almost 20 years old, that has untold reserves of high-quality discussions, and frankly, some low-quality discussions too, that it’s only worth $60 million to Google.
+
+casey newton
+
+Yeah, and I should also say that this company is just not growing its user base, really. It’s pretty flat. Wired reported it was sort of looking at what it has been telling investors over the past few years, and they’ve been basically stuck at around 500 million monthly visitors, something like 73 million, 76 million visitors a day. A lot of the people who visit Reddit are not logged in. That makes it harder to sell them ads. So they do just kind of have a growth problem. Again, that’s why I say that they kind of staggered over the finish line. Like it just doesn’t feel like this is a company that has the wind at its back when it comes to user growth, revenue growth, new business ideas, right? That’s pretty challenging a set of circumstances to carry into the public markets.
+
+kevin roose
+
+All right. So, one of the notable things about this IPO is that in addition to offering its stock to the public, Reddit also offered it to its own users. The company allowed longtime Redditors and moderators of some of its most popular subreddits to buy shares of the company’s stock at the IPO price. And this was, I think, an attempt to frame this IPO as a good thing for Reddit’s community as a whole, not just for the investors and executives who got to cash out their shares. To maybe capture some of the meme stock potential of a Reddit IPO, and maybe get users excited about the fact that they would be able to actually make money from this thing that they had been doing for free for so many years. Do you think this was a good idea?
+
+casey newton
+
+I think it is a nice idea. Especially to go out to these unpaid moderators, who in many ways are the backbone of Reddit, and say we want to do something nice for you. We’re going to give this stock to you at the IPO price. The reason that matters is that typically these IPOs are priced so that they pop on the first day. The price goes up. It’s a long way of saying that IPO prices are generally underpriced, right? So if that is the case, then you would hope that some of these Redditors would make a little bit of money off of the IPO, and that’s great. My thing, though, would just be like why is this a one time thing? Like why don’t you just let moderators earn RSUs in the company, like through the course of doing business? I think Reddit should take this idea and build on it, I guess would be my message.
+
+kevin roose
+
+Yeah. I mean Reddit has never, for sort of strange and quirky reasons, it has never had trouble convincing people to work for free moderating subreddits that they’re passionate about. So I don’t know that it feels like it has to start routinely issuing stock to people who run pro wrestling subreddit, or history subreddit, or gardening subreddit. That said, I think this was a good gesture on the company’s part, and I think it creates the potential to ease some of these conflicts that have historically plagued Reddit between moderators of popular subreddits and executives who run the company, who have clashed many times over the years, not just about this data licensing thing last year. They’ve clashed repeatedly and routinely. You could almost set your watch by it, over the years. And so I wonder if this actually creates a kind of aligned incentive structure, because now moderators, some of them, the ones who chose to buy stock in Reddit at the IPO price, actually have kind of the same incentives as the people who work at the company in terms of making it a more profitable business. And I wonder, if last year when this drama erupted over these APIs changes, if moderators might have been a little easier to please if you could go to them as Reddit and say, look, we’re making these changes. We know this is annoying, we know it’s not something that you like, but look, it’s going to open up this data licensing business to AI companies. It’s going to make us all more money. I wonder if that have quelled the rebellion.
+
+casey newton
+
+I don’t think it would have. I basically completely disagree with this, because I think that the average Reddit user has never been there to make money. They’re there to have a good time. They’re there to be entertained. They’re there to learn. They want a website that works well. That is not actually the incentive that Steve Huffman has as the CEO. His incentive is to make the company profitable. During last year’s controversy somebody asked him, essentially, when are you going to stop with all of these changes that you’re making? And he said, when we become profitable. The median user of Reddit, I would wager, doesn’t care if the site becomes profitable and I don’t think giving them a few shares of stock really changes that equation. I think you’d have to essentially buy off the entire user base to the point where they were collectively one of the largest shareholders in the company. What I suspect is going to happen instead, is that a relatively few number of Reddit users are going to own the stock, and some private equity firm or some other group of activist shareholders are going to come in two years, and they’re going to say, this business sucks. We’re taking it private. We’re going to introduce a bunch of horrible new monetization schemes. And we will have another Reddit revolt.
+
+kevin roose
+
+God, that would be so depressing, and I totally think it’s the most likely outcome here is that activist investors say, we can make a lot more money if we just jam everyone’s feed full of AI garbage, and that seems like a much more profitable business. Or we’re going to turn this into TikTok, start emphasizing short-form video, and I can totally see that happening. And it really bums me out. And so I hope for its own sake, and for the sake of the internet at large, that Reddit continues to be Reddit in some recognizable form.
+
+casey newton
+
+Me too. Long live Reddit. [FUNKY MUSIC] [MUSIC ENDS] [FUNKY MUSIC]
+
+kevin roose

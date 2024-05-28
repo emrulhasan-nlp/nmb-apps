@@ -1,0 +1,99 @@
+Sign up to receive the Balance of Power newsletter in your inbox, and follow Bloomberg Politics on Twitter and Facebook for more.
+
+Like Middle East wars of the past, the conflict between Israel and Hamas that broke out this past week has the potential to disrupt the world economy — and even tip it into recession if more countries are drawn in.
+
+That risk is real, as Israel’s army prepares to invade Gaza in response to an attack by the militant group. The death toll from the Hamas assault and the ongoing Israeli air strikes on Gaza is already in the thousands. There’s concern that militias in Lebanon and Syria that support Hamas will join the fighting.
+
+Expand People take cover upon hearing sirens warning of incoming fire in Ashkelon, Israel, on Oct. 11. Photographer: Ronaldo Schemidt/AFP/Getty Images
+
+A sharper escalation could bring Israel into direct conflict with Iran, a supplier of arms and money to Hamas, which the US and the European Union have designated a terrorist group. In that scenario, Bloomberg Economics estimates oil prices could soar to $150 a barrel and global growth drop to 1.7% — a recession that takes about $1 trillion off world output.
+
+Of course, secondary effects like these aren’t top of mind after the past week’s human tragedy. A large majority of the dead on both sides are civilians. Dozens of Israeli hostages have been taken to Gaza. Missiles and a looming ground attack threaten the lives of Palestinians trapped in the enclave with no escape route. The devastation is raising emotional temperatures, and makes military escalation more likely.
+
+Read More: Brutality of Surprise Attack Unites Israel Around One Goal: Crush Hamas
+
+Conflict in the Middle East can send tremors through the world because the region is a crucial supplier of energy and a key shipping passageway. The Arab-Israeli war of 1973, which led to an oil embargo and years of stagflation in industrial economies, is the clearest example. Other conflicts had a more limited impact, even when the human toll was high.
+
+Expand Early morning at a gas station in Portland, US, in 1973. Photographer: Smith Collection/Gado/Getty Images
+
+Terminal clients: Use TOP IHW for latest coverage on the Israel-Hamas war.
+
+Today’s world economy looks vulnerable. It’s still recovering from a bout of inflation exacerbated by Russia’s invasion of Ukraine last year. Another war in an energy-producing region could rekindle inflation. Broader consequences could extend from renewed unrest in the Arab world, to next year’s presidential election in the US, where gasoline prices are key to voter sentiment.
+
+All of these potential effects depend on how the war develops over the coming weeks or months. Bloomberg Economics has examined the likely impact on global growth and inflation under three scenarios.
+
+In the first, hostilities remain largely confined to Gaza and Israel. In the second, the conflict spills over to neighboring countries like Lebanon and Syria which host powerful Tehran-backed militias — essentially turning it into a proxy war between Israel and Iran. The third involves escalation into a direct military exchange between the two regional enemies.
+
+In all these cases, the direction is the same — more expensive oil, higher inflation, and slower growth — but the magnitude is different. The wider the conflict spreads, the more its impact becomes global rather than regional.
+
+Of course, the actual range of risks and possibilities is wider and more complex than these scenarios can capture. Even narrow economic chains of cause-and-effect have proved difficult to forecast amid the volatility of recent years -- and wars are much harder to predict. Still, the scenarios we map out here should at least help to frame thinking about the potential paths ahead.
+
+Scenario 1: Conflict Confined to Gaza
+
+In 2014, the kidnap and murder of three Israelis by Hamas was the trigger for a ground invasion of Gaza that left more than 2,000 people dead. Fighting didn’t spread beyond the Palestinian territory, and its impact on oil prices — and the global economy — was muted.
+
+The past week’s death toll is already higher. Still, one possible trajectory for the current conflict would essentially be a replay of that tragic story — combined with tighter enforcement of US sanctions on Iran’s oil.
+
+Tehran has increased its oil output by as much 700,000 barrels per day this year, as prisoner exchanges and unfreezing of assets signaled a thaw in relations with the US. If those barrels disappear under US pressure, Bloomberg Economics estimates a $3 to $4 boost to oil prices.
+
+The impact on the global economy under this scenario would be minimal, especially if Saudi Arabia and the UAE offset lost Iranian barrels using their spare capacity.
+
+Terminal clients: Use Bloomberg’s OPEC and IMO tools to put Iran’s output and regional oil prices in context Bloomberg Terminal .
+
+In an interview at the International Monetary Fund’s annual meetings in Morocco, Treasury Secretary Janet Yellen said she’s not seeing signs of “major economic ripple effects” at this stage. “It’s critically important that the conflict not spread,” Yellen said.
+
+Scenario 2: Proxy War
+
+What if it does spread? Hezbollah — an Iran-backed political party and militia that’s a powerful player in Lebanon — has already exchanged fire with Israeli forces on the border, and said it hit an Israeli army post with guided missiles.
+
+If the conflict spreads to Lebanon and Syria, where Iran also supports armed groups, it would effectively turn into a proxy war between Iran and Israel — and the economic cost would rise.
+
+“Iran and Hezbollah are monitoring and assessing the situation,” says Yair Golan, the Israeli military’s former deputy chief of staff. “If Hezbollah joins the campaign, the timing could be after the beginning of a ground operation in Gaza.”
+
+Escalation on these lines would raise the probability of a direct conflict between Israel and Iran, likely sending oil prices higher. In the short but bloody Israel-Hezbollah war of 2006, crude jumped by $5 a barrel. On top of the shock from the confined-war scenario, an equivalent move today would send the price up 10% to about $94.
+
+Tensions could also rise in the wider region. Egypt, Lebanon, and Tunisia are all mired in economic and political stagnation. Israel’s response to Hamas’ attack has already triggered protests in a number of countries in the region. On the Arab Street, the distance from anti-Israel marches to anti-government unrest is short. A repeat of the Arab Spring — a wave of protest and rebellion that toppled governments in the early 2010s — isn’t unthinkable.
+
+Expand Demonstrators clash with security forces in Sidi Bouzid, Tunisia in December 2010 — one of the first acts of the Arab Spring. Source: AFP/Getty Images
+
+The global economic impact in this scenario comes from two shocks: A 10% jump in oil prices, and a risk-off move in financial markets in line with what happened during the Arab Spring. We capture the latter move with an eight-point increase in the VIX index, a widely used measure of risk aversion.
+
+They add up to a 0.3 percentage-point drag on global growth next year — about $300 billion of lost output — that would slow the pace to 2.4%. Outside of the 2020 Covid crisis and the worldwide slump of 2009, that would be the weakest growth in three decades.
+
+Higher oil prices would also add about 0.2 percentage points to global inflation — holding it near 6%, and sustaining pressure on central bankers to keep monetary policy tight even as growth disappoints.
+
+Scenario 3: Iran - Israel War
+
+Direct conflict between Iran and Israel is a low probability scenario, but a dangerous one. It could be the trigger for a global recession. Soaring oil prices and plunging risk assets would deal a substantial blow to growth, and take inflation a notch higher.
+
+“No one in the region, not even Iran, wants to see the Hamas-Israel conflict escalate into an all-out regional war,” says Hasan Alhasan, a research fellow at the International Institute for Strategic Studies. That doesn’t mean it won’t happen, especially with emotions running high. “The possibility of miscalculation is large,” says Alhasan.
+
+Israel has long viewed Iran’s nuclear ambitions as an existential threat. Tehran’s moves to build a military alliance with Russia, restore diplomatic ties with Saudi Arabia and smooth relations with the US have added to unease.
+
+Israel and the US have sent mixed messages about Iran’s complicity in the Hamas attack. “There’s some evidence that they might have known about it,” Israel’s minister for Strategic Affairs Ron Dermer said on Oct. 9. US officials say they have evidence Iranian leaders were taken by surprise, the New York Times reported on Oct. 11, though they’ve described Iran as complicit in a broader sense because it funds and arms Hamas.
+
+In an Israel-Iran confrontation, “Tehran would likely seek to activate its entire network of proxies and partners in Syria, Iraq, Yemen, and Bahrain,” Alhasan said. “It would have a long list of hard and soft Western targets in the region to choose from.”
+
+Expand Workers repair a damaged tank at Saudi Aramco's Abqaiq crude oil processing plant following a drone attack in in September 2019. Photographer: Faisal Al Nasser/Bloomberg
+
+In this scenario, increased superpower tensions would add to the volatile mix. The US is a close ally of Israel, while China and Russia have been deepening ties with Iran. Western officials say they’re concerned that China and Russia will exploit the conflict to divert attention and military resources from other parts of the world.
+
+With around a fifth of the world’s oil supply coming from the Gulf region, prices would skyrocket. A repeat of the strike on Aramco facilities by pro-Iranian militants in 2019, which took almost half of Saudi oil supply offline, isn’t out of question.
+
+The price of crude might not quadruple, as it did in 1973 when Arab states imposed an embargo in retaliation for US support for Israel in that year’s war. But if Israel and Iran are firing missiles at each other, oil prices could increase in line with what happened after Iraq’s 1990 invasion of Kuwait. With a much higher starting point today, a spike of this magnitude could take oil to $150 per barrel.
+
+The spare production capacity in Saudi Arabia and the UAE may not save the day if Iran decides to close the Strait of Hormuz, through which one-fifth of the world’s daily oil supplies pass. There’d also be a more extreme risk-off shift in financial markets, perhaps comparable to the 16 point spike in the VIX in 1990.
+
+Plugging in those numbers, Bloomberg Economics’ model predicts a 1 percentage point drop in global growth — taking the number for 2024 down to 1.7%. World recessions are tough to define: the rapid expansion of economies like China means outright contractions are rare. But 1.7% would meet the criteria. Again leaving out the Covid and global financial crisis shocks, it would also be the worst growth since 1982 - the period when the Fed cranked up interest rates to contain inflation from the 1970s oil shock.
+
+An oil shock this big would also derail the worldwide effort to rein in prices — leaving global inflation at 6.7% next year. In the US, the Fed’s 2% target would stay out of reach, and costly gasoline would be a hurdle for President Joe Biden’s re-election campaign.
+
+A Darker Path
+
+The high toll in Israel increases the likelihood of a bloody retaliation, and a regional war. The balance of probabilities, though, still tilt toward a contained conflict, with a high cost in human suffering but limited economic and market impact.
+
+Expand A rally in support of Israel in Montevideo, Uruguay, on Oct. 11. Photographer: Dante Fernandez/AFP/Getty Images
+
+One thing that is certain: hopes for a more stable Middle East are in tatters. In recent years, rapprochement between Saudi Arabia and Iran, and peace treaties between Israel and several Arab states — with the prospect that the Saudis might follow suit soon — raised expectations that the region might see an end to decades of strife.
+
+Instead it’s facing a new conflagration. Russia’s invasion of Ukraine, the US–China trade war and rising tensions over Taiwan show that geopolitics is back as a driver of economic and market outcomes. In the Middle East, it never really went away.

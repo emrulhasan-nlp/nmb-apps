@@ -1,0 +1,85 @@
+A century ago, Supreme Court Chief Justice (and former President) William Taft worried that the emergence of cars had been a godsend for bad guys. Eschewing subtlety, he wrote in 1923 that “the automobile is the greatest instrument for promoting immunity of crimes of violence that I know of in the history of civilization.”
+
+It is not difficult to understand his fears. Never before could a person instantly flee a crime scene at 60 miles per hour. Even if a suspect was caught, law enforcement might need to obtain a warrant before conducting a search of his vehicle. “Getaway cars” enabled many criminals to escape the police simply by crossing a jurisdictional line. Indeed, the myriad legal issues raised by automobiles could make even a Supreme Court justice’s head spin.
+
+Expand Credit: Stanford University Press
+
+Taft’s letter is one of the intriguing tidbits unearthed by Purdue University sociology professor Spencer Headworth in his new book, Rules of the Road: The Automobile and the Transformation of American Criminal Justice. Relying on historical analysis as well as close readings of legal cases, Headworth explores how the arrival of the automobile shaped US criminal law, and how the car became both a tool and a target for criminal activity. Innovations like the Vehicle Identification Number (VIN), for example, were initially intended as an anti-theft tactic (one that has been, shall we say, less than a panacea). He also delves into thorny societal questions about vehicle data and automatic traffic cameras that bedevil contemporary law enforcement.
+
+“Much of what we recognize as modern criminal justice institutions — indeed, much of what we recognize as modern American society — developed from the advent of automobility,” Headworth writes. “Today, the organization of daily life and our primary mechanisms of social control revolve around cars.”
+
+CityLab contributor David Zipper spoke with Headworth about the ways in which the United States continues to wrestle with legal tensions arising from the use of motor vehicles. Their conversation has been edited for length and clarity.
+
+In your book you described how cars created headaches for law enforcement because they can traverse state borders so quickly. How did American law respond to that issue?
+
+The automobile functionally collapsed physical space, especially in the smaller states in the Northeast. It was all of a sudden very easy for a perpetrator committing an offense in one jurisdiction to cross state lines. And our criminal justice system was notably patchworked, without one centralized law enforcement bureaucracy.
+
+One of the consequences of this is the Carroll v. United States Supreme Court decision in 1925, allowing for roadside searches based on probable cause. Chief Justice Taft wrote the majority opinion, and central to it was the idea that it would be easy for a motorist to leave the jurisdiction of the officers stopping the vehicle before a search warrant could be obtained. The court said, we need to have a relaxed standard for search here, because otherwise people are just going to pick up and go from Boston to Rhode Island, or whatever.
+
+Another thing that develops over the course of the 20th century is significant federalization in law enforcement, through the FBI. The federal Mann Act criminalized what we would now consider human trafficking or sex trafficking. Moving stolen cars across state lines also became a federal crime, which provided the jurisdictional hook for the FBI to get involved in some of these high-profile early cases like Bonnie and Clyde. These were interventions that were made possible because federal law was responding to jurisdictional challenges created by cars.
+
+I'm not a lawyer, but my understanding is that a person’s right to privacy sitting in their home is far greater than their right to privacy while walking on a street. And then cars come along, and being inside one is a hybrid landing in the middle. Is that fair?
+
+That’s fair. I would say, though, that cars are probably closer to pedestrians than a home, because the basic standard of probable cause for a search of a pedestrian is more or less the same as for the search of a vehicle. From a privacy perspective, a stop-and-frisk encounter for the pedestrian is really very similar to a vehicle stop followed by a search on the side of the road.
+
+Cars have come to occupy this unique space in relation to the Fourth Amendment, such that the standard requirements for a search are far more relaxed. Instead of a warrant signed by a magistrate, all you need is probable cause on an officer’s discretion. That is unusual in Fourth Amendment world on its own — and it’s also very noteworthy because it sets the stage for a lot of other issues connected to the centrality of cars and criminal justice.
+
+One of the main characters of your book is August Vollmer , who led the police in Berkeley and then Los Angeles a century ago and was a kind of national law enforcement intellectual. Vollmer was strongly opposed to the police taking on the role of traffic enforcement. Why?
+
+Vollmer strongly believed that the fundamental job of the police should be trying to limit serious crimes, and when they are committed to swiftly identify perpetrators and facilitate their prosecution. He didn’t want to focus on small-time traffic stuff. He also worried that police focused on traffic enforcement could become more prone to corruption.
+
+Who, then, did he suggest should handle traffic enforcement, if not the police?
+
+Good question. A big part of the reason why traffic enforcement ended up falling to the police is because no other established bureaucratic entity could take it. The police were available, and they had a general authority under the law to engage in this sort of thing.
+
+A hundred years later, was Vollmer right to warn us that traffic responsibilities would erode police credibility?
+
+Yes. There’s very clear evidence that many issues in contemporary policing can be tied to the police taking on this responsibility, which is quite different from aggressively pursuing serious crimes. In the book I note that we have very low clearance rates for homicides in the United States, somewhere like 50%. Critics will often say, “We’re spending all this time on traffic policing when it could be going toward investigating serious crimes and clearing them.”
+
+Expand Policemen seated in a patrol car in 1951. Photographer: Bettmann via Getty Images
+
+Urbanists often talk about a “ windshield perspective ” that makes those sitting in a car feel less connected to their surroundings. Is there a windshield perspective for police?
+
+Yes. The experience of driving a cruiser through a neighborhood is really different from walking through a neighborhood and directly interacting with people. Just like any motorist, you are more separated from your surroundings; you’re not engaging directly with people.
+
+I wanted to ask about the legal treatment of people who use cars as weapons. An infamous example is the murder of Heather Heyer during the Charlottesville white supremacist rally in 2017, but you show that cars have been seen as weapons for a very long time. In 1925, for instance, Philadelphia police arrested 9,000 people for using a vehicle as an instrument of assault and battery. How clear is the law when cars are used to inflict harm?
+
+For a while, the law was not particularly clear on this point. There were some issues in early cases involving impaired drivers, where juries and judges expressed some degree of reservation about considering a vehicle as a weapon in the same way that you would think about a gun or a knife. That was part of the motivation for writing specific vehicular manslaughter and vehicular homicide statutes that explicitly said, “This is to be considered a weapon, an instrument of destruction.” These days, the use of cars as weapons is pretty firmly recognized in the law.
+
+Unless you’re in Florida driving into a protest , I suppose.
+
+Right. Like a lot of things, it matters who the motorist is, and it matters who the targets are.
+
+On a more upbeat note, you wrote that drunk driving is something of a success story in the US, with per capita death rates from drunk driving falling 65% from 1982 to 2018. You attribute much of that progress to grassroots organizing pushing for policy change. Today, there is a growing concern around distracted driving due to smartphones. Are there lessons you would draw from our experience with drunk driving that could inform strategies to reduce distracted driving?
+
+In some ways, distracted driving seems to be a technologically easier problem to solve than drunk driving. Limiting phone capabilities while inside vehicles seems like a possible solution.
+
+Read More: How to Get Safer Streets — Minus the Police
+
+Now politically solvable — I’m not sure. I don’t think distracted driving has reached the level of legal and political influence that we saw connected to the drunk driving movement in the ’70s, and especially into the ’80s. But in terms of historical lessons, Mothers Against Drunk Driving and Remove Intoxicated Drivers really did spearhead this change. It seems totally possible that something could be done at the grassroots level to mitigate the problems associated with distracted driving in the manner that we’ve already seen work with drunk driving.
+
+Of course, more than 10,000 Americans are still killed in drunk driving crashes every year. When I wrote about Canadian road safety, I learned that in many provinces residents’ cars are immediately impounded if they are caught drunk driving — which could be part of the reason that the country has a per capita crash death rate 60% lower than the US. Should we do that in the US more often?
+
+I’m not so sure. In the broader world of criminal justice research, we know that deterrent effects — for all kinds of punishments, including the death penalty — are not that strong, meaning that they seldom prevent crimes. And there are a lot of real downsides to impounding cars, in terms of how it affects people’s lives, their families, and so forth. I certainly understand the idea, and drunk driving is a huge problem, but I’d be hesitant about adopting a policy focused on impounding cars.
+
+But what about the safety of everyone else on the road? If someone has a pattern of reckless driving, should their potential difficulties going without a car trump the safety benefits accruing to others if they are prevented from driving?
+
+These are really important questions. When you get into patterns of behavior, I think that might be a somewhat different story than a single incident. I don’t feel that I have the data to make an assessment, but I will say that a point in favor of taking cars away in such situations is that we know that around 75% of people with suspended licenses continue to drive, so impounding a car may be more effective.
+
+Let’s keep going on enforcement tactics. Would the US be better off if we adopted widespread automatic traffic enforcement for red lights, speeding, and so on?
+
+I think there are significant arguments on both sides of this one. On the anti-side, people have real concerns about the extent to which automatic cameras are tied to broader government surveillance projects, and how in some cities like DC and Chicago they have disproportionately affected poor people and people of color.
+
+Expand A traffic camera in Boulder, Colorado. Photo by Jeremy Papasso/Digital First Media/Boulder Daily Camera via Getty Images
+
+But on the plus side, with automated traffic enforcement you’re at least partially removing the police from the traffic enforcement context, which will, by definition, reduce rates of police shootings and can certainly mitigate major racial inequalities. And there’s also some pretty significant evidence that automated traffic enforcement does reduce speeding, including some of the most dangerous types of collisions.
+
+I’d like to press you on the supposed inequity of concentrating traffic cameras in minority neighborhoods. The US has a long history of racist infrastructure, such as building arterials and highways in low-income communities. Those are the places where residents are most likely to die in a crash, especially those walking and biking. Ideally we would redo street designs in every such neighborhood, but since that isn’t financially feasible, why not place many traffic cameras there? After all, they can save a disproportionate number of lives in those locations — and the beneficiaries will largely be low-income and minority residents.
+
+Well, from a public welfare standpoint you want to put the cameras where there’s the highest risk to the public. The downside of that is that motorists who are ticketed in those areas are more likely to themselves be people of color. I think that is a price many people would be willing to pay in exchange for reducing rates of serious injuries and fatalities. If you put the value of saving one life up against 1,000 people getting traffic tickets, I think the one life is typically going to win.
+
+In your book you share pointed criticism of driver’s license suspensions, car forfeiture, and automatic traffic enforcement — as well as police enforcement. But we have a serious roadway safety crisis in the US, one that makes traveling on our roadways much more dangerous than in peer nations . Are there criminal justice approaches related to cars that we should prioritize to reduce crash deaths?
+
+I would generally give top priority to public safety interventions that are focused on road design and infrastructure over criminal justice interventions. Addressing the fundamental causes of road safety problems is where I think we should be spending most of our time and energy.
+
+That approach aligns with most criminal justice conversations: If you want to reduce crime, reduce poverty. All the stuff that we do through the criminal justice system is responding to situations that are largely created by societal problems. Addressing causes and core issues is ultimately better for society and better for individuals.

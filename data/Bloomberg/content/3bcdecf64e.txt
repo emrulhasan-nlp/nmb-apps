@@ -1,0 +1,81 @@
+Welcome to Bw Daily, the Bloomberg Businessweek newsletter, where we’ll bring you interesting voices, great reporting and the magazine’s usual charm every weekday—and especially today, when we round up the best stories from our annual Tech Issue. Let us know what you think by emailing our editor here! If this has been forwarded to you, click here to sign up.
+
+Must-Reads
+
+Two crypto lenders halted withdrawals, a reminder of that risks remain.
+
+Some workers are lonely at home but don’t want to return to the office.
+
+The Fed paused its rate hikes, but that might be short-lived.
+
+There are two ways of looking at ChatGPT, the artificial intelligence chatbot that hundreds of millions of people have tried out since its release late last year. One view, preferred by many politicians and journalists as well as the company that created the app, is that its release was an historic development on par with the Industrial Revolution—or, more troublingly, the atomic bomb. OpenAI’s co-founder, Sam Altman, has warned that future versions of the underlying software, a large language model known as GPT-4, could wipe out the human race.
+
+The other way to look at ChatGPT is as a vehicle for viral hype. Play around with the software for a few minutes, and it’s obvious that the potential for Armageddon has its limits. The app struggles with middle school math, can’t tell you what happened last week and is basically the machine equivalent of a compulsive liar. But it’s already true that the software is beyond Altman’s power to fully control.
+
+Expand Altman Photographer: Joel Saget/Getty Images
+
+Microsoft Corp., not OpenAI, owns the mega-computers that enable the chatbot to compose a sonnet about your cat or write a thank-you note to your uncle. Microsoft is OpenAI’s largest shareholder, its biggest financial backer and its key technology partner. And to a great extent, it’s Microsoft that now has the responsibility of turning ChatGPT’s buzz into a real business. Although OpenAI is hands-down the hottest startup in Silicon Valley, in many ways it feels more like the most promising subsidiary of the leading purveyor of productivity software.
+
+Microsoft didn’t rate in the public AI discourse one short year ago, when we were all watching Top Gun: Maverick and listening to Sam Bankman-Fried. Back then most of the hand-waving on the subject was aimed in the general direction of Google, where researchers first developed the technologies behind ChatGPT and its peers. But while Google initially kept its research away from commercial products, especially its flagship search engine, Microsoft is focused on using OpenAI’s innovations to make a buttload of money ASAP.
+
+The company’s GitHub Copilot tool, which suggests new lines of code to computer programmers, was its first paid offering and has attracted more than 10,000 companies as customers. Bing, Microsoft’s also-ran search engine, came next, with a chatbot search engine that can create vacation itineraries and shopping lists. Over the past several months, Chief Executive Officer Satya Nadella has announced plans to incorporate other Copilots into Windows (where they’ll rewrite, summarize and explain content) and its Microsoft 365 office suite (where they’ll create slide decks in PowerPoint, sift through emails in Outlook and make charts based on Excel data). “There’s no point in hyping technology for technology’s sake,” Nadella says. “All of these technology shifts are only useful if they do something in the real world.”
+
+Nadella’s team hasn’t disclosed pricing on the forthcoming Copilots, but they definitely won’t be free. GitHub’s version starts at $10 per user per month, and Copilots for Microsoft’s office apps could be similarly priced, translating into as much as $48 billion in extra annual revenue within the next four years, according to Kirk Materne, an analyst with Evercore ISI. In a research note published on June 2, he estimated that Microsoft’s revenue from OpenAI-powered features could hit $99 billion by 2027. That would be like adding three Netflixes to the top line of the world’s second-most-valuable public company.
+
+Expand Nadella Photographer: Chona Kasinger/Getty Images
+
+Little wonder, then, that Microsoft has invested $13 billion in OpenAI since 2019, according to people familiar with the partnership; that its share price has shot up 30% since ChatGPT’s unveiling; or that it’s become the unlikely AI tech giant to beat. “The clear leader,” says Kim Forrest, chief investment officer and founder of Bokeh Capital Partners LLC, an investment firm. “Google just got completely leapfrogged.”
+
+Microsoft executives are understandably excited to be associated with the cutting edge of anything. It’s been a minute, as their cultural reference points show. “This is a little bit like the Windows 95 moment,” says Scott Guthrie, one of the company’s executive vice presidents. “People lined up at Best Buy at midnight to buy it.” This time, Guthrie says, his inbox is packed with requests from CEOs asking for access to early versions of the corporate Copilots.
+
+This tracks with the comparison to Windows 95, which was less a technological breakthrough than a sublime expression of corporate dominance. For more than a decade after its release, Microsoft owned the central platform for personal computing software. (That the company’s practices led to an antitrust settlement with the US government did little to hamper its long-term prospects.) Now the House That Gates Built is making a similar bet on what looks like the next big platform. The idea is simple: Bring AI to everything, then cash in.
+
+Will it work? Join Max Chafkin and Dina Bass behind the scenes at the tech giant, as the race for AI moves from a simmer to a boil.
+
+Brrrrrr
+
+We’ve been calling the chill in crypto markets “winter” but, Hannah Miller reports, that might not be cold enough to accurately capture the state of play. In the past few weeks, the Securities and Exchange Commission has filed suits against two of the biggest players, making it clear that the regulatory body doesn’t think boom time business practices are legal in the US. To wit:
+
+The suits take on the world’s two largest crypto trading platforms, Binance and Coinbase, accusing both of running unregistered securities exchanges and brokerages. Both companies say they don’t offer US investors coins that can be considered securities. “The SEC is now playing whack-a-mole with crypto exchanges,” says Ed Moya, senior market analyst at Oanda Corp., a currency trading platform. But if its arguments prevail against these two companies, the impact could be far wider, reining in the activities of other trading platforms and perhaps forcing cryptocurrency creators to register their tokens as securities if they want them to be tradeable in the US.
+
+What’s the problem? Well, in the case of Binance, it didn’t help that the filing quotes its chief compliance officer telling another compliance officer, in 2018, “we are operating as a fking unlicensed securities exchange in the USA bro.” It also doesn’t help that the company is alleged to have encouraged users to trade using VPNs to hide their location and access the main (forbidden) exchange.
+
+Coinbase is a bit of a different beast, based in the US and having “long touted its compliance with US rules.” What to make of the suit against them? For that, you’ll have to read the whole story.
+
+AI’s Brain
+
+For the AI curious, one company name has been coming up again and again recently: Nvidia. Most consumers would be forgiven for not knowing exactly why they’re suddenly hearing so much about a computer chip outfit.
+
+But there would be no AI boom without Nvidia, as Austin Carr and Ian King report. It might be the one thing connecting all the AI players and would-be players. It started with video games:
+
+For much of the past 30 years, Nvidia chips have been the main engine for ultrarealistic explosions and lush foliage in video games such as Call of Duty and Counter-Strike, but Huang strongly suspected they were also uniquely suited to sift through the massive data sets that artificial intelligence requires. To help test this theory, he instructed his team to build a server designed for AI and hand-delivered the first one in 2016 to Elon Musk and Sam Altman, the founders of OpenAI. Billed as an AI supercomputer, the $129,000 rig was the size of a briefcase and contained eight interconnected graphics processors that could digest in two hours what would take a traditional computer processor more than six days. Huang personally brought it to the startup’s office as a gift, and as he gestured to the components, Musk beamed at the silvery box like a proud father. Since then, Musk and Altman had an acrimonious split, but they’re aligned in one way: each has sought access to Nvidia chips for different projects. OpenAI released ChatGPT late last year, with a brain composed of more than 20,000 Nvidia graphics processors. In February, according to the research firm Similarweb Ltd., the chatbot hit 100 million users, which would be a triumph for OpenAI if it weren’t so expensive to run. Microsoft Corp. has pledged more than $10 billion in funding, which will help cover rising computing costs, and Altman, the startup’s chief executive officer, will need tons more chips from Nvidia to keep up with demand. Huang doesn’t use ChatGPT much, he says, but signed up for the $20-a-month version Altman’s company offers. “He needs the money,” Huang jokes.
+
+This has created enormous, almost overnight wealth.
+
+Quarterly revenue from data centers—which Nvidia now calls “AI factories”—jumped 14%, to a record $4.28 billion. Its summer sales forecast was 53% higher than analysts expected, hurling its valuation past $1 trillion. It was only the ninth company ever to reach that mark. Overnight, Nvidia grew by almost the entire market cap of one longtime rival, Advanced Micro Devices Inc. (AMD), and is now worth seven times another, Intel Corp. At least three Wall Street analysts used the same word in the titles of their reports: “Wow.”
+
+How did this happen? Company execs would have you believe it’s a company without internal politics, whose founder is just kind of always right. The whole story is much more complicated, with failure as well as success.
+
+More from the Tech Issue
+
+Wedding Bells
+
+$210 billion That’s how much Indians spend annually on weddings. The country’s Supreme Court is considering whether to legalize same-sex marriage, but some couples aren’t waiting.
+
+Bodily Harm
+
+“Some crimes defy understanding” Gerard Karam US attorney for the Middle District of Pennsylvania The manager of Harvard Medical School’s morgue was indicted on federal charges that he stole body parts as part of a human-remains trafficking conspiracy.
+
+Get Bloomberg Newsletters in Your Inbox
+
+CityLab Daily for top stories and ideas, curated for your inbox by CityLab editors
+
+Green Daily for the latest in climate news, zero-emission tech and green finance
+
+Screentime for a front-row seat to the collision of Hollywood and Silicon Valley
+
+Tech Daily for what to know in tech
+
+The Big Take for the stories you'll want to talk about
+
+And sign up for more Bloomberg newsletters at Bloomberg.com.

@@ -1,0 +1,61 @@
+Protesters at OpenAI’s office demanded the startup cease military work. But first...
+
+Three things you need to know today:
+
+• Nvidia briefly overtook Amazon in market value
+
+• Temu spent millions on Super Bowl ads
+
+• X is adding new advertiser targeting features
+
+At the protest
+
+About 30 activists clustered at the entrance to OpenAI’s San Francisco office Monday afternoon, determined to make themselves heard. “Pause AI!” one shouted into a megaphone, and the crowd replied, “’Cause we don’t wanna die!”
+
+They held signs that said, “Don’t Trust Sam Altman” and “Survival Over Profits.” Three floors up, a few OpenAI employees wandered over to the windows to peer down and take pictures.
+
+The protesters were specifically concerned about how in January, OpenAI quietly changed its usage policies to remove a ban on “military and warfare” applications for its products.
+
+A few days later, an OpenAI executive said in a Bloomberg interview that the company is working with the US Defense Department on open-source cybersecurity software and is in talks with the US government about helping prevent veteran suicide.
+
+Holly Elmore, who helped organize Monday’s protest, said the underlying problem was much bigger than OpenAI’s military work. It’s the way OpenAI publicly stated it wouldn’t work with militaries and then retracted the commitment.
+
+Elmore drew parallels with statements last year by Sam Altman, OpenAI’s chief executive officer, saying his board should be able to fire him. Later, when the board did fire him, he returned as CEO five days later.
+
+“There’s no teeth to those boundaries,” Elmore said. “Even when there are very sensible limits set by the companies, they can just change them whenever they want.”
+
+An OpenAI spokesperson said it maintains a ban against using its tools to build weapons, harm people or destroy property. It amended the military ban to allow for projects that are still “very much aligned with what we want to see in the world,” Anna Makanju, OpenAI’s vice president for global affairs, said last month.
+
+Elmore and others have turned protesting against forms of artificial intelligence into a full-time effort, though much of it remains unpaid. Elmore leads US operations for PauseAI, which advocates for an indefinite stoppage on frontier AI research until it can be proven safe.
+
+Sam Kirchner, who organized the demonstration with Elmore, protests regularly in Seattle against artificial general intelligence. OpenAI and other companies are aiming to create AGI, which they define as an AI as smart as the average person. Kirchner said AGI will remove meaning from human existence by hindering our ability to contribute and make discoveries.
+
+Elmore came into her work through effective altruism, a philanthropic philosophy that’s largely shifted in the last 15 years to prioritize existential risks, especially from rogue AI. Elmore researched animal welfare projects at an EA think tank but now tries to raise awareness about risks from superintelligent AI.
+
+Though she recognizes that PauseAI’s proposal invites criticism, she’s also hoping to use the clear (and provocative) message to tell the public that barreling forward isn’t the only option.
+
+She’s buoyed by recent polls that say people share her fear. The majority of survey respondents prefer to slow AI development and believe AI could accidentally cause catastrophe.
+
+“You don’t have to be a genius to understand that building powerful machines you can’t control is maybe a bad idea,” Elmore said. “Maybe we shouldn’t just leave it up to the market to protect us from this.”
+
+The big story
+
+US companies are discussing cutting costs at earnings calls like never before, according to an analysis by Morgan Stanley strategists. Amid efforts to reallocate funds and invest in new technologies, phrases such as “operational efficiency” are being mentioned in transcripts at record rates.
+
+One to watch
+
+Watch the Bloomberg Technology TV interview with Verizon Chief Network Officer and Senior Vice President Lynn Cox.
+
+Get fully charged
+
+Nvidia’s CEO downplayed the reported $7 trillion Sam Altman is said to be fundraising for AI chipmaking and suggested technology advancements will keep costs of AI in check.
+
+Elon Musk’s Starlink satellite internet service is being used by Sudan’s paramilitary Rapid Support Forces during an internet blackout.
+
+HP is seeking $4 billion in losses from Mike Lynch and his CFO after a London judge found they fraudulently boosted Autonomy’s stock.
+
+ContextLogic, the parent of discount online retailer Wish, agreed to sell its assets and liabilities for $173 million to Qoo10, a Singaporean e-commerce company.
+
+More from Bloomberg
+
+Get Bloomberg Tech weeklies in your inbox:

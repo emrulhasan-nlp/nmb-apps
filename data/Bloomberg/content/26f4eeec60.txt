@@ -1,0 +1,95 @@
+Before he became a public transportation consultant, Jarrett Walker pursued a Ph.D. in literature; as he observes on his website, he “is probably the only person with peer-reviewed publications in both the Journal of Transport Geography and Shakespeare Quarterly.” Walker is also likely to be the only contributor to either journal whom Tesla CEO Elon Musk has publicly called an “idiot.”
+
+That viral exchange occurred in 2017, after Walker criticized Musk for dismissing transit passengers as “a bunch of random strangers, one of who might be a serial killer.” The kerfuffle left an impression: A chapter in Walker’s newly revised book Human Transit: How Clear Thinking about Public Transit Can Enrich Our Communities and Our Lives is titled “A Bunch of Random Strangers.”
+
+Thirteen years after Human Transit was first published to widespread acclaim among transit professionals and advocates, the Portland, Oregon-based consultant (who’s also an occasional Bloomberg CityLab contributor) has augmented the book’s focus on urban geometry, route-planning, and passenger decision-making with material covering emergent topics, such as the startups and venture capitalists that have targeted transit agencies over the last decade. Walker is wary of their innovations:
+
+By the time you read this, something new will be promising to disrupt public transit and telling you to throw out books like this one that didn’t anticipate that invention. In response, my advice is to lean into the wind. To stand up on a windy day, your body will lean in the direction that the wind is coming from. It leans just hard enough that it balances out the force of the wind, so that you stand up straight. The wind in this metaphor is the big marketing budgets of the inventors of new technologies…[Y]ou have to sense the pressure of the marketing and apply exactly enough skepticism to counterbalance it, but not more.
+
+CityLab contributor David Zipper spoke with Walker about his book, as well as the evolving challenges that transit systems now face. Their conversation has been edited for concision and clarity.
+
+You studied literature as a graduate student. Has that helped you understand or solve transit problems?
+
+Literature training makes you extremely conscious that words don’t necessarily have meanings in a consistent, simple, and unproblematic way. Words are actually contested. They need to be clarified, and in some cases fought over. I’m constantly calling out and observing what’s going on inside the meanings of words.
+
+For instance, there is the basic question of what public transit is. I give my definition in the beginning of the book: It is a passenger transport service focused on travel within a region, open to all passengers, with the ability to carry multiple passengers who may have different origins, destinations, and purposes. What’s interesting is that you hear all kinds of attempts to call other things public transit, like Uber, microtransit, or cycling to a station. I would say cycling to the station is a good thing, but you don’t have to call it public transit.
+
+Does pooled ridehail, like UberPool, qualify as transit by your definition?
+
+It can, yes. But it’s fairly marginal in the context of public transit, which has to be provided at a much larger scale.
+
+Your first edition of Human Transit came out in 2012. Why did you believe a new edition was necessary?
+
+The core message of the first edition is about understanding how public transit interacts with the geometry of a city. The new upgrade was intended as a response to what’s in the air now. When I was writing the book in 2011, we obviously had not had Covid, which has transformed the nature of transit demand profoundly. This book is stronger by virtue of referring to that history. We’ve had the rise in the United States, in particular, of a racial justice movement, whose vocabulary is dramatically different from what it was in 2011.
+
+Expand Credit: Island Press
+
+And above all, we’ve had this enormous quantity of venture capital poured into public relations campaigns to sell us various kinds of inventions, many of them promising to disrupt, replace, abolish, or transform public transit. The elected officials I work with are now much more confused about the basics. The extent to which those people have been told that there’s something wrong with fixed-route bus service — that there’s something old-fashioned or obsolete about it — has been really harmful to their thinking about public transit. In reality there’s an enormous amount of the work in our cities that only fixed-route buses can do.
+
+Imagine that a transit official is being pitched on a new technology. What questions should she ask?
+
+She should ask: “How does this change the fundamental math of everyday public transit?” That fundamental math is that operating cost is mostly in labor — unless you have a driverless solution. And transit uses mostly big vehicles, because labor is expensive and space is scarce. Big vehicles are an excellent way to efficiently use both labor and space.
+
+Does the new innovation change that math? Or does it not touch that math, in the way that Elon Musk’s “Teslas in tunnels” doesn’t? If so, it’s not a transformative change.
+
+You’re implying that driverless buses could be transformative, at least in theory, because they wouldn’t require an operator. But bus operators also do other things, like providing security and wayfinding guidance for passengers. Even if driverless bus technology ultimately works, is it feasible to remove the operator completely?
+
+I think it’s a long journey to social acceptance. When we talk about big city buses going down the densest corridors, we’re talking about quite a large vehicle that is already somewhat trainlike, with multiple hinges. Many of the passengers are far from the driver and not getting a whole lot of security benefit from him or her. Security really lies in the fact that there are other people around who are going to witness what happens.
+
+People interested in this issue should go study the debate in Vancouver about the SkyTrain, the region’s driverless trains, because all those conversations took place there. People said, “Good Lord, I’m going to be up on an elevated guideway — I can’t even get out of the car if something happens!” But it’s been a great success because of the quantity of service they’re able to deliver.
+
+I want to talk about one of your favorite terms, which is freedom — specifically, the mobility freedom that transit can provide. A few days ago, TransitCenter, a nonprofit organization, published a handbook about public transportation communications tactics. The handbook recommended that transit advocates “use the value of freedom when making the case for free fares.” Is that conception of freedom consistent with your own?
+
+Not at all. The United States stands out among wealthy countries in the world for how little it spends on public transit, and for how little public transit there is. Even Canada, which is a very similar country in many ways, has substantially more public transit service per capita and almost three times as much ridership.
+
+The free-fare conversation in the United States is happening in the context of deeply impoverished transit agencies, which cannot afford to run the levels of service that we know will be rewarded with greater ridership. So if you’re going to argue that the transit agency should have less money, that is going to mean there will be less service. Less service means less free.
+
+I should note that there are transit agencies like Albuquerque and Kansas City, which eliminated fares because the revenue collected was so low that removing it wasn’t much of a loss. That’s a good reason to eliminate fares, but it doesn’t apply to big cities where fares are a large part of the revenue that the transit agency needs to provide service.
+
+Why are you so critical of US cities that place government service offices on the urban fringe?
+
+The Social Security office, the immigration office, the social services office — these are must-serve locations for transit, because there are people with extreme needs who must travel to them. Those institutions, however, tend to locate where land is cheap, which is often in places that are inaccessible and peripheral. Many small city transit networks across the country have a bus route that is wildly circuitous and inefficient, with infrequent service. And if you look closely, it’s because the Social Security office is way out there in an industrial park or a cul de sac next to the freeway, instead of being downtown where everyone could get to it easily on transit.
+
+This problem is getting worse. There needs to be a serious revolution in how we hold institutions, employers and governments responsible for the location choices they make.
+
+To continue with the theme of land use, you argue in the book that buses as well as streetcars can catalyze neighborhood development. But bus lines can move, while streetcar tracks seemingly cannot. Does that constrain the ability of bus lines to spur real estate growth?
+
+This is the fallacy of permanent rail. We used to have rail all over the place in our cities, and we ripped them up during the 20th century. The permanence of transit does not rely in the infrastructure; it relies in the service. High-ridership bus lines do not get cut or changed if they are succeeding.
+
+I think of a new streetcar line as a signal sent to an elite real estate market that doesn’t understand transit very well. Many of the recent streetcar lines are going to be interesting to watch over the next few decades, because they’ve had their development effect. The developers have made their money; the neighborhood has been built. And now the operating costs of these things are sitting in city budgets, competing with other priorities. Some of these lines are not all that useful because they weren’t really designed to be useful. They were designed to put rails in the street.
+
+I live in the District of Columbia, so I understand what you’re talking about.
+
+Well, H Street NE is one of the most obvious examples. There is so much demand all over DC for intense development, and it is just not clear that the streetcar made much difference in that particular place.
+
+You talk a lot about the need to minimize travel time, including getting to a station, waiting for the transit vehicle, riding in the vehicle, and transferring. But is all time equal? Researchers have shown that perceptions of wait time can be affected by weather and station amenities, among other factors. Are there instances where cash-strapped transit agencies would be better off investing in reducing the perceptions of travel time rather than actual travel time?
+
+Everyone knows that the perception of time passing varies based on the situation. But I differ with some of the discourse I hear from those who talk about that perception of time as though it’s actually more important than what is measured by the clock. The time measured by the clock matters if we’re going to show up for each other in ways that allow us to have careers or families or any kind of lives.
+
+Fair enough. But I’m still intrigued by a back-of-the-envelope calculation by NYU researcher Alon Levy, who concluded that transit agencies might be able to gain more regular riders by investing X dollars in bus shelters than by expanding service, because bus shelters are relatively cheap and extremely valuable to riders.
+
+I wouldn’t be surprised if that’s true. It matters enormously whether you are going to stand in the rain, snow or the beating sun for five minutes. I think of shelter as a basic decency that we ought to be providing.
+
+I’ll point to an even more obvious way to cheaply grow ridership: crosswalks. For example, in Atlanta the most productive MARTA bus route is Buford Highway, a suburban high-speed road that’s lined with various kinds of commercial buildings with a lot of low-income apartments. There are very few safe places to cross the road. The ridership data shows us that people do it anyway — at least, the young and agile people do it. Older people probably don’t do it. Adding crosswalks would make an enormous difference to a route that is already meeting an intense demand.
+
+Let’s talk about Covid. There are lots of troubling stories about the decline in transit ridership since the pandemic, but you note that a silver lining lies in the decline of rush hour peak travel. Why is that good news for transit agencies?
+
+Putting out a bus or a train to run just at rush hour is extremely expensive, for three reasons. First, you have to pay a driver to come to work to just work for a couple of hours. Of course, you’re going to have to pay them for more than that to make it worth their time. Second, you have a service that’s probably going to be full in only one direction. But drivers’ shifts have to end where they began, so we have to pay the driver to go back to where they started. Third, transit agencies must own, store and maintain a fleet based on the peak requirement. All those things are very, very expensive. So the opportunity to redeploy services in more of an all-day pattern is making transit systems more efficient than they were.
+
+The flattened peak seems to reduce the need for capital investments like new buses. Should the federal government shift more financial support toward transit operations, something it has seldom done in the past?
+
+Historically, the federal government’s attitude has been, “We’re here to help you with the gigantic things that you can’t possibly afford yourself. But you have to show that you can financially afford to operate.” I think that model is ceasing to work, in part because the need for operations funding is running up against state laws that simply wall off the transit agency from any other funding sources, like sales taxes. That creates a serious funding crisis, especially in red states.
+
+So you think that the federal government should support operations, not just capital funding?
+
+I believe it would be better for funding to be more flexible.
+
+If a transit board wants to reduce emissions from transportation, is it better off investing in electric buses or expanding service?
+
+They’re better off prioritizing expanded service. I have been concerned that the absolute mandates for zero emission vehicles prevent us from doing an intelligent analysis to find the best overall solution for emissions. That solution may not be to run less service so that you can have zero emission buses [which can have lower ranges], if running less service forces more people to drive, especially low-income people who tend to have older and more polluting cars.
+
+Many transit agencies right now face a major funding gap, one that could lead to a death spiral with reduced service leading to a fall in ridership, which creates a new budget deficit, triggering further service reductions, and so on. Transit leaders are pleading for new funding to stave off such a crisis. Do you have advice for how they could rally support?
+
+If you want a stable society, people at all points on the income ladder need to be able to see the next rung of the ladder, which offers opportunities to give them better lives. People also deserve freedom, and freedom lies in the presence of choices. For people who do not drive, who cannot afford a car, or don’t want to drive, the presence of alternatives determines how free people are.
+
+Finally, the whole point of a city is providing access to opportunity, ensuring that there are lots of things that people can choose to do. That’s why people live in cities. So when we evaluate people’s ability to get to places so that they can do things, we’re talking about the functionality of the city in its most basic sense. That functionality cannot depend entirely on cars because cities don’t have room for everyone to drive one. There simply isn’t room. That’s why transit is existential for major urban areas. It’s why allowing WMATA to collapse would inevitably trigger not just a serious social collapse, but also potentially an economic collapse. Although very fortunate people may be able to work at home or drive where they need to go, we ultimately need our urban areas to be functional for everyone. And everyone suffers if they’re not.
