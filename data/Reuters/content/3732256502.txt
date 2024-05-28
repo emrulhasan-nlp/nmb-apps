@@ -1,0 +1,249 @@
+A well-focused board agenda is fundamental to a board’s ability to function effectively in a dynamic and uncertain business environment, particularly given ever-increasing expectations from shareholders, regulators, and other constituents. Ensuring that the board attends to priority matters in an appropriate time frame but without overstepping into management’s role requires periodic assessment of agenda priorities and the related structures, processes, and controls that are in place to ensure that the board is well informed, on a timely basis, of matters requiring attention. This article:
+
+Summarizes key trends defining the current dynamic environment.
+
+Identifies priorities for board attention (while recognizing that each company has unique needs).
+
+Highlights important takeaways for further consideration.
+
+Key Trends Defining the Current Environment
+
+In a recent survey on global risks by the World Economic Forum (WEF), experts presented “a predominantly negative outlook for the world over the next two years that is expected to worsen over the next decade.” The structural forces that WEF expects to shape global risks over the next decade include material evolution in the concentration and sources of geopolitical power, changes in the size, growth, and structure of populations around the world, technological acceleration, and climate change and related consequences. Risks that were identified as the most likely to present a material crisis on a global scale in 2024 include political or societal polarization (or both), a cost-of-living crisis, AI-generated misinformation and disinformation, cyberattacks, and extreme weather. (WEF: The Global Risks Report 2024, at 6-7 (Jan. 2024); see also The Disruptive Potential of AI and Other Emerging Technologies below and Box, SEC Climate Change Regulation.)
+
+While optimism remains regarding the ability to avoid recession, global conflicts and climate change threaten to disrupt supply chains by increasing shipping time and costs. For example, in Panama, drought conditions have lowered water levels, forcing Panamanian authorities to limit the number of ships that can pass through the Panama Canal. Additionally, Houthi rebels have attacked ships in the Suez Canal. In this environment, companies are working to contain costs while pursuing investment capital and growth opportunities that are likely to be more expensive.
+
+At the same time, business continues to be broadly perceived as more competent and ethical than government or the media, according to the 2024 Edelman Trust Barometer, and most trusted to integrate innovation into society. However, in business, as in life, the only constant is change. Nearly half (45%) of global CEOs question their company’s economic viability in ten years if it remains on its current course, up from 39% in 2023 (PWC: 27th Annual Global CEO Survey: Thriving in an Age of Continuous Reinvention, at 4 (2024)). As the pace and complexity of change continues to accelerate, boards need to ensure that directors understand the changing environment and its implications for corporate strategy, risk, performance, competitiveness, and reputation. By doing so, they can help the corporation maintain its resilience and business sustainability.
+
+The board agenda needs to focus on industry changes and business circumstances that are unique to a company’s business within the context of a broad mix of economic, geopolitical, technological, regulatory, stakeholder, and other concerns.
+
+Economic Uncertainty and Growth Challenges
+
+The Congressional Budget Office (CBO) recently projected that economic growth will slow in 2024, the rate of inflation will lessen, and the Federal Reserve may respond by lowering the federal funds rate, which reached its highest level since 2001 (CBO: The Budget and Economic Outlook: 2024 to 2034 (Feb. 2024)). However, recent declines in unemployment may bring increased pressures for wage growth, and the impact on inflation, interest rates, and economic growth remains uncertain. Additionally, consumer spending is under pressure as pandemic savings become depleted and the burden of continued inflation, increased debt loads, higher interest rates, housing prices, and other expenses is felt.
+
+Geopolitical Risk, Protectionism, and Domestic Polarization
+
+Conflicts in the Middle East and Europe, continued tensions with China, and numerous elections around the globe add to the uncertainty and potential for business and supply chain disruption. Geopolitical power is becoming more dispersed, alliances are shifting, and nations are becoming more protectionist and emphasizing reduced dependency on foreign trade in key industries. (For more information, see A Geopolitical Outlook for Investors in 2024 in the March 2024 issue of Practical Law The Journal.)
+
+In the US, presidential election years are traditionally accompanied by uncertainty about the policies that will impact business over the next presidential term, and that uncertainty may be reflected in heightened volatility in financial markets. The degree of uncertainty about the policy direction is exacerbated in 2024 by concerns about the state of the US democracy in a highly polarized society in which economic, social, and cultural divides may be reinforced by increasingly isolated “news bubbles” and misinformation campaigns. The political divide both highlights and may further fuel tensions related to income, race, and gender inequality as well as climate change.
+
+The political divide is playing out in “culture wars” that put increased pressures on companies to take (or avoid taking) positions on sensitive issues, support political candidates, or both (for more on corporate speech, see Board Oversight of Corporate Political Activity and CEO Activism on Practical Law). Overall, it appears that political polarization regarding environmental and social issues, as well as concerns about the implications of the US Supreme Court’s decision on diversity in college admissions, is leading companies to be less vocal regarding their commitments to environmental and social causes. However, from a business perspective, companies continue to have a legitimate interest in material environmental and social matters that are likely to have an impact on financial performance over the long term.
+
+The Disruptive Potential of AI and Other Emerging Technologies
+
+AI has the capacity to disrupt entire industries, with implications for corporate strategy and risk, stakeholder relationships, and compliance that require the attention of the board. With any potentially disruptive emerging technology, boards need to understand how it impacts the company’s business, industry, obligations, opportunities, risks, policies, and internal controls. When considering these issues, boards should apply the same fiduciary mindset and diligent oversight they apply to other matters of strategy, risk, compliance, and controls. (For more information, see AI and the Role of the Board of Directors in the August 2023 issue of Practical Law The Journal.)
+
+Increased Regulatory and Enforcement Activity
+
+Companies are operating in an environment of increased regulation and enforcement in the areas of climate change, cybersecurity, privacy, and anti-fraud and anti-money laundering obligations. On March 6, 2024, the US Securities and Exchange Commission (SEC) adopted final rules that impose substantial new mandatory climate change-related disclosure requirements on public companies (see Box, SEC Climate Change Regulation). In 2023, the SEC finalized cybersecurity disclosure rules requiring, among other things, disclosure of cybersecurity incidents within four business days of a materiality determination and disclosure regarding risk management and governance related to cybersecurity threats on an annual basis.
+
+Additionally, private companies face new disclosure requirements related to the implementation of the Corporate Transparency Act (CTA), which requires certain companies to disclose information regarding their beneficial owners and individuals who file corporate paperwork on the companies’ behalf with the US Department of the Treasury’s Financial Crimes Enforcement Network (for more information, see Compliance with the Corporate Transparency Act in the February 2024 issue of Practical Law The Journal).
+
+Boards need to stay up to date on these new requirements, including legal challenges to the adoption of the new climate change rules that have been consolidated in the Eighth Circuit. In April 2024, the SEC voluntarily stayed the final climate disclosure rules pending completion of judicial review. Additionally, the National Small Business Association and some of its individual members have challenged the constitutionality of the CTA. In March 2024, the US District Court for the Northern District of Alabama found the CTA to be unconstitutional and permanently enjoined the government from enforcing it with respect to the plaintiffs in the case. The court did not issue a nationwide injunction preventing the CTA from being enforced against others. The US Department of Justice (DOJ) has filed a notice of appeal to the Eleventh Circuit. (For more information, see Key Developments in ESG and Climate Disclosure Tracker and Corporate Transparency Act (CTA) Toolkit on Practical Law.)
+
+Federal regulators continue to increase their focus on both disclosure of material risks and enforcement and corporate compliance, including the mitigating impact of voluntary self-reporting to regulators of misconduct and the importance of risk-based compliance programs that are appropriately resourced and regularly evaluated for effectiveness. In March 2024, Deputy Attorney General Lisa Monaco announced an initiative to amend the DOJ Criminal Division’s guidance on Evaluation of Corporate Compliance Programs to include assessment of the risks associated with disruptive technology, including AI.
+
+SEC Climate Change Regulation The SEC recently adopted final rules that impose substantial new mandatory disclosure requirements on public companies in their registration statements and periodic reports, including disclosure of the board’s oversight of climate-related risks and management’s role in assessing and managing those risks. This governance-related disclosure includes: The identity of any board committee or subcommittee responsible for the oversight of climate-related risks.
+
+The processes by which the board or a board committee or subcommittee becomes informed about climate-related risks.
+
+Whether and how the board oversees progress against any disclosed climate-related target, goal, or transition plan.
+
+Whether and which management positions or committees are responsible for assessing and managing climate-related risks and the relevant expertise of such persons (relevant expertise may include prior work experience in climate-related matters, any relevant degrees or certifications, and any knowledge, skills, or other background in climate-related matters).
+
+The processes by which management positions or committees assess and manage climate-related risks and report information about such risks to the board or a board committee or subcommittee.
+
+
+
+In addition to these governance-related matters, the new rules require disclosure about: Processes for identifying, assessing, and managing material climate-related risks.
+
+Climate-related risks that have, or are reasonably likely to have, a material impact on the company, including on its strategy, operating results, or financial condition.
+
+Actual and potential material impacts of climate-related risks on the company’s strategy, business model, and outlook, including use of transition plans, scenario analysis, and internal carbon pricing, if material.
+
+Any climate-related target or goal that has materially affected or is reasonably likely to materially affect the company’s business, operating results, or financial condition, including material expenses and impacts on: financial estimates and assumptions directly related to the target or goal or efforts to progress toward meeting it; and use of carbon offsets or renewable energy credits (RECs), if they are a material component of the company’s plans to achieve its climate-related targets or goals.
+
+Direct (Scope 1) and indirect (Scope 2) greenhouse gas emissions data for large accelerated and accelerated filers, if material to the company.
+
+Various financial statement effects resulting from severe weather events and other natural conditions and use of carbon offsets or RECs, if applicable.
+
+
+
+Based on a company’s filer status, companies will need to obtain third-party attestation of certain climate information.
+
+
+
+The rules are the subject of multiple legal challenges, which have been consolidated in the Eighth Circuit. In April 2024, the SEC announced that the new rules will be stayed pending judicial review. (For more information, see Key Developments in ESG and Climate Disclosure Tracker on Practical Law.)
+
+Continuing Shareholder Scrutiny and Activism
+
+2024 is on track to be a record year in shareholder activism campaigns. New campaigns in 2023 increased by 13% over 2022, representing the second-highest total in the past five years. Through the first 12 weeks of 2024, 111 campaigns were launched, well above the five-year average of 98 for the same period. (FTI Consulting: Activism Vulnerability Report, at 3 (Apr. 2024).)
+
+With the advent of universal proxies, it has become easier for activists to target individual directors. Boards can expect well-capitalized activists to exploit the enhanced vulnerability of target companies. Boards should ensure that the company is well prepared to respond to shareholder activists, including through a review of activism preparedness with financial and legal advisors. This includes ensuring that an appropriate team and communications protocols are in place, state-of-the-art bylaw protections are in place, and up-to-date poison pills are on the shelf. If the company is approached by an activist, the board and management should be prepared to consider the issues they raise and not automatically default to a defensive mode.
+
+Quote Boards should ensure that the company is well prepared to respond to shareholder activists, including through a review of activism preparedness with financial and legal advisors.
+
+Average shareholder support for shareholder proposals declined from 31% in 2022 to 23% in 2023, and it may continue to decline in 2024 (The Conference Board: 2024 Proxy Season Preview: Looking for a Silver Lining (2024)). Governance-focused proposals received the highest levels of average shareholder support in 2023 but declined from 37% in 2022 to 30% in 2023. Support for environmental proposals declined the most, from 35% in 2022 to 21% in 2023. This is likely due to companies providing more and better quality environmental, social, and governance (ESG) disclosure. Based on their review of the 2022 and 2023 proxy seasons, The Conference Board predicts further declines in average support for environmental and social proposals and noted additional potential trends for the upcoming proxy season, including:
+
+An increasing number of shareholder proposals from conservative groups.
+
+New topics for shareholder proposals, including on clean energy financing ratios, biodiversity, AI, and resignation requirements for director nominees who fail to receive majority support in multiple years.
+
+Increased targeting of the chairs of nominating and governance committees as a result of company positions on board diversity, director overboarding, restrictive bylaw amendments, and combined CEO and chair roles and officer exculpation.
+
+Priority Issues for Board Focus
+
+Board responsibilities are both durable and context dependent. A board’s primary responsibilities are to oversee management’s performance, strategic direction, and risk management (while attending to areas not delegated to management, such as governance matters, CEO compensation and succession, retention and oversight of the independent auditor, approval of major transactions, determination of dividend payments, and bylaw amendments). (For more on the board’s oversight role, see Three Key Roles of the Board of Directors in the November 2023 issue of Practical Law The Journal.) The centerpiece of most board activity is attending to the company’s long-term business strategy, the risks related to that strategy, and management’s performance in carrying out the strategy and managing associated risks.
+
+In the dynamic, fast-paced environment described above, boards need to:
+
+Be attentive and agile.
+
+Avoid becoming unduly anxious and overstepping into the zone of management.
+
+Understand the forces driving change.
+
+Maintain their focus on the fundamental drivers of the business, the long-term strategy, the most critical risks facing the company, and management performance.
+
+Matters related to strategy, risk, and management performance should account for a significant portion of the board agenda, although the specific priorities will vary for each company.
+
+Extend the Focus on Strategy and Risk to Polarized Issues
+
+Board attention to economic, geopolitical, technological, and other developments (see Key Trends Defining the Current Environment above) can help management focus on how these trends may impact both near-term and longer-term opportunities for growth, associated risks, and compliance with emerging regulations and shifts in enforcement priorities. Clearly, boards have much to attend to, but they should not be distracted from providing guidance and oversight on critical issues of corporate strategy and risk, and management performance. These are the issues that should dominate the agenda for most boards.
+
+In an environment of rising expectations about the role of corporations in society, and given the high level of polarization with respect to environmental and social issues, boards need to continue to assess the link between these issues and the strategies for, and risks posed in achieving, the company’s purpose, based on business judgment. While each company’s purpose is unique in strategic focus and implementation, fundamentally, the corporate purpose involves providing goods or services (or both) that customers need or want in a competitive manner that provides financial returns to shareholders while satisfying interests of a range of stakeholders on whom success depends.
+
+Directors are required to act in the best interests of the corporation and its shareholders and have considerable discretion (outside of a sale of control) to consider non-shareholder interests if there is a rational business purpose that is intended to benefit the corporation and its shareholders over the long term. Articulating the link between the company’s approach to environmental and social issues, long-term strategy, risk mitigation, and financial performance will help ensure consistency with the company’s best interests and enhancement of long-term value.
+
+Maintain Strong Board-Management Relations and Board Culture
+
+While the board oversees corporate strategy, monitors management performance, and provides direction, it should also act as a sounding board where management can test and hone ideas, taking advantage of directors’ experience and expertise. Strong board-management relationships require a constructive and respectful give-and-take, a recognition of the distinction between board and management roles, and transparency grounded in the expectation that management will deliver bad news promptly. The board needs to maintain a strong working relationship with the CEO and other members of the management team and, at the same time, be able to provide constructive guidance and criticism.
+
+Similarly, the board needs to develop its own culture of trust, respect, and openness. The ability to bring objective judgment to bear and to express and consider diverse viewpoints while driving toward consensus are necessary qualities. Boards need to consider in connection with their annual evaluation and re-nomination processes whether new skills and perspectives are needed (or would be beneficial) and attend to refreshment mechanisms. Board composition and refreshment are under increased scrutiny by shareholders (including activists), who are paying closer attention to the degree of alignment between director qualifications and company needs as well as diversity and director time commitments, and are scrutinizing company disclosure on these issues. (For more on board culture, see Future-Proofing the Board of Directors in the May 2023 issue of Practical Law The Journal and Establishing Norms for Director Behavior in the Fall 2022 issue of Practical Law The Journal.)
+
+Quote The board needs to maintain a strong working relationship with the CEO and other members of the management team and, at the same time, be able to provide constructive guidance and criticism.
+
+Proxy advisors and institutional investors are mindful of the increased demands on directors’ time and are evaluating directors in part on the number of boards on which they serve. They will often recommend or vote against directors they consider overboarded. Some have adopted proxy voting guidelines that consider whether a board has adopted express director service commitments or limitations. For example, since January 2024, Glass Lewis tracks whether Russell 1000 companies have a director commitments policy with a numerical limit, includes this information as a data point in its report, and will consider the board’s disclosure of this policy in its analysis of overcommitted directors.
+
+Shareholder activists will also assess director commitments as well as the alignment of board composition (in terms of expertise matched to the company’s business, strategic direction, and risks) and will highlight issues in their campaigns for board seats.
+
+Focus on Talent Management and Workforce Issues
+
+In an increasingly knowledge-based and data-driven economy, human capital management issues are critical to the ability of the company to perform and to its culture. Key areas for board oversight include:
+
+Talent management, including employee recruitment, promotion, retention, and development.
+
+Employee health and safety.
+
+Employee compensation and benefits policies.
+
+Workforce management issues, including layoffs.
+
+Corporate culture and compliance, including equity and inclusion at all levels of the organization and efforts to combat discrimination, harassment, and bullying.
+
+The treatment of whistleblowers.
+
+Management development and succession continue to be key board priorities, and boards should review emergency succession plans to ensure they are up to date for the CEO and other key officer roles. (For more information, see CEO Succession Planning: Principles and Considerations and Planning for Leadership Succession and Unexpected CEO Transitions on Practical Law.)
+
+Prepare for a Crisis
+
+At some point, every board faces a crisis that requires it to become more actively engaged in overseeing management’s response. The board may even develop and undertake the response itself if the crisis involves issues of management integrity, credibility, or capacity. Together, the board and management should take steps to plan for a crisis to position the company to react quickly and with assurance. External or internal events can give rise to a crisis, and the board should identify with management potential sources of crisis and plan how to address them. Attention to both board and company culture is one aspect of crisis preparedness that can help reduce the inevitable tensions that arise when a company is under significant pressures.
+
+In most circumstances, management is well positioned to address a crisis on a day-to-day basis, but the board should expect to meet more frequently and be kept up to date during the crisis. Directors should understand what is known, what information is still needed, what management is doing to investigate the matter further, and who is on the crisis team (both within management and with respect to key advisors). Management typically handles communications and keeps the board informed of the communication plan and high-level messaging. The board (and management) should avoid making statements that assume a positive outcome when there is not yet full visibility into the circumstances.
+
+Quote Attention to both board and company culture is one aspect of crisis preparedness that can help reduce the inevitable tensions that arise when a company is under significant pressures.
+
+In matters that involve management conflicts of interest or integrity, the board will need to take a more active role, usually through an existing committee or by creating a special committee composed of independent and disinterested (unconflicted) directors. The board should expect to hire counsel and potentially other advisors and to direct counsel in the investigation of the facts. It bears emphasizing that the board should avoid making statements in the early stages about confidence in management or an assumed positive outcome when the full set of facts is not yet known.
+
+In both types of situations described above, the board should focus on:
+
+Ensuring that the attorney-client privilege is not waived (to the extent appropriate).
+
+Seeking guidance from counsel about notifying regulators and auditors, who may expect to be informed early of the issue and what the company is doing to investigate.
+
+Considering when and how to engage with employees, customers, suppliers, regulators, and shareholders.
+
+Ensuring that the corporation speaks with one voice.
+
+Once the crisis has been addressed, considering lessons learned and whether compliance or internal control systems (or both) need strengthening.
+
+Attend to Shareholder Engagement
+
+A corporation that ignores the impact of corporate actions on constituents or the viewpoints of shareholders and other key stakeholders will not succeed over the long term.
+
+Quote One benefit of developing a relationship with key shareholders built on trust, transparency, and understanding is that they may be more willing to support the board and management in the face of shareholder activism.
+
+Engagement provides an opportunity to gain insights into shareholder and stakeholder viewpoints, which can be valuable in formulating approaches to strategy and understanding risk and potential impact. While directors should consider (but not defer to) shareholder viewpoints, they must always make informed business judgments that they believe are in the best interests of the corporation as they help management focus on corporate resiliency and sustainable performance for the long term. One benefit of developing a relationship with key shareholders built on trust, transparency, and understanding is that they may be more willing to support the board and management in the face of shareholder activism and other pressures.
+
+Important Takeaways
+
+Each board must define its own priorities based on the unique circumstances facing the company. Demands for board time and attention continue to expand, and boards must ensure that they are focused on the most important matters consistent with their fiduciary obligations. While the fiduciary duties of directors remain durable, expectations of shareholders, regulators, employees, other important constituents, and society at large continue to expand. Boards are expected to provide clear oversight of corporate strategy, significant risks facing the company, and management performance. To do so effectively in this dynamic environment, they need to understand the context in which the company is operating, including the key trends outlined above. They need to understand shareholder interests as well as the interests of customers, employees, suppliers, regulators, and other key stakeholders.
+
+In this environment, it is particularly important for boards (including through relevant board committees) to consider:
+
+Strategy, risk, and polarized issues.
+
+Board culture and board-management relations.
+
+Talent management and workforce issues.
+
+Crisis management.
+
+Shareholder engagement.
+
+Strategy, Risk, and Polarized Issues
+
+Stay up to date on macroeconomic, technological, and regulatory trends likely to impact the company’s business.
+
+Ensure that risk management systems, compliance policies, and internal controls are well matched to changing risks and regulatory developments.
+
+Understand the risks associated with strategic decisions and operations, and the processes management has in place to identify, monitor, and manage risks, especially risks deemed “mission critical.”
+
+Ensure that a considerable proportion of board time is focused on strategic issues, including not only specific strategic plans and transactions but also the broader long-term direction.
+
+Consider with management what opportunities are likely to emerge in the current environment (including with respect to AI), how the company’s corporate purpose and environmental and social issues relate to corporate strategy, and what risks these issues pose.
+
+Consider whether the board is well positioned for oversight of AI strategy and risk in terms of board attention, information, and education, regulatory compliance, committee responsibilities, and composition.
+
+Monitor corporate speech in the social and political sphere, including political contributions.
+
+Board Culture and Board-Management Relations
+
+Prepare directors to engage on a more agile basis while resisting micromanaging.
+
+Ensure that board culture, dynamics, and relations with management are appropriately collegial and respectful in support of trust and decision effectiveness.
+
+Consider whether the board’s approach to board refreshment is aligned with the pace of change affecting the business.
+
+Talent Management and Workforce Issues
+
+Understand how the current market for talent is affecting the company, including the impact of return-to-work policies, and how management is addressing these topics, including plans regarding management development, worker training, wages, and benefits.
+
+With management, set a tone at the top through communications and policies designed to protect employee well-being and support DEI.
+
+Discuss with management their efforts to:
+
+improve DEI in the workforce, including at the senior-most levels, and extending to pay and opportunity equity (such as access to training and promotions); and protect against discriminatory practices in the hiring, pay, and promotion of employees.
+
+
+
+Crisis Management
+
+Consider whether business continuity plans are in place and appropriate to the potential risks of disruption identified, including through a discussion with management of relevant contingencies, and continually reassess the adequacy of the plans in light of developments.
+
+Consider whether an up-to-date crisis management plan is in place to help the company react appropriately, without either under- or overreacting.
+
+Ensure the board can act effectively when a crisis occurs by embracing governance structures and practices that support a board culture in which consensus can be readily achieved after full and informed discussion, independent viewpoints are respected and valued, and confidentiality is protected.
+
+Shareholder Engagement
+
+Continue to actively oversee and participate as appropriate in engagement with key shareholders, with an emphasis on learning about shareholder viewpoints (for example, “listening mode”) and developing enduring relationships. Seek their views about the corporate purpose, which is often intertwined with ESG issues, including climate change, DEI, and the corporate culture.
+
+Stay informed of proxy advisor perspectives (without assuming that they necessarily reflect shareholders’ views).
+
+Consider with management how various types of shareholder activists are likely to view the company and its strategies and governance practices, with a focus on identifying vulnerabilities.
+
+Confirm that management is monitoring for changes in stock ownership.
+
+Update or activate defense preparation plans with management, including by identifying special proxy contest counsel, reviewing structural defenses, putting a poison pill “on the shelf,” and developing a “break the glass” communications plan.
+
+The views stated above are solely attributable to Ms. Gregory and do not necessarily reflect the views of Sidley Austin LLP or its clients.
