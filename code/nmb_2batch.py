@@ -27,12 +27,12 @@ for datafolder in folder_dir:
 
     contents=os.listdir(data_directory+f"{datafolder}"+ '/content')
     images=os.listdir(data_directory+ f"{datafolder}"+'/images')
-    # random.shuffle(contents)
-    # random.shuffle(images)
 
     bataches=[]
     for i, (img, cont) in enumerate(zip(images,contents)):
         bataches.append((img, cont))
+        if i==40:
+            break
 
     random.shuffle(bataches)
     batch8=bataches[:8]
