@@ -14,15 +14,11 @@
 
 # Instructions to run the app for randomised data 
 
-This new app picks first 40 articles (images and contents) from each source, and randomly shuffle them. Next, first 8 articles are picked from the 40. So from 5 sources, it picks (8*5)=40 articles. Apps will ask for a random integer number. Every time you enter a new integer number, it will give a new set of articles. To avoid overlapping of the number among us, we can use the following sets. 
-
-1. Shaina: 21
-2. Veronica: 22
-3. Ananya: 23
-4. Mark: 24
-5. Emrul: 25
-
 - Step 1: pull the repo again: https://github.com/emrulhasan-nlp/nmb-apps
 - Step 2: cd nmb-apps
 - Step 3: python -m streamlit run code/nmb_2batch.py 
 - Step 4: Enter a random number assigned to you.
+
+This new app picks first 40 articles (images and contents) from each source, and randomly shuffle them. Next, first 8 articles are picked from the 40. So from 5 sources, it picks (8*5)=40 articles. Apps will ask for a random integer number. Every time you enter a new integer number, it will give a new set of articles. To avoid overlapping of the number among us, we can use the following sets: Shaina: 21, Veronica: 22, Ananya: 23, Mark: 24, and Emrul: 25
+
+
