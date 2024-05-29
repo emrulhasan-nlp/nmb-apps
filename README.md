@@ -2,10 +2,10 @@
 
 Instructions to run the app.
 
-#Step 0: Clone the repo: https://github.com/emrulhasan-nlp/nmb-apps
-#Step 1: pip install -r requirements.txt
-#step 2: cd nmb-apps
-#step 3: python -m streamlit run code/nmb_apps.py 
+Step 0: Clone the repo: https://github.com/emrulhasan-nlp/nmb-apps
+Step 1: pip install -r requirements.txt
+step 2: cd nmb-apps
+step 3: python -m streamlit run code/nmb_apps.py 
     Note: It is take you to your local browser. Come back to your terminal.
 #step 4: Enter your name and hit enter, and go back to browser and enjoy reading. 
 
@@ -21,7 +21,7 @@ This new app picks first 40 articles (images and contents) from each source, and
 4. Mark: 24
 5. Emrul: 25
 
-#Step 1: pull the repo again: https://github.com/emrulhasan-nlp/nmb-apps
-#Step 2: cd nmb-apps
-#Step 3: python -m streamlit run code/nmb_2batch.py 
-#Step 4: Enter a random number assigned to you.
+Step 1: pull the repo again: https://github.com/emrulhasan-nlp/nmb-apps
+Step 2: cd nmb-apps
+Step 3: python -m streamlit run code/nmb_2batch.py 
+Step 4: Enter a random number assigned to you.
