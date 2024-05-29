@@ -12,7 +12,7 @@
 **Special notes: if you close the broswer, start from step 3 and read from the file number you left off. You can do ctrl+f, and enter the last file number.**
 
 
-# Instructions to run the app for randomised data 
+# Instructions to run the app for randomized data 
 
 - Step 1: pull the repo again: https://github.com/emrulhasan-nlp/nmb-apps
 - Step 2: cd nmb-apps
