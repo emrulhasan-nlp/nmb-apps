@@ -8,7 +8,7 @@ import os,inspect
 current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
 parent_dir = os.path.dirname(current_dir)
 
-#st.title('Artile Reader containing image and text')
+st.title('Artile Reader containing image and text')
 try:
     num=input("Enter a random number: ")
     num=int(num)
