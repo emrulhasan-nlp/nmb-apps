@@ -40,8 +40,6 @@ for datafolder in folder_dir:
     for p, q in batch8:
         image_path=data_directory+f'{datafolder}/images/{p}'
         content_path=data_directory+f'{datafolder}/content/{q}'
-        print(image_path)
-        print(content_path)
 
         image=Image.open(image_path)
         st.image(image, caption=p)
