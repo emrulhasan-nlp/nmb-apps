@@ -40,12 +40,14 @@ for datafolder in folder_dir:
     for p, q in batch8:
         image_path=data_directory+f'{datafolder}/images/{p}'
         content_path=data_directory+f'{datafolder}/content/{q}'
+        print(image_path)
+        print(content_path)
 
         image=Image.open(image_path)
-        st.image(image, caption=img)
+        st.image(image, caption=p)
 
         clean_text=read_and_print_cleaned_file(content_path)
-        st.text_area(label=cont, value=clean_text, height=400)
+        st.text_area(label=q, value=clean_text, height=400)
 st.title("Congratulations! You have read 40 articles from 5 different sources, 8 from each")
 
 
